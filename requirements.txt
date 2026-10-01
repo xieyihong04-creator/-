@@ -1,0 +1,8 @@
+av==14.0.1            # PyAV: frame decoding (no ffmpeg needed); 19.x breaks faster-whisper
+faster-whisper==1.2.1
+ctranslate2==4.8.2
+onnxruntime==1.30.0
+numpy==2.5.3
+pillow==12.3.0
+opencc-python-reimplemented==0.1.7
+huggingface_hub>=0.23

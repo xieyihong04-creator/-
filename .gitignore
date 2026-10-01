@@ -1,0 +1,14 @@
+# downloaded inputs and models — recreated by scripts/
+media/
+models/
+crops_*/
+logs/
+__pycache__/
+*.pyc
+
+# intermediate OCR artefacts; the committed files under out/ are the final ones
+out/*.cache.json
+out/*.p1.json
+out/*.zh.json
+out/*.zh.clean.json
+out/DOWNLOAD_DONE

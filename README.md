@@ -1,1 +1,78 @@
 # 高二上選修生物一「奇妙的人體機器」影片學習
+
+National Geographic《The Human Machine》兩集影片的**中英對照、分段整理文字稿**，
+以及把它做出來的完整管線。
+
+| 集數 | 片長 | 中文字幕 | 英文逐字稿 | 段落 |
+|---|---|---|---|---|
+| 上 | 47 分鐘 | 643 句 | 493 段 | 27 段 |
+| 下 | 46 分鐘 | 581 句 | 579 段 | 20 段 |
+
+- **中文**：直接取自影片燒錄字幕，PP-OCRv5 辨識（mobile 初讀 + server 逐行校訂）
+- **英文**：原聲旁白逐字稿，Whisper distil-large-v3（CPU int8）
+- **對齊**：依時間軸掛靠，英文以句子為單位分散到對應中文行；兩集英文各 5145 / 5688 詞全數收錄
+- **分段**：依場景斷點切段，再依詞頻自動標主題（視覺／聽覺／神經／骨骼／循環／消化…）
+
+## 直接閱讀（不需安裝）
+
+| 檔案 | 用途 |
+|---|---|
+| [上 · HTML](dist/奇妙的人體機器_上.html)｜[下 · HTML](dist/奇妙的人體機器_下.html) | 單檔頁面：全文搜尋、目錄跳轉、一鍵繁簡切換。下載後用瀏覽器開啟即可 |
+| [上 · Markdown](dist/奇妙的人體機器_上.md)｜[下 · Markdown](dist/奇妙的人體機器_下.md) | 可貼進 Notion / Obsidian 等筆記軟體 |
+| `dist/*.zh.srt`｜`dist/*.en.srt` | 標準字幕檔，可匯入播放器或剪輯軟體 |
+| `out/*.json` | 帶時間戳與辨識信心的結構化資料，方便自行再處理 |
+
+每段結構為「主題 · 第N段」→ 逐行「時間 / 中文 / 對應英文」。行首時間後的 `≈` 表示該行辨識信心較低，建議比對影片。
+
+## 已知限制
+
+**上集的字幕下緣被原片裁掉**（480p 來源，字幕位在 y≈459–480）。缺了下緣筆畫後，「展」看似「屏」、「萬」看似「革」，即使換用更大的辨識模型也會錯。因此另做兩層補救：
+
+1. `crossfix.py` 以「下」集的高信心結果修正兩集重播的同一段開頭字幕。
+2. `build_doc.py` 依英文旁白與上下文修正系統性錯讀（`10革次` → `10萬次`、`雨萬次` → `兩萬次`、`什麻` → `什麼`），並把辨識結果中混入的簡體字形統一回復為繁體。
+
+上集仍有約 37 行標記 `≈`，屬於來源畫質本身造成的不確定，非管線可完全消除。
+
+## 管線
+
+```
+media/*.mp4 ─[1] OCR 燒錄字幕─> out/*.zh.json ─[2] server 重讀弱行─┐
+        │                                                         ├─[3] 清整併 ─[4] 交叉校正
+        └──────[5] ASR 英文原聲──────> out/*.en.json ─────────────┘        │
+                                                                          [6] 對齊+分段+輸出 ──> dist/*
+```
+
+| 腳本 | 做什麼 |
+|---|---|
+| `pipeline/paths.py` | 路徑解析（可用 `HM_ROOT` 指定模型／影片位置） |
+| `pipeline/ocrsub.py` | PP-OCRv5 ONNX 識別器，含 mobile / server 兩款與 CTC 解碼 |
+| `pipeline/subs.py` | 逐幀抽字幕：白字列偵測 → mobile 初讀 → 依文字去重分組 → 弱行存成裁圖 |
+| `pipeline/esc_pass2.py` | 弱行交 server 模型重讀：獨立程序、可中斷續跑、依像素雜湊去重 |
+| `pipeline/postprocess_subs.py`、`clean_zh.py` | 併合淡入碎句與重複列、濾除浮水印與雜訊 |
+| `pipeline/crossfix.py` | 以另一集高信心同句修正被裁切造成的錯讀 |
+| `pipeline/build_doc.py` | 繁簡正規化、系統性錯字修補、英文句子時間對齊、主題分類與分段、Markdown 輸出 |
+| `pipeline/deliver.py` | 輸出 HTML / Markdown / SRT |
+| `pipeline/asr.py` | faster-whisper 英文逐字稿 |
+| `scripts/*.sh` | 下載影片、抓模型、跑完整管線 |
+
+### 實作備註
+
+- 沙箱內無 ffmpeg，改用 PyAV 直接取 Y 平面（`av==14.0.1`，新版與 faster-whisper 的 `metadata_errors` 參數不相容）。
+- `large-v3` 在 CPU 上 RTF≈2.1 且會幻覺輸出，改用 `distil-large-v3`（RTF≈1.0）。
+- server 模型每張輸入寬度不同，ONNX Runtime 的 memory arena 會持續長大；把重讀拆成獨立程序後穩定維持在 340 MB，否則在 7.6 GB 環境中會被 OOM 終止。
+
+## 重現
+
+```bash
+pip install -r requirements.txt
+bash scripts/setup_models.sh              # PP-OCRv5 ONNX + distil-large-v3，約 1.6 GB
+GH_TOKEN=ghp_xxx bash scripts/download.sh # 從本 Repo 的 Releases 取得影片
+bash scripts/run_all.sh                   # OCR → ASR → 校正 → dist/*
+```
+
+需 4 核心 CPU、8 GB RAM，兩集全跑約 1.5 小時（無 GPU）。所有腳本皆由環境變數 `GH_TOKEN` 讀取權杖，檔內不含任何金鑰。
+提交內的 `out/*.json` 即管線的最終產物，`pipeline/deliver.py` 由它們重建 `dist/*` 全部 8 個檔案，已驗證可逐位元重現。
+
+## 版權
+
+兩集影片為 National Geographic 著作，原由本 Repo 的 Releases 上傳。Repo 公開後影片與文字稿將對所有人可見，僅供個人學習研究使用，勿再散佈。
