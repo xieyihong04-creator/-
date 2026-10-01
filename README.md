@@ -73,6 +73,10 @@ bash scripts/run_all.sh                   # OCR → ASR → 校正 → dist/*
 需 4 核心 CPU、8 GB RAM，兩集全跑約 1.5 小時（無 GPU）。所有腳本皆由環境變數 `GH_TOKEN` 讀取權杖，檔內不含任何金鑰。
 提交內的 `out/*.json` 即管線的最終產物，`pipeline/deliver.py` 由它們重建 `dist/*` 全部 8 個檔案，已驗證可逐位元重現。
 
-## 版權
+## 授權
 
-兩集影片為 National Geographic 著作，原由本 Repo 的 Releases 上傳。Repo 公開後影片與文字稿將對所有人可見，僅供個人學習研究使用，勿再散佈。
+管線程式碼採 MIT（見 [LICENSE](LICENSE)）；兩支影片、燒錄字幕與旁白逐字稿的著作財產權
+仍屬 National Geographic，不在 MIT 授權範圍內。詳見 LICENSE 的三類區分。
+
+Repo 公開後，Releases 內的兩支影片即為所有人可下載之狀態。若不希望如此，請先將該兩個
+Release 設為 draft 或刪除，再公開 Repo。
