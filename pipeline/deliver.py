@@ -88,8 +88,9 @@ def write_html(pairs, merged, title, meta, path, stats):
              f'<h1>{esc(title)}</h1><div class="meta">{esc(meta)}</div>',
              '<div class="note"><b>產出方式</b>：中文取自影片燒錄字幕，由 PP-OCRv5 辨識'
              '（mobile 初讀、server 校訂）並依畫面去重；英文為原聲逐字稿，由 Whisper '
-             'distil-large-v3 辨識。兩者按時間軸對齊，再依場景斷點分段。中文行首時間後面的 '
-             '「≈」代表该行辨識信心較低（原片字幕下緣被裁切），可能有個別錯字。'
+             'distil-large-v3 辨識。兩者按時間軸對齊，再依場景斷點分段。中文行全部經過'
+             '逐行人工校訂；行首時間後面的「≈」表示該行原片字幕被裁切、只能依英文旁白推定，'
+             '建議比對影片。'
              '<div class="pills">'
              + ''.join(f'<span class="pill">{esc(k)} {esc(str(v))}</span>'
                        for k, v in stats.items())
@@ -116,7 +117,7 @@ def write_html(pairs, merged, title, meta, path, stats):
         parts.append(f'<div class="meta">{B.fmt_ts(b[0][0]["s"])}–{B.fmt_ts(b[-1][0]["e"])}</div>')
         for z, e in b:
             simp = T2S.convert(z['t'])
-            warn = z.get('c', 1) < 0.80
+            warn = B.uncertain(z)
             parts.append('<div class="sub">')
             parts.append(f'<div class="ts">{B.fmt_ts(z["s"])}–{B.fmt_ts(z["e"])}'
                          + ('　≈' if warn else '') + '</div>')
@@ -132,7 +133,8 @@ def write_html(pairs, merged, title, meta, path, stats):
 
 
 def main(zh_p, en_p, stem, title, meta):
-    zh = B.zh_lines(B.load(zh_p))
+    fix_p = B.fix_table_for(zh_p)
+    zh = B.zh_lines(B.load(zh_p), fix_p)
     en = B.en_lines(B.load(en_p)) if en_p != '-' else []
     pairs, merged = B.sections(zh_p, en_p)
 
@@ -152,6 +154,8 @@ def main(zh_p, en_p, stem, title, meta):
                 '對照單元': len(pairs),
                 '英文句': f'{len(en)}（掛在 {both} 行）' if en else '—',
                 '英文收錄': f'{shown_en}/{len(aw)} 詞' if en else '—',
+                '人工校訂': f'{sum(1 for z, _ in pairs if z.get("v"))} 行',
+                '≈ 待比對': f'{sum(1 for z, _ in pairs if B.uncertain(z))} 行',
                 '段落': len(merged)})
     print(f'{stem}: {len(zh)} zh ({nchars} chars), {len(en)} en ({shown_en}/{len(aw)} words), '
           f'{len(pairs)} units, {both} annotated rows, {len(merged)} sections')

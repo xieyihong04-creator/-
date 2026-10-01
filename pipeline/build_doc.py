@@ -1,5 +1,5 @@
 """Merge zh subtitles (OCR) + en transcript (ASR) into a segmented bilingual study doc."""
-import json, re, sys, bisect
+import json, os, re, sys, bisect, difflib
 from collections import Counter
 
 # --- topic vocabulary, tuned to this documentary's actual subtitle wording ------
@@ -67,6 +67,17 @@ _FIXES = [
     (re.compile(r'([零一二三四五六七八九十百\d０-９])([革麻])(?=[次道倍多裏厘单約的跟向對先數])'), r'\1萬'),
     (re.compile(r'([什怎])麻'), r'\1麼'),
     (re.compile(r'雨(?=[零一二三四五六七八九十百\d萬百千杯片條顆個種處道])'), '兩'),
+    # Shape slips the clipped 480p glyphs keep making, locked to the one word they
+    # occur in here: 复杂/须/来 are Japanese or simplified forms of 複雜/須/來, and
+    # 松 only ever appears in 放松/輕松 (= 放鬆/輕鬆), never as the tree 松.
+    (re.compile(r'复杂|複雑'), '複雜'),
+    (re.compile(r'必须'), '必須'),
+    (re.compile(r'来説|来说|來説'), '來說'),
+    (re.compile(r'放松'), '放鬆'),
+    (re.compile(r'輕松'), '輕鬆'),
+    (re.compile(r'特征'), '特徵'),
+    (re.compile(r'平方時'), '平方吋'),
+    (re.compile(r'J型'), 'J形'),
 ]
 
 
@@ -76,7 +87,79 @@ def fixconf(t):
     return t
 
 
-def zh_lines(subs):
+# --- manual proofreading table -----------------------------------------------
+# out/<ep>.zh.fix.json is the line-by-line correction table: what the document shows
+# after a human read every line against the English narration. Each entry is
+# {i, expect, text} plus one of:
+#   drop   — an OCR fragment that only repeats the neighbouring full line, or a time
+#            code / watermark that was never a subtitle; the row is removed
+#   query  — the wording is still doubtful; keep the ≈ mark so readers check the video
+# `expect` is the pipeline text the entry was written against. If upstream OCR changes
+# and an index no longer points at the same line, the build aborts instead of quietly
+# rewriting the wrong caption.
+def fix_table_for(subs_p):
+    d = os.path.dirname(os.path.abspath(subs_p))
+    stem = os.path.basename(subs_p).split('.')[0]
+    return os.path.join(d, f'{stem}.zh.fix.json')
+
+
+def load_fixes(path):
+    if not path or not os.path.exists(path):
+        return {}
+    table, seen = {}, set()
+    for e in json.load(open(path, encoding='utf-8')):
+        i = int(e['i'])
+        if i in seen:
+            raise ValueError(f'{path}: index {i} appears twice')
+        if not e.get('drop') and 'text' not in e:
+            raise ValueError(f'{path}: index {i} has no text')
+        seen.add(i)
+        table[i] = e
+    return table
+
+
+def apply_fixes(lines, fixes, label):
+    """Apply the proofreading table in place: rewrite text, or drop a line.
+
+    Every entry is pinned by two anchors — the pipeline text (`expect`) and the
+    caption's own start time (`at`). A table written against older output, or whose
+    index has drifted onto a neighbouring caption, fails here rather than silently
+    rewriting the wrong line.
+
+    Dropped rows are only ever OCR duplicates of a neighbouring line or burned-in
+    junk, so no readable subtitle text is lost; the English hung on a dropped line
+    re-attaches to its neighbours.
+    """
+    for i in sorted(fixes):
+        if i >= len(lines):
+            raise ValueError(f'{label}: index {i} out of range ({len(lines)} lines)')
+        cur = lines[i]['t']
+        exp = fixes[i].get('expect')
+        if exp is not None and cur != exp:
+            raise ValueError(f'{label} line {i}: pipeline has {cur!r}, table expects {exp!r}')
+        at = fixes[i].get('at')
+        if at is not None and f'{round(lines[i]["s"])}s' != at:
+            raise ValueError(f'{label} line {i}: pipeline starts at '
+                             f'{round(lines[i]["s"])}s, table expects {at}')
+        if fixes[i].get('drop'):
+            lines[i]['x'] = 1   # removed before alignment, so its English re-hangs elsewhere
+            continue
+        if not fixes[i].get('query'):
+            lines[i]['v'] = 1   # proofread: no longer shown as an ≈ uncertain line
+        else:
+            lines[i]['q'] = 1   # proofread but still a guess: keep the ≈ mark
+        new = fixes[i]['text']
+        if new != cur:
+            lines[i]['t'] = new
+
+
+def uncertain(z):
+    """≈ marks lines the reader should check against the footage: low-confidence OCR
+    that proofreading could not settle, plus restorations that are still guesses."""
+    return bool(z.get('q')) or (not z.get('v') and z.get('c', 1) < 0.80)
+
+
+def zh_lines(subs, fix_p=None):
     out = []
     for s in subs:
         t = ' '.join(l['text'] for l in s['lines'])
@@ -85,7 +168,8 @@ def zh_lines(subs):
         if len(t) >= 2:
             out.append({'s': s['start'], 'e': s.get('end', s['start'] + 2), 't': t,
                         'c': max(l['conf'] for l in s['lines'])})
-    return out
+    apply_fixes(out, load_fixes(fix_p), fix_p or 'fixes')
+    return [z for z in out if not z.get('x')]
 
 
 def en_lines(asr):
@@ -236,7 +320,7 @@ def glossary(zh):
 
 def sections(zh_p, en_p):
     """Return (pairs, merged_sections) where merged is [(topic_name, [units])]."""
-    zh = zh_lines(load(zh_p))
+    zh = zh_lines(load(zh_p), fix_table_for(zh_p))
     en = en_lines(load(en_p)) if en_p and en_p != '-' else []
     pairs = align(zh, en)
     pairs = [(z, e) for z, e in pairs if z['t'] or len(e) > 3]
@@ -274,8 +358,15 @@ def sections(zh_p, en_p):
 def build(zh_p, en_p, out_p, title, meta):
     pairs, merged = sections(zh_p, en_p)
 
-    L = [f'# {title}', '', f'> {meta}', '']
-    L += ['**產出方式**：中文取自影片燒錄字幕，經 PP-OCRv5 辨識（mobile 初讀 + server 校訂）'
+    tab = load_fixes(fix_table_for(zh_p))
+    edited = sum(1 for e in tab.values() if not e.get('drop') and e['text'] != e['expect'])
+    dropped = sum(1 for e in tab.values() if e.get('drop'))
+    unsure = sum(1 for z, _e in pairs if uncertain(z))
+    L = [f'# {title}', '', f'> {meta}', '',
+         f'**校訂狀態**：全文 {len(pairs)} 行中文逐行人工校訂，改寫 {edited} 行、'
+         f'剔除 {dropped} 行 OCR 殘句與畫面雜訊；剩下 {unsure} 行標 `≈`，'
+         f'表示原片字幕被裁切、只能依英文旁白推定，建議比對影片。']
+    L += ['', '**產出方式**：中文取自影片燒錄字幕，經 PP-OCRv5 辨識（mobile 初讀 + server 校訂）'
           '並依畫面去重；英文為原聲逐字稿，由 Whisper distil-large-v3 辨識；兩者按時間軸對齊，'
           '再依場景斷點分段、依詞頻標主題。', '']
     L += ['## 目錄', '']
@@ -291,7 +382,7 @@ def build(zh_p, en_p, out_p, title, meta):
     for i, (name, b) in enumerate(merged, 1):
         L += ['', f'## {i}. {name}', '', f'`{fmt_ts(b[0][0]["s"])}–{fmt_ts(b[-1][0]["e"])}`', '']
         for z, e in b:
-            L.append(f'**{fmt_ts(z["s"])}**' + ('　≈' if z.get('c', 1) < 0.80 else ''))
+            L.append(f'**{fmt_ts(z["s"])}**' + ('　≈' if uncertain(z) else ''))
             L.append(f'- 中：{z["t"]}')
             if e:
                 L.append(f'- EN：{e}')

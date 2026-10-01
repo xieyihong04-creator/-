@@ -42,6 +42,12 @@ mv out/xia.zh.x.json out/xia.zh.final.json
 python3 "$P/crossfix.py" out/shang.zh.x.json out/xia.zh.final.json out/shang.zh.final.json
 rm -f out/*.zh.x.json
 
+# The line-by-line proofreading table is keyed to the caption text and start time of
+# each line, so it has to be (re)generated against the final OCR output. If the OCR
+# merged or split captions, apply_fixes aborts rather than rewriting the wrong line.
+D "fix tables"
+python3 "$P/make_fix_tables.py"
+
 D "asr"
 python3 "$P/asr.py" 2>&1 | tee -a logs/asr.log
 

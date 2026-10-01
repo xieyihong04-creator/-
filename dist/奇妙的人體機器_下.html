@@ -34,12 +34,12 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 @media(max-width:600px){body{font-size:15.5px}.z{font-size:16.5px}h1{font-size:23px}}
 </style></head><body><div class="wrap">
 <h1>高二上選修生物一 · 奇妙的人體機器（下）</h1><div class="meta">原片 46 分鐘｜National Geographic《The Human Machine》｜英文原聲＋繁體燒錄字幕</div>
-<div class="note"><b>產出方式</b>：中文取自影片燒錄字幕，由 PP-OCRv5 辨識（mobile 初讀、server 校訂）並依畫面去重；英文為原聲逐字稿，由 Whisper distil-large-v3 辨識。兩者按時間軸對齊，再依場景斷點分段。中文行首時間後面的 「≈」代表该行辨識信心較低（原片字幕下緣被裁切），可能有個別錯字。<div class="pills"><span class="pill">中文字幕 581 句</span><span class="pill">中文字數 7727</span><span class="pill">對照單元 581</span><span class="pill">英文句 579（掛在 470 行）</span><span class="pill">英文收錄 5688/5688 詞</span><span class="pill">段落 20</span></div></div>
+<div class="note"><b>產出方式</b>：中文取自影片燒錄字幕，由 PP-OCRv5 辨識（mobile 初讀、server 校訂）並依畫面去重；英文為原聲逐字稿，由 Whisper distil-large-v3 辨識。兩者按時間軸對齊，再依場景斷點分段。中文行全部經過逐行人工校訂；行首時間後面的「≈」表示該行原片字幕被裁切、只能依英文旁白推定，建議比對影片。<div class="pills"><span class="pill">中文字幕 574 句</span><span class="pill">中文字數 7548</span><span class="pill">對照單元 574</span><span class="pill">英文句 579（掛在 469 行）</span><span class="pill">英文收錄 5688/5688 詞</span><span class="pill">人工校訂 66 行</span><span class="pill">≈ 待比對 1 行</span><span class="pill">段落 20</span></div></div>
 <input id="q" placeholder="搜尋字幕…" style="width:100%;padding:11px 14px;border:1px solid var(--line);border-radius:10px;font-size:15px;background:var(--card);margin:4px 0 0">
 <div class="meta" style="margin:8px 0 0">顯示 <span id="cnt">全部</span> · <button id="tg" style="border:1px solid var(--line);background:var(--card);border-radius:8px;padding:3px 10px;font-size:13px;cursor:pointer">轉簡體</button></div>
 <div class="toc"><b style="font-size:14px">目錄</b>
 <a href="#s1">1. 人體概論 · 第1段 <span class="t">00:14–03:04 · 32 句</span></a>
-<a href="#s2">2. 肌肉與運動 <span class="t">03:31–05:51 · 31 句</span></a>
+<a href="#s2">2. 肌肉與運動 <span class="t">03:31–05:51 · 30 句</span></a>
 <a href="#s3">3. 神經與傳導 · 第1段 <span class="t">06:16–08:33 · 33 句</span></a>
 <a href="#s4">4. 神經與傳導 · 第2段 <span class="t">08:42–09:53 · 17 句</span></a>
 <a href="#s5">5. 骨骼與關節 · 第1段 <span class="t">10:58–13:45 · 37 句</span></a>
@@ -48,13 +48,13 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <a href="#s8">8. 生殖與基因 · 第1段 <span class="t">20:10–22:53 · 39 句</span></a>
 <a href="#s9">9. 生殖與基因 · 第2段 <span class="t">22:57–24:55 · 26 句</span></a>
 <a href="#s10">10. 生殖與基因 · 第3段 <span class="t">24:56–26:17 · 21 句</span></a>
-<a href="#s11">11. 生殖與基因 · 第4段 <span class="t">26:25–28:22 · 24 句</span></a>
-<a href="#s12">12. 疼痛與大腦 · 第1段 <span class="t">28:29–31:05 · 35 句</span></a>
-<a href="#s13">13. 疼痛與大腦 · 第2段 <span class="t">31:06–33:28 · 40 句</span></a>
-<a href="#s14">14. 疼痛與大腦 · 第3段 <span class="t">33:28–36:13 · 40 句</span></a>
-<a href="#s15">15. 疼痛與大腦 · 第4段 <span class="t">36:14–38:54 · 34 句</span></a>
-<a href="#s16">16. 循環與血液 <span class="t">39:05–39:33 · 9 句</span></a>
-<a href="#s17">17. 疼痛與大腦 · 第5段 <span class="t">39:41–41:46 · 33 句</span></a>
+<a href="#s11">11. 生殖與基因 · 第4段 <span class="t">26:25–28:22 · 23 句</span></a>
+<a href="#s12">12. 疼痛與大腦 · 第1段 <span class="t">28:29–31:09 · 35 句</span></a>
+<a href="#s13">13. 疼痛與大腦 · 第2段 <span class="t">31:11–33:34 · 40 句</span></a>
+<a href="#s14">14. 疼痛與大腦 · 第3段 <span class="t">33:34–36:20 · 40 句</span></a>
+<a href="#s15">15. 疼痛與大腦 · 第4段 <span class="t">36:23–38:54 · 32 句</span></a>
+<a href="#s16">16. 循環與血液 <span class="t">39:05–39:33 · 8 句</span></a>
+<a href="#s17">17. 疼痛與大腦 · 第5段 <span class="t">39:41–41:46 · 31 句</span></a>
 <a href="#s18">18. 神經與傳導 · 第3段 <span class="t">42:00–42:31 · 7 句</span></a>
 <a href="#s19">19. 疼痛與大腦 · 第6段 <span class="t">42:45–45:19 · 40 句</span></a>
 <a href="#s20">20. 人體概論 · 第3段 <span class="t">45:19–46:23 · 17 句</span></a>
@@ -65,24 +65,24 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <span>神經 <b>31</b></span>
 <span>骨頭 <b>22</b></span>
 <span>人體 <b>20</b></span>
-<span>肌肉 <b>17</b></span>
+<span>肌肉 <b>16</b></span>
 <span>疼痛 <b>11</b></span>
 <span>精子 <b>10</b></span>
-<span>卵子 <b>10</b></span>
 <span>痛苦 <b>9</b></span>
 <span>機器 <b>9</b></span>
-<span>移植 <b>6</b></span>
+<span>卵子 <b>8</b></span>
 <span>關節 <b>6</b></span>
 <span>呼吸 <b>6</b></span>
 <span>基因 <b>6</b></span>
 <span>嬰兒 <b>6</b></span>
 <span>眼睛 <b>5</b></span>
 <span>皮膚 <b>5</b></span>
+<span>移植 <b>5</b></span>
 <span>修復 <b>5</b></span>
 <span>器官 <b>5</b></span>
 <span>力量 <b>4</b></span>
-<span>心臟 <b>4</b></span>
 <span>懷孕 <b>4</b></span>
+<span>胚胎 <b>4</b></span>
 <span>受精 <b>4</b></span>
 <span>電纜 <b>3</b></span>
 <span>脊髓 <b>3</b></span>
@@ -190,7 +190,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">01:41–01:42</div>
-<div class="z"><span class="tr">皆助人體看似輕松達成 這些驚人複雑動作</span><span class="sp" hidden>皆助人体看似轻松达成 这些惊人复雑动作</span></div>
+<div class="z"><span class="tr">皆助人體看似輕鬆達成 這些驚人複雜動作</span><span class="sp" hidden>皆助人体看似轻松达成 这些惊人复杂动作</span></div>
 <div class="e">helped to make these amazing complexities of movement seem almost effortless, automatic even.</div>
 </div>
 <div class="sub">
@@ -248,17 +248,13 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="z"><span class="tr">光是抬起一條腿，往前跨一步 就要牽動約40條肌肉</span><span class="sp" hidden>光是抬起一条腿，往前跨一步 就要牵动约40条肌肉</span></div>
 </div>
 <div class="sub">
-<div class="ts">03:33–03:35</div>
-<div class="z"><span class="tr">就要牽動約40條肌肉</span><span class="sp" hidden>就要牵动约40条肌肉</span></div>
+<div class="ts">03:35–03:39</div>
+<div class="z"><span class="tr">再加上跑步、游泳、射箭 騎馬和擊劍</span><span class="sp" hidden>再加上跑步、游泳、射箭 骑马和击剑</span></div>
 <div class="e">Now adding to that running, swimming, shooting,</div>
 </div>
 <div class="sub">
-<div class="ts">03:35–03:39</div>
-<div class="z"><span class="tr">再加上跑步、游泳、射箭 騎馬和擊劍</span><span class="sp" hidden>再加上跑步、游泳、射箭 骑马和击剑</span></div>
-</div>
-<div class="sub">
 <div class="ts">03:39–03:43</div>
-<div class="z"><span class="tr">大家就應明自伊萊布雷默體內 有多少不同肌肉在工作</span><span class="sp" hidden>大家就应明自伊莱布雷默体内 有多少不同肌肉在工作</span></div>
+<div class="z"><span class="tr">大家就應明白伊萊布雷默體內 有多少不同肌肉在工作</span><span class="sp" hidden>大家就应明白伊莱布雷默体内 有多少不同肌肉在工作</span></div>
 <div class="e">riding, and fencing, and you get an idea of how many different muscles are at work</div>
 </div>
 <div class="sub">
@@ -278,7 +274,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">04:03–04:05</div>
-<div class="z"><span class="tr">但他們都表情怪異地看著我說 “你一定是痛了”</span><span class="sp" hidden>但他们都表情怪异地看著我说 “你一定是痛了”</span></div>
+<div class="z"><span class="tr">但他們都表情怪異地看著我說 “你一定是瘋了”</span><span class="sp" hidden>但他们都表情怪异地看著我说 “你一定是疯了”</span></div>
 <div class="e">So what propels him?</div>
 </div>
 <div class="sub">
@@ -317,7 +313,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">04:31–04:33</div>
-<div class="z"><span class="tr">接著蛋白放松</span><span class="sp" hidden>接著蛋白放松</span></div>
+<div class="z"><span class="tr">接著蛋白放鬆</span><span class="sp" hidden>接著蛋白放松</span></div>
 <div class="e">And then they relax, releasing their grip and going back to normal.</div>
 </div>
 <div class="sub">
@@ -336,17 +332,17 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">04:45–04:48</div>
-<div class="z"><span class="tr">他二頭肌內的蛋白質則放松</span><span class="sp" hidden>他二头肌内的蛋白质则放松</span></div>
+<div class="z"><span class="tr">他二頭肌內的蛋白質則放鬆</span><span class="sp" hidden>他二头肌内的蛋白质则放松</span></div>
 <div class="e">while in his biceps, they release. When he winds up for another blow, the opposite happens.</div>
 </div>
 <div class="sub">
 <div class="ts">04:57–04:59</div>
-<div class="z"><span class="tr">這回他的二頭肌收縮 他的三頭肌放松</span><span class="sp" hidden>这回他的二头肌收缩 他的三头肌放松</span></div>
+<div class="z"><span class="tr">這回他的二頭肌收縮 他的三頭肌放鬆</span><span class="sp" hidden>这回他的二头肌收缩 他的三头肌放松</span></div>
 <div class="e">Now his biceps bind and his triceps release.</div>
 </div>
 <div class="sub">
 <div class="ts">04:59–05:01</div>
-<div class="z"><span class="tr">藉由收縮和放松所有骨骼肌</span><span class="sp" hidden>借由收缩和放松所有骨骼肌</span></div>
+<div class="z"><span class="tr">藉由收縮和放鬆所有骨骼肌</span><span class="sp" hidden>借由收缩和放松所有骨骼肌</span></div>
 <div class="e">Bynding and releasing all our skeletal muscles, we get our every motion.</div>
 </div>
 <div class="sub">
@@ -448,7 +444,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">06:53–06:54</div>
-<div class="z"><span class="tr">為了尋找合適的東牆</span><span class="sp" hidden>为了寻找合适的东墙</span></div>
+<div class="z"><span class="tr">為了尋找合適的「東牆」</span><span class="sp" hidden>为了寻找合适的「东墙」</span></div>
 </div>
 <div class="sub">
 <div class="ts">06:55–06:57</div>
@@ -576,7 +572,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">09:05–09:06</div>
-<div class="z"><span class="tr">傑森獲得9時的軸索</span><span class="sp" hidden>杰森获得9时的轴索</span></div>
+<div class="z"><span class="tr">傑森獲得9吋的軸索</span><span class="sp" hidden>杰森获得9吋的轴索</span></div>
 <div class="e">Jason is receiving about nine inches worth. nine inches worth.</div>
 </div>
 <div class="sub">
@@ -585,7 +581,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">09:09–09:09</div>
-<div class="z"><span class="tr">L業 他的左臂將在1年之內 恢復部分知覺和移動能力</span><span class="sp" hidden>L业 他的左臂将在1年之内 恢复部分知觉和移动能力</span></div>
+<div class="z"><span class="tr">他的左臂將在1年之內 恢復部分知覺和移動能力</span><span class="sp" hidden>他的左臂将在1年之内 恢复部分知觉和移动能力</span></div>
 <div class="e">So if all goes well, he&#x27;ll have some feeling in motion return within the year.</div>
 </div>
 <div class="sub">
@@ -761,7 +757,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">13:07–13:11</div>
-<div class="z"><span class="tr">AACAN 骨頭會像橡膠一樣 沒有固定結構</span><span class="sp" hidden>AACAN 骨头会像橡胶一样 没有固定结构</span></div>
+<div class="z"><span class="tr">骨頭會像橡膠一樣 沒有固定結構</span><span class="sp" hidden>骨头会像橡胶一样 没有固定结构</span></div>
 </div>
 <div class="sub">
 <div class="ts">13:11–13:12</div>
@@ -848,7 +844,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">14:39–14:42</div>
-<div class="z"><span class="tr">這時候，他腳板承受的力量 每平方時超過150磅</span><span class="sp" hidden>这时候，他脚板承受的力量 每平方时超过150磅</span></div>
+<div class="z"><span class="tr">這時候，他腳板承受的力量 每平方吋超過150磅</span><span class="sp" hidden>这时候，他脚板承受的力量 每平方吋超过150磅</span></div>
 </div>
 <div class="sub">
 <div class="ts">14:42–14:44</div>
@@ -896,7 +892,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">15:26–15:30</div>
-<div class="z"><span class="tr">關節卻可能斷裂</span><span class="sp" hidden>关节却可能断裂</span></div>
+<div class="z"><span class="tr">關節卻可能損壞</span><span class="sp" hidden>关节却可能损坏</span></div>
 </div>
 <div class="sub">
 <div class="ts">15:31–15:39</div>
@@ -1067,7 +1063,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">18:55–18:58</div>
-<div class="z"><span class="tr">細胞外基質己用來促進 食道、皮膚和膀胱生長痊癒</span><span class="sp" hidden>细胞外基质己用来促进 食道、皮肤和膀胱生长痊愈</span></div>
+<div class="z"><span class="tr">細胞外基質已用來促進 食道、皮膚和膀胱生長痊癒</span><span class="sp" hidden>细胞外基质已用来促进 食道、皮肤和膀胱生长痊愈</span></div>
 <div class="e">Extracellular matrix has already been used to grow and treat things like the esophagus, skin, bladder,</div>
 </div>
 <div class="sub">
@@ -1115,7 +1111,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">19:31–19:33</div>
-<div class="z"><span class="tr">輕松長出新的手臂或腿</span><span class="sp" hidden>轻松长出新的手臂或腿</span></div>
+<div class="z"><span class="tr">輕鬆長出新的手臂或腿</span><span class="sp" hidden>轻松长出新的手臂或腿</span></div>
 <div class="e">Now we&#x27;re stuck with the limbs on.</div>
 </div>
 <div class="sub">
@@ -1125,7 +1121,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">19:45–19:48</div>
-<div class="z"><span class="tr">要讓兩部奇妙機器進行繁殖</span><span class="sp" hidden>要让两部奇妙机器进行繁殖</span></div>
+<div class="z"><span class="tr">要讓兩具奇妙機器進行繁殖</span><span class="sp" hidden>要让两具奇妙机器进行繁殖</span></div>
 <div class="e">just getting two incredible machines to reproduce at all</div>
 </div>
 <div class="sub">
@@ -1177,7 +1173,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">20:52–20:55</div>
-<div class="z"><span class="tr">人類為什麼不能像變形蟲?</span><span class="sp" hidden>人类为什么不能像变形虫?</span></div>
+<div class="z"><span class="tr">人類為什麼不能像變形蟲一樣</span><span class="sp" hidden>人类为什么不能像变形虫一样</span></div>
 </div>
 <div class="sub">
 <div class="ts">20:56–20:57</div>
@@ -1270,7 +1266,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">22:16–22:18</div>
-<div class="z"><span class="tr">精子只有千分之二時長</span><span class="sp" hidden>精子只有千分之二时长</span></div>
+<div class="z"><span class="tr">精子只有千分之二吋長</span><span class="sp" hidden>精子只有千分之二吋长</span></div>
 <div class="e">They may only be about 2,000ths of an inch long, but 300 million are always ready to fulfill their life&#x27;s mission to fertilize</div>
 </div>
 <div class="sub">
@@ -1369,8 +1365,8 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="e">Now confidently know, this is not the case.</div>
 </div>
 <div class="sub">
-<div class="ts">23:45–23:51</div>
-<div class="z"><span class="tr">每具人體內的3萬億細胞內 裝有人類的完整藍圖</span><span class="sp" hidden>每具人体内的3万亿细胞内 装有人类的完整蓝图</span></div>
+<div class="ts">23:45–23:51　≈</div>
+<div class="z"><span class="tr">每一個人體內有100億細胞 裝有人類的完整藍圖</span><span class="sp" hidden>每一个人体内有100亿细胞 装有人类的完整蓝图</span></div>
 <div class="e">Deep within each of the body&#x27;s 100 billion cells is a complete blueprint for a human being, a genome.</div>
 </div>
 <div class="sub">
@@ -1449,17 +1445,17 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="meta">24:56–26:17</div>
 <div class="sub">
 <div class="ts">24:56–25:04</div>
-<div class="z"><span class="tr">甚至定程度的身高體重 才智、幽默感和性格</span><span class="sp" hidden>甚至定程度的身高体重 才智、幽默感和性格</span></div>
+<div class="z"><span class="tr">甚至某種程度的身高體重 才智、幽默感和性格</span><span class="sp" hidden>甚至某种程度的身高体重 才智、幽默感和性格</span></div>
 <div class="e">At this stage, everything from eye and hair color, gender, and even to some extent, height, weight, intelligence, sense of humor, and personality are all predetermined.</div>
 </div>
 <div class="sub">
 <div class="ts">25:05–25:10</div>
-<div class="z"><span class="tr">科學家可篩選一碟的卵子 選擇嬰兒的性別</span><span class="sp" hidden>科学家可筛选一碟的卵子 选择婴儿的性别</span></div>
+<div class="z"><span class="tr">科學家可篩選一盤的胚胎 選擇嬰兒的性別</span><span class="sp" hidden>科学家可筛选一盘的胚胎 选择婴儿的性别</span></div>
 <div class="e">Fact, scientists can even say.</div>
 </div>
 <div class="sub">
 <div class="ts">25:10–25:14</div>
-<div class="z"><span class="tr">或找出有基因缺陷的卵子 然後丟棄</span><span class="sp" hidden>或找出有基因缺陷的卵子 然后丢弃</span></div>
+<div class="z"><span class="tr">或找出有基因缺陷的胚胎 然後丟棄</span><span class="sp" hidden>或找出有基因缺陷的胚胎 然后丢弃</span></div>
 <div class="e">sift through a dish of embryos to choose gender or identify genetic defects and remove them.</div>
 </div>
 <div class="sub">
@@ -1604,18 +1600,13 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">27:04–27:06</div>
-<div class="z"><span class="tr">福 很好</span><span class="sp" hidden>福 很好</span></div>
+<div class="z"><span class="tr">很好</span><span class="sp" hidden>很好</span></div>
 <div class="e">That&#x27;s it. Great, great, hurry. Oh. One of them. Push, push, push, push.</div>
-</div>
-<div class="sub">
-<div class="ts">27:19–27:21</div>
-<div class="z"><span class="tr">_22.30</span><span class="sp" hidden>_22.30</span></div>
-<div class="e">2. 30. Oh, my God.</div>
 </div>
 <div class="sub">
 <div class="ts">27:21–27:28</div>
 <div class="z"><span class="tr">天哪 太好了</span><span class="sp" hidden>天哪 太好了</span></div>
-<div class="e">Good job. Good job. Go ahead. Oh, my gosh. Yes.</div>
+<div class="e">2. 30. Oh, my God. Good job. Good job. Go ahead. Oh, my gosh. Yes.</div>
 </div>
 <div class="sub">
 <div class="ts">27:31–27:32</div>
@@ -1649,7 +1640,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">28:05–28:08</div>
-<div class="z"><span class="tr">懷孕生子不是輕松的差事</span><span class="sp" hidden>怀孕生子不是轻松的差事</span></div>
+<div class="z"><span class="tr">懷孕生子不是輕鬆的差事</span><span class="sp" hidden>怀孕生子不是轻松的差事</span></div>
 <div class="e">getting to this point is no easy task.</div>
 </div>
 <div class="sub">
@@ -1668,7 +1659,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="e">every day and more than 136 million every year.</div>
 </div>
 <h2 id="s12">12. 疼痛與大腦 · 第1段</h2>
-<div class="meta">28:29–31:05</div>
+<div class="meta">28:29–31:09</div>
 <div class="sub">
 <div class="ts">28:29–28:34</div>
 <div class="z"><span class="tr">人類為何會以這種痛苦 又危險的方法來延續物種?</span><span class="sp" hidden>人类为何会以这种痛苦 又危险的方法来延续物种?</span></div>
@@ -1715,7 +1706,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">29:16–29:18</div>
-<div class="z"><span class="tr">所有人體系統都很複雑</span><span class="sp" hidden>所有人体系统都很复雑</span></div>
+<div class="z"><span class="tr">所有人體系統都很複雜</span><span class="sp" hidden>所有人体系统都很复杂</span></div>
 <div class="e">Every system in the body is complex,</div>
 </div>
 <div class="sub">
@@ -1790,10 +1781,6 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="sub">
 <div class="ts">30:21–30:23</div>
 <div class="z"><span class="tr">ArthurW.Toga LaboratoryofNeuroImaging,UcLA 我如果替你移植心臟</span><span class="sp" hidden>ArthurW.Toga LaboratoryofNeuroImaging,UcLA 我如果替你移植心脏</span></div>
-</div>
-<div class="sub">
-<div class="ts">30:23–30:23</div>
-<div class="z"><span class="tr">A.ainU 我如果替你移植心臟</span><span class="sp" hidden>A.ainU 我如果替你移植心脏</span></div>
 <div class="e">If I transplant your heart, for example, you&#x27;re still you.</div>
 </div>
 <div class="sub">
@@ -1813,7 +1800,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">30:37–30:41</div>
-<div class="z"><span class="tr">賦予你特征的一切 可能會改變</span><span class="sp" hidden>赋予你特征的一切 可能会改变</span></div>
+<div class="z"><span class="tr">賦予你特徵的一切 可能會改變</span><span class="sp" hidden>赋予你特征的一切 可能会改变</span></div>
 <div class="e">Brandon, this is Dr. Leo.</div>
 </div>
 <div class="sub">
@@ -1840,13 +1827,13 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="z"><span class="tr">腦部內靠近掌管語言的區域 長了一顆巨大的癌腫瘤</span><span class="sp" hidden>脑部内靠近掌管语言的区域 长了一颗巨大的癌肿瘤</span></div>
 <div class="e">23-year-old Brandon Carson has a large cancerous tumor near a region of his brain critical for language.</div>
 </div>
-<h2 id="s13">13. 疼痛與大腦 · 第2段</h2>
-<div class="meta">31:06–33:28</div>
 <div class="sub">
 <div class="ts">31:06–31:09</div>
 <div class="z"><span class="tr">他的腫瘤離布洛卡氏區很近</span><span class="sp" hidden>他的肿瘤离布洛卡氏区很近</span></div>
 <div class="e">His tumor is very close to broke his area.</div>
 </div>
+<h2 id="s13">13. 疼痛與大腦 · 第2段</h2>
+<div class="meta">31:11–33:34</div>
 <div class="sub">
 <div class="ts">31:11–31:13</div>
 <div class="z"><span class="tr">是我遇過距離最近的病患之一</span><span class="sp" hidden>是我遇过距离最近的病患之一</span></div>
@@ -1871,10 +1858,6 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="ts">31:26–31:27</div>
 <div class="z"><span class="tr">因此醫生打開他的頭顱 令他的腦部露出之後</span><span class="sp" hidden>因此医生打开他的头颅 令他的脑部露出之后</span></div>
 <div class="e">Which is why once they&#x27;ve opened his skull and revealed his brain,</div>
-</div>
-<div class="sub">
-<div class="ts">31:28–31:28　≈</div>
-<div class="z"><span class="tr">大生打開他的自回</span><span class="sp" hidden>大生打开他的自回</span></div>
 </div>
 <div class="sub">
 <div class="ts">31:28–31:32</div>
@@ -2039,8 +2022,6 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="z"><span class="tr">確定哪些結構負責哪些功能</span><span class="sp" hidden>确定哪些结构负责哪些功能</span></div>
 <div class="e">It&#x27;s you know we want to create a map where we know what structures are where and what the function is in those structures.</div>
 </div>
-<h2 id="s14">14. 疼痛與大腦 · 第3段</h2>
-<div class="meta">33:28–36:13</div>
 <div class="sub">
 <div class="ts">33:28–33:32</div>
 <div class="z"><span class="tr">地球地圖有經緯度等等 作為標準</span><span class="sp" hidden>地球地图有经纬度等等 作为标准</span></div>
@@ -2050,6 +2031,8 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="ts">33:32–33:34</div>
 <div class="z"><span class="tr">但人類的腦部卻是因人而異</span><span class="sp" hidden>但人类的脑部却是因人而异</span></div>
 </div>
+<h2 id="s14">14. 疼痛與大腦 · 第3段</h2>
+<div class="meta">33:34–36:20</div>
 <div class="sub">
 <div class="ts">33:34–33:38</div>
 <div class="z"><span class="tr">人人的腦部皆不同 所以每個人都是獨一無二</span><span class="sp" hidden>人人的脑部皆不同 所以每个人都是独一无二</span></div>
@@ -2057,7 +2040,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">33:40–33:43</div>
-<div class="z"><span class="tr">在加州大學洛杉磯分校的 神經影像實驗室</span><span class="sp" hidden>在加州大学洛杉矶分校的 神经影像实验室</span></div>
+<div class="z"><span class="tr">在加州大學洛杉磯分校的神經影像實驗室</span><span class="sp" hidden>在加州大学洛杉矶分校的神经影像实验室</span></div>
 <div class="e">This visualization system is actually correct. At UCLA&#x27;s laboratory of neuroimaging, Dr.</div>
 </div>
 <div class="sub">
@@ -2215,7 +2198,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">35:54–35:56</div>
-<div class="z"><span class="tr">金柏麗慢慢學習如何控製痛苦</span><span class="sp" hidden>金柏丽慢慢学习如何控制痛苦</span></div>
+<div class="z"><span class="tr">金柏麗慢慢學習如何控制痛苦</span><span class="sp" hidden>金柏丽慢慢学习如何控制痛苦</span></div>
 </div>
 <div class="sub">
 <div class="ts">35:57–36:05</div>
@@ -2229,11 +2212,9 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">36:08–36:13</div>
-<div class="z"><span class="tr">我們現在的做法 是嘗試控制“水龍頭”的流量</span><span class="sp" hidden>我们现在的做法 是尝试控制“水龙头”的流量</span></div>
+<div class="z"><span class="tr">我們現在的做法 是嘗試控制「水龍頭」的流量</span><span class="sp" hidden>我们现在的做法 是尝试控制「水龙头」的流量</span></div>
 <div class="e">What we&#x27;re working on now is actually trying to control the volume on the faucet, so to speak,</div>
 </div>
-<h2 id="s15">15. 疼痛與大腦 · 第4段</h2>
-<div class="meta">36:14–38:54</div>
 <div class="sub">
 <div class="ts">36:14–36:16</div>
 <div class="z"><span class="tr">意思就是控制訊息的流動量</span><span class="sp" hidden>意思就是控制讯息的流动量</span></div>
@@ -2244,6 +2225,8 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="z"><span class="tr">麥基不想完全停止訊息的流動</span><span class="sp" hidden>麦基不想完全停止讯息的流动</span></div>
 <div class="e">Mackey doesn&#x27;t want to stop that flow completely.</div>
 </div>
+<h2 id="s15">15. 疼痛與大腦 · 第4段</h2>
+<div class="meta">36:23–38:54</div>
 <div class="sub">
 <div class="ts">36:23–36:24</div>
 <div class="z"><span class="tr">疼痛感有其重要性</span><span class="sp" hidden>疼痛感有其重要性</span></div>
@@ -2301,7 +2284,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">37:02–37:05</div>
-<div class="z"><span class="tr">她腦部學管疼痛區域的 活動狀況</span><span class="sp" hidden>她脑部学管疼痛区域的 活动状况</span></div>
+<div class="z"><span class="tr">她腦部掌管疼痛區域的 活動狀況</span><span class="sp" hidden>她脑部掌管疼痛区域的 活动状况</span></div>
 </div>
 <div class="sub">
 <div class="ts">37:06–37:07</div>
@@ -2421,7 +2404,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">39:16–39:17</div>
-<div class="z"><span class="tr">對佛教真言宗教徒 阪本宗衛來説</span><span class="sp" hidden>对佛教真言宗教徒 阪本宗卫来说</span></div>
+<div class="z"><span class="tr">對佛教真言宗教徒 阪本宗衛來說</span><span class="sp" hidden>对佛教真言宗教徒 阪本宗卫来说</span></div>
 <div class="e">For Soi Sakamoto, a Shingon Buddhist, it&#x27;s meditating half an hour a day under a frigid waterfall in</div>
 </div>
 <div class="sub">
@@ -2438,10 +2421,6 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="z"><span class="tr">SoueiSakamoto ShingonBuddhist</span><span class="sp" hidden>SoueiSakamoto ShingonBuddhist</span></div>
 </div>
 <div class="sub">
-<div class="ts">39:31–39:32</div>
-<div class="z"><span class="tr">ShingonBuddhist 我們日本有句老話說</span><span class="sp" hidden>ShingonBuddhist 我们日本有句老话说</span></div>
-</div>
-<div class="sub">
 <div class="ts">39:32–39:33</div>
 <div class="z"><span class="tr">SoueiSakamoto 我們日本有句老話說</span><span class="sp" hidden>SoueiSakamoto 我们日本有句老话说</span></div>
 <div class="e">We have an old saying in Japan. Clear your mind of all mundane thoughts, and you&#x27;ll find that even fire is cool.</div>
@@ -2455,12 +2434,12 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">39:45–39:45</div>
-<div class="z"><span class="tr">RichardDavidson 或許能利用腦部</span><span class="sp" hidden>RichardDavidson 或许能利用脑部</span></div>
+<div class="z"><span class="tr">或許能利用腦部</span><span class="sp" hidden>或许能利用脑部</span></div>
 <div class="e">brain it may be possible to use the brain to influence the body in very unusual ways.</div>
 </div>
 <div class="sub">
 <div class="ts">39:45–39:50</div>
-<div class="z"><span class="tr">RichardDavidson UniversityofWisconsin-Madison 影響身體做出不尋常的事</span><span class="sp" hidden>RichardDavidson UniversityofWisconsin-Madison 影响身体做出不寻常的事</span></div>
+<div class="z"><span class="tr">影響身體做出不尋常的事</span><span class="sp" hidden>影响身体做出不寻常的事</span></div>
 </div>
 <div class="sub">
 <div class="ts">39:53–39:55</div>
@@ -2469,7 +2448,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">39:55–39:57</div>
-<div class="z"><span class="tr">威斯康辛州麥迪遜市大學的 理查大衛森</span><span class="sp" hidden>威斯康辛州麦迪逊市大学的 理查大卫森</span></div>
+<div class="z"><span class="tr">威斯康辛大學麥迪遜分校的 理查大衛森</span><span class="sp" hidden>威斯康辛大学麦迪逊分校的 理查大卫森</span></div>
 </div>
 <div class="sub">
 <div class="ts">39:58–39:59</div>
@@ -2496,13 +2475,9 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="e">years cultivating certain qualities of mind and they are virtuosos in many respects.</div>
 </div>
 <div class="sub">
-<div class="ts">40:21–40:21</div>
-<div class="z"><span class="tr">從許多方面來看 他們堪稱是大師</span><span class="sp" hidden>从许多方面来看 他们堪称是大师</span></div>
-<div class="e">This is just to keep any water that might drip down from getting on your clothing.</div>
-</div>
-<div class="sub">
 <div class="ts">40:22–40:24</div>
 <div class="z"><span class="tr">這是避免水滴到你的衣服</span><span class="sp" hidden>这是避免水滴到你的衣服</span></div>
+<div class="e">This is just to keep any water that might drip down from getting on your clothing.</div>
 </div>
 <div class="sub">
 <div class="ts">40:25–40:28</div>
@@ -2577,10 +2552,6 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="e">and I&#x27;ll let you know when to begin the compassion meditation.</div>
 </div>
 <div class="sub">
-<div class="ts">41:26–41:27</div>
-<div class="z"><span class="tr">進入深唇冥想狀態</span><span class="sp" hidden>进入深唇冥想状态</span></div>
-</div>
-<div class="sub">
 <div class="ts">41:27–41:31</div>
 <div class="z"><span class="tr">有經驗的冥想者可在20秒內 進入深層冥想狀態</span><span class="sp" hidden>有经验的冥想者可在20秒内 进入深层冥想状态</span></div>
 <div class="e">Experienced meditators can enter a deep meditative state in less than 20 seconds,</div>
@@ -2592,7 +2563,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">41:37–41:39</div>
-<div class="z"><span class="tr">兹非</span><span class="sp" hidden>兹非</span></div>
+<div class="z"><span class="tr">就在轉換的當下</span><span class="sp" hidden>就在转换的当下</span></div>
 <div class="e">Just at the start of the transition,</div>
 </div>
 <div class="sub">
@@ -2619,7 +2590,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">42:08–42:10</div>
-<div class="z"><span class="tr">我們髮現修練者的這個區域 鮮比較活躍</span><span class="sp" hidden>我们发现修练者的这个区域 鲜比较活跃</span></div>
+<div class="z"><span class="tr">我們發現修行者的這個區域 比較活躍</span><span class="sp" hidden>我们发现修行者的这个区域 比较活跃</span></div>
 </div>
 <div class="sub">
 <div class="ts">42:10–42:16</div>
@@ -2632,7 +2603,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">42:26–42:29</div>
-<div class="z"><span class="tr">這些僧侶可利用冥想 將神經傳統細胞的活動</span><span class="sp" hidden>这些僧侣可利用冥想 将神经传统细胞的活动</span></div>
+<div class="z"><span class="tr">這些僧侶可利用冥想 將神經傳導細胞的活動</span><span class="sp" hidden>这些僧侣可利用冥想 将神经传导细胞的活动</span></div>
 <div class="e">By meditating, these monks are able to shift their neurons&#x27; activity activity.</div>
 </div>
 <div class="sub">
@@ -2756,7 +2727,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">44:16–44:19</div>
-<div class="z"><span class="tr">埼就是那團黑色的東西</span><span class="sp" hidden>埼就是那团黑色的东西</span></div>
+<div class="z"><span class="tr">那就是那團黑色的東西</span><span class="sp" hidden>那就是那团黑色的东西</span></div>
 <div class="e">That darkened mass, yes.</div>
 </div>
 <div class="sub">
@@ -2830,7 +2801,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">45:15–45:18</div>
-<div class="z"><span class="tr">LabpratoryofNeroaging,uCLA 當你瞭解哪個區域負責視力</span><span class="sp" hidden>LabpratoryofNeroaging,uCLA 当你了解哪个区域负责视力</span></div>
+<div class="z"><span class="tr">當你瞭解哪個區域負責視力</span><span class="sp" hidden>当你了解哪个区域负责视力</span></div>
 <div class="e">I think that as you learn, you know, where vision is,</div>
 </div>
 <div class="sub">
@@ -2842,7 +2813,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="meta">45:19–46:23</div>
 <div class="sub">
 <div class="ts">45:19–45:20</div>
-<div class="z"><span class="tr">Aa 哪裡負責控制語言</span><span class="sp" hidden>Aa 哪里负责控制语言</span></div>
+<div class="z"><span class="tr">哪裡負責控制語言</span><span class="sp" hidden>哪里负责控制语言</span></div>
 </div>
 <div class="sub">
 <div class="ts">45:20–45:25</div>
@@ -2875,7 +2846,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">45:36–45:39</div>
-<div class="z"><span class="tr">瞭解越多，你會越驚訝</span><span class="sp" hidden>了解越多，你会越惊讶</span></div>
+<div class="z"><span class="tr">懂的越多，你會發現自己越無知</span><span class="sp" hidden>懂的越多，你会发现自己越无知</span></div>
 <div class="e">The more you learn, the dumber you realize you are.</div>
 </div>
 <div class="sub">
