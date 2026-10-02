@@ -8,7 +8,7 @@ set -euo pipefail
 : "${GH_TOKEN:?set GH_TOKEN to a GitHub token with repo scope}"
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
-REPO="${REPO:-xieyihong04-creator/-}"
+REPO="${REPO:-xieyihong04-creator/the-human-machine-transcripts}"
 OUT="$ROOT/media"
 mkdir -p "$OUT"
 

@@ -1,0 +1,65 @@
+name: pages
+
+# GitHub Pages deploy, and the proof that the site is not a second copy of the text.
+#
+# The site bundle is built from out/ + src/ by scripts/build_site.sh, which first
+# re-renders dist/ into a temp dir and byte-compares it with the committed dist/.
+# A hand-edited dist/, or a src/ edit that was never re-rendered, fails the build
+# before anything is published.
+#
+# Only opencc is needed: the render chain imports nothing heavier than the standard
+# library, so this does not pull the OCR/ASR stack (requirements.txt, ~1 GB).
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'dist/**'
+      - 'src/**'
+      - 'out/**'
+      - 'pipeline/**'
+      - 'scripts/build_site.sh'
+      - '.github/workflows/pages.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Never leave a half-built site behind: a newer run supersedes an in-progress one.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Install the one dependency the renderer needs
+        run: pip install opencc-python-reimplemented==0.1.7
+
+      - name: Verify dist/ and assemble _site/
+        run: bash scripts/build_site.sh
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

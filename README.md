@@ -3,6 +3,10 @@
 National Geographic《The Human Machine》兩集影片的**中英對照、分段整理文字稿**，
 以及把它做出來的完整管線。
 
+> **線上閱讀**：<https://xieyihong04-creator.github.io/the-human-machine-transcripts/>
+> 由 GitHub Actions 從 `src/` ＋ `out/` 自動重建（見 [.github/workflows/pages.yml](.github/workflows/pages.yml)），
+> 站上的每一個字都是機器產出，沒有一個字是手動維護的副本。
+
 | 集數 | 片長 | 中文字幕 | 英文 | 段落 |
 |---|---|---|---|---|
 | 上 | 47 分鐘 | 557 行 | 382 行／4,856 詞 | 23 段 |
@@ -96,7 +100,9 @@ src/{shang,xia}.md（最終權威） ─[7] make_auth_tables─> out/*.auth.json
 | `pipeline/render_auth.py` | 由權威層輸出 `dist/*`：HTML / Markdown / 中英 SRT，並重算目錄句數與高頻術語 |
 | `pipeline/deliver.py` | （舊路徑）由第一道校訂的 `out/*.zh.final.json` ＋ `out/*.en.json` 輸出草稿，已不是 `dist/` 的來源 |
 | `pipeline/asr.py` | faster-whisper 英文逐字稿 |
-| `scripts/*.sh` | 下載影片、抓模型、跑完整管線 |
+| `pipeline/make_index.py` | 由權威層生成 Pages 首頁 `index.html`（統計數字讀自 `out/*.auth.json`，不會與內文脫勾） |
+| `scripts/build_site.sh` | 組裝 `_site/`：先把 `dist/` 重新渲染到暫存目錄並與提交內容逐位元比對，不符即中止，再檢查首頁每個連結都指向實際存在的檔案 |
+| `scripts/*.sh` | 下載影片、抓模型、跑完整管線、組裝網站 |
 
 ### 實作備註
 
@@ -121,6 +127,18 @@ bash scripts/run_all.sh                   # OCR → ASR → 校正 → dist/*
 即可由 `out/*.json`、`out/*.zh.fix.json` 與 `src/*.md` 逐位元重建 `dist/*` 全部 8 個檔案，已驗證一致。
 重跑 OCR 後若字幕行位移，`apply_fixes` 會因錨點不符而中止，需同步更新訂正表；`make_auth_tables.py`
 的斷言（中英文逐行等於 `src/`、時間單調、OCR 行全數有追溯）任一不符同樣會中止。
+
+## 網站（GitHub Pages）
+
+```bash
+bash scripts/build_site.sh     # 驗證 dist/ 純淨 → 組出 _site/ → 檢查首頁連結
+```
+
+推送到 `main` 後由 `.github/workflows/pages.yml` 部署到
+<https://xieyihong04-creator.github.io/the-human-machine-transcripts/>。工作流只裝 `opencc`
+一支套件：渲染鏈（`make_fix_tables` → `make_auth_tables` → `render_auth` → `make_index`）
+除標準函式庫之外不需要任何重型依賴，因此部署不必抓 OCR／ASR 那 ~1 GB。
+`_site/` 列入 `.gitignore`，永不提交，避免網站變成文字的第二份副本。
 
 ## 授權
 

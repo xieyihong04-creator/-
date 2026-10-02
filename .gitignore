@@ -12,3 +12,6 @@ out/*.p1.json
 out/*.zh.json
 out/*.zh.clean.json
 out/DOWNLOAD_DONE
+
+# Pages bundle — assembled by scripts/build_site.sh, never committed
+_site/
