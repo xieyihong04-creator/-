@@ -14,6 +14,13 @@ P="$ROOT/pipeline"
 mkdir -p out logs
 D() { echo "[$(date +%H:%M:%S)]"; }
 
+# build_doc.trad() degrades silently when opencc is missing: it leaves text unconverted,
+# so make_fix_tables.py still exits 0 but writes 简体 expect anchors, and the build then
+# aborts inside apply_fixes with an error that looks like a broken proofreading table.
+# Fail here instead, where the cause is obvious.
+python3 -c "import opencc" 2>/dev/null || {
+  echo "missing dependency: opencc  →  pip install -r requirements.txt" >&2; exit 1; }
+
 # Pass 1 reads every sampled frame with the mobile model and dumps weak lines as crops;
 # pass 2 re-reads them with the server model in its own process, resumable via the cache.
 for ep in xia shang; do
