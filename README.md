@@ -125,7 +125,8 @@ bash scripts/run_all.sh                   # OCR → ASR → 校正 → dist/*
 ## 授權
 
 管線程式碼採 MIT（見 [LICENSE](LICENSE)）；兩支影片、燒錄字幕與旁白逐字稿的著作財產權
-仍屬 National Geographic，不在 MIT 授權範圍內。詳見 LICENSE 的三類區分。
+仍屬 National Geographic，不在 MIT 授權範圍內。`src/` 的三份學習單為學校發印原件與站長自製
+內容，同樣不屬於 MIT 授權。詳見 LICENSE 的三類區分。
 
 Repo 公開後，Releases 內的兩支影片即為所有人可下載之狀態。目前兩個 Release 皆維持 **draft**
 （僅站長與協作者可見），公開 Repo 不會讓影片被一般訪客下載；後續若需調整請直接改這兩個
