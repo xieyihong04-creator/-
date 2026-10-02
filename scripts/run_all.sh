@@ -51,11 +51,16 @@ python3 "$P/make_fix_tables.py"
 D "asr"
 python3 "$P/asr.py" 2>&1 | tee -a logs/asr.log
 
+# The authoritative text layer is the webmaster's own edition in src/<ep>.md. It is
+# mapped back onto the raw OCR indices (recovering sub-minute and end times, and
+# recording provenance), and everything in dist/ is rendered from that. Changing the
+# wording means editing src/, not dist/.
+D "authoritative edition"
+python3 "$P/make_auth_tables.py"
+
 for ep in xia shang; do
+  cn=$([ $ep = xia ] && echo 下 || echo 上)
   D "deliver $ep"
-  python3 "$P/deliver.py" "out/$ep.zh.final.json" "out/$ep.en.json" \
-    "dist/奇妙的人體機器_$([ $ep = xia ] && echo 下 || echo 上)" \
-    "高二上選修生物一 · 奇妙的人體機器（$([ $ep = xia ] && echo 下 || echo 上)）" \
-    "原片 $([ $ep = xia ] && echo 46 || echo 47) 分鐘｜National Geographic《The Human Machine》｜英文原聲＋繁體燒錄字幕"
+  python3 "$P/render_auth.py" "out/$ep.auth.json" "dist/奇妙的人體機器_$cn"
 done
 D "done: dist/"

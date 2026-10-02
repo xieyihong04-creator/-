@@ -1,0 +1,5727 @@
+{
+ "_source": "src/shang.md — 站長謝宜宏親自校訂版",
+ "_note": "dist/ 的唯一文字來源。zh/en/sec 逐字取自 src/，s/e 由 OCR 行還原，ocr 記錄每行背後的原始 OCR 序號。",
+ "title": "奇妙的人體機器（上）",
+ "meta": "47 分鐘｜National Geographic《The Human Machine》｜英文原聲＋繁體燒錄字幕",
+ "sections": [
+  {
+   "n": 1,
+   "title": "人體概論 · 第1段",
+   "s": 10,
+   "e": 158
+  },
+  {
+   "n": 2,
+   "title": "皮膚與觸覺 · 第1段",
+   "s": 172,
+   "e": 252
+  },
+  {
+   "n": 3,
+   "title": "皮膚與觸覺 · 第2段",
+   "s": 263,
+   "e": 452
+  },
+  {
+   "n": 4,
+   "title": "皮膚與觸覺 · 第3段",
+   "s": 468,
+   "e": 605
+  },
+  {
+   "n": 5,
+   "title": "視覺與眼睛 · 第1段",
+   "s": 615,
+   "e": 783
+  },
+  {
+   "n": 6,
+   "title": "視覺與眼睛 · 第2段",
+   "s": 795,
+   "e": 832
+  },
+  {
+   "n": 7,
+   "title": "視覺與眼睛 · 第3段",
+   "s": 841,
+   "e": 910
+  },
+  {
+   "n": 8,
+   "title": "人體概論 · 第2段",
+   "s": 926,
+   "e": 1092
+  },
+  {
+   "n": 9,
+   "title": "聽覺與耳朵 · 第1段",
+   "s": 1114,
+   "e": 1243
+  },
+  {
+   "n": 10,
+   "title": "聽覺與耳朵 · 第2段",
+   "s": 1255,
+   "e": 1323
+  },
+  {
+   "n": 11,
+   "title": "循環與血液 · 第1段",
+   "s": 1332,
+   "e": 1455
+  },
+  {
+   "n": 12,
+   "title": "肌肉與運動 · 第1段",
+   "s": 1461,
+   "e": 1515
+  },
+  {
+   "n": 13,
+   "title": "聽覺與耳朵 · 第3段",
+   "s": 1517,
+   "e": 1588
+  },
+  {
+   "n": 14,
+   "title": "呼吸與睡眠",
+   "s": 1596,
+   "e": 1737
+  },
+  {
+   "n": 15,
+   "title": "味覺與嗅覺",
+   "s": 1743,
+   "e": 1859
+  },
+  {
+   "n": 16,
+   "title": "循環與血液 · 第2段",
+   "s": 1870,
+   "e": 1904
+  },
+  {
+   "n": 17,
+   "title": "人體概論 · 第3段",
+   "s": 1926,
+   "e": 2057
+  },
+  {
+   "n": 18,
+   "title": "循環與血液 · 第3段",
+   "s": 2066,
+   "e": 2212
+  },
+  {
+   "n": 19,
+   "title": "肌肉與運動 · 第2段",
+   "s": 2219,
+   "e": 2336
+  },
+  {
+   "n": 20,
+   "title": "人體概論 · 第4段",
+   "s": 2336,
+   "e": 2462
+  },
+  {
+   "n": 21,
+   "title": "消化與代謝 · 第1段",
+   "s": 2471,
+   "e": 2601
+  },
+  {
+   "n": 22,
+   "title": "消化與代謝 · 第2段",
+   "s": 2610,
+   "e": 2808
+  },
+  {
+   "n": 23,
+   "title": "人體概論 · 第5段",
+   "s": 2817,
+   "e": 2834
+  }
+ ],
+ "lines": [
+  {
+   "s": 10.04,
+   "e": 12.38,
+   "sec": 1,
+   "zh": "我們最熟悉的人體",
+   "en": "is nothing more familiar, more mysterious, more breathtaking in its action, marvelous in its mechanics,",
+   "ocr": [
+    0
+   ]
+  },
+  {
+   "s": 13.38,
+   "e": 15.72,
+   "sec": 1,
+   "zh": "卻也最為神秘",
+   "en": "",
+   "ocr": [
+    1
+   ]
+  },
+  {
+   "s": 17.38,
+   "e": 22.29,
+   "sec": 1,
+   "zh": "人體動作最令人屏息",
+   "en": "",
+   "ocr": [
+    2
+   ]
+  },
+  {
+   "s": 22.39,
+   "e": 23.39,
+   "sec": 1,
+   "zh": "人體構造十分奇妙",
+   "en": "",
+   "ocr": [
+    3
+   ]
+  },
+  {
+   "s": 25.73,
+   "e": 28.3,
+   "sec": 1,
+   "zh": "各種感官異常敏銳",
+   "en": "exquisite in its range of senses, and staggering in its ability to understand.",
+   "ocr": [
+    4
+   ]
+  },
+  {
+   "s": 28.4,
+   "e": 31.06,
+   "sec": 1,
+   "zh": "理解能力令人詫異",
+   "en": "",
+   "ocr": [
+    5
+   ]
+  },
+  {
+   "s": 33.73,
+   "e": 36.74,
+   "sec": 1,
+   "zh": "我們要展開奇妙的一日之旅",
+   "en": "On a fantastic voyage through a single day, we plunge deep into the routine miracles of the human body.",
+   "ocr": [
+    7
+   ]
+  },
+  {
+   "s": 37.07,
+   "e": 40.41,
+   "sec": 1,
+   "zh": "深入瞭解人體每一天所展現的奇蹟",
+   "en": "",
+   "ocr": [
+    8
+   ]
+  },
+  {
+   "s": 41.74,
+   "e": 43.98,
+   "sec": 1,
+   "zh": "繼續做夢吧...",
+   "en": "",
+   "ocr": [
+    9
+   ]
+  },
+  {
+   "s": 44.08,
+   "e": 46.08,
+   "sec": 1,
+   "zh": "認識我們的器具",
+   "en": "Our instruments, engines, infrastructure, roadways and circuitry,",
+   "ocr": [
+    10
+   ]
+  },
+  {
+   "s": 46.41,
+   "e": 46.75,
+   "sec": 1,
+   "zh": "引擎",
+   "en": "",
+   "ocr": [
+    11
+   ]
+  },
+  {
+   "s": 49.75,
+   "e": 51.75,
+   "sec": 1,
+   "zh": "道路和電路系統",
+   "en": "",
+   "ocr": [
+    12
+   ]
+  },
+  {
+   "s": 52.42,
+   "e": 57.32,
+   "sec": 1,
+   "zh": "經歷一萬次的眨眼",
+   "en": "through 10,000 blinks, 20,000 breaths, 100,000 beats.",
+   "ocr": [
+    13
+   ]
+  },
+  {
+   "s": 57.42,
+   "e": 58.76,
+   "sec": 1,
+   "zh": "兩萬次的呼吸",
+   "en": "",
+   "ocr": [
+    14
+   ]
+  },
+  {
+   "s": 59.09,
+   "e": 60.09,
+   "sec": 1,
+   "zh": "10萬次的心跳",
+   "en": "",
+   "ocr": [
+    15
+   ]
+  },
+  {
+   "s": 63.1,
+   "e": 63.43,
+   "sec": 1,
+   "zh": "你好。",
+   "en": "Hello.",
+   "ocr": [
+    16
+   ]
+  },
+  {
+   "s": 64.1,
+   "e": 64.43,
+   "sec": 1,
+   "zh": "今天是奇妙的人體機器一生中，一個尋常又特殊的日子",
+   "en": "Today is an ordinary, extraordinary day in the life of the incredible human machine.",
+   "ocr": [
+    17
+   ]
+  },
+  {
+   "s": 77.44,
+   "e": 83.68,
+   "sec": 1,
+   "zh": "【奇妙的人體機器（上）】",
+   "en": "",
+   "ocr": [
+    20
+   ]
+  },
+  {
+   "s": 83.78,
+   "e": 88.12,
+   "sec": 1,
+   "zh": "其實我們不過是星塵",
+   "en": "Stardust is really all we are.",
+   "ocr": [
+    21
+   ]
+  },
+  {
+   "s": 89.12,
+   "e": 92.79,
+   "sec": 1,
+   "zh": "組成成分是氧、碳、氫和幾種元素",
+   "en": "Oxygen, carbon, hydrogen, and a handful of elements that would cost very little at any chemical supply shop.",
+   "ocr": [
+    22
+   ]
+  },
+  {
+   "s": 93.13,
+   "e": 98.13,
+   "sec": 1,
+   "zh": "這些花個幾塊到任何化工行都能買到",
+   "en": "",
+   "ocr": [
+    23
+   ]
+  },
+  {
+   "s": 98.47,
+   "e": 100.13,
+   "sec": 1,
+   "zh": "但將這些化學物混合在一起",
+   "en": "But get these chemicals together,",
+   "ocr": [
+    24
+   ]
+  },
+  {
+   "s": 100.8,
+   "e": 104.14,
+   "sec": 1,
+   "zh": "在宜居的環境中孕育了38億年",
+   "en": "marinate in a hospitable place for about 3.8 billion years,",
+   "ocr": [
+    25
+   ]
+  },
+  {
+   "s": 104.81,
+   "e": 108.48,
+   "sec": 1,
+   "zh": "普通的分子混合體就變得十分珍貴",
+   "en": "and the mundane mix of molecules becomes precious.",
+   "ocr": [
+    26
+   ]
+  },
+  {
+   "s": 113.81,
+   "e": 115.48,
+   "sec": 1,
+   "zh": "地球上住著60多億人",
+   "en": "There are more than 6 billion human bodies living on Earth,",
+   "ocr": [
+    27
+   ]
+  },
+  {
+   "s": 115.82,
+   "e": 121.49,
+   "sec": 1,
+   "zh": "每個人都是由無數微小細胞構成",
+   "en": "and each of us is the amalgamation of some 100 trillion microscopic cells.",
+   "ocr": [
+    28
+   ]
+  },
+  {
+   "s": 121.82,
+   "e": 126.16,
+   "sec": 1,
+   "zh": "雖然每個人的生命藍圖有99.9%是相同的",
+   "en": "While the blueprint for each individual are 99.9% identical,",
+   "ocr": [
+    29
+   ]
+  },
+  {
+   "s": 126.83,
+   "e": 129.5,
+   "sec": 1,
+   "zh": "但沒有哪兩個人是完全相同的",
+   "en": "no two of us are exactly the same.",
+   "ocr": [
+    30
+   ]
+  },
+  {
+   "s": 133.17,
+   "e": 134.17,
+   "sec": 1,
+   "zh": "隨著新的一天破曉",
+   "en": "New Day dawns, each human machine begins the succession of",
+   "ocr": [
+    31
+   ]
+  },
+  {
+   "s": 134.5,
+   "e": 139.84,
+   "sec": 1,
+   "zh": "每部人體機器便開始接連創造奇蹟直到午夜",
+   "en": "miracles that will take it from morning to midnight.",
+   "ocr": [
+    32
+   ]
+  },
+  {
+   "s": 155.52,
+   "e": 157.86,
+   "sec": 1,
+   "zh": "全都必須同心協力，發揮一己之力",
+   "en": "Muscles, bones, hearts, brains, all must marshal their forces and unite,",
+   "ocr": [
+    33
+   ]
+  },
+  {
+   "s": 158.19,
+   "e": 158.86,
+   "sec": 1,
+   "zh": "才能喚醒我們",
+   "en": "just to wake us up.",
+   "ocr": [
+    34
+   ]
+  },
+  {
+   "s": 172.87,
+   "e": 174.21,
+   "sec": 2,
+   "zh": "在人體的最表層",
+   "en": "At the surface of it all, a velvety overcoat of cells and protein keeps us in, and the rest of the world out.",
+   "ocr": [
+    36
+   ]
+  },
+  {
+   "s": 174.54,
+   "e": 177.88,
+   "sec": 2,
+   "zh": "有一層由細胞和蛋白質組成的光滑外衣包住身體",
+   "en": "",
+   "ocr": [
+    37
+   ]
+  },
+  {
+   "s": 178.21,
+   "e": 181.55,
+   "sec": 2,
+   "zh": "阻擋其他東西進入",
+   "en": "",
+   "ocr": [
+    38
+   ]
+  },
+  {
+   "s": 183.22,
+   "e": 187.55,
+   "sec": 2,
+   "zh": "這是我們的保溫兼散熱器",
+   "en": "",
+   "ocr": [
+    39
+   ]
+  },
+  {
+   "s": 187.89,
+   "e": 191.56,
+   "sec": 2,
+   "zh": "也是我們感知痛苦與愉悅的媒介",
+   "en": "Our radiator, our conduit of pain and pleasure, it is the body's largest organ, our skin.",
+   "ocr": [
+    40
+   ]
+  },
+  {
+   "s": 192.89,
+   "e": 197.23,
+   "sec": 2,
+   "zh": "我們的皮膚是人體最大的器官",
+   "en": "",
+   "ocr": [
+    41
+   ]
+  },
+  {
+   "s": 199.57,
+   "e": 202.9,
+   "sec": 2,
+   "zh": "皮膚看起來、摸起來都光滑如絲",
+   "en": "Our skin, smooth and silky to the eyes and touch. A closer look presents a very different landscape.",
+   "ocr": [
+    42
+   ]
+  },
+  {
+   "s": 207.91,
+   "e": 209.81,
+   "sec": 2,
+   "zh": "放大6百倍之後",
+   "en": "Magnified 600 times, our outermost skin is nothing but dead cells,",
+   "ocr": [
+    43
+   ]
+  },
+  {
+   "s": 209.91,
+   "e": 210.14,
+   "sec": 2,
+   "zh": "我們的最外層皮膚不過是死細胞",
+   "en": "",
+   "ocr": [
+    44
+   ]
+  },
+  {
+   "s": 213.91,
+   "e": 214.25,
+   "sec": 2,
+   "zh": "上頭滿是隆起和凹槽",
+   "en": "riddled with ridges and grooves, and pocked with countless bumps and holes.",
+   "ocr": [
+    46
+   ]
+  },
+  {
+   "s": 214.58,
+   "e": 217.58,
+   "sec": 2,
+   "zh": "還分布著無數腫塊和坑洞",
+   "en": "",
+   "ocr": [
+    47
+   ]
+  },
+  {
+   "s": 221.92,
+   "e": 225.93,
+   "sec": 2,
+   "zh": "就會發現每平方吋的人體上就住著數十萬細菌",
+   "en": "Look closer still, and we find hundreds of thousands of bacteria inhabit every square inch of us.",
+   "ocr": [
+    48
+   ]
+  },
+  {
+   "s": 235.94,
+   "e": 240.27,
+   "sec": 2,
+   "zh": "隨著時間流逝，我們身上的死皮不斷脫落",
+   "en": "With every tick of the clock, our dead skin gets sloughed off.",
+   "ocr": [
+    49
+   ]
+  },
+  {
+   "s": 242.28,
+   "e": 245.61,
+   "sec": 2,
+   "zh": "我們每小時至少會脫落60萬片皮屑",
+   "en": "We shed at least 600,000 particles of skin an hour, about a pound and a half's worth each year,",
+   "ocr": [
+    50
+   ]
+  },
+  {
+   "s": 246.28,
+   "e": 248.62,
+   "sec": 2,
+   "zh": "每年則會掉落1磅半左右的皮膚屑",
+   "en": "",
+   "ocr": [
+    51
+   ]
+  },
+  {
+   "s": 248.95,
+   "e": 252.95,
+   "sec": 2,
+   "zh": "我們住家內的塵埃有8成是皮膚屑",
+   "en": "which accounts for as much as 80% of the dust in our houses.",
+   "ocr": [
+    52
+   ]
+  },
+  {
+   "s": 263.3,
+   "e": 266.63,
+   "sec": 3,
+   "zh": "但我們有很多皮膚可以掉",
+   "en": "But there's plenty of skin to go around.",
+   "ocr": [
+    53
+   ]
+  },
+  {
+   "s": 267.97,
+   "e": 270.3,
+   "sec": 3,
+   "zh": "若能剝下皮膚然後把皮膚攤平",
+   "en": "If we could peel it off and lay it out flat, the average person's skin would cover some 18 square feet.",
+   "ocr": [
+    54
+   ]
+  },
+  {
+   "s": 270.64,
+   "e": 274.98,
+   "sec": 3,
+   "zh": "每個人的皮膚平均可覆蓋18平方呎的面積",
+   "en": "",
+   "ocr": [
+    55
+   ]
+  },
+  {
+   "s": 276.64,
+   "e": 277.98,
+   "sec": 3,
+   "zh": "皮膚雖只有數公釐厚",
+   "en": "Though just millimeters thick, it would weigh about six pounds.",
+   "ocr": [
+    56
+   ]
+  },
+  {
+   "s": 278.65,
+   "e": 281.88,
+   "sec": 3,
+   "zh": "重量卻約有6磅",
+   "en": "",
+   "ocr": [
+    57
+   ]
+  },
+  {
+   "s": 281.98,
+   "e": 284.99,
+   "sec": 3,
+   "zh": "而且我們不斷在製造更多皮膚",
+   "en": "And we're constantly making more.",
+   "ocr": [
+    58
+   ]
+  },
+  {
+   "s": 285.32,
+   "e": 286.32,
+   "sec": 3,
+   "zh": "只要等上一個月左右",
+   "en": "Just wait a month or so, and you'll have a shiny new coat,",
+   "ocr": [
+    59
+   ]
+  },
+  {
+   "s": 286.99,
+   "e": 289.66,
+   "sec": 3,
+   "zh": "我們就會有一身全新的外皮",
+   "en": "",
+   "ocr": [
+    60
+   ]
+  },
+  {
+   "s": 291.33,
+   "e": 294.33,
+   "sec": 3,
+   "zh": "也就是皮膚不全都是死皮",
+   "en": "which means skin can't be all dead.",
+   "ocr": [
+    61
+   ]
+  },
+  {
+   "s": 297.33,
+   "e": 298.33,
+   "sec": 3,
+   "zh": "進入表皮底下之後",
+   "en": "Dip below the surface, and you find cells continuously dividing to replace those dead cells above.",
+   "ocr": [
+    62
+   ]
+  },
+  {
+   "s": 298.67,
+   "e": 304.0,
+   "sec": 3,
+   "zh": "你會發現不斷有細胞分裂取代上方的死細胞",
+   "en": "",
+   "ocr": [
+    63
+   ]
+  },
+  {
+   "s": 306.34,
+   "e": 310.34,
+   "sec": 3,
+   "zh": "長達數公里的血管將血液輸送到皮膚的結締組織",
+   "en": "Kilometers of blood vessels pulse to skin's connective tissues.",
+   "ocr": [
+    64
+   ]
+  },
+  {
+   "s": 312.68,
+   "e": 316.35,
+   "sec": 3,
+   "zh": "更別忘了那些珍貴的神經末梢",
+   "en": "Not forgetting all those precious nerve endings.",
+   "ocr": [
+    65
+   ]
+  },
+  {
+   "s": 322.02,
+   "e": 326.03,
+   "sec": 3,
+   "zh": "長達45哩的神經從我們的頭部延伸到腳",
+   "en": "45 miles worth of nerve stretch from our heads down to our toes,",
+   "ocr": [
+    66
+   ]
+  },
+  {
+   "s": 326.36,
+   "e": 330.03,
+   "sec": 3,
+   "zh": "其中有許多伸入我們的皮膚",
+   "en": "and many reach to our skin.",
+   "ocr": [
+    67
+   ]
+  },
+  {
+   "s": 331.7,
+   "e": 335.04,
+   "sec": 3,
+   "zh": "有些部位的神經比較多",
+   "en": "Some people have more nerve endings in some parts more than others.",
+   "ocr": [
+    68
+   ]
+  },
+  {
+   "s": 336.37,
+   "e": 338.71,
+   "sec": 3,
+   "zh": "如果敏感度取決於器官大小",
+   "en": "If sensitivity were size dependent, we would look something like this.",
+   "ocr": [
+    69
+   ]
+  },
+  {
+   "s": 339.04,
+   "e": 341.04,
+   "sec": 3,
+   "zh": "我們會是長這個樣子",
+   "en": "",
+   "ocr": [
+    70
+   ]
+  },
+  {
+   "s": 344.04,
+   "e": 347.05,
+   "sec": 3,
+   "zh": "我們超級敏感的手腳、舌頭和嘴唇上",
+   "en": "",
+   "ocr": [
+    71
+   ]
+  },
+  {
+   "s": 347.38,
+   "e": 349.38,
+   "sec": 3,
+   "zh": "布滿觸覺受器",
+   "en": "Our super sensitive hands, feet, tongue and lips, each packed with touch receptors, would swell enormously.",
+   "ocr": [
+    72
+   ]
+  },
+  {
+   "s": 349.72,
+   "e": 353.05,
+   "sec": 3,
+   "zh": "這些部位會嚴重腫大",
+   "en": "",
+   "ocr": [
+    73
+   ]
+  },
+  {
+   "s": 353.39,
+   "e": 356.72,
+   "sec": 3,
+   "zh": "我們的腿則會像小雞的腳",
+   "en": "Our legs on the other hand would resemble a chickens.",
+   "ocr": [
+    74
+   ]
+  },
+  {
+   "s": 359.73,
+   "e": 360.73,
+   "sec": 3,
+   "zh": "值得慶幸的是",
+   "en": "Good thing for us, there is more to this organ than touch.",
+   "ocr": [
+    75
+   ]
+  },
+  {
+   "s": 361.4,
+   "e": 364.73,
+   "sec": 3,
+   "zh": "這種器官不僅具備觸覺功能",
+   "en": "",
+   "ocr": [
+    76
+   ]
+  },
+  {
+   "s": 365.07,
+   "e": 369.07,
+   "sec": 3,
+   "zh": "皮膚也是我們的加熱與冷卻系統",
+   "en": "Skin is also our heating and cooling system.",
+   "ocr": [
+    77
+   ]
+  },
+  {
+   "s": 369.4,
+   "e": 373.41,
+   "sec": 3,
+   "zh": "皮膚幫助我們體溫維持在華氏98.6度",
+   "en": "And by helping maintain that comfy 98.6 degrees Fahrenheit,",
+   "ocr": [
+    78
+   ]
+  },
+  {
+   "s": 373.74,
+   "e": 376.41,
+   "sec": 3,
+   "zh": "所以我們才能活命",
+   "en": "it keeps us alive.",
+   "ocr": [
+    79
+   ]
+  },
+  {
+   "s": 378.41,
+   "e": 379.75,
+   "sec": 3,
+   "zh": "皮膚利用血管網",
+   "en": "Through its network of blood vessels, skin carries as much as one-third of the heart's hot, freshly pumped blood.",
+   "ocr": [
+    80
+   ]
+  },
+  {
+   "s": 380.08,
+   "e": 385.09,
+   "sec": 3,
+   "zh": "溫熱新鮮血液",
+   "en": "",
+   "ocr": [
+    81
+   ]
+  },
+  {
+   "s": 387.09,
+   "e": 388.32,
+   "sec": 3,
+   "zh": "若體溫過高時",
+   "en": "Get too hot, and these vessels can widen to release heat from our bodies.",
+   "ocr": [
+    82
+   ]
+  },
+  {
+   "s": 388.42,
+   "e": 392.43,
+   "sec": 3,
+   "zh": "血管會擴張替身體散熱",
+   "en": "",
+   "ocr": [
+    83
+   ]
+  },
+  {
+   "s": 393.76,
+   "e": 396.1,
+   "sec": 3,
+   "zh": "但有時這樣做還不夠",
+   "en": "But sometimes that's not enough.",
+   "ocr": [
+    84
+   ]
+  },
+  {
+   "s": 404.44,
+   "e": 407.68,
+   "sec": 3,
+   "zh": "超出正常體溫好幾度",
+   "en": "A good workout can raise the body's temperature several degrees above normal.",
+   "ocr": [
+    85
+   ]
+  },
+  {
+   "s": 407.78,
+   "e": 408.78,
+   "sec": 3,
+   "zh": "若非皮膚的巧妙安全機制，這種情況可能致死",
+   "en": "A potentially deadly state if it weren't for skin's slick safety net.",
+   "ocr": [
+    86
+   ]
+  },
+  {
+   "s": 415.78,
+   "e": 418.69,
+   "sec": 3,
+   "zh": "流汗。我們皮膚上有兩百多萬個毛孔",
+   "en": "Sweat. More than 2 million holes across our skin can produce up to half a gallon of the liquid in an hour.",
+   "ocr": [
+    87,
+    88
+   ]
+  },
+  {
+   "s": 417.0,
+   "e": 421.46,
+   "sec": 3,
+   "zh": "可在1小時內產生半加侖的液體",
+   "en": "",
+   "ocr": [
+    89
+   ]
+  },
+  {
+   "s": 426.46,
+   "e": 427.46,
+   "sec": 3,
+   "zh": "受熱的水滴蒸發到空中",
+   "en": "The heated droplets evaporate into the air and leave the body cool.",
+   "ocr": [
+    90
+   ]
+  },
+  {
+   "s": 433.8,
+   "e": 434.47,
+   "sec": 3,
+   "zh": "利用拍攝熱影像而非可見光的特殊攝影機",
+   "en": "A special camera that images heat, not light. We can see this air conditioning system at work.",
+   "ocr": [
+    91
+   ]
+  },
+  {
+   "s": 442.81,
+   "e": 448.72,
+   "sec": 3,
+   "zh": "身體越熱的部位，顏色就越紅",
+   "en": "The hotter the body, the deeper the red.",
+   "ocr": [
+    92
+   ]
+  },
+  {
+   "s": 448.82,
+   "e": 451.15,
+   "sec": 3,
+   "zh": "果不其然，我們最熱的部位",
+   "en": "No surprise, some of the warmest parts of our bodies, our foreheads, palms and armpits,",
+   "ocr": [
+    93
+   ]
+  },
+  {
+   "s": 451.82,
+   "e": 452.39,
+   "sec": 3,
+   "zh": "例如額頭、手掌和腋窩，這些地方的汗腺最密集",
+   "en": "correlate with the greatest concentration of sweat glands.",
+   "ocr": [
+    94
+   ]
+  },
+  {
+   "s": 468.17,
+   "e": 469.5,
+   "sec": 4,
+   "zh": "但在進行早晨的例行公事時，我們較可能遭遇相反情形",
+   "en": "We're more likely to encounter the opposite extreme in our morning routine.",
+   "ocr": [
+    96
+   ]
+  },
+  {
+   "s": 474.18,
+   "e": 475.51,
+   "sec": 4,
+   "zh": "當暴露在寒冷中時",
+   "en": "Exposed to a chill, tiny muscles jerk our hairs to attention, bulging the skin around them.",
+   "ocr": [
+    97
+   ]
+  },
+  {
+   "s": 475.84,
+   "e": 478.18,
+   "sec": 4,
+   "zh": "小肌肉會急拉我們的毛髮",
+   "en": "",
+   "ocr": [
+    98
+   ]
+  },
+  {
+   "s": 478.85,
+   "e": 481.52,
+   "sec": 4,
+   "zh": "致使毛髮周遭的皮膚凸起",
+   "en": "",
+   "ocr": [
+    99
+   ]
+  },
+  {
+   "s": 483.52,
+   "e": 485.85,
+   "sec": 4,
+   "zh": "我們管那些凸起叫雞皮疙瘩",
+   "en": "Goose bumps.",
+   "ocr": [
+    100
+   ]
+  },
+  {
+   "s": 490.52,
+   "e": 492.86,
+   "sec": 4,
+   "zh": "科學家戲稱人類為「裸猿」",
+   "en": "Scientists have dubbed us the naked ape,",
+   "ocr": [
+    101
+   ]
+  },
+  {
+   "s": 493.19,
+   "e": 497.53,
+   "sec": 4,
+   "zh": "但就近一看，我們會發現自己不是光溜溜的",
+   "en": "but look closely, and we find we're anything but naked.",
+   "ocr": [
+    102
+   ]
+  },
+  {
+   "s": 500.87,
+   "e": 504.21,
+   "sec": 4,
+   "zh": "我們有些皮膚細胞會形成可長出毛髮的管",
+   "en": "Some of our skin cells form tubes that produce hair,",
+   "ocr": [
+    103
+   ]
+  },
+  {
+   "s": 504.54,
+   "e": 509.54,
+   "sec": 4,
+   "zh": "我們和毛茸茸的親緣動物一樣，皮膚上有許多毛囊",
+   "en": "and we have as many of these follicles punctuating our skin as do our hairy relatives.",
+   "ocr": [
+    104
+   ]
+  },
+  {
+   "s": 510.21,
+   "e": 512.88,
+   "sec": 4,
+   "zh": "我們約有5百萬個毛囊",
+   "en": "some 5 million of them.",
+   "ocr": [
+    105
+   ]
+  },
+  {
+   "s": 516.55,
+   "e": 518.22,
+   "sec": 4,
+   "zh": "新毛囊細胞不斷分裂之後",
+   "en": "Few hair cells divide.",
+   "ocr": [
+    106
+   ]
+  },
+  {
+   "s": 518.55,
+   "e": 521.46,
+   "sec": 4,
+   "zh": "會將舊細胞往上推出去",
+   "en": "They push old ones up and out.",
+   "ocr": [
+    107
+   ]
+  },
+  {
+   "s": 521.56,
+   "e": 524.23,
+   "sec": 4,
+   "zh": "待毛髮從皮膚表面冒出來",
+   "en": "By the time our hair breaches the surface, it's dead,",
+   "ocr": [
+    108
+   ]
+  },
+  {
+   "s": 524.56,
+   "e": 527.46,
+   "sec": 4,
+   "zh": "毛髮也已死亡",
+   "en": "which is why we don't feel pain with every haircut.",
+   "ocr": [
+    109
+   ]
+  },
+  {
+   "s": 527.56,
+   "e": 530.9,
+   "sec": 4,
+   "zh": "所以我們剪頭髮時不會感到疼痛",
+   "en": "",
+   "ocr": [
+    110
+   ]
+  },
+  {
+   "s": 534.24,
+   "e": 534.9,
+   "sec": 4,
+   "zh": "經過一番梳洗",
+   "en": "Cleaned and groomed, we venture into the bustling morning world.",
+   "ocr": [
+    111
+   ]
+  },
+  {
+   "s": 535.57,
+   "e": 538.91,
+   "sec": 4,
+   "zh": "我們冒險展開忙亂的晨間活動",
+   "en": "",
+   "ocr": [
+    112
+   ]
+  },
+  {
+   "s": 541.91,
+   "e": 542.91,
+   "sec": 4,
+   "zh": "在我們的四周，有其他奇妙的人體機器",
+   "en": "Around us, other incredible human machines greet the day",
+   "ocr": [
+    113
+   ]
+  },
+  {
+   "s": 544.58,
+   "e": 545.48,
+   "sec": 4,
+   "zh": "也在迎接一天的到來",
+   "en": "",
+   "ocr": [
+    114
+   ]
+  },
+  {
+   "s": 545.58,
+   "e": 549.58,
+   "sec": 4,
+   "zh": "每個人的體型、身材、膚色和膚質各不相同",
+   "en": "in all different sizes and shapes, colors and textures.",
+   "ocr": [
+    115
+   ]
+  },
+  {
+   "s": 551.25,
+   "e": 557.16,
+   "sec": 4,
+   "zh": "但從某個角度來看，人人擁有相同的皮膚",
+   "en": "But on some level, we all inhabit the same skin.",
+   "ocr": [
+    116
+   ]
+  },
+  {
+   "s": 557.26,
+   "e": 561.26,
+   "sec": 4,
+   "zh": "每個人的表皮底下有著相同數量的黑素細胞",
+   "en": "Below the surface, each of us has about the same number of melanocytes,",
+   "ocr": [
+    117
+   ]
+  },
+  {
+   "s": 562.26,
+   "e": 565.6,
+   "sec": 4,
+   "zh": "這些細胞會將黑色素注入我們的毛髮和皮膚",
+   "en": "the cells that pump the dark pigment melanin, into our hair and skin,",
+   "ocr": [
+    119
+   ]
+  },
+  {
+   "s": 566.27,
+   "e": 568.94,
+   "sec": 4,
+   "zh": "為毛髮和皮膚上色",
+   "en": "",
+   "ocr": [
+    121
+   ]
+  },
+  {
+   "s": 569.27,
+   "e": 577.61,
+   "sec": 4,
+   "zh": "決定我們是黑皮膚還是白皮膚、黑髮還是金髮的，僅僅是這些細胞產生的黑色素量",
+   "en": "It's just the amount of melanin these cells produce that determines whether we are black or white, brunette or blonde.",
+   "ocr": [
+    122,
+    123
+   ]
+  },
+  {
+   "s": 580.62,
+   "e": 582.95,
+   "sec": 4,
+   "zh": "一般來說，黑色素量越多顏色會越深",
+   "en": "Generally speaking, the more melanin, the darker.",
+   "ocr": [
+    124
+   ]
+  },
+  {
+   "s": 583.62,
+   "e": 588.62,
+   "sec": 4,
+   "zh": "相同的化學物也替另一種感覺器官上色",
+   "en": "That same chemical adds color to a very different sensory organ.",
+   "ocr": [
+    125
+   ]
+  },
+  {
+   "s": 588.96,
+   "e": 590.29,
+   "sec": 4,
+   "zh": "眼睛的顏色有藍有棕",
+   "en": "organ, blue or brown, green or hazel.",
+   "ocr": [
+    126
+   ]
+  },
+  {
+   "s": 590.96,
+   "e": 592.96,
+   "sec": 4,
+   "zh": "有綠有淡褐",
+   "en": "",
+   "ocr": [
+    127
+   ]
+  },
+  {
+   "s": 593.29,
+   "e": 597.2,
+   "sec": 4,
+   "zh": "是奇妙人體機器所擁有的最重要感官器官",
+   "en": "They are the most vital sensory organ that the incredible machine has.",
+   "ocr": [
+    128
+   ]
+  },
+  {
+   "s": 599.63,
+   "e": 600.97,
+   "sec": 4,
+   "zh": "我們的旅行才剛開始",
+   "en": "Our day has just begun, and the magnificent miracle of sight leads the way.",
+   "ocr": [
+    131
+   ]
+  },
+  {
+   "s": 601.3,
+   "e": 605.31,
+   "sec": 4,
+   "zh": "不可思議的視力引導我們展開一天的生活",
+   "en": "",
+   "ocr": [
+    132
+   ]
+  },
+  {
+   "s": 615.65,
+   "e": 618.65,
+   "sec": 5,
+   "zh": "我們的眼睛可在數微秒之間看清、跟蹤和聚焦",
+   "en": "In microseconds, our eyes sight, follow, focus, and process images fractions of an inch long,",
+   "ocr": [
+    133
+   ]
+  },
+  {
+   "s": 618.99,
+   "e": 620.99,
+   "sec": 5,
+   "zh": "處理不到1吋長的影像",
+   "en": "",
+   "ocr": [
+    134
+   ]
+  },
+  {
+   "s": 621.66,
+   "e": 623.66,
+   "sec": 5,
+   "zh": "或每小時可移動數百哩的影像",
+   "en": "or moving at hundreds of miles per hour, enabling us to assess and appreciate the world",
+   "ocr": [
+    135
+   ]
+  },
+  {
+   "s": 625.33,
+   "e": 637.33,
+   "sec": 5,
+   "zh": "是最能讓我們盡情評價欣賞周遭世界的官能",
+   "en": "more than any other sense.",
+   "ocr": [
+    136
+   ]
+  },
+  {
+   "s": 639.01,
+   "e": 641.34,
+   "sec": 5,
+   "zh": "眼睛或許是靈魂之窗",
+   "en": "They may be the windows to our souls, but on a less poetic level,",
+   "ocr": [
+    137
+   ]
+  },
+  {
+   "s": 641.68,
+   "e": 643.01,
+   "sec": 5,
+   "zh": "但從比較實際的角度來看",
+   "en": "",
+   "ocr": [
+    138
+   ]
+  },
+  {
+   "s": 643.68,
+   "e": 646.68,
+   "sec": 5,
+   "zh": "眼睛只是貪婪的光線收集器",
+   "en": "eyes are just hungry harvesters of light, trapping and translating it into electrical impulses",
+   "ocr": [
+    139
+   ]
+  },
+  {
+   "s": 647.01,
+   "e": 652.35,
+   "sec": 5,
+   "zh": "捕捉光線，再將之轉變成腦部能理解的電脈衝",
+   "en": "the brain can understand.",
+   "ocr": [
+    140
+   ]
+  },
+  {
+   "s": 656.69,
+   "e": 659.36,
+   "sec": 5,
+   "zh": "光線首先射中角膜",
+   "en": "Light hits the cornea first.",
+   "ocr": [
+    141
+   ]
+  },
+  {
+   "s": 661.03,
+   "e": 661.36,
+   "sec": 5,
+   "zh": "眼睛每分鐘會眨10次清潔滋潤這層透明薄膜",
+   "en": "This transparent layer, cleansed and lubricated about ten times a minute with every blink,",
+   "ocr": [
+    142
+   ]
+  },
+  {
+   "s": 666.37,
+   "e": 670.37,
+   "sec": 5,
+   "zh": "角膜允許光線射入眼睛並引導光前進",
+   "en": "admits and directs incoming light rays.",
+   "ocr": [
+    150
+   ]
+  },
+  {
+   "s": 672.37,
+   "e": 675.04,
+   "sec": 5,
+   "zh": "光線從角膜穿過黑色瞳孔",
+   "en": "There they pass through the dark opening of the pupil,",
+   "ocr": [
+    151
+   ]
+  },
+  {
+   "s": 675.71,
+   "e": 675.94,
+   "sec": 5,
+   "zh": "透明水晶體",
+   "en": "then a transparent protein lens.",
+   "ocr": [
+    152
+   ]
+  },
+  {
+   "s": 676.04,
+   "e": 678.38,
+   "sec": 5,
+   "zh": "然後經過含蛋白質的透明水晶體",
+   "en": "",
+   "ocr": [
+    153
+   ]
+  },
+  {
+   "s": 685.05,
+   "e": 685.29,
+   "sec": 5,
+   "zh": "負責管制光線的虹膜肌肉",
+   "en": "Gatekeepers of light, the muscles of the colourful iris,",
+   "ocr": [
+    154
+   ]
+  },
+  {
+   "s": 685.39,
+   "e": 688.72,
+   "sec": 5,
+   "zh": "在光線太強烈時會擠壓瞳孔使之縮小",
+   "en": "squeeze the pupil closed against too much light.",
+   "ocr": [
+    155
+   ]
+  },
+  {
+   "s": 689.39,
+   "e": 692.39,
+   "sec": 5,
+   "zh": "光線不足時虹膜肌肉會放鬆",
+   "en": "Not enough, the iris relaxes,",
+   "ocr": [
+    156
+   ]
+  },
+  {
+   "s": 692.73,
+   "e": 694.06,
+   "sec": 5,
+   "zh": "令瞳孔放大",
+   "en": "and the pupil opens.",
+   "ocr": [
+    157
+   ]
+  },
+  {
+   "s": 699.07,
+   "e": 701.07,
+   "sec": 5,
+   "zh": "瞳孔可在一瞬間放大縮小",
+   "en": "And in just a fraction of a second, it can slide back and forth between the two.",
+   "ocr": [
+    158
+   ]
+  },
+  {
+   "s": 704.74,
+   "e": 705.74,
+   "sec": 5,
+   "zh": "角膜和水晶體聚集光線",
+   "en": "Focused by cornea and lens, light then flies through the jelly-like bulk of the eye",
+   "ocr": [
+    159
+   ]
+  },
+  {
+   "s": 706.07,
+   "e": 717.32,
+   "sec": 5,
+   "zh": "接著光線穿過果凍狀的眼球體然後打到眼球後壁上",
+   "en": "and onto its rear wall. Just about a hundredth of an inch, thick.",
+   "ocr": [
+    160
+   ]
+  },
+  {
+   "s": 717.42,
+   "e": 718.75,
+   "sec": 5,
+   "zh": "視網膜上有1億2千多萬個光感受器",
+   "en": "This is the retina, where more than 120 million photoreceptors convert light into electrical",
+   "ocr": [
+    161
+   ]
+  },
+  {
+   "s": 719.42,
+   "e": 721.42,
+   "sec": 5,
+   "zh": "轉化為電脈衝",
+   "en": "impulses before processing and shipping them off to the brain.",
+   "ocr": [
+    162
+   ]
+  },
+  {
+   "s": 722.09,
+   "e": 725.43,
+   "sec": 5,
+   "zh": "經處理之後再將電脈衝傳送到腦部",
+   "en": "",
+   "ocr": [
+    163
+   ]
+  },
+  {
+   "s": 730.1,
+   "e": 730.33,
+   "sec": 5,
+   "zh": "這項驚人的壯舉消耗了我們大約三分之一的腦力",
+   "en": "Mind-boggling feat that soaks up about a third of our brain power, our brains continually",
+   "ocr": [
+    164
+   ]
+  },
+  {
+   "s": 734.1,
+   "e": 740.44,
+   "sec": 5,
+   "zh": "與前一刻處理的訊息",
+   "en": "compare new data with information processed a split second before.",
+   "ocr": [
+    166
+   ]
+  },
+  {
+   "s": 740.78,
+   "e": 743.44,
+   "sec": 5,
+   "zh": "腦部和預期會出現的東西結合",
+   "en": "Combined that with what they already expect to be there,",
+   "ocr": [
+    167
+   ]
+  },
+  {
+   "s": 743.78,
+   "e": 747.02,
+   "sec": 5,
+   "zh": "從而產生影像",
+   "en": "and vision is born.",
+   "ocr": [
+    168
+   ]
+  },
+  {
+   "s": 747.78,
+   "e": 752.45,
+   "sec": 5,
+   "zh": "至少，視覺產生的原理理當如此",
+   "en": "At least that's how it's supposed to work.",
+   "ocr": [
+    169
+   ]
+  },
+  {
+   "s": 752.79,
+   "e": 756.46,
+   "sec": 5,
+   "zh": "但如果失靈了，眼前的世界就會變成這副模樣",
+   "en": "If it doesn't, the world can look more like this.",
+   "ocr": [
+    170
+   ]
+  },
+  {
+   "s": 758.79,
+   "e": 760.13,
+   "sec": 5,
+   "zh": "62歲的琳達摩爾福特",
+   "en": "If you would put your chin into the cup here, we're going to take a picture of...",
+   "ocr": [
+    171
+   ]
+  },
+  {
+   "s": 760.8,
+   "e": 764.13,
+   "sec": 5,
+   "zh": "患有遺傳性疾病色素性視網膜炎",
+   "en": "62-year-old Linda Morford has a genetic disease called retinitis pigmentosa,",
+   "ocr": [
+    172
+   ]
+  },
+  {
+   "s": 764.8,
+   "e": 769.47,
+   "sec": 5,
+   "zh": "以致這40年來她眼睛的光感受器逐漸退化",
+   "en": "which has been gradually degrading her eyes photoreceptors for the past 40 years. Okay, that's good.",
+   "ocr": [
+    173
+   ]
+  },
+  {
+   "s": 772.81,
+   "e": 775.04,
+   "sec": 5,
+   "zh": "過去10年，她的光感受器沒有將光轉變成影像",
+   "en": "Thank you. They haven't turned light into sight for the last ten.",
+   "ocr": [
+    174
+   ]
+  },
+  {
+   "s": 775.14,
+   "e": 780.05,
+   "sec": 5,
+   "zh": "失去視力令我感到十分挫折",
+   "en": "It's frustrating to lose your sight because you run into things, you run into people,",
+   "ocr": [
+    175
+   ]
+  },
+  {
+   "s": 780.15,
+   "e": 780.38,
+   "sec": 5,
+   "zh": "因為我會撞到東西撞到人",
+   "en": "",
+   "ocr": [
+    176
+   ]
+  },
+  {
+   "s": 780.48,
+   "e": 782.48,
+   "sec": 5,
+   "zh": "這甚至會讓人感到抑鬱",
+   "en": "and it can be depressing.",
+   "ocr": [
+    177
+   ]
+  },
+  {
+   "s": 782.82,
+   "e": 783.82,
+   "sec": 5,
+   "zh": "把眼睛張大",
+   "en": "Just open up real long. Very good. Now, thanks to Dr. Mark Humayun of the University of Southern California, she may see again.",
+   "ocr": [
+    178
+   ]
+  },
+  {
+   "s": 795.83,
+   "e": 797.5,
+   "sec": 6,
+   "zh": "不可能成真",
+   "en": "All along we've been told this is impossible. It's science fiction. It can't happen. Good, look up.",
+   "ocr": [
+    179
+   ]
+  },
+  {
+   "s": 798.17,
+   "e": 802.5,
+   "sec": 6,
+   "zh": "胡馬尤恩醫生在琳達的眼球後方植入了一個精巧的小裝置",
+   "en": "Humayun has implanted an ingenious little device at the back of Linda's eye.",
+   "ocr": [
+    180
+   ]
+  },
+  {
+   "s": 802.84,
+   "e": 806.17,
+   "sec": 6,
+   "zh": "這16個電極應當能發揮簡單的視網膜功能",
+   "en": "Just 16 electrodes that should act as a simple retina, turning light into impulses that can be sent to the brain.",
+   "ocr": [
+    181
+   ]
+  },
+  {
+   "s": 806.51,
+   "e": 810.18,
+   "sec": 6,
+   "zh": "將光線轉換成可傳送到腦部的電脈衝",
+   "en": "",
+   "ocr": [
+    182
+   ]
+  },
+  {
+   "s": 815.18,
+   "e": 816.85,
+   "sec": 6,
+   "zh": "電流會刺激底下的神經細胞",
+   "en": "We lay it right on the retina. and the current stimulates the underlying nerve cells.",
+   "ocr": [
+    183
+   ]
+  },
+  {
+   "s": 817.52,
+   "e": 821.52,
+   "sec": 6,
+   "zh": "腦部接收到訊息時她會看見光點",
+   "en": "So when this information is received by the brain, you see a spot of light.",
+   "ocr": [
+    184
+   ]
+  },
+  {
+   "s": 823.86,
+   "e": 825.19,
+   "sec": 6,
+   "zh": "為了看見這些光點",
+   "en": "To perceive those spots, Linda had to first wear a special pair of sunglasses that capture light,",
+   "ocr": [
+    185
+   ]
+  },
+  {
+   "s": 825.53,
+   "e": 829.53,
+   "sec": 6,
+   "zh": "琳達首先必須配戴可捕捉光線的特製太陽眼鏡",
+   "en": "",
+   "ocr": [
+    186
+   ]
+  },
+  {
+   "s": 829.86,
+   "e": 832.2,
+   "sec": 6,
+   "zh": "轉化為電子訊號，從而啟動她眼內的植入物",
+   "en": "converted into electrical signals, and fire up the implants in her eyes.",
+   "ocr": [
+    187
+   ]
+  },
+  {
+   "s": 841.54,
+   "e": 841.78,
+   "sec": 7,
+   "zh": "醫生一一啟動電極",
+   "en": "As the doctors activated the electrodes one by one, it started to work.",
+   "ocr": [
+    188
+   ]
+  },
+  {
+   "s": 841.88,
+   "e": 844.21,
+   "sec": 7,
+   "zh": "植入物開始運作",
+   "en": "",
+   "ocr": [
+    189
+   ]
+  },
+  {
+   "s": 846.55,
+   "e": 852.55,
+   "sec": 7,
+   "zh": "他們啟動越來越多電極之後",
+   "en": "but Linda could now see light and movement. As they turn more and more electrodes on,",
+   "ocr": [
+    190
+   ]
+  },
+  {
+   "s": 856.22,
+   "e": 856.89,
+   "sec": 7,
+   "zh": "我就能看到門口的光",
+   "en": "I could see the lights on or the doorway.",
+   "ocr": [
+    191
+   ]
+  },
+  {
+   "s": 857.23,
+   "e": 859.89,
+   "sec": 7,
+   "zh": "我能夠辨別黑色和白色",
+   "en": "I could tell the difference between...",
+   "ocr": [
+    192
+   ]
+  },
+  {
+   "s": 860.56,
+   "e": 861.9,
+   "sec": 7,
+   "zh": "健康的視網膜會傳輸...",
+   "en": "A working retina transmits.",
+   "ocr": [
+    193
+   ]
+  },
+  {
+   "s": 864.57,
+   "e": 866.9,
+   "sec": 7,
+   "zh": "數百萬個訊號",
+   "en": "",
+   "ocr": [
+    196
+   ]
+  },
+  {
+   "s": 873.91,
+   "e": 874.14,
+   "sec": 7,
+   "zh": "隨著時間推移，她的大腦會進行補償",
+   "en": "But with each passing day, her brain compensates",
+   "ocr": [
+    197
+   ]
+  },
+  {
+   "s": 874.24,
+   "e": 874.48,
+   "sec": 7,
+   "zh": "她因而能看到更多細節",
+   "en": "and Linda sees more detail. What's over here? It's a house.",
+   "ocr": [
+    198
+   ]
+  },
+  {
+   "s": 890.59,
+   "e": 890.93,
+   "sec": 7,
+   "zh": "我們從未想過16個電極能讓琳達或任何患者恢復到他們現在所達到的視力水平",
+   "en": "We thought that 16 electrodes would never, ever give Linda or any of the patients the level of vision they have been able to attain.",
+   "ocr": [
+    202
+   ]
+  },
+  {
+   "s": 895.93,
+   "e": 903.51,
+   "sec": 7,
+   "zh": "腦部會設法將簡單的閃光變成有意義的影像",
+   "en": "From simple flashes of light, our brains can somehow conjure meaningful images.",
+   "ocr": [
+    203
+   ]
+  },
+  {
+   "s": 903.61,
+   "e": 904.94,
+   "sec": 7,
+   "zh": "在失明了10年之後",
+   "en": "After 10 years of blindness, Linda can see the grandchildren she never saw before.",
+   "ocr": [
+    204
+   ]
+  },
+  {
+   "s": 907.94,
+   "e": 910.18,
+   "sec": 7,
+   "zh": "之前從沒見過的孫子",
+   "en": "",
+   "ocr": [
+    206
+   ]
+  },
+  {
+   "s": 910.28,
+   "e": 910.95,
+   "sec": 7,
+   "zh": "「奶奶我在哪裡？」",
+   "en": "And they like to run in front of me. Where am I, Grandma? Where am I? I'm more connected to them, a little...",
+   "ocr": [
+    207
+   ]
+  },
+  {
+   "s": 926.96,
+   "e": 931.2,
+   "sec": 8,
+   "zh": "我比較能夠參與他們的生活",
+   "en": "a little more part of their lives, you know. Even for those of us lucky enough to see 20/20,",
+   "ocr": [
+    208
+   ]
+  },
+  {
+   "s": 931.3,
+   "e": 933.64,
+   "sec": 8,
+   "zh": "即使是幸運擁有標準視力的人",
+   "en": "",
+   "ocr": [
+    209
+   ]
+  },
+  {
+   "s": 934.3,
+   "e": 937.97,
+   "sec": 8,
+   "zh": "我們的視覺也不是在奇妙人體機器內獨自運作",
+   "en": "the sense of sight does not work alone in the incredible human machine.",
+   "ocr": [
+    210
+   ]
+  },
+  {
+   "s": 944.31,
+   "e": 947.98,
+   "sec": 8,
+   "zh": "我們頭部兩側長著人體的「麥克風」",
+   "en": "On either side of our head are the body's microphones.",
+   "ocr": [
+    211
+   ]
+  },
+  {
+   "s": 948.65,
+   "e": 949.99,
+   "sec": 8,
+   "zh": "騎自行車",
+   "en": "riding a bike, landing, perfecting a dive,",
+   "ocr": [
+    212
+   ]
+  },
+  {
+   "s": 950.32,
+   "e": 951.99,
+   "sec": 8,
+   "zh": "墜落在水面上",
+   "en": "",
+   "ocr": [
+    213
+   ]
+  },
+  {
+   "s": 952.32,
+   "e": 953.32,
+   "sec": 8,
+   "zh": "改進跳水姿勢",
+   "en": "",
+   "ocr": [
+    214
+   ]
+  },
+  {
+   "s": 953.99,
+   "e": 955.32,
+   "sec": 8,
+   "zh": "甚至學步兒走路",
+   "en": "even taking a baby step,",
+   "ocr": [
+    215
+   ]
+  },
+  {
+   "s": 955.66,
+   "e": 960.66,
+   "sec": 8,
+   "zh": "全是靠耳內的複雜精巧裝置才有可能達成",
+   "en": "all would be impossible without the intricate gadgetry deep inside our ears.",
+   "ocr": [
+    216
+   ]
+  },
+  {
+   "s": 966.67,
+   "e": 970.34,
+   "sec": 8,
+   "zh": "這兒有3根類似木匠水準儀充滿液體的管子",
+   "en": "Three fluid-filled tubes work",
+   "ocr": [
+    217
+   ]
+  },
+  {
+   "s": 970.67,
+   "e": 972.67,
+   "sec": 8,
+   "zh": "幫助我們保持平衡",
+   "en": "like carpenter's levels to help keep us balanced.",
+   "ocr": [
+    218
+   ]
+  },
+  {
+   "s": 975.68,
+   "e": 977.01,
+   "sec": 8,
+   "zh": "管內的液體會流動",
+   "en": "When we turn our heads, the fluids move, stimulating nerve cells,",
+   "ocr": [
+    219
+   ]
+  },
+  {
+   "s": 978.35,
+   "e": 979.35,
+   "sec": 8,
+   "zh": "進而刺激神經細胞",
+   "en": "",
+   "ocr": [
+    220
+   ]
+  },
+  {
+   "s": 979.68,
+   "e": 982.35,
+   "sec": 8,
+   "zh": "按三維方向告知腦部方位",
+   "en": "and orienting the brain in three dimensions,",
+   "ocr": [
+    221
+   ]
+  },
+  {
+   "s": 982.68,
+   "e": 987.02,
+   "sec": 8,
+   "zh": "上下、左右、前後",
+   "en": "up down, left right, forward, backward.",
+   "ocr": [
+    222
+   ]
+  },
+  {
+   "s": 989.02,
+   "e": 993.36,
+   "sec": 8,
+   "zh": "我們可用人工方式刺激這個強大的小小機械裝置",
+   "en": "It's a powerful little mechanism that we can stimulate artificially.",
+   "ocr": [
+    223
+   ]
+  },
+  {
+   "s": 995.36,
+   "e": 998.03,
+   "sec": 8,
+   "zh": "歡迎光臨詭界的明日世界",
+   "en": "Welcome to the weird world of tomorrow.",
+   "ocr": [
+    224
+   ]
+  },
+  {
+   "s": 1002.37,
+   "e": 1003.27,
+   "sec": 8,
+   "zh": "透過特製的電流頭戴裝置",
+   "en": "With a special electrified headset, scientists in Japan have taken hold of our balance",
+   "ocr": [
+    225
+   ]
+  },
+  {
+   "s": 1003.37,
+   "e": 1007.71,
+   "sec": 8,
+   "zh": "我們的平衡中心",
+   "en": "centers.",
+   "ocr": [
+    226
+   ]
+  },
+  {
+   "s": 1009.71,
+   "e": 1013.05,
+   "sec": 8,
+   "zh": "他們藉由傳送電流到內耳神經創造出遙控人類",
+   "en": "By sending current down to those nerves in our inner ears, they've created remote-controlled human beings.",
+   "ocr": [
+    227
+   ]
+  },
+  {
+   "s": 1026.4,
+   "e": 1027.4,
+   "sec": 8,
+   "zh": "我不曾有過這種感覺",
+   "en": "I've never experienced such a sensation. It was like being drunk on the deck of a boat rocking in the waves.",
+   "ocr": [
+    229
+   ]
+  },
+  {
+   "s": 1027.73,
+   "e": 1035.97,
+   "sec": 8,
+   "zh": "感覺像是在船上喝醉了",
+   "en": "",
+   "ocr": [
+    230
+   ]
+  },
+  {
+   "s": 1036.07,
+   "e": 1036.41,
+   "sec": 8,
+   "zh": "他們是使用低壓電流",
+   "en": "The current is low voltage, just enough to throw people off balance and compel them to",
+   "ocr": [
+    231
+   ]
+  },
+  {
+   "s": 1038.07,
+   "e": 1042.74,
+   "sec": 8,
+   "zh": "只能令人失去平衡然後強迫他們往左邊或右邊走",
+   "en": "walk left, right,",
+   "ocr": [
+    233
+   ]
+  },
+  {
+   "s": 1043.08,
+   "e": 1046.08,
+   "sec": 8,
+   "zh": "甚至還能逼他們按大8字形前進",
+   "en": "even trace the shape of a giant pretzel.",
+   "ocr": [
+    234
+   ]
+  },
+  {
+   "s": 1050.75,
+   "e": 1052.32,
+   "sec": 8,
+   "zh": "我的身體失控",
+   "en": "My body was out of control.",
+   "ocr": [
+    235
+   ]
+  },
+  {
+   "s": 1053.09,
+   "e": 1055.42,
+   "sec": 8,
+   "zh": "我的身體左搖右擺的",
+   "en": "It was swaying to the left and to the right.",
+   "ocr": [
+    236
+   ]
+  },
+  {
+   "s": 1056.76,
+   "e": 1059.09,
+   "sec": 8,
+   "zh": "我們甚至能遙控自己",
+   "en": "We can even remote control ourselves.",
+   "ocr": [
+    237
+   ]
+  },
+  {
+   "s": 1064.1,
+   "e": 1064.33,
+   "sec": 8,
+   "zh": "我們不是要控制人",
+   "en": "We're not trying to control people.",
+   "ocr": [
+    240
+   ]
+  },
+  {
+   "s": 1064.43,
+   "e": 1074.11,
+   "sec": 8,
+   "zh": "（前田太郎，NTT通信科學實驗室）而是為了幫助他們",
+   "en": "Or manipulate their actions. Rather, we want to help them, help guide them.",
+   "ocr": [
+    241
+   ]
+  },
+  {
+   "s": 1074.44,
+   "e": 1077.68,
+   "sec": 8,
+   "zh": "幫忙引導他們",
+   "en": "",
+   "ocr": [
+    242
+   ]
+  },
+  {
+   "s": 1077.78,
+   "e": 1080.12,
+   "sec": 8,
+   "zh": "尤其是那些平衡感有問題或患有眩暈的人",
+   "en": "Especially people with balance problems or dizziness.",
+   "ocr": [
+    243
+   ]
+  },
+  {
+   "s": 1082.12,
+   "e": 1082.35,
+   "sec": 8,
+   "zh": "研究人員說…",
+   "en": "",
+   "ocr": [
+    244
+   ]
+  },
+  {
+   "s": 1083.45,
+   "e": 1086.79,
+   "sec": 8,
+   "zh": "將來這裝置甚至可能幫助全球定位系統等導航裝置",
+   "en": "",
+   "ocr": [
+    246
+   ]
+  },
+  {
+   "s": 1087.46,
+   "e": 1089.46,
+   "sec": 8,
+   "zh": "引導人類前往目的地",
+   "en": "The researchers say one day it may even help navigational devices like GPS to physically guide us to our destinations or make a video game feel more like a roller coaster.",
+   "ocr": [
+    247
+   ]
+  },
+  {
+   "s": 1089.79,
+   "e": 1092.79,
+   "sec": 8,
+   "zh": "或是讓玩遊戲更加刺激",
+   "en": "",
+   "ocr": [
+    248
+   ]
+  },
+  {
+   "s": 1114.48,
+   "e": 1116.05,
+   "sec": 9,
+   "zh": "我們的耳朵還提供另一種強大的感知能力",
+   "en": "And our ears provide another powerful sensation to enrich our day.",
+   "ocr": [
+    249
+   ]
+  },
+  {
+   "s": 1116.15,
+   "e": 1119.49,
+   "sec": 9,
+   "zh": "豐富我們的生活",
+   "en": "",
+   "ocr": [
+    250
+   ]
+  },
+  {
+   "s": 1124.16,
+   "e": 1126.16,
+   "sec": 9,
+   "zh": "就會在空氣中形成波",
+   "en": "Every time we, or anything else for that matter, make a move or vibrate, we create ripples in the air.",
+   "ocr": [
+    251
+   ]
+  },
+  {
+   "s": 1126.83,
+   "e": 1128.16,
+   "sec": 9,
+   "zh": "這些不同的波是以不同頻率前進",
+   "en": "Distinct waves all traveling at different frequencies,",
+   "ocr": [
+    252
+   ]
+  },
+  {
+   "s": 1131.17,
+   "e": 1133.5,
+   "sec": 9,
+   "zh": "並以750哩的時速進入我們的耳朵",
+   "en": "which waft into our ears at some 750 miles per hour, and produce sound.",
+   "ocr": [
+    253
+   ]
+  },
+  {
+   "s": 1142.51,
+   "e": 1143.51,
+   "sec": 9,
+   "zh": "和雷達碟一樣",
+   "en": "Like radar dishes, our ears channel the sound waves deep into our skulls.",
+   "ocr": [
+    254
+   ]
+  },
+  {
+   "s": 1143.85,
+   "e": 1147.85,
+   "sec": 9,
+   "zh": "我們的耳朵會將聲波導入我們的頭顱深處",
+   "en": "",
+   "ocr": [
+    255
+   ]
+  },
+  {
+   "s": 1149.52,
+   "e": 1152.19,
+   "sec": 9,
+   "zh": "我們的耳膜會隨著聲波的頻率振動",
+   "en": "Our ear drums vibrate in tune to the frequencies,",
+   "ocr": [
+    256
+   ]
+  },
+  {
+   "s": 1152.52,
+   "e": 1156.53,
+   "sec": 9,
+   "zh": "推動3根和米粒同樣大的小骨頭",
+   "en": "moving three tiny bones, each about as long as a grain of rice.",
+   "ocr": [
+    257
+   ]
+  },
+  {
+   "s": 1161.2,
+   "e": 1162.53,
+   "sec": 9,
+   "zh": "放大20倍之後",
+   "en": "Magnified 20 times, we can see the ear.",
+   "ocr": [
+    258
+   ]
+  },
+  {
+   "s": 1162.87,
+   "e": 1165.53,
+   "sec": 9,
+   "zh": "我們可以看見耳朵如何聽到聲音",
+   "en": "",
+   "ocr": [
+    259
+   ]
+  },
+  {
+   "s": 1165.87,
+   "e": 1167.54,
+   "sec": 9,
+   "zh": "耳內的情形",
+   "en": "",
+   "ocr": [
+    260
+   ]
+  },
+  {
+   "s": 1167.87,
+   "e": 1170.54,
+   "sec": 9,
+   "zh": "和耳外的都看得到",
+   "en": "Inside, the bones' movements get converted to pulses of pressure,",
+   "ocr": [
+    261
+   ]
+  },
+  {
+   "s": 1183.89,
+   "e": 1184.12,
+   "sec": 9,
+   "zh": "骨頭的動作會轉變成壓力脈衝促使液體振動",
+   "en": "",
+   "ocr": [
+    262
+   ]
+  },
+  {
+   "s": 1184.22,
+   "e": 1193.23,
+   "sec": 9,
+   "zh": "神經細胞會將這一切傳送到腦部",
+   "en": "which vibrates fluid, which disturbs tiny hairs, which excite nerve cells, which translate all of this to the brain.",
+   "ocr": [
+    263
+   ]
+  },
+  {
+   "s": 1198.9,
+   "e": 1202.24,
+   "sec": 9,
+   "zh": "我們的耳朵或許覺得有一種聲音最悅耳",
+   "en": "One sound, perhaps more than any other, is music to our ears.",
+   "ocr": [
+    264
+   ]
+  },
+  {
+   "s": 1202.91,
+   "e": 1205.24,
+   "sec": 9,
+   "zh": "那就是人類的聲音",
+   "en": "The human voice.",
+   "ocr": [
+    265
+   ]
+  },
+  {
+   "s": 1208.24,
+   "e": 1210.58,
+   "sec": 9,
+   "zh": "這件器具用途十分廣泛",
+   "en": "It's an astonishingly versatile instrument, but it's vulnerable.",
+   "ocr": [
+    266
+   ]
+  },
+  {
+   "s": 1213.58,
+   "e": 1215.48,
+   "sec": 9,
+   "zh": "但也十分脆弱",
+   "en": "",
+   "ocr": [
+    268
+   ]
+  },
+  {
+   "s": 1215.58,
+   "e": 1221.26,
+   "sec": 9,
+   "zh": "史密斯飛船主唱史蒂芬泰勒是靠聲帶工作",
+   "en": "As lead singer for Aerosmith, Stephen Tyler's work depends on his vocal cords.",
+   "ocr": [
+    269
+   ]
+  },
+  {
+   "s": 1230.27,
+   "e": 1234.27,
+   "sec": 9,
+   "zh": "很少人會想到，當我們說話、唱歌、大笑或尖叫時",
+   "en": "Few of us think about the trauma we generate in our voice boxes when we talk, sing, laugh, or scream.",
+   "ocr": [
+    270
+   ]
+  },
+  {
+   "s": 1234.6,
+   "e": 1237.27,
+   "sec": 9,
+   "zh": "會對我們的喉嚨造成多大的創傷",
+   "en": "",
+   "ocr": [
+    271
+   ]
+  },
+  {
+   "s": 1237.94,
+   "e": 1240.28,
+   "sec": 9,
+   "zh": "但只要來看史蒂芬泰勒的咽喉",
+   "en": "But if you were to look down the gullet of Stephen Tyler,",
+   "ocr": [
+    272
+   ]
+  },
+  {
+   "s": 1240.61,
+   "e": 1242.61,
+   "sec": 9,
+   "zh": "就會明白他和數百萬其他人",
+   "en": "",
+   "ocr": [
+    273
+   ]
+  },
+  {
+   "s": 1242.95,
+   "e": 1243.95,
+   "sec": 9,
+   "zh": "一樣濫用脆弱的器具",
+   "en": "it would show why he and millions of others are wreaking havoc on a delicate instrument.",
+   "ocr": [
+    274
+   ]
+  },
+  {
+   "s": 1255.62,
+   "e": 1256.96,
+   "sec": 10,
+   "zh": "今晚在史密斯飛船演唱時",
+   "en": "Tonight, as Aerosmith perform, Dr.",
+   "ocr": [
+    275
+   ]
+  },
+  {
+   "s": 1257.63,
+   "e": 1259.96,
+   "sec": 10,
+   "zh": "史蒂芬札特爾和他麻薩諸塞州醫院的研究小組",
+   "en": "Steven Zeitels and his team from Massachusetts General Hospital,",
+   "ocr": [
+    276
+   ]
+  },
+  {
+   "s": 1263.63,
+   "e": 1264.63,
+   "sec": 10,
+   "zh": "將獲得難得的待遇",
+   "en": "will get a rare treat.",
+   "ocr": [
+    277
+   ]
+  },
+  {
+   "s": 1264.97,
+   "e": 1267.64,
+   "sec": 10,
+   "zh": "在特殊監測儀器的協助下",
+   "en": "With the help of special monitoring equipment,",
+   "ocr": [
+    278
+   ]
+  },
+  {
+   "s": 1268.64,
+   "e": 1272.64,
+   "sec": 10,
+   "zh": "他們將看見這對知名聲帶如何能忍受如此極端狀況",
+   "en": "they'll see how this famous pair of vocal cords holds up to such extremes.",
+   "ocr": [
+    279
+   ]
+  },
+  {
+   "s": 1273.98,
+   "e": 1275.31,
+   "sec": 10,
+   "zh": "札特爾醫生，我要替我的孩子問",
+   "en": "Doctors, Zeitels, one time for my kids, what are you, what is this monitoring?",
+   "ocr": [
+    280
+   ]
+  },
+  {
+   "s": 1275.64,
+   "e": 1278.55,
+   "sec": 10,
+   "zh": "這東西是要監測什麼？",
+   "en": "",
+   "ocr": [
+    281
+   ]
+  },
+  {
+   "s": 1278.65,
+   "e": 1279.32,
+   "sec": 10,
+   "zh": "我們要觀察你頸部皮膚的振動狀況",
+   "en": "What we're going to be doing is looking at the vibrations on the skin of your neck,",
+   "ocr": [
+    282
+   ]
+  },
+  {
+   "s": 1285.32,
+   "e": 1288.66,
+   "sec": 10,
+   "zh": "測量你的聲音有多大",
+   "en": "which is going to pick up the intensity of your voice. It's going to be picking up the loudness of your voice.",
+   "ocr": [
+    285
+   ]
+  },
+  {
+   "s": 1289.33,
+   "e": 1290.33,
+   "sec": 10,
+   "zh": "醫生，謝謝你，謝謝",
+   "en": "Thank you, Doctor. Thank you.",
+   "ocr": [
+    286
+   ]
+  },
+  {
+   "s": 1290.66,
+   "e": 1291.99,
+   "sec": 10,
+   "zh": "要來進行尖端的實驗",
+   "en": "Into the great beyond.",
+   "ocr": [
+    287
+   ]
+  },
+  {
+   "s": 1293.0,
+   "e": 1294.23,
+   "sec": 10,
+   "zh": "接受無人經歷過的體驗",
+   "en": "",
+   "ocr": [
+    288
+   ]
+  },
+  {
+   "s": 1297.0,
+   "e": 1301.0,
+   "sec": 10,
+   "zh": "今晚舉行演唱會時，札特爾會在後台利用內視鏡",
+   "en": "Backstage, throughout tonight's concert, Zeitels will use an Endoscope to examine Tyler's voice box up close.",
+   "ocr": [
+    289,
+    290,
+    291
+   ]
+  },
+  {
+   "s": 1302.0,
+   "e": 1304.01,
+   "sec": 10,
+   "zh": "詳細檢查泰勒的喉頭",
+   "en": "",
+   "ocr": [
+    293
+   ]
+  },
+  {
+   "s": 1304.34,
+   "e": 1310.68,
+   "sec": 10,
+   "zh": "盡量別碰兩邊的地方",
+   "en": "Try not to touch the sides. Yep. Got it. Great Stephen.",
+   "ocr": [
+    294
+   ]
+  },
+  {
+   "s": 1311.35,
+   "e": 1312.68,
+   "sec": 10,
+   "zh": "張開嘴",
+   "en": "",
+   "ocr": [
+    295
+   ]
+  },
+  {
+   "s": 1321.02,
+   "e": 1322.02,
+   "sec": 10,
+   "zh": "我們很難得能看見實力派歌手的喉頭內部",
+   "en": "It's a rare insight into what goes on in a high, a high performance singer.",
+   "ocr": [
+    296
+   ]
+  },
+  {
+   "s": 1322.69,
+   "e": 1323.36,
+   "sec": 10,
+   "zh": "即時測量頂尖歌手",
+   "en": "Real-time measures of a performer who is at the top of his game, doing a live performance in front of thousands of people.",
+   "ocr": [
+    297
+   ]
+  },
+  {
+   "s": 1332.37,
+   "e": 1341.7,
+   "sec": 11,
+   "zh": "這是有史以來的頭一遭",
+   "en": "That's at first hasn't been done before.",
+   "ocr": [
+    300
+   ]
+  },
+  {
+   "s": 1346.72,
+   "e": 1348.05,
+   "sec": 11,
+   "zh": "為了產生這樣的聲音",
+   "en": "To produce these kinds of sounds,",
+   "ocr": [
+    301
+   ]
+  },
+  {
+   "s": 1348.72,
+   "e": 1355.39,
+   "sec": 11,
+   "zh": "泰勒的聲帶平均每秒會碰撞170次",
+   "en": "Tyler's vocal cords are slamming together an average of 170 times a second.",
+   "ocr": [
+    302
+   ]
+  },
+  {
+   "s": 1356.06,
+   "e": 1359.06,
+   "sec": 11,
+   "zh": "他的聲帶在一場演唱會當中會碰撞50多萬次",
+   "en": "That's more than half a million times during the course of a concert",
+   "ocr": [
+    303
+   ]
+  },
+  {
+   "s": 1359.4,
+   "e": 1364.07,
+   "sec": 11,
+   "zh": "在他長達30年的演唱生涯中則碰撞近10億次",
+   "en": "and nearly a billion times during the course of his 30-year professional career.",
+   "ocr": [
+    304
+   ]
+  },
+  {
+   "s": 1364.4,
+   "e": 1367.74,
+   "sec": 11,
+   "zh": "人體沒有哪個部位",
+   "en": "There's no point.",
+   "ocr": [
+    305
+   ]
+  },
+  {
+   "s": 1368.07,
+   "e": 1372.41,
+   "sec": 11,
+   "zh": "（哈佛大學與麻州總醫院）以及剪切力",
+   "en": "part of the human body that likely sees these kinds of collision forces and shearing stresses,",
+   "ocr": [
+    306
+   ]
+  },
+  {
+   "s": 1373.08,
+   "e": 1376.75,
+   "sec": 11,
+   "zh": "所以聲帶久了就會磨損",
+   "en": "which is why vocal folds essentially wear out over time.",
+   "ocr": [
+    307
+   ]
+  },
+  {
+   "s": 1378.08,
+   "e": 1379.75,
+   "sec": 11,
+   "zh": "也因此在幾個月前",
+   "en": "It's also why just months earlier, damaged vocal calls canceled much of Aerosmith's tour.",
+   "ocr": [
+    308
+   ]
+  },
+  {
+   "s": 1380.08,
+   "e": 1384.75,
+   "sec": 11,
+   "zh": "史密斯飛船樂團因泰勒聲帶受損，取消了大半的巡迴演唱會",
+   "en": "",
+   "ocr": [
+    309
+   ]
+  },
+  {
+   "s": 1385.09,
+   "e": 1387.76,
+   "sec": 11,
+   "zh": "泰勒幾乎無法唱歌",
+   "en": "Tyler could barely sing.",
+   "ocr": [
+    310
+   ]
+  },
+  {
+   "s": 1392.76,
+   "e": 1395.1,
+   "sec": 11,
+   "zh": "他不得不請札特爾替他動刀",
+   "en": "forcing him to undergo Zeitels' knife, or laser in this case.",
+   "ocr": [
+    311
+   ]
+  },
+  {
+   "s": 1395.43,
+   "e": 1397.77,
+   "sec": 11,
+   "zh": "當時札特爾是用雷射動手術",
+   "en": "",
+   "ocr": [
+    312
+   ]
+  },
+  {
+   "s": 1398.1,
+   "e": 1400.77,
+   "sec": 11,
+   "zh": "史蒂芬的聲帶出血",
+   "en": "Stephen basically had a vocal bleed, which is very common in performers.",
+   "ocr": [
+    313
+   ]
+  },
+  {
+   "s": 1401.44,
+   "e": 1404.44,
+   "sec": 11,
+   "zh": "這種症狀在表演者身上很常見",
+   "en": "",
+   "ocr": [
+    314
+   ]
+  },
+  {
+   "s": 1404.77,
+   "e": 1406.78,
+   "sec": 11,
+   "zh": "其實擁有好口才的人常出現這種傷害",
+   "en": "common in fact to many with a gift of gab,",
+   "ocr": [
+    315
+   ]
+  },
+  {
+   "s": 1407.44,
+   "e": 1408.44,
+   "sec": 11,
+   "zh": "例如律師和電話推銷員",
+   "en": "from attorneys to telemarketers.",
+   "ocr": [
+    316
+   ]
+  },
+  {
+   "s": 1413.12,
+   "e": 1414.45,
+   "sec": 11,
+   "zh": "這雷射手術",
+   "en": "The laser surgery, which Zeitels and his team pioneered,",
+   "ocr": [
+    317
+   ]
+  },
+  {
+   "s": 1418.12,
+   "e": 1420.79,
+   "sec": 11,
+   "zh": "是將受損的血管封住以止血",
+   "en": "works by sealing off damaged vessels to stop the bleeding.",
+   "ocr": [
+    318
+   ]
+  },
+  {
+   "s": 1423.13,
+   "e": 1423.79,
+   "sec": 11,
+   "zh": "這是史蒂芬泰勒的喉頭",
+   "en": "This is Stephen Tyler's voice box,",
+   "ocr": [
+    319
+   ]
+  },
+  {
+   "s": 1424.13,
+   "e": 1428.8,
+   "sec": 11,
+   "zh": "這些是他漸漸消失的脆弱血管",
+   "en": "and these are his fragile blood vessels disappearing.",
+   "ocr": [
+    320
+   ]
+  },
+  {
+   "s": 1431.8,
+   "e": 1434.47,
+   "sec": 11,
+   "zh": "他有辦法封住那些血管",
+   "en": "He was able to zap those blood vessels,",
+   "ocr": [
+    321
+   ]
+  },
+  {
+   "s": 1434.8,
+   "e": 1439.14,
+   "sec": 11,
+   "zh": "所以我才能上台演唱，希望能唱得好",
+   "en": "so I go out there and just sing and hope for the best.",
+   "ocr": [
+    322
+   ]
+  },
+  {
+   "s": 1442.48,
+   "e": 1444.15,
+   "sec": 11,
+   "zh": "現在史蒂芬走向舞台",
+   "en": "Now, as Stephen heads on stage, his finally tuesday",
+   "ocr": [
+    323
+   ]
+  },
+  {
+   "s": 1444.81,
+   "e": 1448.48,
+   "sec": 11,
+   "zh": "他修復好的聲帶將開始工作",
+   "en": "vocal chords spring into action.",
+   "ocr": [
+    324
+   ]
+  },
+  {
+   "s": 1453.49,
+   "e": 1455.83,
+   "sec": 11,
+   "zh": "這是史蒂芬泰勒唱歌時的外表",
+   "en": "This is Stephen Tyler outside.",
+   "ocr": [
+    325
+   ]
+  },
+  {
+   "s": 1461.5,
+   "e": 1465.84,
+   "sec": 12,
+   "zh": "這是他體內的情況。(泰勒說)「每次我照鏡子...」",
+   "en": "Every time that I look in the mirror, always...",
+   "ocr": [
+    327
+   ]
+  },
+  {
+   "s": 1466.5,
+   "e": 1472.51,
+   "sec": 12,
+   "zh": "我臉上的皺紋就越來越清晰",
+   "en": "",
+   "ocr": [
+    328
+   ]
+  },
+  {
+   "s": 1472.84,
+   "e": 1473.41,
+   "sec": 12,
+   "zh": "我們每次呼氣",
+   "en": "Every time we exhale,",
+   "ocr": [
+    329
+   ]
+  },
+  {
+   "s": 1475.51,
+   "e": 1479.52,
+   "sec": 12,
+   "zh": "會迫使空氣通過兩片聲帶膜之間",
+   "en": "we force air through our two membranous vocal cords. When we bring them together,",
+   "ocr": [
+    332
+   ]
+  },
+  {
+   "s": 1479.85,
+   "e": 1481.85,
+   "sec": 12,
+   "zh": "使兩片聲帶膜碰撞，聲帶膜就會振動",
+   "en": "they vibrate.",
+   "ocr": [
+    333
+   ]
+  },
+  {
+   "s": 1482.52,
+   "e": 1493.53,
+   "sec": 12,
+   "zh": "繼續做夢吧…",
+   "en": "These vibrations produce sound, much like a guitar string after it's been plucked.",
+   "ocr": [
+    334
+   ]
+  },
+  {
+   "s": 1493.86,
+   "e": 1497.2,
+   "sec": 12,
+   "zh": "肌肉會打開和閉合聲帶改變音高",
+   "en": "Muscles open and close the chords and change the sound's pitch.",
+   "ocr": [
+    335
+   ]
+  },
+  {
+   "s": 1497.53,
+   "e": 1500.2,
+   "sec": 12,
+   "zh": "繼續做夢吧...（歌詞：Dream On）",
+   "en": "",
+   "ocr": [
+    336
+   ]
+  },
+  {
+   "s": 1500.87,
+   "e": 1501.87,
+   "sec": 12,
+   "zh": "唱低音時",
+   "en": "During low notes, the chords are loose and vibrate more slowly.",
+   "ocr": [
+    337
+   ]
+  },
+  {
+   "s": 1502.21,
+   "e": 1504.54,
+   "sec": 12,
+   "zh": "聲帶比較放鬆，振動速度也較慢",
+   "en": "",
+   "ocr": [
+    338
+   ]
+  },
+  {
+   "s": 1505.21,
+   "e": 1508.88,
+   "sec": 12,
+   "zh": "繼續做夢吧",
+   "en": "",
+   "ocr": [
+    339
+   ]
+  },
+  {
+   "s": 1509.21,
+   "e": 1509.45,
+   "sec": 12,
+   "zh": "至於假音",
+   "en": "",
+   "ocr": [
+    340
+   ]
+  },
+  {
+   "s": 1511.21,
+   "e": 1513.45,
+   "sec": 12,
+   "zh": "繼續做夢吧…",
+   "en": "",
+   "ocr": [
+    342
+   ]
+  },
+  {
+   "s": 1513.55,
+   "e": 1515.22,
+   "sec": 12,
+   "zh": "他的聲帶發揮極限能力",
+   "en": "his chords stretch to the limit and vibrate virtually off the charts.",
+   "ocr": [
+    343
+   ]
+  },
+  {
+   "s": 1517.22,
+   "e": 1522.46,
+   "sec": 13,
+   "zh": "振動得比平常更加頻繁",
+   "en": "",
+   "ocr": [
+    344
+   ]
+  },
+  {
+   "s": 1524.23,
+   "e": 1528.23,
+   "sec": 13,
+   "zh": "這對泰勒的柔順聲帶顯然是輕而易舉的事",
+   "en": "A surprisingly simple feat for Tyler's pliable chords.",
+   "ocr": [
+    345
+   ]
+  },
+  {
+   "s": 1530.9,
+   "e": 1534.9,
+   "sec": 13,
+   "zh": "從「我合早起來心情就很美」",
+   "en": "I walk out this morning, not on the wrong side",
+   "ocr": [
+    346
+   ]
+  },
+  {
+   "s": 1535.24,
+   "e": 1538.24,
+   "sec": 13,
+   "zh": "「我開始想你說過的那些話」",
+   "en": "of the bed and all them things you say and all them things I said.",
+   "ocr": [
+    347
+   ]
+  },
+  {
+   "s": 1538.57,
+   "e": 1540.24,
+   "sec": 13,
+   "zh": "這段我是這樣唱",
+   "en": "",
+   "ocr": [
+    348
+   ]
+  },
+  {
+   "s": 1541.24,
+   "e": 1541.91,
+   "sec": 13,
+   "zh": "然後，你知道的，當然...",
+   "en": "And then, you know, of course,",
+   "ocr": [
+    349
+   ]
+  },
+  {
+   "s": 1542.58,
+   "e": 1543.91,
+   "sec": 13,
+   "zh": "「我不想錯過任何事」我是這樣唱",
+   "en": "and I don't want to miss a thing is in that voice, and then dream on is",
+   "ocr": [
+    350
+   ]
+  },
+  {
+   "s": 1544.25,
+   "e": 1551.59,
+   "sec": 13,
+   "zh": "有人問過我，你怎麼有辦法天天唱這首歌？",
+   "en": "Traynard on. And they've asked me before, how do you sing that song every night?",
+   "ocr": [
+    351
+   ]
+  },
+  {
+   "s": 1551.92,
+   "e": 1554.26,
+   "sec": 13,
+   "zh": "我這首歌是最容易唱的",
+   "en": "That's one of the easiest ones for me to sing.",
+   "ocr": [
+    352
+   ]
+  },
+  {
+   "s": 1555.26,
+   "e": 1555.59,
+   "sec": 13,
+   "zh": "開始",
+   "en": "",
+   "ocr": [
+    353
+   ]
+  },
+  {
+   "s": 1559.6,
+   "e": 1561.93,
+   "sec": 13,
+   "zh": "將聲帶的振動轉成歌曲的部位",
+   "en": "As for what translates these vocal vibrations into song, that happens much further up, in the throat, the mouth, the tongue,",
+   "ocr": [
+    355
+   ]
+  },
+  {
+   "s": 1568.61,
+   "e": 1568.94,
+   "sec": 13,
+   "zh": "即喉嚨、嘴巴、舌頭和鼻子",
+   "en": "and the nose. I'll tell you.",
+   "ocr": [
+    356
+   ]
+  },
+  {
+   "s": 1571.61,
+   "e": 1574.28,
+   "sec": 13,
+   "zh": "是這些部位使每個人的聲音獨具特色",
+   "en": "These are what put the stamp on human sound,",
+   "ocr": [
+    357
+   ]
+  },
+  {
+   "s": 1574.94,
+   "e": 1578.95,
+   "sec": 13,
+   "zh": "區別史蒂芬泰勒等人和其他人的聲音",
+   "en": "distinguishing the likes of Stephen Tyler from just about anyone else.",
+   "ocr": [
+    358
+   ]
+  },
+  {
+   "s": 1581.62,
+   "e": 1582.95,
+   "sec": 13,
+   "zh": "經過兩小時的聲音運動",
+   "en": "After some two hours of vocal gymnastics, initial data reveal that Tyler's chords",
+   "ocr": [
+    359
+   ]
+  },
+  {
+   "s": 1586.96,
+   "e": 1587.96,
+   "sec": 13,
+   "zh": "初步資料顯示泰勒的聲帶相撞50多萬次",
+   "en": "",
+   "ocr": [
+    360
+   ]
+  },
+  {
+   "s": 1588.63,
+   "e": 1588.96,
+   "sec": 13,
+   "zh": "振動距離超過6哩",
+   "en": "crashed together more than half a million times and cover the equivalent of more than six miles.",
+   "ocr": [
+    361
+   ]
+  },
+  {
+   "s": 1596.3,
+   "e": 1603.64,
+   "sec": 14,
+   "zh": "但沒有任何跡象顯示他的聲帶很快就會磨損",
+   "en": "And there's no indication they'll be wearing out any time soon.",
+   "ocr": [
+    364,
+    365
+   ]
+  },
+  {
+   "s": 1604.31,
+   "e": 1612.65,
+   "sec": 14,
+   "zh": "但卻是一種更重要身體運作的副產品",
+   "en": "Dramatic as it may be, singing is a sound. Singing is a side effect of a much more crucial process.",
+   "ocr": [
+    366
+   ]
+  },
+  {
+   "s": 1613.98,
+   "e": 1618.32,
+   "sec": 14,
+   "zh": "空氣通過我們嘴巴的真正原因是為了要呼吸",
+   "en": "The real reason why air passes through our mouths is breathing.",
+   "ocr": [
+    367
+   ]
+  },
+  {
+   "s": 1621.66,
+   "e": 1625.33,
+   "sec": 14,
+   "zh": "如果不呼吸我們沒幾分鐘就會死掉",
+   "en": "We wouldn't survive much more than a couple of minutes if we didn't.",
+   "ocr": [
+    368
+   ]
+  },
+  {
+   "s": 1628.67,
+   "e": 1629.67,
+   "sec": 14,
+   "zh": "每次吸氣",
+   "en": "With every inhalation, our noses or mouths suck in about a pint of air",
+   "ocr": [
+    369
+   ]
+  },
+  {
+   "s": 1630.0,
+   "e": 1633.0,
+   "sec": 14,
+   "zh": "我們的鼻子或嘴巴會吸入1品脫的空氣",
+   "en": "",
+   "ocr": [
+    370
+   ]
+  },
+  {
+   "s": 1633.67,
+   "e": 1637.01,
+   "sec": 14,
+   "zh": "我們每天會呼吸兩萬次左右",
+   "en": "some 20,000 times a day.",
+   "ocr": [
+    371
+   ]
+  },
+  {
+   "s": 1637.67,
+   "e": 1638.68,
+   "sec": 14,
+   "zh": "我們可跟隨空氣進入人體",
+   "en": "We can follow it on its journey,",
+   "ocr": [
+    372
+   ]
+  },
+  {
+   "s": 1640.01,
+   "e": 1644.68,
+   "sec": 14,
+   "zh": "深入喉，通過喉頭然後來到氣管",
+   "en": "down the throat, past the voice box, and into the windpipe or trachea.",
+   "ocr": [
+    373
+   ]
+  },
+  {
+   "s": 1647.02,
+   "e": 1647.68,
+   "sec": 14,
+   "zh": "空氣接近肺部時",
+   "en": "As it approaches the lung,",
+   "ocr": [
+    374
+   ]
+  },
+  {
+   "s": 1648.69,
+   "e": 1651.02,
+   "sec": 14,
+   "zh": "可以往左肺或右肺",
+   "en": "air has a choice, left or right, but both lungs lead to the same end.",
+   "ocr": [
+    375
+   ]
+  },
+  {
+   "s": 1651.35,
+   "e": 1653.69,
+   "sec": 14,
+   "zh": "但兩邊肺通往相同盡頭",
+   "en": "",
+   "ocr": [
+    376
+   ]
+  },
+  {
+   "s": 1655.36,
+   "e": 1657.03,
+   "sec": 14,
+   "zh": "數千條更小的分枝",
+   "en": "The lungs bronchi divide and divide into thousands of smaller and smaller branches,",
+   "ocr": [
+    377
+   ]
+  },
+  {
+   "s": 1657.69,
+   "e": 1658.03,
+   "sec": 14,
+   "zh": "肺部的支氣管不斷分岔成數千條更小的分枝",
+   "en": "",
+   "ocr": [
+    378
+   ]
+  },
+  {
+   "s": 1661.03,
+   "e": 1664.03,
+   "sec": 14,
+   "zh": "漸次過濾空氣中的化學物、塵埃和煙",
+   "en": "progressively filtering chemicals, dust and smoke in the air,",
+   "ocr": [
+    379
+   ]
+  },
+  {
+   "s": 1668.71,
+   "e": 1671.61,
+   "sec": 14,
+   "zh": "最後空氣會來到這個叫做肺泡的囊狀球體",
+   "en": "until finally they come to an end, in this pouch-like ball, called an alveolus.",
+   "ocr": [
+    380
+   ]
+  },
+  {
+   "s": 1674.38,
+   "e": 1677.38,
+   "sec": 14,
+   "zh": "每片肺上頭有3億多個肺泡",
+   "en": "More than 300 million of them spread across each lung,",
+   "ocr": [
+    381
+   ]
+  },
+  {
+   "s": 1679.05,
+   "e": 1682.72,
+   "sec": 14,
+   "zh": "肺泡的表面積加起來大約相當於1/3座網球場",
+   "en": "with a combined surface area roughly a third the size of a tennis court.",
+   "ocr": [
+    382
+   ]
+  },
+  {
+   "s": 1684.72,
+   "e": 1685.39,
+   "sec": 14,
+   "zh": "不出1秒鐘",
+   "en": "In less than a second, oxygen molecules exit the lungs here through walls just one cell thick.",
+   "ocr": [
+    383
+   ]
+  },
+  {
+   "s": 1686.06,
+   "e": 1688.39,
+   "sec": 14,
+   "zh": "氧分子從這裡離開肺部",
+   "en": "",
+   "ocr": [
+    384
+   ]
+  },
+  {
+   "s": 1688.73,
+   "e": 1692.06,
+   "sec": 14,
+   "zh": "穿過厚度只有一個細胞的肺壁",
+   "en": "",
+   "ocr": [
+    385
+   ]
+  },
+  {
+   "s": 1692.73,
+   "e": 1696.4,
+   "sec": 14,
+   "zh": "跟著氧分子會進入流動的血液迅速被帶往身體各處",
+   "en": "They'll then cross into a surging bloodstream, be whisked throughout the body, and provide precious resources to every one of our trillions of cells,",
+   "ocr": [
+    386
+   ]
+  },
+  {
+   "s": 1696.73,
+   "e": 1700.4,
+   "sec": 14,
+   "zh": "為我們身上的每一個細胞提供寶貴資源",
+   "en": "",
+   "ocr": [
+    387
+   ]
+  },
+  {
+   "s": 1701.07,
+   "e": 1704.41,
+   "sec": 14,
+   "zh": "如果空氣能夠來到這個部位",
+   "en": "assuming air gets to this point.",
+   "ocr": [
+    388
+   ]
+  },
+  {
+   "s": 1706.74,
+   "e": 1712.42,
+   "sec": 14,
+   "zh": "藍色部分顯示健康的肺如何將氧氣通通排入血液",
+   "en": "The blue here shows how a healthy lung empties oxygen into the bloodstream.",
+   "ocr": [
+    389
+   ]
+  },
+  {
+   "s": 1712.75,
+   "e": 1717.42,
+   "sec": 14,
+   "zh": "這名抽菸者的肺無法將氧氣全排出去",
+   "en": "In this smoker's lung, oxygen can't empty nearly as well.",
+   "ocr": [
+    390
+   ]
+  },
+  {
+   "s": 1720.09,
+   "e": 1721.42,
+   "sec": 14,
+   "zh": "接下來是呼氣",
+   "en": "Then there's the exhalation. Carbon dioxide.",
+   "ocr": [
+    391
+   ]
+  },
+  {
+   "s": 1722.09,
+   "e": 1723.09,
+   "sec": 14,
+   "zh": "二氧化碳",
+   "en": "",
+   "ocr": [
+    392
+   ]
+  },
+  {
+   "s": 1726.43,
+   "e": 1729.43,
+   "sec": 14,
+   "zh": "則是循著相反路徑離開人體",
+   "en": "The waste product of breathing makes the opposite journey back out.",
+   "ocr": [
+    393
+   ]
+  },
+  {
+   "s": 1732.1,
+   "e": 1733.1,
+   "sec": 14,
+   "zh": "再吸氣一次",
+   "en": "",
+   "ocr": [
+    394
+   ]
+  },
+  {
+   "s": 1733.44,
+   "e": 1736.44,
+   "sec": 14,
+   "zh": "我們的呼吸器官贈送我們另一份禮物",
+   "en": "Another inhalation and our breathing apparatus offers yet another gift with delightful or disgusting results.",
+   "ocr": [
+    395
+   ]
+  },
+  {
+   "s": 1737.11,
+   "e": 1737.44,
+   "sec": 14,
+   "zh": "也可能是噁心",
+   "en": "",
+   "ocr": [
+    396
+   ]
+  },
+  {
+   "s": 1743.78,
+   "e": 1744.78,
+   "sec": 15,
+   "zh": "每一次呼吸",
+   "en": "With every new breath, our noses can distinguish as many as 10,000 different odors.",
+   "ocr": [
+    397
+   ]
+  },
+  {
+   "s": 1745.12,
+   "e": 1748.45,
+   "sec": 15,
+   "zh": "我們的鼻子可辨別多達一萬種不同氣味",
+   "en": "",
+   "ocr": [
+    398
+   ]
+  },
+  {
+   "s": 1750.12,
+   "e": 1751.79,
+   "sec": 15,
+   "zh": "其中有些好聞",
+   "en": "Some pleasing, some not.",
+   "ocr": [
+    399
+   ]
+  },
+  {
+   "s": 1752.12,
+   "e": 1755.36,
+   "sec": 15,
+   "zh": "有些則不然",
+   "en": "",
+   "ocr": [
+    400
+   ]
+  },
+  {
+   "s": 1755.79,
+   "e": 1756.79,
+   "sec": 15,
+   "zh": "氣味可使人平靜或謹慎",
+   "en": "They can calm, caution, or make our mouths water.",
+   "ocr": [
+    401
+   ]
+  },
+  {
+   "s": 1757.46,
+   "e": 1758.8,
+   "sec": 15,
+   "zh": "或使我們流口水",
+   "en": "",
+   "ocr": [
+    402
+   ]
+  },
+  {
+   "s": 1761.13,
+   "e": 1761.36,
+   "sec": 15,
+   "zh": "但任何氣味的本質",
+   "en": "But the essence of any aroma, from a day at the beach to fresh baked bread, is pure chemistry.",
+   "ocr": [
+    403
+   ]
+  },
+  {
+   "s": 1763.13,
+   "e": 1765.47,
+   "sec": 15,
+   "zh": "譬如在海灘待一天或剛出爐的麵包",
+   "en": "",
+   "ocr": [
+    405
+   ]
+  },
+  {
+   "s": 1765.8,
+   "e": 1768.04,
+   "sec": 15,
+   "zh": "純粹是化學",
+   "en": "",
+   "ocr": [
+    406
+   ]
+  },
+  {
+   "s": 1768.14,
+   "e": 1774.38,
+   "sec": 15,
+   "zh": "例如乙酸異丁酯、香草酸及3百多種化學物等等",
+   "en": "Isobutyl acetate, vanillic acid, and more than 300 different chemicals, for example,",
+   "ocr": [
+    407
+   ]
+  },
+  {
+   "s": 1774.48,
+   "e": 1780.05,
+   "sec": 15,
+   "zh": "結合起來賦予巧克力明顯獨特的香味",
+   "en": "come together to give chocolate its unmistakable bouquet.",
+   "ocr": [
+    408
+   ]
+  },
+  {
+   "s": 1780.82,
+   "e": 1782.15,
+   "sec": 15,
+   "zh": "玫瑰的另一個名字可能叫做苯乙醇",
+   "en": "A rose by any other name might be phenylethyl alcohol.",
+   "ocr": [
+    409
+   ]
+  },
+  {
+   "s": 1784.15,
+   "e": 1794.5,
+   "sec": 15,
+   "zh": "魚類一旦不新鮮，其散發的惡臭就歸咎於三甲胺，這是魚體內細菌滋生所產生的副產物",
+   "en": "And once fish has passed its prime, it owes its stench to trimethylamine, a byproduct of the bacteria growing inside it.",
+   "ocr": [
+    410
+   ]
+  },
+  {
+   "s": 1796.5,
+   "e": 1798.5,
+   "sec": 15,
+   "zh": "無論是哪種化學物",
+   "en": "Whatever the chemical, deep inside our noses, there is a small patch of about 10 million cells",
+   "ocr": [
+    411
+   ]
+  },
+  {
+   "s": 1799.17,
+   "e": 1800.17,
+   "sec": 15,
+   "zh": "在我們的鼻子內部",
+   "en": "",
+   "ocr": [
+    412
+   ]
+  },
+  {
+   "s": 1800.84,
+   "e": 1805.18,
+   "sec": 15,
+   "zh": "有塊含1千萬個細胞的小區域等著要嗅味道",
+   "en": "waiting to sniff it out.",
+   "ocr": [
+    413
+   ]
+  },
+  {
+   "s": 1807.84,
+   "e": 1812.85,
+   "sec": 15,
+   "zh": "這些細胞的表面帶有一千種不同受器",
+   "en": "These cells carry about a thousand different kinds of receptors on their surfaces.",
+   "ocr": [
+    414
+   ]
+  },
+  {
+   "s": 1814.52,
+   "e": 1817.52,
+   "sec": 15,
+   "zh": "對的帶氣味化學物和受器相遇時",
+   "en": "When the right odor chemical meets up with the right receptor, an electrical signal gets sent",
+   "ocr": [
+    415
+   ]
+  },
+  {
+   "s": 1817.85,
+   "e": 1819.86,
+   "sec": 15,
+   "zh": "腦部會收到一道電子訊號",
+   "en": "",
+   "ocr": [
+    416
+   ]
+  },
+  {
+   "s": 1820.19,
+   "e": 1824.19,
+   "sec": 15,
+   "zh": "最後奇妙的機器會聞到味道",
+   "en": "to the brain, and finally, the incredible machine smells.",
+   "ocr": [
+    417
+   ]
+  },
+  {
+   "s": 1827.2,
+   "e": 1831.2,
+   "sec": 15,
+   "zh": "總之，我們巧妙的呼吸系統肩負多項任務",
+   "en": "All in all, our respiratory systems are ingenious multitaskers, sorting the",
+   "ocr": [
+    418
+   ]
+  },
+  {
+   "s": 1831.54,
+   "e": 1833.87,
+   "sec": 15,
+   "zh": "會在每次吸氣時區分數千種氣味",
+   "en": "",
+   "ocr": [
+    419
+   ]
+  },
+  {
+   "s": 1834.2,
+   "e": 1838.54,
+   "sec": 15,
+   "zh": "還能在吐氣時發出數千種聲音",
+   "en": "thousands of smells at each intake capable of making thousands of sounds on the way out.",
+   "ocr": [
+    420
+   ]
+  },
+  {
+   "s": 1844.21,
+   "e": 1851.89,
+   "sec": 15,
+   "zh": "我們每次呼吸",
+   "en": "But no matter how pleasant the byproduct, there is a higher calling to breathing.",
+   "ocr": [
+    421
+   ]
+  },
+  {
+   "s": 1852.56,
+   "e": 1854.22,
+   "sec": 15,
+   "zh": "渴望獲得能量的無數細胞",
+   "en": "Every breath we take delivers oxygen to our trillions of power-hungry cells and gets our hearts to pump.",
+   "ocr": [
+    422
+   ]
+  },
+  {
+   "s": 1856.23,
+   "e": 1859.23,
+   "sec": 15,
+   "zh": "驅使我們的心臟輸送血液",
+   "en": "",
+   "ocr": [
+    423
+   ]
+  },
+  {
+   "s": 1870.91,
+   "e": 1874.58,
+   "sec": 16,
+   "zh": "心臟是完全由肌肉所構成的泵",
+   "en": "What is a muscular pump to its core?",
+   "ocr": [
+    424
+   ]
+  },
+  {
+   "s": 1874.91,
+   "e": 1875.91,
+   "sec": 16,
+   "zh": "即便將心臟從人體摘除",
+   "en": "",
+   "ocr": [
+    425
+   ]
+  },
+  {
+   "s": 1877.25,
+   "e": 1879.58,
+   "sec": 16,
+   "zh": "心臟仍能自行運作",
+   "en": "Even if it's removed, it can still function all on its own.",
+   "ocr": [
+    427
+   ]
+  },
+  {
+   "s": 1881.25,
+   "e": 1883.92,
+   "sec": 16,
+   "zh": "心臟的非凡之處在於其心肌細胞",
+   "en": "It's genius lies in its cardiac cells, millions of them all beating in tune, but heart cells don't necessarily have to be born in the heart.",
+   "ocr": [
+    428
+   ]
+  },
+  {
+   "s": 1884.25,
+   "e": 1887.59,
+   "sec": 16,
+   "zh": "有數百萬個心臟細胞和諧一致地跳動",
+   "en": "",
+   "ocr": [
+    429
+   ]
+  },
+  {
+   "s": 1889.59,
+   "e": 1893.26,
+   "sec": 16,
+   "zh": "但心臟細胞不一定出生於心臟內",
+   "en": "",
+   "ocr": [
+    430
+   ]
+  },
+  {
+   "s": 1901.61,
+   "e": 1904.94,
+   "sec": 16,
+   "zh": "阿米特·帕特爾醫生及其在匹茲堡大學醫學中心的同事，誘導這些幹細胞分化並跳動",
+   "en": "These are stem cells, coaxed into beating by Dr. Amit Patel and his colleagues from the University of Pittsburgh Medical Center. Those cells had nothing to do with becoming heart muscle, but within less than a week, we were able to train them to become heart muscle.",
+   "ocr": [
+    431
+   ]
+  },
+  {
+   "s": 1926.96,
+   "e": 1928.63,
+   "sec": 17,
+   "zh": "幹細胞可長成任何種類的細胞",
+   "en": "Stem cells live in many tissues in our bodies, standing by for maintenance and unlike our other cells stem cells can develop into just about any kind of cell brain muscle bone",
+   "ocr": [
+    432
+   ]
+  },
+  {
+   "s": 1929.3,
+   "e": 1930.63,
+   "sec": 17,
+   "zh": "如腦細胞、肌肉細胞、骨骼細胞和脂肪細胞",
+   "en": "",
+   "ocr": [
+    433
+   ]
+  },
+  {
+   "s": 1934.97,
+   "e": 1938.64,
+   "sec": 17,
+   "zh": "你能想到的220多種不同人體細胞",
+   "en": "fat almost anything you could possibly think of in the body over 220 different cell types all come from stem cells",
+   "ocr": [
+    434
+   ]
+  },
+  {
+   "s": 1940.98,
+   "e": 1942.31,
+   "sec": 17,
+   "zh": "幾乎都是從幹細胞生長而成",
+   "en": "",
+   "ocr": [
+    435
+   ]
+  },
+  {
+   "s": 1944.65,
+   "e": 1947.32,
+   "sec": 17,
+   "zh": "49歲的麥可卡拉特迫切希望",
+   "en": "",
+   "ocr": [
+    436
+   ]
+  },
+  {
+   "s": 1947.65,
+   "e": 1950.99,
+   "sec": 17,
+   "zh": "他體內的幹細胞能成心臟細胞",
+   "en": "49 year old Michael Carlett desperately hopes that stem cells can turn into heart cells in his own body a few years ago his heart",
+   "ocr": [
+    437
+   ]
+  },
+  {
+   "s": 1955.99,
+   "e": 1956.23,
+   "sec": 17,
+   "zh": "他的心臟開始災難性地衰竭",
+   "en": "his heart started to give out catastrophically.",
+   "ocr": [
+    439
+   ]
+  },
+  {
+   "s": 1956.33,
+   "e": 1960.23,
+   "sec": 17,
+   "zh": "而且是嚴重衰弱",
+   "en": "",
+   "ocr": [
+    440
+   ]
+  },
+  {
+   "s": 1960.33,
+   "e": 1962.67,
+   "sec": 17,
+   "zh": "卡拉特先生的心臟病得很重",
+   "en": "Mr. Carland's heart is very sick. He had a very large heart attack. When you look at the heart, it's a pump. And normally 60% of what goes into the heart should come out with every heartbeat.",
+   "ocr": [
+    441
+   ]
+  },
+  {
+   "s": 1982.02,
+   "e": 1982.25,
+   "sec": 17,
+   "zh": "名單上有4千5百人",
+   "en": "In Mr. Carlat, only 30% comes out. I was put on the heart transplant list and just waiting over a year for something to happen. There's 4,500 people on the list, and I'm 275 pounds.",
+   "ocr": [
+    442
+   ]
+  },
+  {
+   "s": 1982.35,
+   "e": 1984.35,
+   "sec": 17,
+   "zh": "我體重有275磅，身高是6呎4",
+   "en": "",
+   "ocr": [
+    443
+   ]
+  },
+  {
+   "s": 1985.02,
+   "e": 1986.36,
+   "sec": 17,
+   "zh": "很難找到合適的配對",
+   "en": "It's hard to find a match for me. So waiting on that list would have just been waiting to just play out the last couple of years, and that'll be it. With few other options, Michael enrolled in a highly experimental clinical trial",
+   "ocr": [
+    444
+   ]
+  },
+  {
+   "s": 2012.72,
+   "e": 2014.39,
+   "sec": 17,
+   "zh": "請把衣服拉起來",
+   "en": "in which Patel performs a risky bypass on his heart's damaged area, extracts stem cells from his hip bone, and injects them back into Michael's heart. It's not clear what these cells will do there.",
+   "ocr": [
+    445
+   ]
+  },
+  {
+   "s": 2024.06,
+   "e": 2024.3,
+   "sec": 17,
+   "zh": "幫助長出新血管，增加肌肉纖維的數量...",
+   "en": "Help grow new blood vessels, increase the number of muscle fibers...",
+   "ocr": [
+    446
+   ]
+  },
+  {
+   "s": 2024.4,
+   "e": 2028.73,
+   "sec": 17,
+   "zh": "他們希望幹細胞能誘哄麥克的心臟自行癒合",
+   "en": "",
+   "ocr": [
+    447
+   ]
+  },
+  {
+   "s": 2029.4,
+   "e": 2030.73,
+   "sec": 17,
+   "zh": "我們不知道幹細胞會做什麼",
+   "en": "We don't know what they do, but they seem to know what's required.",
+   "ocr": [
+    448
+   ]
+  },
+  {
+   "s": 2031.07,
+   "e": 2032.07,
+   "sec": 17,
+   "zh": "雖然還處於早期階段，但在麥可的案例中，它們似乎已經開始發揮作用了",
+   "en": "And though it's early, in Michael's case, they already seem to be working.",
+   "ocr": [
+    449
+   ]
+  },
+  {
+   "s": 2044.08,
+   "e": 2052.08,
+   "sec": 17,
+   "zh": "在接受手術3個月後",
+   "en": "Just three months after his surgery, Michael's heart pumps 25% more blood than it did before. The difference between barely climbing a flight of stairs and playing basketball.",
+   "ocr": [
+    450
+   ]
+  },
+  {
+   "s": 2057.09,
+   "e": 2057.43,
+   "sec": 17,
+   "zh": "讓他能打籃球",
+   "en": "It's working, so I'm not going to ask why, how, what. But, in essence, he saved my life.",
+   "ocr": [
+    451
+   ]
+  },
+  {
+   "s": 2066.77,
+   "e": 2067.44,
+   "sec": 18,
+   "zh": "我若沒有去找他，我可能早就已經死了",
+   "en": "If I didn't go to him, I probably would have just not been around today.",
+   "ocr": [
+    452
+   ]
+  },
+  {
+   "s": 2069.11,
+   "e": 2071.11,
+   "sec": 18,
+   "zh": "要將維生液體輸送到身體各處",
+   "en": "Of course, it takes more than just a good pump",
+   "ocr": [
+    453
+   ]
+  },
+  {
+   "s": 2071.44,
+   "e": 2073.44,
+   "sec": 18,
+   "zh": "當然不僅要有健康的心臟",
+   "en": "",
+   "ocr": [
+    454
+   ]
+  },
+  {
+   "s": 2074.11,
+   "e": 2076.45,
+   "sec": 18,
+   "zh": "還要有暢通的血管",
+   "en": "to give life-giving liquids around the body. It takes good plumbing.",
+   "ocr": [
+    455
+   ]
+  },
+  {
+   "s": 2079.78,
+   "e": 2080.45,
+   "sec": 18,
+   "zh": "血液離開心臟以後",
+   "en": "Once out of the heart, blood carries our vital oxygen supply",
+   "ocr": [
+    456
+   ]
+  },
+  {
+   "s": 2081.12,
+   "e": 2084.79,
+   "sec": 18,
+   "zh": "會將重要的氧氣帶入越來越小的動脈",
+   "en": "through smaller and smaller arteries,",
+   "ocr": [
+    457
+   ]
+  },
+  {
+   "s": 2085.12,
+   "e": 2089.79,
+   "sec": 18,
+   "zh": "最後進入更窄的網狀毛細血管",
+   "en": "eventually reaching an even narrower network of capillaries.",
+   "ocr": [
+    458
+   ]
+  },
+  {
+   "s": 2092.8,
+   "e": 2094.13,
+   "sec": 18,
+   "zh": "毛細血管非常細",
+   "en": "Tubes are so thin that red blood cells, thousands of an inch across,",
+   "ocr": [
+    459
+   ]
+  },
+  {
+   "s": 2094.47,
+   "e": 2097.13,
+   "sec": 18,
+   "zh": "直徑為好幾千分之一吋的紅血球細胞",
+   "en": "",
+   "ocr": [
+    460
+   ]
+  },
+  {
+   "s": 2097.47,
+   "e": 2100.47,
+   "sec": 18,
+   "zh": "必須排成一列用力通過毛細血管",
+   "en": "must squeeze through single file.",
+   "ocr": [
+    461
+   ]
+  },
+  {
+   "s": 2105.48,
+   "e": 2108.05,
+   "sec": 18,
+   "zh": "人體全身上下共有上百億條毛細血管",
+   "en": "Capillaries fanned throughout the body so that our organs and tissues are never far from a fresh supply of oxygen.",
+   "ocr": [
+    462
+   ]
+  },
+  {
+   "s": 2108.15,
+   "e": 2112.82,
+   "sec": 18,
+   "zh": "因此我們的器官和組織從不缺乏新鮮的氧氣",
+   "en": "",
+   "ocr": [
+    463
+   ]
+  },
+  {
+   "s": 2116.82,
+   "e": 2119.16,
+   "sec": 18,
+   "zh": "二氧化碳和其他毒素必須排出體外",
+   "en": "And other toxins need to get out and veins are crucial drain pipes, carrying the blood back to the heart, then to the lungs for cleaning.",
+   "ocr": [
+    464
+   ]
+  },
+  {
+   "s": 2119.49,
+   "e": 2121.16,
+   "sec": 18,
+   "zh": "靜脈是重要的排水管",
+   "en": "",
+   "ocr": [
+    465
+   ]
+  },
+  {
+   "s": 2121.83,
+   "e": 2123.16,
+   "sec": 18,
+   "zh": "會將血液送回心臟",
+   "en": "",
+   "ocr": [
+    466
+   ]
+  },
+  {
+   "s": 2123.49,
+   "e": 2126.5,
+   "sec": 18,
+   "zh": "再進入肺部接受清理",
+   "en": "",
+   "ocr": [
+    467
+   ]
+  },
+  {
+   "s": 2126.83,
+   "e": 2131.17,
+   "sec": 18,
+   "zh": "血液流經長達6萬多英里的血管",
+   "en": "Blood travels through more than 60,000 miles of vessels.",
+   "ocr": [
+    468
+   ]
+  },
+  {
+   "s": 2131.5,
+   "e": 2134.17,
+   "sec": 18,
+   "zh": "這長度是地球圓周的兩倍多",
+   "en": "",
+   "ocr": [
+    469
+   ]
+  },
+  {
+   "s": 2137.84,
+   "e": 2140.85,
+   "sec": 18,
+   "zh": "血液不到1分鐘便可循環身體一周",
+   "en": "It circulates all around the body in less than a minute, every minute of our lives.",
+   "ocr": [
+    470
+   ]
+  },
+  {
+   "s": 2141.18,
+   "e": 2144.18,
+   "sec": 18,
+   "zh": "血液每分鐘都在循環",
+   "en": "",
+   "ocr": [
+    471
+   ]
+  },
+  {
+   "s": 2161.87,
+   "e": 2162.2,
+   "sec": 18,
+   "zh": "我們跑步時血液會流向肌肉",
+   "en": "The more oxygen our cells burn, the harder our heart and blood vessels have to work to deliver more. When we eat, it rushes to our stomachs. When we run, to our muscles.",
+   "ocr": [
+    472
+   ]
+  },
+  {
+   "s": 2170.88,
+   "e": 2171.21,
+   "sec": 18,
+   "zh": "都必須要有更多氧氣輸送到腦部",
+   "en": "Even when we read, more oxygen must get to our brains. As efficient as this blood delivery system is, though, it has its limits.",
+   "ocr": [
+    473
+   ]
+  },
+  {
+   "s": 2179.55,
+   "e": 2180.22,
+   "sec": 18,
+   "zh": "但仍有其限制",
+   "en": "",
+   "ocr": [
+    475
+   ]
+  },
+  {
+   "s": 2180.55,
+   "e": 2182.55,
+   "sec": 18,
+   "zh": "美國海軍飛行員體驗過血液系統的限制",
+   "en": "Limits experienced by pilots in the US Navy.",
+   "ocr": [
+    476
+   ]
+  },
+  {
+   "s": 2186.89,
+   "e": 2188.56,
+   "sec": 18,
+   "zh": "他們是藍天使",
+   "en": "These are the Blue Angels.",
+   "ocr": [
+    477
+   ]
+  },
+  {
+   "s": 2189.89,
+   "e": 2193.9,
+   "sec": 18,
+   "zh": "他們經常讓身體忍受極端狀況",
+   "en": "The US Navy's pilots routinely push their bodies to extremes.",
+   "ocr": [
+    478
+   ]
+  },
+  {
+   "s": 2194.57,
+   "e": 2195.57,
+   "sec": 18,
+   "zh": "9G的重力將我用力壓向座椅",
+   "en": "Well, 9Gs, to me, you know, squashes me in the seat pretty hard.",
+   "ocr": [
+    479
+   ]
+  },
+  {
+   "s": 2198.24,
+   "e": 2199.57,
+   "sec": 18,
+   "zh": "我的體重有180磅",
+   "en": "",
+   "ocr": [
+    481
+   ]
+  },
+  {
+   "s": 2200.24,
+   "e": 2200.91,
+   "sec": 18,
+   "zh": "必須承受的壓力是體重的9倍",
+   "en": "",
+   "ocr": [
+    482
+   ]
+  },
+  {
+   "s": 2201.57,
+   "e": 2202.91,
+   "sec": 18,
+   "zh": "我現在不替你計算",
+   "en": "I'm not going to do the math for you right now, but it squashes me down pretty hard.",
+   "ocr": [
+    483
+   ]
+  },
+  {
+   "s": 2203.24,
+   "e": 2206.24,
+   "sec": 18,
+   "zh": "但那股力量用力壓住我",
+   "en": "",
+   "ocr": [
+    484
+   ]
+  },
+  {
+   "s": 2209.91,
+   "e": 2210.15,
+   "sec": 18,
+   "zh": "單飛飛行員泰德司提爾曼承受的1千6百磅壓力",
+   "en": "Some 1,600 pounds of pressure on solo pilot Ted Steelman",
+   "ocr": [
+    487
+   ]
+  },
+  {
+   "s": 2211.92,
+   "e": 2212.15,
+   "sec": 18,
+   "zh": "足以將攜帶珍貴氧氣的血液逼出他的腦部",
+   "en": "is enough to push the precious oxygen-carrying blood right out of his brain.",
+   "ocr": [
+    490
+   ]
+  },
+  {
+   "s": 2219.92,
+   "e": 2223.16,
+   "sec": 19,
+   "zh": "Lt.Cmdr.TarahJohnson",
+   "en": "Same thing as if somebody strangles you or anything like that, you're going to lose blood to your brain and you're going to pass out.",
+   "ocr": [
+    493
+   ]
+  },
+  {
+   "s": 2223.26,
+   "e": 2227.17,
+   "sec": 19,
+   "zh": "然後人會昏過去",
+   "en": "",
+   "ocr": [
+    494
+   ]
+  },
+  {
+   "s": 2227.27,
+   "e": 2234.17,
+   "sec": 19,
+   "zh": "戰鬥機飛行員通常會穿抗G衣",
+   "en": "To counteract this, fighter pilots typically wear gravity or G-suits, which automatically inflate to squeeze blood where it's needed.",
+   "ocr": [
+    495
+   ]
+  },
+  {
+   "s": 2234.27,
+   "e": 2234.61,
+   "sec": 19,
+   "zh": "將血液擠壓到需要的部位",
+   "en": "",
+   "ocr": [
+    496
+   ]
+  },
+  {
+   "s": 2236.27,
+   "e": 2237.28,
+   "sec": 19,
+   "zh": "由於飛機只相隔1呎半",
+   "en": "Flying a mere foot and a half apart, the Blue Angels can't chance it.",
+   "ocr": [
+    497
+   ]
+  },
+  {
+   "s": 2239.61,
+   "e": 2240.61,
+   "sec": 19,
+   "zh": "所以藍天使不能冒險",
+   "en": "",
+   "ocr": [
+    498
+   ]
+  },
+  {
+   "s": 2247.95,
+   "e": 2249.29,
+   "sec": 19,
+   "zh": "將駕駛桿推動1/16吋",
+   "en": "When you're talking about stick inputs as much as a 16th of an inch,",
+   "ocr": [
+    499
+   ]
+  },
+  {
+   "s": 2249.62,
+   "e": 2257.62,
+   "sec": 19,
+   "zh": "在飛機以4百哩的時速飛行",
+   "en": "when you do on 400 miles an hour, a mere 18 inches from the guy next to you, it actually has huge ramifications.",
+   "ocr": [
+    500
+   ]
+  },
+  {
+   "s": 2257.96,
+   "e": 2260.97,
+   "sec": 19,
+   "zh": "所以我們不希望駕駛桿移動",
+   "en": "So, no unintentional movement of the stick unless intended is what you're looking for.",
+   "ocr": [
+    501
+   ]
+  },
+  {
+   "s": 2262.97,
+   "e": 2263.97,
+   "sec": 19,
+   "zh": "也就是說這些飛行員必須用他們的肌肉",
+   "en": "",
+   "ocr": [
+    502
+   ]
+  },
+  {
+   "s": 2265.97,
+   "e": 2271.54,
+   "sec": 19,
+   "zh": "這套動作被稱為「打嗝法」（Hick maneuver），它結合了呼吸技巧...",
+   "en": "Which means that these pilots must use their muscle to force blood up to their brains. What I do to this is what we call a hic maneuver. It's a combination of a breathing technique",
+   "ocr": [
+    506
+   ]
+  },
+  {
+   "s": 2271.64,
+   "e": 2275.21,
+   "sec": 19,
+   "zh": "透過發出「嘿、嘿」的聲音來收縮胸腔",
+   "en": "and that you contract your chest with a hic-ch-ch-to-ch-ch-to-to-keep-keep the overall pressure within the chest cavity high",
+   "ocr": [
+    507,
+    508
+   ]
+  },
+  {
+   "s": 2275.98,
+   "e": 2280.65,
+   "sec": 19,
+   "zh": "用所有力量持續壓著胸腔3至4秒",
+   "en": "",
+   "ocr": [
+    510
+   ]
+  },
+  {
+   "s": 2280.99,
+   "e": 2284.66,
+   "sec": 19,
+   "zh": "同時也收縮腰部以下部位",
+   "en": "in about three to four-second intervals, as well as isometric contractions from the waist down.",
+   "ocr": [
+    511
+   ]
+  },
+  {
+   "s": 2287.99,
+   "e": 2289.66,
+   "sec": 19,
+   "zh": "純粹呼吸和收縮肌肉",
+   "en": "",
+   "ocr": [
+    512
+   ]
+  },
+  {
+   "s": 2289.99,
+   "e": 2294.0,
+   "sec": 19,
+   "zh": "就能訓練身體承受極大的壓力",
+   "en": "By simply breathing and contracting muscles, the body can be trained to withstand extreme forces.",
+   "ocr": [
+    513
+   ]
+  },
+  {
+   "s": 2296.0,
+   "e": 2298.34,
+   "sec": 19,
+   "zh": "為此飛行員須面對這部機器",
+   "en": "",
+   "ocr": [
+    514
+   ]
+  },
+  {
+   "s": 2298.67,
+   "e": 2299.34,
+   "sec": 19,
+   "zh": "離心機",
+   "en": "To do it, pilots must face this. The centrifuge.",
+   "ocr": [
+    515
+   ]
+  },
+  {
+   "s": 2300.67,
+   "e": 2302.01,
+   "sec": 19,
+   "zh": "離心機有如超快的游樂園設施",
+   "en": "",
+   "ocr": [
+    516
+   ]
+  },
+  {
+   "s": 2302.67,
+   "e": 2304.34,
+   "sec": 19,
+   "zh": "可攪動從腦部到腳趾的血液",
+   "en": "Like an extreme amusement park ride that spins blood from brains to toes",
+   "ocr": [
+    517
+   ]
+  },
+  {
+   "s": 2305.01,
+   "e": 2308.01,
+   "sec": 19,
+   "zh": "離心機測試飛行員的耐受力",
+   "en": "and tests how long a pilot is able to resist.",
+   "ocr": [
+    518
+   ]
+  },
+  {
+   "s": 2309.35,
+   "e": 2309.58,
+   "sec": 19,
+   "zh": "他們訓練身體有如馬拉松選手訓練身體",
+   "en": "",
+   "ocr": [
+    519
+   ]
+  },
+  {
+   "s": 2309.68,
+   "e": 2315.35,
+   "sec": 19,
+   "zh": "以每5分鐘1哩的速度跑26哩",
+   "en": "They train their bodies, just like a marathoner will train their body to go out and run 26 miles at, you know, five-minute miles.",
+   "ocr": [
+    520
+   ]
+  },
+  {
+   "s": 2316.02,
+   "e": 2319.92,
+   "sec": 19,
+   "zh": "這些人是訓練身體對抗重力",
+   "en": "These guys train their bodies to respond to the Gs.",
+   "ocr": [
+    521
+   ]
+  },
+  {
+   "s": 2320.02,
+   "e": 2322.03,
+   "sec": 19,
+   "zh": "非常好繼續保持下去",
+   "en": "",
+   "ocr": [
+    522
+   ]
+  },
+  {
+   "s": 2322.36,
+   "e": 2325.03,
+   "sec": 19,
+   "zh": "但即便像司提爾曼這種受過嚴格訓練的專家",
+   "en": "",
+   "ocr": [
+    523
+   ]
+  },
+  {
+   "s": 2325.36,
+   "e": 2328.7,
+   "sec": 19,
+   "zh": "也無法對抗物理現象很久",
+   "en": "But even highly trained specialists like Steelman can only defy physics for so long.",
+   "ocr": [
+    524
+   ]
+  },
+  {
+   "s": 2334.71,
+   "e": 2336.61,
+   "sec": 19,
+   "zh": "事情發生在訓練快結束時",
+   "en": "It happened right at the very end of the run.",
+   "ocr": [
+    525
+   ]
+  },
+  {
+   "s": 2336.71,
+   "e": 2338.71,
+   "sec": 20,
+   "zh": "我預期會發生G力釋放，所以我怎麼辦？",
+   "en": "I expected a G-release, so what did I do?",
+   "ocr": [
+    526
+   ]
+  },
+  {
+   "s": 2339.71,
+   "e": 2341.71,
+   "sec": 20,
+   "zh": "我一放鬆身體",
+   "en": "",
+   "ocr": [
+    529
+   ]
+  },
+  {
+   "s": 2342.05,
+   "e": 2347.39,
+   "sec": 20,
+   "zh": "每一次我都會昏倒，因為我承受的G力實在太大",
+   "en": "The moment you relax, the absolute moment you relax, every single time you're going to pass out under G like that.",
+   "ocr": [
+    530
+   ]
+  },
+  {
+   "s": 2348.72,
+   "e": 2350.39,
+   "sec": 20,
+   "zh": "現在司提爾曼飛上天空時",
+   "en": "",
+   "ocr": [
+    531
+   ]
+  },
+  {
+   "s": 2353.73,
+   "e": 2354.73,
+   "sec": 20,
+   "zh": "他知道警訊何時出現然後會採取避險動作",
+   "en": "Now, when Steelman takes to the skies, he knows the warning signs and takes evasive action.",
+   "ocr": [
+    532
+   ]
+  },
+  {
+   "s": 2359.4,
+   "e": 2363.74,
+   "sec": 20,
+   "zh": "乘客的情況則截然不同",
+   "en": "Passengers, on the other hand, are a different story.",
+   "ocr": [
+    533
+   ]
+  },
+  {
+   "s": 2364.07,
+   "e": 2366.4,
+   "sec": 20,
+   "zh": "我會聽到後座的人努力做打嗝動作",
+   "en": "You'll hear them back there working, and they're executing the Hick maneuver,",
+   "ocr": [
+    534
+   ]
+  },
+  {
+   "s": 2368.07,
+   "e": 2369.41,
+   "sec": 20,
+   "zh": "他們非常努力打嗝然後突然間他們會沒聲音",
+   "en": "",
+   "ocr": [
+    535
+   ]
+  },
+  {
+   "s": 2369.74,
+   "e": 2374.08,
+   "sec": 20,
+   "zh": "你從後視鏡看他們，他們就這樣...頭垂到了胸口，看著有點可悲",
+   "en": "and you look back in the mirror and they just kind of do this, you know, their heads down to their chest, and it's kind of sad.",
+   "ocr": [
+    536
+   ]
+  },
+  {
+   "s": 2377.75,
+   "e": 2384.09,
+   "sec": 20,
+   "zh": "不幸的是，這些影響只是暫時的...",
+   "en": "Unfortunately, the effects are only temporary...",
+   "ocr": [
+    537,
+    539
+   ]
+  },
+  {
+   "s": 2384.42,
+   "e": 2385.76,
+   "sec": 20,
+   "zh": "大腦不可缺少的東西",
+   "en": "Blood is something our brains and the rest of our organs for that matter never want to be without.",
+   "ocr": [
+    540
+   ]
+  },
+  {
+   "s": 2393.43,
+   "e": 2396.77,
+   "sec": 20,
+   "zh": "但血液中不僅含有氧氣",
+   "en": "",
+   "ocr": [
+    541
+   ]
+  },
+  {
+   "s": 2400.44,
+   "e": 2401.77,
+   "sec": 20,
+   "zh": "一滴血液中",
+   "en": "In a single drop of blood, up to 400,000 infection-fighting white blood cells",
+   "ocr": [
+    542
+   ]
+  },
+  {
+   "s": 2402.11,
+   "e": 2405.44,
+   "sec": 20,
+   "zh": "有多達40萬個可抗感染的白血球細胞",
+   "en": "",
+   "ocr": [
+    543
+   ]
+  },
+  {
+   "s": 2405.78,
+   "e": 2406.78,
+   "sec": 20,
+   "zh": "不斷巡邏尋找病毒和細菌等外來因子",
+   "en": "are constantly patrolling in seeking out foreign agents like viruses and bacteria",
+   "ocr": [
+    544
+   ]
+  },
+  {
+   "s": 2410.11,
+   "e": 2412.45,
+   "sec": 20,
+   "zh": "還有癌細胞等內在威脅",
+   "en": "",
+   "ocr": [
+    546
+   ]
+  },
+  {
+   "s": 2412.78,
+   "e": 2414.79,
+   "sec": 20,
+   "zh": "然後加以攻擊",
+   "en": "and internal threats like cancer and attacking them.",
+   "ocr": [
+    547
+   ]
+  },
+  {
+   "s": 2420.46,
+   "e": 2421.79,
+   "sec": 20,
+   "zh": "可惜白血球不是每次都會贏",
+   "en": "Unfortunately, they don't always win. And when that happens, aggressors like these rogue men,",
+   "ocr": [
+    548
+   ]
+  },
+  {
+   "s": 2428.13,
+   "e": 2428.8,
+   "sec": 20,
+   "zh": "像這些失控的惡性黑色素瘤細胞就會瘋狂生長",
+   "en": "like these rogue melanoma cells can grow out of control.",
+   "ocr": [
+    549
+   ]
+  },
+  {
+   "s": 2435.14,
+   "e": 2436.71,
+   "sec": 20,
+   "zh": "無論我們的細胞是幫助我們或傷害我們",
+   "en": "",
+   "ocr": [
+    550
+   ]
+  },
+  {
+   "s": 2436.81,
+   "e": 2438.14,
+   "sec": 20,
+   "zh": "有件事是可以確定的",
+   "en": "Whether our cells work with us or against us, one thing is certain, we are tirelessly working",
+   "ocr": [
+    551
+   ]
+  },
+  {
+   "s": 2438.48,
+   "e": 2444.38,
+   "sec": 20,
+   "zh": "我們不斷替細胞工作",
+   "en": "",
+   "ocr": [
+    552
+   ]
+  },
+  {
+   "s": 2444.82,
+   "e": 2448.82,
+   "sec": 20,
+   "zh": "從我們醒來到現在我們的心臟已經跳動2萬多次",
+   "en": "Since we woke up, our heart has beaten more than 20,000 times, bringing vital",
+   "ocr": [
+    554
+   ]
+  },
+  {
+   "s": 2449.15,
+   "e": 2453.49,
+   "sec": 20,
+   "zh": "將重要的氧氣帶入上百億個微小細胞",
+   "en": "oxygen to a hundred billion microscopic masters.",
+   "ocr": [
+    555
+   ]
+  },
+  {
+   "s": 2456.49,
+   "e": 2458.83,
+   "sec": 20,
+   "zh": "但這部機器不僅需要空氣",
+   "en": "",
+   "ocr": [
+    556
+   ]
+  },
+  {
+   "s": 2461.5,
+   "e": 2462.17,
+   "sec": 20,
+   "zh": "還需要燃料",
+   "en": "But it takes more than air to feed the machine. It makes fuel.",
+   "ocr": [
+    557
+   ]
+  },
+  {
+   "s": 2471.51,
+   "e": 2472.51,
+   "sec": 21,
+   "zh": "每次我們吞下一口食物，就讓它踏上一段旅程",
+   "en": "Every time we swallow a morsel of food, we set it on a journey",
+   "ocr": [
+    559
+   ]
+  },
+  {
+   "s": 2476.18,
+   "e": 2477.52,
+   "sec": 21,
+   "zh": "會將食物推向好幾個器官挖出食物所含的有用東西",
+   "en": "designed to suck everything useful out of it.",
+   "ocr": [
+    561
+   ]
+  },
+  {
+   "s": 2483.19,
+   "e": 2484.19,
+   "sec": 21,
+   "zh": "坐下來吃午餐",
+   "en": "",
+   "ocr": [
+    562
+   ]
+  },
+  {
+   "s": 2484.86,
+   "e": 2488.53,
+   "sec": 21,
+   "zh": "食物經過約30個小時20多呎的旅程就會消化",
+   "en": "Sit down to lunch and in the 30 or so hours and 20 plus feet it takes to digest it, we convert plants or animals into energy",
+   "ocr": [
+    563
+   ]
+  },
+  {
+   "s": 2489.19,
+   "e": 2491.53,
+   "sec": 21,
+   "zh": "我們將植物和動物轉換成能量",
+   "en": "",
+   "ocr": [
+    564
+   ]
+  },
+  {
+   "s": 2492.2,
+   "e": 2495.53,
+   "sec": 21,
+   "zh": "把其中的化學基礎物質吸入我們的血肉",
+   "en": "and absorb their chemical building blocks into our own flesh and blood.",
+   "ocr": [
+    565
+   ]
+  },
+  {
+   "s": 2501.87,
+   "e": 2505.21,
+   "sec": 21,
+   "zh": "碳水化合物、蛋白質、脂肪、維生素和礦物質",
+   "en": "Carbohydrates, proteins, fats, vitamins and minerals.",
+   "ocr": [
+    566
+   ]
+  },
+  {
+   "s": 2508.21,
+   "e": 2508.55,
+   "sec": 21,
+   "zh": "我們所有養分來自我們吃下的食物",
+   "en": "All of our nutrients come from what we eat.",
+   "ocr": [
+    567
+   ]
+  },
+  {
+   "s": 2516.22,
+   "e": 2517.22,
+   "sec": 21,
+   "zh": "其實食物還沒進入我們口中消化動作就已經開始",
+   "en": "Digestion actually starts before food crosses our lips.",
+   "ocr": [
+    568
+   ]
+  },
+  {
+   "s": 2523.9,
+   "e": 2524.56,
+   "sec": 21,
+   "zh": "光是想到食物我們就會流口水",
+   "en": "Just the idea of food can get our mouths to water. We salivate roughly a pint every day.",
+   "ocr": [
+    570
+   ]
+  },
+  {
+   "s": 2525.9,
+   "e": 2531.47,
+   "sec": 21,
+   "zh": "我們每天大約會分泌1品脫的唾液",
+   "en": "",
+   "ocr": [
+    571
+   ]
+  },
+  {
+   "s": 2531.9,
+   "e": 2532.57,
+   "sec": 21,
+   "zh": "唾液中含有酵素",
+   "en": "And in that saliva, our enzymes, that along with our teeth, begin to break down the food that",
+   "ocr": [
+    573
+   ]
+  },
+  {
+   "s": 2533.24,
+   "e": 2537.58,
+   "sec": 21,
+   "zh": "酵素和我們的牙齒會分解我們吃下的食物",
+   "en": "",
+   "ocr": [
+    574
+   ]
+  },
+  {
+   "s": 2542.25,
+   "e": 2545.25,
+   "sec": 21,
+   "zh": "在那之前我們會先品嘗食物",
+   "en": "But not before we get to savor it first.",
+   "ocr": [
+    575
+   ]
+  },
+  {
+   "s": 2547.92,
+   "e": 2549.59,
+   "sec": 21,
+   "zh": "我們舌頭上有一萬個味蕾",
+   "en": "Some 10,000 taste buds line our tongues.",
+   "ocr": [
+    576
+   ]
+  },
+  {
+   "s": 2549.92,
+   "e": 2557.26,
+   "sec": 21,
+   "zh": "告訴腦部我們在吃什麼",
+   "en": "Each one home to about 50 taste receptor cells that tell the brain what we're eating.",
+   "ocr": [
+    577
+   ]
+  },
+  {
+   "s": 2564.27,
+   "e": 2565.6,
+   "sec": 21,
+   "zh": "如果有一些寶貴的受器燙傷",
+   "en": "",
+   "ocr": [
+    578
+   ]
+  },
+  {
+   "s": 2576.95,
+   "e": 2580.52,
+   "sec": 21,
+   "zh": "強壯的舌頭一旦將食物送入我們的食道",
+   "en": "And if some of those precious receptors are scorched off, it will only take a week to 10 days to grow back a brand new set. Once the muscular tongue maneuvers food into our esophagus, we're on autopilot.",
+   "ocr": [
+    579
+   ]
+  },
+  {
+   "s": 2580.62,
+   "e": 2583.62,
+   "sec": 21,
+   "zh": "食物就會自行進入消化器官",
+   "en": "",
+   "ocr": [
+    580
+   ]
+  },
+  {
+   "s": 2590.63,
+   "e": 2591.3,
+   "sec": 21,
+   "zh": "我們吃東西時",
+   "en": "",
+   "ocr": [
+    581
+   ]
+  },
+  {
+   "s": 2591.63,
+   "e": 2594.3,
+   "sec": 21,
+   "zh": "有片稱為會厭的皮膚會遮蓋住氣管",
+   "en": "",
+   "ocr": [
+    582
+   ]
+  },
+  {
+   "s": 2597.97,
+   "e": 2601.31,
+   "sec": 21,
+   "zh": "但會厭若是沒有蓋住氣管",
+   "en": "When we eat, a flap of skin called the Epiglottis seals off our windpipes, except when it doesn't.",
+   "ocr": [
+    585
+   ]
+  },
+  {
+   "s": 2610.98,
+   "e": 2612.65,
+   "sec": 22,
+   "zh": "食物就會回到起點",
+   "en": "",
+   "ocr": [
+    586
+   ]
+  },
+  {
+   "s": 2616.32,
+   "e": 2619.56,
+   "sec": 22,
+   "zh": "食物從口中進入食道通常只需5秒鐘",
+   "en": "Then it's back to the beginning. A typical journey down the esophagus takes about five seconds.",
+   "ocr": [
+    587
+   ]
+  },
+  {
+   "s": 2619.66,
+   "e": 2619.99,
+   "sec": 22,
+   "zh": "食物在食道內像牙膏一樣被往下擠壓",
+   "en": "From here it's squeezed, like toothpaste.",
+   "ocr": [
+    588
+   ]
+  },
+  {
+   "s": 2626.0,
+   "e": 2629.0,
+   "sec": 22,
+   "zh": "食物一旦進入胃就像現在的情形",
+   "en": "",
+   "ocr": [
+    591
+   ]
+  },
+  {
+   "s": 2632.0,
+   "e": 2633.34,
+   "sec": 22,
+   "zh": "食物就會放慢前進速度開始消化",
+   "en": "Once it passes in the esophagus. to the stomach, as it's doing here. It's time to slow down a bit and digest.",
+   "ocr": [
+    592
+   ]
+  },
+  {
+   "s": 2636.34,
+   "e": 2636.68,
+   "sec": 22,
+   "zh": "這個具伸縮性的J形囊袋大小通常不會超過一個拳頭",
+   "en": "Normally this stretchy, J-shaped bag isn't much bigger than a fist.",
+   "ocr": [
+    593
+   ]
+  },
+  {
+   "s": 2640.68,
+   "e": 2641.68,
+   "sec": 22,
+   "zh": "但吃下一頓大餐之後",
+   "en": "",
+   "ocr": [
+    595
+   ]
+  },
+  {
+   "s": 2642.35,
+   "e": 2646.35,
+   "sec": 22,
+   "zh": "胃可膨脹20倍",
+   "en": "But after a big meal, it can expand to more than 20 times that size.",
+   "ocr": [
+    596
+   ]
+  },
+  {
+   "s": 2646.69,
+   "e": 2651.92,
+   "sec": 22,
+   "zh": "接下來數小時胃壁會噴出強酸胃液",
+   "en": "",
+   "ocr": [
+    597
+   ]
+  },
+  {
+   "s": 2652.02,
+   "e": 2654.03,
+   "sec": 22,
+   "zh": "分解食物中的蛋白質",
+   "en": "For the next several hours, highly acidic gastric juices spew from the stomach's walls, breaking down proteins in our food, while muscle",
+   "ocr": [
+    598
+   ]
+  },
+  {
+   "s": 2656.36,
+   "e": 2664.36,
+   "sec": 22,
+   "zh": "將食物揉捏翻攪成糊狀物",
+   "en": "",
+   "ocr": [
+    599
+   ]
+  },
+  {
+   "s": 2669.04,
+   "e": 2677.04,
+   "sec": 22,
+   "zh": "以免胃將自己消化掉",
+   "en": "contractions knead and churn it into a pulp. The acid here is so strong the stomach must continuously secrete a layer of protective mucus so that it doesn't digest itself. It absorbs very few nutrients though.",
+   "ocr": [
+    600
+   ]
+  },
+  {
+   "s": 2683.06,
+   "e": 2687.73,
+   "sec": 22,
+   "zh": "借助特殊的「膠囊攝影機」，我們進入長達20英尺的小腸「拆解流水線」",
+   "en": "We pass into the 20-foot disassembly line of the small intestine, with the help of a specialized camera pill.",
+   "ocr": [
+    601,
+    602
+   ]
+  },
+  {
+   "s": 2689.06,
+   "e": 2690.06,
+   "sec": 22,
+   "zh": "在長達5小時的期間",
+   "en": "",
+   "ocr": [
+    603
+   ]
+  },
+  {
+   "s": 2690.73,
+   "e": 2694.4,
+   "sec": 22,
+   "zh": "食物的基礎物質受到推擠戳刺及消化液的噴灑",
+   "en": "",
+   "ocr": [
+    604
+   ]
+  },
+  {
+   "s": 2695.07,
+   "e": 2696.74,
+   "sec": 22,
+   "zh": "在這裡活像遭扭絞的破布",
+   "en": "For about five hours, foods building blocks are pushed, prodded, sprayed with digestive juices and rung like a rag here",
+   "ocr": [
+    605
+   ]
+  },
+  {
+   "s": 2697.07,
+   "e": 2700.07,
+   "sec": 22,
+   "zh": "直到裡頭所含的重要養分被壓穿過腸壁",
+   "en": "",
+   "ocr": [
+    606
+   ]
+  },
+  {
+   "s": 2700.74,
+   "e": 2703.41,
+   "sec": 22,
+   "zh": "然後進入血液",
+   "en": "until its vital elements are forced through the intestinal wall and into the bloodstream.",
+   "ocr": [
+    607
+   ]
+  },
+  {
+   "s": 2705.41,
+   "e": 2709.08,
+   "sec": 22,
+   "zh": "食物的養分多半會從小腸直接流入肝",
+   "en": "",
+   "ocr": [
+    608
+   ]
+  },
+  {
+   "s": 2709.75,
+   "e": 2712.75,
+   "sec": 22,
+   "zh": "人體最大的內部器官",
+   "en": "Most of our meals nutrients will flow directly to the liver, the body's largest internal organ.",
+   "ocr": [
+    609
+   ]
+  },
+  {
+   "s": 2715.09,
+   "e": 2716.42,
+   "sec": 22,
+   "zh": "肝會分解養分然後加以重新包裝",
+   "en": "",
+   "ocr": [
+    610
+   ]
+  },
+  {
+   "s": 2716.76,
+   "e": 2720.43,
+   "sec": 22,
+   "zh": "再把養分輸送到細胞作為細胞生長和活動的能量",
+   "en": "The liver breaks down, repackages and delivers nutrients to our cells for growth and power.",
+   "ocr": [
+    611
+   ]
+  },
+  {
+   "s": 2723.76,
+   "e": 2724.66,
+   "sec": 22,
+   "zh": "我們的身體最後會嘗試平衡攝取到的能量",
+   "en": "",
+   "ocr": [
+    612
+   ]
+  },
+  {
+   "s": 2737.78,
+   "e": 2741.78,
+   "sec": 22,
+   "zh": "這是脂肪在體內的模樣",
+   "en": "Our bodies ultimately try to balance energy intake. But sometimes more goes in than out. The result? Fat. This is how fat looks on the inside and on the outside.",
+   "ocr": [
+    615
+   ]
+  },
+  {
+   "s": 2745.12,
+   "e": 2745.45,
+   "sec": 22,
+   "zh": "就能使人發胖",
+   "en": "",
+   "ocr": [
+    616
+   ]
+  },
+  {
+   "s": 2749.45,
+   "e": 2751.46,
+   "sec": 22,
+   "zh": "只要每天多吃15卡路里",
+   "en": "",
+   "ocr": [
+    618
+   ]
+  },
+  {
+   "s": 2751.79,
+   "e": 2753.79,
+   "sec": 22,
+   "zh": "大約相當於4顆開心果的熱量",
+   "en": "It doesn't take a lot of excess calories to make you gain weight. Just 15 more a day than you need, about the amount in four pistachio nuts,",
+   "ocr": [
+    619
+   ]
+  },
+  {
+   "s": 2754.46,
+   "e": 2757.8,
+   "sec": 22,
+   "zh": "一年下來就會增加1磅半的脂肪",
+   "en": "will add a pound and a half of fat over a year.",
+   "ocr": [
+    620
+   ]
+  },
+  {
+   "s": 2760.8,
+   "e": 2763.14,
+   "sec": 22,
+   "zh": "小腸一旦吸收了所有值得消化的東西",
+   "en": "",
+   "ocr": [
+    621
+   ]
+  },
+  {
+   "s": 2764.14,
+   "e": 2767.81,
+   "sec": 22,
+   "zh": "剩下來的會被推入大腸",
+   "en": "Once the small intestine has taken in everything worth ingesting, the rest is pushed along to the large intestine.",
+   "ocr": [
+    622
+   ]
+  },
+  {
+   "s": 2771.81,
+   "e": 2772.48,
+   "sec": 22,
+   "zh": "在接下來的20個小時左右",
+   "en": "",
+   "ocr": [
+    623
+   ]
+  },
+  {
+   "s": 2772.81,
+   "e": 2774.48,
+   "sec": 22,
+   "zh": "大腸會吸收剩餘的水分",
+   "en": "",
+   "ocr": [
+    624
+   ]
+  },
+  {
+   "s": 2775.48,
+   "e": 2779.49,
+   "sec": 22,
+   "zh": "數十億細菌會分解剩餘的東西",
+   "en": "Another 20 hours or so, the last of the water is absorbed, and billions of bacteria work to break down the remaining contents.",
+   "ocr": [
+    625
+   ]
+  },
+  {
+   "s": 2781.49,
+   "e": 2783.82,
+   "sec": 22,
+   "zh": "最後所有我們無法消化的東西會被排出..",
+   "en": "Anything we can't digest gets flushed out of our bodies.",
+   "ocr": [
+    626
+   ]
+  },
+  {
+   "s": 2787.83,
+   "e": 2789.5,
+   "sec": 22,
+   "zh": "我們的身體",
+   "en": "",
+   "ocr": [
+    627
+   ]
+  },
+  {
+   "s": 2794.5,
+   "e": 2798.17,
+   "sec": 22,
+   "zh": "食物的複雜旅程有個重要目的",
+   "en": "",
+   "ocr": [
+    628
+   ]
+  },
+  {
+   "s": 2798.84,
+   "e": 2801.17,
+   "sec": 22,
+   "zh": "一旦萃取出奇妙機器所需的燃料",
+   "en": "",
+   "ocr": [
+    629
+   ]
+  },
+  {
+   "s": 2802.51,
+   "e": 2806.08,
+   "sec": 22,
+   "zh": "促使我們的細胞引擎運轉",
+   "en": "The food's complicated journey has a larger purpose. Once we've extracted what we need to feed the incredible machine and got our cellular engines humming,",
+   "ocr": [
+    630
+   ]
+  },
+  {
+   "s": 2806.85,
+   "e": 2807.51,
+   "sec": 22,
+   "zh": "我們運用熱量的方法著實讓人驚奇",
+   "en": "",
+   "ocr": [
+    632
+   ]
+  },
+  {
+   "s": 2808.18,
+   "e": 2808.51,
+   "sec": 22,
+   "zh": "這全多虧了叫做肌肉的奇妙機械裝置",
+   "en": "it's nothing short of astounding what we can do with them, thanks to amazing contraptions called muscle.",
+   "ocr": [
+    633
+   ]
+  },
+  {
+   "s": 2817.19,
+   "e": 2817.52,
+   "sec": 23,
+   "zh": "ARTHUR F. BINKOWSKI",
+   "en": "",
+   "ocr": [
+    636
+   ]
+  },
+  {
+   "s": 2818.52,
+   "e": 2818.76,
+   "sec": 23,
+   "zh": "ANDRES WILLIAIAS",
+   "en": "",
+   "ocr": [
+    637
+   ]
+  },
+  {
+   "s": 2818.86,
+   "e": 2819.76,
+   "sec": 23,
+   "zh": "MUSIC BY AEROSMITH",
+   "en": "",
+   "ocr": [
+    638,
+    639
+   ]
+  },
+  {
+   "s": 2819.86,
+   "e": 2826.1,
+   "sec": 23,
+   "zh": "DR. ARTHUR W. TOGA AND THE LABORATORY OF",
+   "en": "",
+   "ocr": [
+    640
+   ]
+  },
+  {
+   "s": 2829.2,
+   "e": 2830.1,
+   "sec": 23,
+   "zh": "MARY ANNE CUIPEPE",
+   "en": "",
+   "ocr": [
+    641
+   ]
+  },
+  {
+   "s": 2830.2,
+   "e": 2834.1,
+   "sec": 23,
+   "zh": "JOHN B. FORD",
+   "en": "",
+   "ocr": [
+    642
+   ]
+  }
+ ]
+}

@@ -7,31 +7,30 @@
 ## 目錄
 - 人體概論 · 第1段 `00:10–02:38`（32 句）
 - 皮膚與觸覺 · 第1段 `02:52–04:12`（16 句）
-- 皮膚與觸覺 · 第2段 `04:23–07:32`（41 句）
-- 皮膚與觸覺 · 第3段 `07:48–10:05`（32 句）
+- 皮膚與觸覺 · 第2段 `04:23–07:32`（42 句）
+- 皮膚與觸覺 · 第3段 `07:48–10:05`（33 句）
 - 視覺與眼睛 · 第1段 `10:15–13:03`（38 句）
 - 視覺與眼睛 · 第2段 `13:15–13:52`（9 句）
 - 視覺與眼睛 · 第3段 `14:01–15:10`（14 句）
 - 人體概論 · 第2段 `15:26–18:12`（36 句）
 - 聽覺與耳朵 · 第1段 `18:34–20:43`（25 句）
-- 聽覺與耳朵 · 第2段 `20:55–22:03`（18 句）
+- 聽覺與耳朵 · 第2段 `20:55–22:03`（20 句）
 - 循環與血液 · 第1段 `22:12–24:15`（26 句）
 - 肌肉與運動 · 第1段 `24:21–25:15`（14 句）
 - 聽覺與耳朵 · 第3段 `25:17–26:28`（17 句）
-- 呼吸與睡眠 `26:36–28:57`（32 句）
+- 呼吸與睡眠 `26:36–28:57`（33 句）
 - 味覺與嗅覺 `29:03–30:59`（26 句）
 - 循環與血液 · 第2段 `31:10–31:44`（7 句）
 - 人體概論 · 第3段 `32:06–34:17`（19 句）
 - 循環與血液 · 第3段 `34:26–36:52`（33 句）
-- 肌肉與運動 · 第2段 `36:59–38:56`（28 句）
-- 人體概論 · 第4段 `38:56–41:02`（26 句）
+- 肌肉與運動 · 第2段 `36:59–38:56`（29 句）
+- 人體概論 · 第4段 `38:56–41:02`（27 句）
 - 消化與代謝 · 第1段 `41:11–43:21`（22 句）
-- 消化與代謝 · 第2段 `43:30–46:48`（40 句）
-- 人體概論 · 第5段 `46:57–47:14`（6 句）
+- 消化與代謝 · 第2段 `43:30–46:48`（41 句）
+- 人體概論 · 第5段 `46:57–47:14`（7 句）
 
 ## 高頻術語
-
-細胞（45） · 皮膚（30） · 食物（21） · 人體（21） · 血液（18） · 心臟（16） · 腦部（13） · 血管（13） · 聲音（11） · 肌肉（11） · 呼吸（10） · 機器（10） · 器官（10） · 眼睛（8） · 氧氣（8） · 消化（8） · 毛髮（7） · 神經（7） · 影像（6） · 耳朵（5） · 氣味（5） · 視網膜（4） · 角膜（4） · 瞳孔（4） · 舌頭（4） · 鼻子（4） · 蛋白質（4） · 氣管（4）
+細胞（44） · 皮膚（29） · 食物（21） · 血液（19） · 人體（19） · 心臟（18） · 腦部（15） · 血管（12） · 肌肉（11） · 器官（11） · 眼睛（10） · 聲音（10） · 呼吸（10） · 機器（9） · 氧氣（8） · 消化（8） · 影像（7） · 毛髮（7） · 神經（7） · 耳朵（5） · 氣味（5） · 視網膜（4） · 角膜（4） · 瞳孔（4） · 舌頭（4） · 鼻子（4） · 訊號（4） · 蛋白質（4）
 
 ---
 
@@ -44,50 +43,40 @@ EN: is nothing more familiar, more mysterious, more breathtaking in its action, 
 
 **00:13**
 中：卻也最為神秘
-
 **00:17**
 中：人體動作最令人屏息
-
 **00:22**
 中：人體構造十分奇妙
-
 **00:25**
 中：各種感官異常敏銳
 EN: exquisite in its range of senses, and staggering in its ability to understand.
 
 **00:28**
 中：理解能力令人詫異
-
 **00:33**
 中：我們要展開奇妙的一日之旅
 EN: On a fantastic voyage through a single day, we plunge deep into the routine miracles of the human body.
 
 **00:37**
 中：深入瞭解人體每一天所展現的奇蹟
-
 **00:41**
 中：繼續做夢吧...
-
 **00:44**
 中：認識我們的器具
 EN: Our instruments, engines, infrastructure, roadways and circuitry,
 
 **00:46**
 中：引擎
-
 **00:49**
 中：道路和電路系統
-
 **00:52**
 中：經歷一萬次的眨眼
 EN: through 10,000 blinks, 20,000 breaths, 100,000 beats.
 
 **00:57**
 中：兩萬次的呼吸
-
 **00:59**
 中：10萬次的心跳
-
 **01:03**
 中：你好。
 EN: Hello.
@@ -98,7 +87,6 @@ EN: Today is an ordinary, extraordinary day in the life of the incredible human 
 
 **01:17**
 中：【奇妙的人體機器（上）】
-
 **01:23**
 中：其實我們不過是星塵
 EN: Stardust is really all we are.
@@ -109,7 +97,6 @@ EN: Oxygen, carbon, hydrogen, and a handful of elements that would cost very lit
 
 **01:33**
 中：這些花個幾塊到任何化工行都能買到
-
 **01:38**
 中：但將這些化學物混合在一起
 EN: But get these chemicals together,
@@ -165,20 +152,16 @@ EN: At the surface of it all, a velvety overcoat of cells and protein keeps us i
 
 **02:54**
 中：有一層由細胞和蛋白質組成的光滑外衣包住身體
-
 **02:58**
 中：阻擋其他東西進入
-
 **03:03**
 中：這是我們的保溫兼散熱器
-
 **03:07**
 中：也是我們感知痛苦與愉悅的媒介
 EN: Our radiator, our conduit of pain and pleasure, it is the body's largest organ, our skin.
 
 **03:12**
 中：我們的皮膚是人體最大的器官
-
 **03:19**
 中：皮膚看起來、摸起來都光滑如絲
 EN: Our skin, smooth and silky to the eyes and touch. A closer look presents a very different landscape.
@@ -189,14 +172,12 @@ EN: Magnified 600 times, our outermost skin is nothing but dead cells,
 
 **03:29**
 中：我們的最外層皮膚不過是死細胞
-
 **03:33**
 中：上頭滿是隆起和凹槽
 EN: riddled with ridges and grooves, and pocked with countless bumps and holes.
 
 **03:34**
 中：還分布著無數腫塊和坑洞
-
 **03:41**
 中：就會發現每平方吋的人體上就住著數十萬細菌
 EN: Look closer still, and we find hundreds of thousands of bacteria inhabit every square inch of us.
@@ -211,7 +192,6 @@ EN: We shed at least 600,000 particles of skin an hour, about a pound and a half
 
 **04:06**
 中：每年則會掉落1磅半左右的皮膚屑
-
 **04:08**
 中：我們住家內的塵埃有8成是皮膚屑
 EN: which accounts for as much as 80% of the dust in our houses.
@@ -231,14 +211,12 @@ EN: If we could peel it off and lay it out flat, the average person's skin would
 
 **04:30**
 中：每個人的皮膚平均可覆蓋18平方呎的面積
-
 **04:36**
 中：皮膚雖只有數公釐厚
 EN: Though just millimeters thick, it would weigh about six pounds.
 
 **04:38**
 中：重量卻約有6磅
-
 **04:41**
 中：而且我們不斷在製造更多皮膚
 EN: And we're constantly making more.
@@ -249,7 +227,6 @@ EN: Just wait a month or so, and you'll have a shiny new coat,
 
 **04:46**
 中：我們就會有一身全新的外皮
-
 **04:51**
 中：也就是皮膚不全都是死皮
 EN: which means skin can't be all dead.
@@ -260,7 +237,6 @@ EN: Dip below the surface, and you find cells continuously dividing to replace t
 
 **04:58**
 中：你會發現不斷有細胞分裂取代上方的死細胞
-
 **05:06**
 中：長達數公里的血管將血液輸送到皮膚的結締組織
 EN: Kilometers of blood vessels pulse to skin's connective tissues.
@@ -287,17 +263,14 @@ EN: If sensitivity were size dependent, we would look something like this.
 
 **05:39**
 中：我們會是長這個樣子
-
 **05:44**
 中：我們超級敏感的手腳、舌頭和嘴唇上
-
 **05:47**
 中：布滿觸覺受器
 EN: Our super sensitive hands, feet, tongue and lips, each packed with touch receptors, would swell enormously.
 
 **05:49**
 中：這些部位會嚴重腫大
-
 **05:53**
 中：我們的腿則會像小雞的腳
 EN: Our legs on the other hand would resemble a chickens.
@@ -308,7 +281,6 @@ EN: Good thing for us, there is more to this organ than touch.
 
 **06:01**
 中：這種器官不僅具備觸覺功能
-
 **06:05**
 中：皮膚也是我們的加熱與冷卻系統
 EN: Skin is also our heating and cooling system.
@@ -327,14 +299,12 @@ EN: Through its network of blood vessels, skin carries as much as one-third of t
 
 **06:20**
 中：溫熱新鮮血液
-
 **06:27**
 中：若體溫過高時
 EN: Get too hot, and these vessels can widen to release heat from our bodies.
 
 **06:28**
 中：血管會擴張替身體散熱
-
 **06:33**
 中：但有時這樣做還不夠
 EN: But sometimes that's not enough.
@@ -353,7 +323,6 @@ EN: Sweat. More than 2 million holes across our skin can produce up to half a ga
 
 **06:57**
 中：可在1小時內產生半加侖的液體
-
 **07:06**
 中：受熱的水滴蒸發到空中
 EN: The heated droplets evaporate into the air and leave the body cool.
@@ -389,10 +358,8 @@ EN: Exposed to a chill, tiny muscles jerk our hairs to attention, bulging the sk
 
 **07:55**
 中：小肌肉會急拉我們的毛髮
-
 **07:58**
 中：致使毛髮周遭的皮膚凸起
-
 **08:03**
 中：我們管那些凸起叫雞皮疙瘩
 EN: Goose bumps.
@@ -435,21 +402,18 @@ EN: which is why we don't feel pain with every haircut.
 
 **08:47**
 中：所以我們剪頭髮時不會感到疼痛
-
 **08:54**
 中：經過一番梳洗
 EN: Cleaned and groomed, we venture into the bustling morning world.
 
 **08:55**
 中：我們冒險展開忙亂的晨間活動
-
 **09:01**
 中：在我們的四周，有其他奇妙的人體機器
 EN: Around us, other incredible human machines greet the day
 
 **09:04**
 中：也在迎接一天的到來
-
 **09:05**
 中：每個人的體型、身材、膚色和膚質各不相同
 EN: in all different sizes and shapes, colors and textures.
@@ -468,7 +432,6 @@ EN: the cells that pump the dark pigment melanin, into our hair and skin,
 
 **09:26**
 中：為毛髮和皮膚上色
-
 **09:29**
 中：決定我們是黑皮膚還是白皮膚、黑髮還是金髮的，僅僅是這些細胞產生的黑色素量
 EN: It's just the amount of melanin these cells produce that determines whether we are black or white, brunette or blonde.
@@ -487,7 +450,6 @@ EN: organ, blue or brown, green or hazel.
 
 **09:50**
 中：有綠有淡褐
-
 **09:53**
 中：是奇妙人體機器所擁有的最重要感官器官
 EN: They are the most vital sensory organ that the incredible machine has.
@@ -510,7 +472,6 @@ EN: In microseconds, our eyes sight, follow, focus, and process images fractions
 
 **10:18**
 中：處理不到1吋長的影像
-
 **10:21**
 中：或每小時可移動數百哩的影像
 EN: or moving at hundreds of miles per hour, enabling us to assess and appreciate the world
@@ -525,7 +486,6 @@ EN: They may be the windows to our souls, but on a less poetic level,
 
 **10:41**
 中：但從比較實際的角度來看
-
 **10:43**
 中：眼睛只是貪婪的光線收集器
 EN: eyes are just hungry harvesters of light, trapping and translating it into electrical impulses
@@ -556,7 +516,6 @@ EN: then a transparent protein lens.
 
 **11:16**
 中：然後經過含蛋白質的透明水晶體
-
 **11:25**
 中：負責管制光線的虹膜肌肉
 EN: Gatekeepers of light, the muscles of the colourful iris,
@@ -595,7 +554,6 @@ EN: impulses before processing and shipping them off to the brain.
 
 **12:02**
 中：經處理之後再將電脈衝傳送到腦部
-
 **12:10**
 中：這項驚人的壯舉消耗了我們大約三分之一的腦力
 EN: Mind-boggling feat that soaks up about a third of our brain power, our brains continually
@@ -642,7 +600,6 @@ EN: It's frustrating to lose your sight because you run into things, you run int
 
 **13:00**
 中：因為我會撞到東西撞到人
-
 **13:00**
 中：這甚至會讓人感到抑鬱
 EN: and it can be depressing.
@@ -670,7 +627,6 @@ EN: Just 16 electrodes that should act as a simple retina, turning light into im
 
 **13:26**
 中：將光線轉換成可傳送到腦部的電脈衝
-
 **13:35**
 中：電流會刺激底下的神經細胞
 EN: We lay it right on the retina. and the current stimulates the underlying nerve cells.
@@ -685,7 +641,6 @@ EN: To perceive those spots, Linda had to first wear a special pair of sunglasse
 
 **13:45**
 中：琳達首先必須配戴可捕捉光線的特製太陽眼鏡
-
 **13:49**
 中：轉化為電子訊號，從而啟動她眼內的植入物
 EN: converted into electrical signals, and fire up the implants in her eyes.
@@ -701,7 +656,6 @@ EN: As the doctors activated the electrodes one by one, it started to work.
 
 **14:01**
 中：植入物開始運作
-
 **14:06**
 中：他們啟動越來越多電極之後
 EN: but Linda could now see light and movement. As they turn more and more electrodes on,
@@ -720,7 +674,6 @@ EN: A working retina transmits.
 
 **14:24**
 中：數百萬個訊號
-
 **14:33**
 中：隨著時間推移，她的大腦會進行補償
 EN: But with each passing day, her brain compensates
@@ -743,7 +696,6 @@ EN: After 10 years of blindness, Linda can see the grandchildren she never saw b
 
 **15:07**
 中：之前從沒見過的孫子
-
 **15:10**
 中：「奶奶我在哪裡？」
 EN: And they like to run in front of me. Where am I, Grandma? Where am I? I'm more connected to them, a little...
@@ -759,7 +711,6 @@ EN: a little more part of their lives, you know. Even for those of us lucky enou
 
 **15:31**
 中：即使是幸運擁有標準視力的人
-
 **15:34**
 中：我們的視覺也不是在奇妙人體機器內獨自運作
 EN: the sense of sight does not work alone in the incredible human machine.
@@ -774,10 +725,8 @@ EN: riding a bike, landing, perfecting a dive,
 
 **15:50**
 中：墜落在水面上
-
 **15:52**
 中：改進跳水姿勢
-
 **15:53**
 中：甚至學步兒走路
 EN: even taking a baby step,
@@ -800,7 +749,6 @@ EN: When we turn our heads, the fluids move, stimulating nerve cells,
 
 **16:18**
 中：進而刺激神經細胞
-
 **16:19**
 中：按三維方向告知腦部方位
 EN: and orienting the brain in three dimensions,
@@ -835,7 +783,6 @@ EN: I've never experienced such a sensation. It was like being drunk on the deck
 
 **17:07**
 中：感覺像是在船上喝醉了
-
 **17:16**
 中：他們是使用低壓電流
 EN: The current is low voltage, just enough to throw people off balance and compel them to
@@ -870,17 +817,14 @@ EN: Or manipulate their actions. Rather, we want to help them, help guide them.
 
 **17:54**
 中：幫忙引導他們
-
 **17:57**
 中：尤其是那些平衡感有問題或患有眩暈的人
 EN: Especially people with balance problems or dizziness.
 
 **18:02**
 中：研究人員說…
-
 **18:03**
 中：將來這裝置甚至可能幫助全球定位系統等導航裝置
-
 **18:07**
 中：引導人類前往目的地
 EN: The researchers say one day it may even help navigational devices like GPS to physically guide us to our destinations or make a video game feel more like a roller coaster.
@@ -899,7 +843,6 @@ EN: And our ears provide another powerful sensation to enrich our day.
 
 **18:36**
 中：豐富我們的生活
-
 **18:44**
 中：就會在空氣中形成波
 EN: Every time we, or anything else for that matter, make a move or vibrate, we create ripples in the air.
@@ -918,7 +861,6 @@ EN: Like radar dishes, our ears channel the sound waves deep into our skulls.
 
 **19:03**
 中：我們的耳朵會將聲波導入我們的頭顱深處
-
 **19:09**
 中：我們的耳膜會隨著聲波的頻率振動
 EN: Our ear drums vibrate in tune to the frequencies,
@@ -933,17 +875,14 @@ EN: Magnified 20 times, we can see the ear.
 
 **19:22**
 中：我們可以看見耳朵如何聽到聲音
-
 **19:25**
 中：耳內的情形
-
 **19:27**
 中：和耳外的都看得到
 EN: Inside, the bones' movements get converted to pulses of pressure,
 
 **19:43**
 中：骨頭的動作會轉變成壓力脈衝促使液體振動
-
 **19:44**
 中：神經細胞會將這一切傳送到腦部
 EN: which vibrates fluid, which disturbs tiny hairs, which excite nerve cells, which translate all of this to the brain.
@@ -962,7 +901,6 @@ EN: It's an astonishingly versatile instrument, but it's vulnerable.
 
 **20:13**
 中：但也十分脆弱
-
 **20:15**
 中：史密斯飛船主唱史蒂芬泰勒是靠聲帶工作
 EN: As lead singer for Aerosmith, Stephen Tyler's work depends on his vocal cords.
@@ -973,14 +911,12 @@ EN: Few of us think about the trauma we generate in our voice boxes when we talk
 
 **20:34**
 中：會對我們的喉嚨造成多大的創傷
-
 **20:37**
 中：但只要來看史蒂芬泰勒的咽喉
 EN: But if you were to look down the gullet of Stephen Tyler,
 
 **20:40**
 中：就會明白他和數百萬其他人
-
 **20:42**
 中：一樣濫用脆弱的器具
 EN: it would show why he and millions of others are wreaking havoc on a delicate instrument.
@@ -1016,7 +952,6 @@ EN: Doctors, Zeitels, one time for my kids, what are you, what is this monitorin
 
 **21:15**
 中：這東西是要監測什麼？
-
 **21:18**
 中：我們要觀察你頸部皮膚的振動狀況
 EN: What we're going to be doing is looking at the vibrations on the skin of your neck,
@@ -1035,21 +970,18 @@ EN: Into the great beyond.
 
 **21:33**
 中：接受無人經歷過的體驗
-
 **21:37**
 中：今晚舉行演唱會時，札特爾會在後台利用內視鏡
 EN: Backstage, throughout tonight's concert, Zeitels will use an Endoscope to examine Tyler's voice box up close.
 
 **21:42**
 中：詳細檢查泰勒的喉頭
-
 **21:44**
 中：盡量別碰兩邊的地方
 EN: Try not to touch the sides. Yep. Got it. Great Stephen.
 
 **21:51**
 中：張開嘴
-
 **22:01**
 中：我們很難得能看見實力派歌手的喉頭內部
 EN: It's a rare insight into what goes on in a high, a high performance singer.
@@ -1101,7 +1033,6 @@ EN: It's also why just months earlier, damaged vocal calls canceled much of Aero
 
 **23:00**
 中：史密斯飛船樂團因泰勒聲帶受損，取消了大半的巡迴演唱會
-
 **23:05**
 中：泰勒幾乎無法唱歌
 EN: Tyler could barely sing.
@@ -1112,14 +1043,12 @@ EN: forcing him to undergo Zeitels' knife, or laser in this case.
 
 **23:15**
 中：當時札特爾是用雷射動手術
-
 **23:18**
 中：史蒂芬的聲帶出血
 EN: Stephen basically had a vocal bleed, which is very common in performers.
 
 **23:21**
 中：這種症狀在表演者身上很常見
-
 **23:24**
 中：其實擁有好口才的人常出現這種傷害
 EN: common in fact to many with a gift of gab,
@@ -1175,7 +1104,6 @@ EN: Every time that I look in the mirror, always...
 
 **24:26**
 中：我臉上的皺紋就越來越清晰
-
 **24:32**
 中：我們每次呼氣
 EN: Every time we exhale,
@@ -1198,23 +1126,18 @@ EN: Muscles open and close the chords and change the sound's pitch.
 
 **24:57**
 中：繼續做夢吧...（歌詞：Dream On）
-
 **25:00**
 中：唱低音時
 EN: During low notes, the chords are loose and vibrate more slowly.
 
 **25:02**
 中：聲帶比較放鬆，振動速度也較慢
-
 **25:05**
 中：繼續做夢吧
-
 **25:09**
 中：至於假音
-
 **25:11**
 中：繼續做夢吧…
-
 **25:13**
 中：他的聲帶發揮極限能力
 EN: his chords stretch to the limit and vibrate virtually off the charts.
@@ -1226,7 +1149,6 @@ EN: his chords stretch to the limit and vibrate virtually off the charts.
 
 **25:17**
 中：振動得比平常更加頻繁
-
 **25:24**
 中：這對泰勒的柔順聲帶顯然是輕而易舉的事
 EN: A surprisingly simple feat for Tyler's pliable chords.
@@ -1241,7 +1163,6 @@ EN: of the bed and all them things you say and all them things I said.
 
 **25:38**
 中：這段我是這樣唱
-
 **25:41**
 中：然後，你知道的，當然...
 EN: And then, you know, of course,
@@ -1260,7 +1181,6 @@ EN: That's one of the easiest ones for me to sing.
 
 **25:55**
 中：開始
-
 **25:59**
 中：將聲帶的振動轉成歌曲的部位
 EN: As for what translates these vocal vibrations into song, that happens much further up, in the throat, the mouth, the tongue,
@@ -1283,7 +1203,6 @@ EN: After some two hours of vocal gymnastics, initial data reveal that Tyler's c
 
 **26:26**
 中：初步資料顯示泰勒的聲帶相撞50多萬次
-
 **26:28**
 中：振動距離超過6哩
 EN: crashed together more than half a million times and cover the equivalent of more than six miles.
@@ -1315,7 +1234,6 @@ EN: With every inhalation, our noses or mouths suck in about a pint of air
 
 **27:10**
 中：我們的鼻子或嘴巴會吸入1品脫的空氣
-
 **27:13**
 中：我們每天會呼吸兩萬次左右
 EN: some 20,000 times a day.
@@ -1338,14 +1256,12 @@ EN: air has a choice, left or right, but both lungs lead to the same end.
 
 **27:31**
 中：但兩邊肺通往相同盡頭
-
 **27:35**
 中：數千條更小的分枝
 EN: The lungs bronchi divide and divide into thousands of smaller and smaller branches,
 
 **27:37**
 中：肺部的支氣管不斷分岔成數千條更小的分枝
-
 **27:41**
 中：漸次過濾空氣中的化學物、塵埃和煙
 EN: progressively filtering chemicals, dust and smoke in the air,
@@ -1368,17 +1284,14 @@ EN: In less than a second, oxygen molecules exit the lungs here through walls ju
 
 **28:06**
 中：氧分子從這裡離開肺部
-
 **28:08**
 中：穿過厚度只有一個細胞的肺壁
-
 **28:12**
 中：跟著氧分子會進入流動的血液迅速被帶往身體各處
 EN: They'll then cross into a surging bloodstream, be whisked throughout the body, and provide precious resources to every one of our trillions of cells,
 
 **28:16**
 中：為我們身上的每一個細胞提供寶貴資源
-
 **28:21**
 中：如果空氣能夠來到這個部位
 EN: assuming air gets to this point.
@@ -1397,14 +1310,12 @@ EN: Then there's the exhalation. Carbon dioxide.
 
 **28:42**
 中：二氧化碳
-
 **28:46**
 中：則是循著相反路徑離開人體
 EN: The waste product of breathing makes the opposite journey back out.
 
 **28:52**
 中：再吸氣一次
-
 **28:53**
 中：我們的呼吸器官贈送我們另一份禮物
 EN: Another inhalation and our breathing apparatus offers yet another gift with delightful or disgusting results.
@@ -1423,31 +1334,26 @@ EN: With every new breath, our noses can distinguish as many as 10,000 different
 
 **29:05**
 中：我們的鼻子可辨別多達一萬種不同氣味
-
 **29:10**
 中：其中有些好聞
 EN: Some pleasing, some not.
 
 **29:12**
 中：有些則不然
-
 **29:15**
 中：氣味可使人平靜或謹慎
 EN: They can calm, caution, or make our mouths water.
 
 **29:17**
 中：或使我們流口水
-
 **29:21**
 中：但任何氣味的本質
 EN: But the essence of any aroma, from a day at the beach to fresh baked bread, is pure chemistry.
 
 **29:23**
 中：譬如在海灘待一天或剛出爐的麵包
-
 **29:25**
 中：純粹是化學
-
 **29:28**
 中：例如乙酸異丁酯、香草酸及3百多種化學物等等
 EN: Isobutyl acetate, vanillic acid, and more than 300 different chemicals, for example,
@@ -1470,7 +1376,6 @@ EN: Whatever the chemical, deep inside our noses, there is a small patch of abou
 
 **29:59**
 中：在我們的鼻子內部
-
 **30:00**
 中：有塊含1千萬個細胞的小區域等著要嗅味道
 EN: waiting to sniff it out.
@@ -1485,7 +1390,6 @@ EN: When the right odor chemical meets up with the right receptor, an electrical
 
 **30:17**
 中：腦部會收到一道電子訊號
-
 **30:20**
 中：最後奇妙的機器會聞到味道
 EN: to the brain, and finally, the incredible machine smells.
@@ -1496,7 +1400,6 @@ EN: All in all, our respiratory systems are ingenious multitaskers, sorting the
 
 **30:31**
 中：會在每次吸氣時區分數千種氣味
-
 **30:34**
 中：還能在吐氣時發出數千種聲音
 EN: thousands of smells at each intake capable of making thousands of sounds on the way out.
@@ -1523,7 +1426,6 @@ EN: What is a muscular pump to its core?
 
 **31:14**
 中：即便將心臟從人體摘除
-
 **31:17**
 中：心臟仍能自行運作
 EN: Even if it's removed, it can still function all on its own.
@@ -1534,10 +1436,8 @@ EN: It's genius lies in its cardiac cells, millions of them all beating in tune,
 
 **31:24**
 中：有數百萬個心臟細胞和諧一致地跳動
-
 **31:29**
 中：但心臟細胞不一定出生於心臟內
-
 **31:41**
 中：阿米特·帕特爾醫生及其在匹茲堡大學醫學中心的同事，誘導這些幹細胞分化並跳動
 EN: These are stem cells, coaxed into beating by Dr. Amit Patel and his colleagues from the University of Pittsburgh Medical Center. Those cells had nothing to do with becoming heart muscle, but within less than a week, we were able to train them to become heart muscle.
@@ -1553,17 +1453,14 @@ EN: Stem cells live in many tissues in our bodies, standing by for maintenance a
 
 **32:09**
 中：如腦細胞、肌肉細胞、骨骼細胞和脂肪細胞
-
 **32:14**
 中：你能想到的220多種不同人體細胞
 EN: fat almost anything you could possibly think of in the body over 220 different cell types all come from stem cells
 
 **32:20**
 中：幾乎都是從幹細胞生長而成
-
 **32:24**
 中：49歲的麥可卡拉特迫切希望
-
 **32:27**
 中：他體內的幹細胞能成心臟細胞
 EN: 49 year old Michael Carlett desperately hopes that stem cells can turn into heart cells in his own body a few years ago his heart
@@ -1574,7 +1471,6 @@ EN: his heart started to give out catastrophically.
 
 **32:36**
 中：而且是嚴重衰弱
-
 **32:40**
 中：卡拉特先生的心臟病得很重
 EN: Mr. Carland's heart is very sick. He had a very large heart attack. When you look at the heart, it's a pump. And normally 60% of what goes into the heart should come out with every heartbeat.
@@ -1585,7 +1481,6 @@ EN: In Mr. Carlat, only 30% comes out. I was put on the heart transplant list an
 
 **33:02**
 中：我體重有275磅，身高是6呎4
-
 **33:05**
 中：很難找到合適的配對
 EN: It's hard to find a match for me. So waiting on that list would have just been waiting to just play out the last couple of years, and that'll be it. With few other options, Michael enrolled in a highly experimental clinical trial
@@ -1600,7 +1495,6 @@ EN: Help grow new blood vessels, increase the number of muscle fibers...
 
 **33:44**
 中：他們希望幹細胞能誘哄麥克的心臟自行癒合
-
 **33:49**
 中：我們不知道幹細胞會做什麼
 EN: We don't know what they do, but they seem to know what's required.
@@ -1632,7 +1526,6 @@ EN: Of course, it takes more than just a good pump
 
 **34:31**
 中：當然不僅要有健康的心臟
-
 **34:34**
 中：還要有暢通的血管
 EN: to give life-giving liquids around the body. It takes good plumbing.
@@ -1655,7 +1548,6 @@ EN: Tubes are so thin that red blood cells, thousands of an inch across,
 
 **34:54**
 中：直徑為好幾千分之一吋的紅血球細胞
-
 **34:57**
 中：必須排成一列用力通過毛細血管
 EN: must squeeze through single file.
@@ -1666,34 +1558,28 @@ EN: Capillaries fanned throughout the body so that our organs and tissues are ne
 
 **35:08**
 中：因此我們的器官和組織從不缺乏新鮮的氧氣
-
 **35:16**
 中：二氧化碳和其他毒素必須排出體外
 EN: And other toxins need to get out and veins are crucial drain pipes, carrying the blood back to the heart, then to the lungs for cleaning.
 
 **35:19**
 中：靜脈是重要的排水管
-
 **35:21**
 中：會將血液送回心臟
-
 **35:23**
 中：再進入肺部接受清理
-
 **35:26**
 中：血液流經長達6萬多英里的血管
 EN: Blood travels through more than 60,000 miles of vessels.
 
 **35:31**
 中：這長度是地球圓周的兩倍多
-
 **35:37**
 中：血液不到1分鐘便可循環身體一周
 EN: It circulates all around the body in less than a minute, every minute of our lives.
 
 **35:41**
 中：血液每分鐘都在循環
-
 **36:01**
 中：我們跑步時血液會流向肌肉
 EN: The more oxygen our cells burn, the harder our heart and blood vessels have to work to deliver more. When we eat, it rushes to our stomachs. When we run, to our muscles.
@@ -1704,7 +1590,6 @@ EN: Even when we read, more oxygen must get to our brains. As efficient as this 
 
 **36:19**
 中：但仍有其限制
-
 **36:20**
 中：美國海軍飛行員體驗過血液系統的限制
 EN: Limits experienced by pilots in the US Navy.
@@ -1723,17 +1608,14 @@ EN: Well, 9Gs, to me, you know, squashes me in the seat pretty hard.
 
 **36:38**
 中：我的體重有180磅
-
 **36:40**
 中：必須承受的壓力是體重的9倍
-
 **36:41**
 中：我現在不替你計算
 EN: I'm not going to do the math for you right now, but it squashes me down pretty hard.
 
 **36:43**
 中：但那股力量用力壓住我
-
 **36:49**
 中：單飛飛行員泰德司提爾曼承受的1千6百磅壓力
 EN: Some 1,600 pounds of pressure on solo pilot Ted Steelman
@@ -1753,21 +1635,18 @@ EN: Same thing as if somebody strangles you or anything like that, you're going 
 
 **37:03**
 中：然後人會昏過去
-
 **37:07**
 中：戰鬥機飛行員通常會穿抗G衣
 EN: To counteract this, fighter pilots typically wear gravity or G-suits, which automatically inflate to squeeze blood where it's needed.
 
 **37:14**
 中：將血液擠壓到需要的部位
-
 **37:16**
 中：由於飛機只相隔1呎半
 EN: Flying a mere foot and a half apart, the Blue Angels can't chance it.
 
 **37:19**
 中：所以藍天使不能冒險
-
 **37:27**
 中：將駕駛桿推動1/16吋
 EN: When you're talking about stick inputs as much as a 16th of an inch,
@@ -1782,7 +1661,6 @@ EN: So, no unintentional movement of the stick unless intended is what you're lo
 
 **37:42**
 中：也就是說這些飛行員必須用他們的肌肉
-
 **37:45**
 中：這套動作被稱為「打嗝法」（Hick maneuver），它結合了呼吸技巧...
 EN: Which means that these pilots must use their muscle to force blood up to their brains. What I do to this is what we call a hic maneuver. It's a combination of a breathing technique
@@ -1793,28 +1671,24 @@ EN: and that you contract your chest with a hic-ch-ch-to-ch-ch-to-to-keep-keep t
 
 **37:55**
 中：用所有力量持續壓著胸腔3至4秒
-
 **38:00**
 中：同時也收縮腰部以下部位
 EN: in about three to four-second intervals, as well as isometric contractions from the waist down.
 
 **38:07**
 中：純粹呼吸和收縮肌肉
-
 **38:09**
 中：就能訓練身體承受極大的壓力
 EN: By simply breathing and contracting muscles, the body can be trained to withstand extreme forces.
 
 **38:16**
 中：為此飛行員須面對這部機器
-
 **38:18**
 中：離心機
 EN: To do it, pilots must face this. The centrifuge.
 
 **38:20**
 中：離心機有如超快的游樂園設施
-
 **38:22**
 中：可攪動從腦部到腳趾的血液
 EN: Like an extreme amusement park ride that spins blood from brains to toes
@@ -1825,7 +1699,6 @@ EN: and tests how long a pilot is able to resist.
 
 **38:29**
 中：他們訓練身體有如馬拉松選手訓練身體
-
 **38:29**
 中：以每5分鐘1哩的速度跑26哩
 EN: They train their bodies, just like a marathoner will train their body to go out and run 26 miles at, you know, five-minute miles.
@@ -1836,10 +1709,8 @@ EN: These guys train their bodies to respond to the Gs.
 
 **38:40**
 中：非常好繼續保持下去
-
 **38:42**
 中：但即便像司提爾曼這種受過嚴格訓練的專家
-
 **38:45**
 中：也無法對抗物理現象很久
 EN: But even highly trained specialists like Steelman can only defy physics for so long.
@@ -1859,14 +1730,12 @@ EN: I expected a G-release, so what did I do?
 
 **38:59**
 中：我一放鬆身體
-
 **39:02**
 中：每一次我都會昏倒，因為我承受的G力實在太大
 EN: The moment you relax, the absolute moment you relax, every single time you're going to pass out under G like that.
 
 **39:08**
 中：現在司提爾曼飛上天空時
-
 **39:13**
 中：他知道警訊何時出現然後會採取避險動作
 EN: Now, when Steelman takes to the skies, he knows the warning signs and takes evasive action.
@@ -1881,7 +1750,6 @@ EN: You'll hear them back there working, and they're executing the Hick maneuver
 
 **39:28**
 中：他們非常努力打嗝然後突然間他們會沒聲音
-
 **39:29**
 中：你從後視鏡看他們，他們就這樣...頭垂到了胸口，看著有點可悲
 EN: and you look back in the mirror and they just kind of do this, you know, their heads down to their chest, and it's kind of sad.
@@ -1896,21 +1764,18 @@ EN: Blood is something our brains and the rest of our organs for that matter nev
 
 **39:53**
 中：但血液中不僅含有氧氣
-
 **40:00**
 中：一滴血液中
 EN: In a single drop of blood, up to 400,000 infection-fighting white blood cells
 
 **40:02**
 中：有多達40萬個可抗感染的白血球細胞
-
 **40:05**
 中：不斷巡邏尋找病毒和細菌等外來因子
 EN: are constantly patrolling in seeking out foreign agents like viruses and bacteria
 
 **40:10**
 中：還有癌細胞等內在威脅
-
 **40:12**
 中：然後加以攻擊
 EN: and internal threats like cancer and attacking them.
@@ -1925,14 +1790,12 @@ EN: like these rogue melanoma cells can grow out of control.
 
 **40:35**
 中：無論我們的細胞是幫助我們或傷害我們
-
 **40:36**
 中：有件事是可以確定的
 EN: Whether our cells work with us or against us, one thing is certain, we are tirelessly working
 
 **40:38**
 中：我們不斷替細胞工作
-
 **40:44**
 中：從我們醒來到現在我們的心臟已經跳動2萬多次
 EN: Since we woke up, our heart has beaten more than 20,000 times, bringing vital
@@ -1943,7 +1806,6 @@ EN: oxygen to a hundred billion microscopic masters.
 
 **40:56**
 中：但這部機器不僅需要空氣
-
 **41:01**
 中：還需要燃料
 EN: But it takes more than air to feed the machine. It makes fuel.
@@ -1963,14 +1825,12 @@ EN: designed to suck everything useful out of it.
 
 **41:23**
 中：坐下來吃午餐
-
 **41:24**
 中：食物經過約30個小時20多呎的旅程就會消化
 EN: Sit down to lunch and in the 30 or so hours and 20 plus feet it takes to digest it, we convert plants or animals into energy
 
 **41:29**
 中：我們將植物和動物轉換成能量
-
 **41:32**
 中：把其中的化學基礎物質吸入我們的血肉
 EN: and absorb their chemical building blocks into our own flesh and blood.
@@ -1993,14 +1853,12 @@ EN: Just the idea of food can get our mouths to water. We salivate roughly a pin
 
 **42:05**
 中：我們每天大約會分泌1品脫的唾液
-
 **42:11**
 中：唾液中含有酵素
 EN: And in that saliva, our enzymes, that along with our teeth, begin to break down the food that
 
 **42:13**
 中：酵素和我們的牙齒會分解我們吃下的食物
-
 **42:22**
 中：在那之前我們會先品嘗食物
 EN: But not before we get to savor it first.
@@ -2015,20 +1873,16 @@ EN: Each one home to about 50 taste receptor cells that tell the brain what we'r
 
 **42:44**
 中：如果有一些寶貴的受器燙傷
-
 **42:56**
 中：強壯的舌頭一旦將食物送入我們的食道
 EN: And if some of those precious receptors are scorched off, it will only take a week to 10 days to grow back a brand new set. Once the muscular tongue maneuvers food into our esophagus, we're on autopilot.
 
 **43:00**
 中：食物就會自行進入消化器官
-
 **43:10**
 中：我們吃東西時
-
 **43:11**
 中：有片稱為會厭的皮膚會遮蓋住氣管
-
 **43:17**
 中：但會厭若是沒有蓋住氣管
 EN: When we eat, a flap of skin called the Epiglottis seals off our windpipes, except when it doesn't.
@@ -2040,7 +1894,6 @@ EN: When we eat, a flap of skin called the Epiglottis seals off our windpipes, e
 
 **43:30**
 中：食物就會回到起點
-
 **43:36**
 中：食物從口中進入食道通常只需5秒鐘
 EN: Then it's back to the beginning. A typical journey down the esophagus takes about five seconds.
@@ -2051,7 +1904,6 @@ EN: From here it's squeezed, like toothpaste.
 
 **43:46**
 中：食物一旦進入胃就像現在的情形
-
 **43:52**
 中：食物就會放慢前進速度開始消化
 EN: Once it passes in the esophagus. to the stomach, as it's doing here. It's time to slow down a bit and digest.
@@ -2062,21 +1914,18 @@ EN: Normally this stretchy, J-shaped bag isn't much bigger than a fist.
 
 **44:00**
 中：但吃下一頓大餐之後
-
 **44:02**
 中：胃可膨脹20倍
 EN: But after a big meal, it can expand to more than 20 times that size.
 
 **44:06**
 中：接下來數小時胃壁會噴出強酸胃液
-
 **44:12**
 中：分解食物中的蛋白質
 EN: For the next several hours, highly acidic gastric juices spew from the stomach's walls, breaking down proteins in our food, while muscle
 
 **44:16**
 中：將食物揉捏翻攪成糊狀物
-
 **44:29**
 中：以免胃將自己消化掉
 EN: contractions knead and churn it into a pulp. The acid here is so strong the stomach must continuously secrete a layer of protective mucus so that it doesn't digest itself. It absorbs very few nutrients though.
@@ -2087,48 +1936,40 @@ EN: We pass into the 20-foot disassembly line of the small intestine, with the h
 
 **44:49**
 中：在長達5小時的期間
-
 **44:50**
 中：食物的基礎物質受到推擠戳刺及消化液的噴灑
-
 **44:55**
 中：在這裡活像遭扭絞的破布
 EN: For about five hours, foods building blocks are pushed, prodded, sprayed with digestive juices and rung like a rag here
 
 **44:57**
 中：直到裡頭所含的重要養分被壓穿過腸壁
-
 **45:00**
 中：然後進入血液
 EN: until its vital elements are forced through the intestinal wall and into the bloodstream.
 
 **45:05**
 中：食物的養分多半會從小腸直接流入肝
-
 **45:09**
 中：人體最大的內部器官
 EN: Most of our meals nutrients will flow directly to the liver, the body's largest internal organ.
 
 **45:15**
 中：肝會分解養分然後加以重新包裝
-
 **45:16**
 中：再把養分輸送到細胞作為細胞生長和活動的能量
 EN: The liver breaks down, repackages and delivers nutrients to our cells for growth and power.
 
 **45:23**
 中：我們的身體最後會嘗試平衡攝取到的能量
-
 **45:37**
 中：這是脂肪在體內的模樣
 EN: Our bodies ultimately try to balance energy intake. But sometimes more goes in than out. The result? Fat. This is how fat looks on the inside and on the outside.
 
 **45:45**
 中：就能使人發胖
-
 **45:49**
 中：只要每天多吃15卡路里
-
 **45:51**
 中：大約相當於4顆開心果的熱量
 EN: It doesn't take a lot of excess calories to make you gain weight. Just 15 more a day than you need, about the amount in four pistachio nuts,
@@ -2139,17 +1980,14 @@ EN: will add a pound and a half of fat over a year.
 
 **46:00**
 中：小腸一旦吸收了所有值得消化的東西
-
 **46:04**
 中：剩下來的會被推入大腸
 EN: Once the small intestine has taken in everything worth ingesting, the rest is pushed along to the large intestine.
 
 **46:11**
 中：在接下來的20個小時左右
-
 **46:12**
 中：大腸會吸收剩餘的水分
-
 **46:15**
 中：數十億細菌會分解剩餘的東西
 EN: Another 20 hours or so, the last of the water is absorbed, and billions of bacteria work to break down the remaining contents.
@@ -2160,20 +1998,16 @@ EN: Anything we can't digest gets flushed out of our bodies.
 
 **46:27**
 中：我們的身體
-
 **46:34**
 中：食物的複雜旅程有個重要目的
-
 **46:38**
 中：一旦萃取出奇妙機器所需的燃料
-
 **46:42**
 中：促使我們的細胞引擎運轉
 EN: The food's complicated journey has a larger purpose. Once we've extracted what we need to feed the incredible machine and got our cellular engines humming,
 
 **46:46**
 中：我們運用熱量的方法著實讓人驚奇
-
 **46:48**
 中：這全多虧了叫做肌肉的奇妙機械裝置
 EN: it's nothing short of astounding what we can do with them, thanks to amazing contraptions called muscle.
@@ -2185,18 +2019,13 @@ EN: it's nothing short of astounding what we can do with them, thanks to amazing
 
 **46:57**
 中：ARTHUR F. BINKOWSKI
-
 **46:58**
 中：ANDRES WILLIAIAS
-
 **46:58**
 中：MUSIC BY AEROSMITH
-
 **46:59**
 中：DR. ARTHUR W. TOGA AND THE LABORATORY OF
-
 **47:09**
 中：MARY ANNE CUIPEPE
-
 **47:10**
 中：JOHN B. FORD

@@ -1,0 +1,5500 @@
+{
+ "_source": "src/xia.md — 站長謝宜宏親自校訂版",
+ "_note": "dist/ 的唯一文字來源。zh/en/sec 逐字取自 src/，s/e 由 OCR 行還原，ocr 記錄每行背後的原始 OCR 序號。",
+ "title": "奇妙的人體機器（下）",
+ "meta": "46 分鐘｜National Geographic《The Human Machine》｜英文原聲＋繁體燒錄字幕",
+ "sections": [
+  {
+   "n": 1,
+   "title": "人體概論 · 第1段",
+   "s": 14,
+   "e": 184
+  },
+  {
+   "n": 2,
+   "title": "肌肉與運動",
+   "s": 211,
+   "e": 351
+  },
+  {
+   "n": 3,
+   "title": "神經與傳導 · 第1段",
+   "s": 376,
+   "e": 513
+  },
+  {
+   "n": 4,
+   "title": "神經與傳導 · 第2段",
+   "s": 522,
+   "e": 593
+  },
+  {
+   "n": 5,
+   "title": "骨骼與關節 · 第1段",
+   "s": 658,
+   "e": 825
+  },
+  {
+   "n": 6,
+   "title": "骨骼與關節 · 第2段",
+   "s": 836,
+   "e": 999
+  },
+  {
+   "n": 7,
+   "title": "人體概論 · 第2段",
+   "s": 1020,
+   "e": 1190
+  },
+  {
+   "n": 8,
+   "title": "生殖與基因 · 第1段",
+   "s": 1210,
+   "e": 1373
+  },
+  {
+   "n": 9,
+   "title": "生殖與基因 · 第2段",
+   "s": 1377,
+   "e": 1495
+  },
+  {
+   "n": 10,
+   "title": "生殖與基因 · 第3段",
+   "s": 1496,
+   "e": 1577
+  },
+  {
+   "n": 11,
+   "title": "生殖與基因 · 第4段",
+   "s": 1585,
+   "e": 1702
+  },
+  {
+   "n": 12,
+   "title": "疼痛與大腦 · 第1段",
+   "s": 1709,
+   "e": 1869
+  },
+  {
+   "n": 13,
+   "title": "疼痛與大腦 · 第2段",
+   "s": 1871,
+   "e": 2014
+  },
+  {
+   "n": 14,
+   "title": "疼痛與大腦 · 第3段",
+   "s": 2014,
+   "e": 2180
+  },
+  {
+   "n": 15,
+   "title": "疼痛與大腦 · 第4段",
+   "s": 2183,
+   "e": 2334
+  },
+  {
+   "n": 16,
+   "title": "循環與血液",
+   "s": 2345,
+   "e": 2373
+  },
+  {
+   "n": 17,
+   "title": "疼痛與大腦 · 第5段",
+   "s": 2381,
+   "e": 2506
+  },
+  {
+   "n": 18,
+   "title": "神經與傳導 · 第3段",
+   "s": 2520,
+   "e": 2551
+  },
+  {
+   "n": 19,
+   "title": "疼痛與大腦 · 第6段",
+   "s": 2565,
+   "e": 2719
+  },
+  {
+   "n": 20,
+   "title": "人體概論 · 第3段",
+   "s": 2719,
+   "e": 2783
+  }
+ ],
+ "lines": [
+  {
+   "s": 14.38,
+   "e": 16.72,
+   "sec": 1,
+   "zh": "我們最熟悉的人體",
+   "en": "",
+   "ocr": [
+    0
+   ]
+  },
+  {
+   "s": 17.05,
+   "e": 19.72,
+   "sec": 1,
+   "zh": "卻也最為神秘",
+   "en": "",
+   "ocr": [
+    1
+   ]
+  },
+  {
+   "s": 21.39,
+   "e": 23.06,
+   "sec": 1,
+   "zh": "人體動作最令人屏息",
+   "en": "is nothing more familiar, more breathtaking in its action, marvelous in its mechanics, exquisite in its range of senses,",
+   "ocr": [
+    2
+   ]
+  },
+  {
+   "s": 26.73,
+   "e": 27.39,
+   "sec": 1,
+   "zh": "人體構造十分奇妙",
+   "en": "",
+   "ocr": [
+    3
+   ]
+  },
+  {
+   "s": 29.73,
+   "e": 31.4,
+   "sec": 1,
+   "zh": "各種感官異常敏銳",
+   "en": "",
+   "ocr": [
+    4
+   ]
+  },
+  {
+   "s": 32.73,
+   "e": 35.4,
+   "sec": 1,
+   "zh": "理解能力令人詫異",
+   "en": "and staggering in its ability to understand.",
+   "ocr": [
+    5
+   ]
+  },
+  {
+   "s": 38.07,
+   "e": 41.07,
+   "sec": 1,
+   "zh": "我們要展開奇妙的一日之旅",
+   "en": "On a fantastic voyage through a single day, we plunge deep into",
+   "ocr": [
+    6
+   ]
+  },
+  {
+   "s": 41.41,
+   "e": 45.75,
+   "sec": 1,
+   "zh": "深入瞭解人體每一天所展現的奇蹟",
+   "en": "the routine miracles of the human body.",
+   "ocr": [
+    7
+   ]
+  },
+  {
+   "s": 46.08,
+   "e": 48.08,
+   "sec": 1,
+   "zh": "繼續做夢吧…",
+   "en": "",
+   "ocr": [
+    8
+   ]
+  },
+  {
+   "s": 48.42,
+   "e": 50.42,
+   "sec": 1,
+   "zh": "認識我們的器具",
+   "en": "",
+   "ocr": [
+    9
+   ]
+  },
+  {
+   "s": 50.75,
+   "e": 51.75,
+   "sec": 1,
+   "zh": "引擎",
+   "en": "",
+   "ocr": [
+    10
+   ]
+  },
+  {
+   "s": 53.42,
+   "e": 53.75,
+   "sec": 1,
+   "zh": "基礎結構",
+   "en": "Our instruments, engines, infrastructure, roadways and circuitry, through 10,000",
+   "ocr": [
+    11
+   ]
+  },
+  {
+   "s": 54.09,
+   "e": 56.09,
+   "sec": 1,
+   "zh": "道路和電路系統",
+   "en": "",
+   "ocr": [
+    12
+   ]
+  },
+  {
+   "s": 56.76,
+   "e": 59.09,
+   "sec": 1,
+   "zh": "經歷一萬次的眨眼",
+   "en": "",
+   "ocr": [
+    13
+   ]
+  },
+  {
+   "s": 61.43,
+   "e": 62.76,
+   "sec": 1,
+   "zh": "兩萬次的呼吸",
+   "en": "blinks, 20,000 breaths, 100,000 beats.",
+   "ocr": [
+    14
+   ]
+  },
+  {
+   "s": 63.1,
+   "e": 64.1,
+   "sec": 1,
+   "zh": "10萬次的心跳",
+   "en": "",
+   "ocr": [
+    15
+   ]
+  },
+  {
+   "s": 68.1,
+   "e": 74.11,
+   "sec": 1,
+   "zh": "今天是奇妙的人體機器一生中，一個尋常又特殊的日子",
+   "en": "",
+   "ocr": [
+    16
+   ]
+  },
+  {
+   "s": 81.11,
+   "e": 84.12,
+   "sec": 1,
+   "zh": "【奇妙的人體機器（下）】",
+   "en": "Today is an ordinary, extraordinary day in the life of the incredible human machine.",
+   "ocr": [
+    17
+   ]
+  },
+  {
+   "s": 88.79,
+   "e": 90.79,
+   "sec": 1,
+   "zh": "奇妙的人體機器在活動",
+   "en": "The incredible human machine in action.",
+   "ocr": [
+    18
+   ]
+  },
+  {
+   "s": 95.13,
+   "e": 96.46,
+   "sec": 1,
+   "zh": "身體的每一個部位",
+   "en": "Just about every body part, from our skin receptors to the balance center in our inner ears,",
+   "ocr": [
+    19
+   ]
+  },
+  {
+   "s": 98.47,
+   "e": 100.7,
+   "sec": 1,
+   "zh": "從皮膚的受器到內耳的平衡中心",
+   "en": "",
+   "ocr": [
+    20
+   ]
+  },
+  {
+   "s": 100.8,
+   "e": 101.03,
+   "sec": 1,
+   "zh": "這些驚人複雜動作",
+   "en": "",
+   "ocr": [
+    21
+   ]
+  },
+  {
+   "s": 101.13,
+   "e": 102.47,
+   "sec": 1,
+   "zh": "皆助人體看似輕鬆達成這些驚人複雜動作",
+   "en": "helped to make these amazing complexities of movement seem almost effortless, automatic even.",
+   "ocr": [
+    22
+   ]
+  },
+  {
+   "s": 116.82,
+   "e": 117.48,
+   "sec": 1,
+   "zh": "但我們若仔細看皮膚底下，會發現有一種組織凌駕於所有組織之上，驅動我們做出上千種不同姿勢。從腳底到指尖，大約650條肌肉——約佔體重的40%——驅動著我們的每一個動作",
+   "en": "But if we peer beneath our skin, we see that one tissue above all propels us into a thousand different positions. From the soles of our feet to the tips of our fingers, some 650 muscles, about 40% of our body mass, power every move we make.",
+   "ocr": [
+    23
+   ]
+  },
+  {
+   "s": 143.84,
+   "e": 145.18,
+   "sec": 1,
+   "zh": "隨著一天的推移，這些骨骼肌支撐著我們前行，通常我們甚至不需要思考",
+   "en": "As our day pushes on, these skeletal muscles lift us through it, usually without our thinking about it.",
+   "ocr": [
+    24
+   ]
+  },
+  {
+   "s": 145.51,
+   "e": 147.85,
+   "sec": 1,
+   "zh": "這些骨骼肌幫助我們行動",
+   "en": "",
+   "ocr": [
+    25
+   ]
+  },
+  {
+   "s": 148.18,
+   "e": 150.52,
+   "sec": 1,
+   "zh": "沒有它們，我們無法跑步、眨眼、微笑或說話",
+   "en": "Without them, we couldn't run or blink, smile or speak for that matter.",
+   "ocr": [
+    26
+   ]
+  },
+  {
+   "s": 162.2,
+   "e": 162.53,
+   "sec": 1,
+   "zh": "光是說一個字",
+   "en": "Hello? Just muttering a single word. Hello? Hello.",
+   "ocr": [
+    27
+   ]
+  },
+  {
+   "s": 173.54,
+   "e": 175.21,
+   "sec": 1,
+   "zh": "牽動的肌肉數量就多達一百條",
+   "en": "Involves muscles in the face, lips, tongue, jaw, larynx, as many as a hundred muscles.",
+   "ocr": [
+    28
+   ]
+  },
+  {
+   "s": 176.21,
+   "e": 178.55,
+   "sec": 1,
+   "zh": "其中許多相同的肌肉能使我們皺眉",
+   "en": "",
+   "ocr": [
+    29
+   ]
+  },
+  {
+   "s": 179.21,
+   "e": 180.55,
+   "sec": 1,
+   "zh": "將這些肌肉往相反方向牽動",
+   "en": "Many of the same muscles let us form a frown, turn them upside down, and all 34 muscles in the face, let us deliver a kiss.",
+   "ocr": [
+    30
+   ]
+  },
+  {
+   "s": 182.88,
+   "e": 184.55,
+   "sec": 1,
+   "zh": "臉部的所有34條肌肉可讓我們親吻",
+   "en": "Walking, a highly coordinated series of falls that we've taken for granted since we were toddlers, requires no",
+   "ocr": [
+    31
+   ]
+  },
+  {
+   "s": 211.58,
+   "e": 211.91,
+   "sec": 2,
+   "zh": "就要牽動約200條骨骼肌。背部肌肉防止你向前倒，腹部肌肉防止你向後倒。光是抬起一條腿往前跨一步，就要牽動約40條肌肉",
+   "en": "fewer than 200 skeletal muscles. Back muscles to keep you from falling forward. Abdominal muscles to keep you from falling back. It takes 40 or so muscles just to raise one leg and move it forward.",
+   "ocr": [
+    32
+   ]
+  },
+  {
+   "s": 215.0,
+   "e": 217.0,
+   "sec": 2,
+   "zh": "再加上跑步、游泳、射箭、騎馬和擊劍",
+   "en": "Now adding to that running, swimming, shooting,",
+   "ocr": [
+    33
+   ]
+  },
+  {
+   "s": 219.0,
+   "e": 223.92,
+   "sec": 2,
+   "zh": "大家就應明白伊萊·布雷默體內有多少不同肌肉在工作",
+   "en": "riding, and fencing, and you get an idea of how many different muscles are at work",
+   "ocr": [
+    35,
+    36
+   ]
+  },
+  {
+   "s": 225.26,
+   "e": 227.93,
+   "sec": 2,
+   "zh": "他是美國奧運五項全能運動第一號種子選手",
+   "en": "inside Eli Bremer, top-seeded US Olympic pentathlete. I think what I do is very normal and someone will",
+   "ocr": [
+    37
+   ]
+  },
+  {
+   "s": 236.94,
+   "e": 237.94,
+   "sec": 2,
+   "zh": "「再跑步10哩」",
+   "en": "what a typical training day is. I'll tell him, well, I'll swim about four miles and run about 10 miles, you know, it's not that big of a deal.",
+   "ocr": [
+    38
+   ]
+  },
+  {
+   "s": 238.27,
+   "e": 241.28,
+   "sec": 2,
+   "zh": "這不是什麼了不起的事，任何人都能做到",
+   "en": "I mean, I think anybody could do it. And then I get this weird look, like, you must be crazy.",
+   "ocr": [
+    39
+   ]
+  },
+  {
+   "s": 243.94,
+   "e": 245.61,
+   "sec": 2,
+   "zh": "但他們都表情怪異地看著我說「你一定是瘋了」",
+   "en": "",
+   "ocr": [
+    40
+   ]
+  },
+  {
+   "s": 245.95,
+   "e": 248.28,
+   "sec": 2,
+   "zh": "是什麼驅使他做到這一切？",
+   "en": "So what propels him?",
+   "ocr": [
+    41
+   ]
+  },
+  {
+   "s": 249.95,
+   "e": 254.29,
+   "sec": 2,
+   "zh": "如果將其中一條正在動的肌肉放大",
+   "en": "If we zoom in on one of these muscles in motion,",
+   "ocr": [
+    42
+   ]
+  },
+  {
+   "s": 254.62,
+   "e": 259.29,
+   "sec": 2,
+   "zh": "再更貼近去看數百條貫穿肌肉的肌肉纖維",
+   "en": "and closer still, at the hundreds of muscle fibers that run its length,",
+   "ocr": [
+    43
+   ]
+  },
+  {
+   "s": 259.63,
+   "e": 261.63,
+   "sec": 2,
+   "zh": "我們會發現兩種蛋白質",
+   "en": "we find two proteins,",
+   "ocr": [
+    44
+   ]
+  },
+  {
+   "s": 261.96,
+   "e": 263.96,
+   "sec": 2,
+   "zh": "肌動蛋白和肌凝蛋白",
+   "en": "Actin and Myosin.",
+   "ocr": [
+    45
+   ]
+  },
+  {
+   "s": 264.63,
+   "e": 267.63,
+   "sec": 2,
+   "zh": "這兩種蛋白質的動作再簡單不過",
+   "en": "And their actions couldn't be simpler.",
+   "ocr": [
+    46
+   ]
+  },
+  {
+   "s": 267.97,
+   "e": 271.31,
+   "sec": 2,
+   "zh": "兩種蛋白接觸後相互擠壓，有如輪子上的輪齒",
+   "en": "They link up, squeezing together like cogs on a wheel.",
+   "ocr": [
+    47
+   ]
+  },
+  {
+   "s": 271.97,
+   "e": 273.31,
+   "sec": 2,
+   "zh": "接著蛋白放鬆",
+   "en": "And then they relax, releasing their grip and going back to normal.",
+   "ocr": [
+    48
+   ]
+  },
+  {
+   "s": 273.64,
+   "e": 275.98,
+   "sec": 2,
+   "zh": "放開彼此，然後恢復正常",
+   "en": "",
+   "ocr": [
+    49
+   ]
+  },
+  {
+   "s": 279.31,
+   "e": 282.65,
+   "sec": 2,
+   "zh": "進行擊劍比賽時，伊萊若想攻擊對手",
+   "en": "If during a fencing bout, Eli wants to strike an opponent,",
+   "ocr": [
+    50
+   ]
+  },
+  {
+   "s": 282.98,
+   "e": 285.32,
+   "sec": 2,
+   "zh": "他三頭肌內的肌動蛋白和肌凝蛋白會連結",
+   "en": "the Actin and Myosin in his tricep bind,",
+   "ocr": [
+    51
+   ]
+  },
+  {
+   "s": 285.99,
+   "e": 288.66,
+   "sec": 2,
+   "zh": "他二頭肌內的蛋白質則放鬆。當他準備再次出擊時，情況正好相反",
+   "en": "while in his biceps, they release. When he winds up for another blow, the opposite happens.",
+   "ocr": [
+    52
+   ]
+  },
+  {
+   "s": 297.0,
+   "e": 299.0,
+   "sec": 2,
+   "zh": "這回他的二頭肌收縮，他的三頭肌放鬆",
+   "en": "Now his biceps bind and his triceps release.",
+   "ocr": [
+    53
+   ]
+  },
+  {
+   "s": 299.67,
+   "e": 304.67,
+   "sec": 2,
+   "zh": "藉由收縮和放鬆所有骨骼肌，我們能做出各種動作",
+   "en": "Binding and releasing all our skeletal muscles, we get our every motion.",
+   "ocr": [
+    54,
+    55
+   ]
+  },
+  {
+   "s": 305.34,
+   "e": 306.67,
+   "sec": 2,
+   "zh": "3、2、1，開始",
+   "en": "And three, two, one, go. The more we work our muscles, the more actin and myosin we make, the bulkier our skeletal muscles become,",
+   "ocr": [
+    56
+   ]
+  },
+  {
+   "s": 321.69,
+   "e": 322.36,
+   "sec": 2,
+   "zh": "舉重時",
+   "en": "as Olympic hopeful Doreen Fullhart demonstrates. Her brain sends electrical impulses down nerves to muscle fibers,",
+   "ocr": [
+    57
+   ]
+  },
+  {
+   "s": 323.02,
+   "e": 326.36,
+   "sec": 2,
+   "zh": "傳送電脈衝到肌肉纖維",
+   "en": "",
+   "ocr": [
+    58
+   ]
+  },
+  {
+   "s": 326.69,
+   "e": 340.04,
+   "sec": 2,
+   "zh": "命令肌動蛋白和肌凝蛋白連結。但為了讓肌肉運作，腦部的訊號必須能傳達到",
+   "en": "telling the actin and myosin to bind. But for our muscles to work, that signal from the brain must get through.",
+   "ocr": [
+    59,
+    60
+   ]
+  },
+  {
+   "s": 339.0,
+   "e": 347.38,
+   "sec": 2,
+   "zh": "這需要一套複雜靈敏的電路系統",
+   "en": "That requires an intricate, but delicate wiring system.",
+   "ocr": [
+    61
+   ]
+  },
+  {
+   "s": 350.72,
+   "e": 351.05,
+   "sec": 2,
+   "zh": "我也很高興見到你。34歲的傑森·凱克三個月前在一場伐木事故中切斷了幾條神經，此後他的左臂就再也沒有動過",
+   "en": "Good to see you again. Good to see you again. Thirty-four-year-old Jason Keck severed some nerves in a logging accident three months ago, and he hasn't moved his left arm since.",
+   "ocr": [
+    62
+   ]
+  },
+  {
+   "s": 376.08,
+   "e": 382.75,
+   "sec": 3,
+   "zh": "要嘗試修復傑森的電路系統。就在幾年前，醫生對這種損傷幾乎束手無策。如今，約翰·霍普金斯大學醫學院的艾倫·貝爾茲伯格醫生和他的團隊將嘗試讓傑森的電路系統重新運作。神經說到底就是一條電纜",
+   "en": "Just a few years ago, doctors could do virtually nothing to fix this kind of damage. Today, Dr. Alan Belzberg and his team at Johns Hopkins School of Medicine will try to get Jason's wiring system working again. The nerve is just an electric cable when all said and done.",
+   "ocr": [
+    63,
+    64
+   ]
+  },
+  {
+   "s": 383.08,
+   "e": 384.42,
+   "sec": 3,
+   "zh": "一種複雜精密的電纜",
+   "en": "A very, very sophisticated one, but nonetheless an electric cable.",
+   "ocr": [
+    65
+   ]
+  },
+  {
+   "s": 384.75,
+   "e": 386.42,
+   "sec": 3,
+   "zh": "但仍不過是電纜",
+   "en": "",
+   "ocr": [
+    66
+   ]
+  },
+  {
+   "s": 386.75,
+   "e": 389.76,
+   "sec": 3,
+   "zh": "如果有神經因過度延展而斷裂",
+   "en": "If we have a nerve that's been broken, that's been stretched and snapped,",
+   "ocr": [
+    67
+   ]
+  },
+  {
+   "s": 392.09,
+   "e": 392.76,
+   "sec": 3,
+   "zh": "我們可將斷裂的兩端接合，修復神經",
+   "en": "we can bring the ends together and fix it.",
+   "ocr": [
+    68
+   ]
+  },
+  {
+   "s": 393.09,
+   "e": 394.76,
+   "sec": 3,
+   "zh": "如果無法接合斷裂的兩端",
+   "en": "If we can't get the ends together, we can fill the gap in and splice in some material.",
+   "ocr": [
+    69
+   ]
+  },
+  {
+   "s": 395.1,
+   "e": 398.33,
+   "sec": 3,
+   "zh": "我們可用東西填補縫隙，黏接斷裂的兩端",
+   "en": "",
+   "ocr": [
+    70
+   ]
+  },
+  {
+   "s": 398.43,
+   "e": 400.1,
+   "sec": 3,
+   "zh": "如果這點也沒辦法做到",
+   "en": "And if we can't do that, then again, we go to this nerve transfer concept of robbing Peter to pay Paul.",
+   "ocr": [
+    71
+   ]
+  },
+  {
+   "s": 402.1,
+   "e": 405.67,
+   "sec": 3,
+   "zh": "那我們會拆東牆補西牆，進行神經移植",
+   "en": "",
+   "ocr": [
+    72
+   ]
+  },
+  {
+   "s": 405.77,
+   "e": 406.44,
+   "sec": 3,
+   "zh": "有反應嗎？",
+   "en": "Anything? Nothing?",
+   "ocr": [
+    73
+   ]
+  },
+  {
+   "s": 410.44,
+   "e": 413.01,
+   "sec": 3,
+   "zh": "這個案例中的「西牆」是傑森的手臂。為了尋找合適的「東牆」",
+   "en": "Paul, in this case, is Jason's arm. To find a suitable Peter to rob,",
+   "ocr": [
+    74
+   ]
+  },
+  {
+   "s": 415.0,
+   "e": 419.79,
+   "sec": 3,
+   "zh": "貝爾茲伯格電擊多條神經，看電流是在哪裡消失",
+   "en": "Belzberg zaps various nerves with electricity to see where current is being lost.",
+   "ocr": [
+    75,
+    76,
+    77
+   ]
+  },
+  {
+   "s": 420.45,
+   "e": 423.79,
+   "sec": 3,
+   "zh": "這和電工檢查家中電線的方法差不多",
+   "en": "Not unlike an electrician checking wires in a house.",
+   "ocr": [
+    78
+   ]
+  },
+  {
+   "s": 430.13,
+   "e": 430.8,
+   "sec": 3,
+   "zh": "每個人的電線系統都不太一樣",
+   "en": "What makes this interesting is everybody's wired just a little bit differently.",
+   "ocr": [
+    79
+   ]
+  },
+  {
+   "s": 432.47,
+   "e": 433.47,
+   "sec": 3,
+   "zh": "醫生希望至少有幾條電線仍有接通",
+   "en": "The hope is that at least some wires are still plugged in.",
+   "ocr": [
+    80
+   ]
+  },
+  {
+   "s": 439.14,
+   "e": 440.14,
+   "sec": 3,
+   "zh": "不幸的是，貝爾茲伯格發現傑森的情況並非如此",
+   "en": "Sadly, Belzberg discovers this isn't the case with Jason.",
+   "ocr": [
+    81
+   ]
+  },
+  {
+   "s": 450.82,
+   "e": 451.15,
+   "sec": 3,
+   "zh": "控制左手臂和手掌、連接脊髓的5條主神經全斷了",
+   "en": "All five of the major nerves that leave the spinal cord that go to control the arm and the hand have been ripped right out.",
+   "ocr": [
+    82
+   ]
+  },
+  {
+   "s": 451.49,
+   "e": 463.06,
+   "sec": 3,
+   "zh": "神經沒有連接腦部。目前仍無人知道該如何將神經接回脊髓",
+   "en": "There was no connection with the brain. So far, no one has figured out how to plug nerves back into the spinal cord.",
+   "ocr": [
+    83,
+    84
+   ]
+  },
+  {
+   "s": 463.16,
+   "e": 466.5,
+   "sec": 3,
+   "zh": "醫療小組須到別處找神經來補",
+   "en": "The team will need to patch in somewhere else.",
+   "ocr": [
+    85
+   ]
+  },
+  {
+   "s": 466.83,
+   "e": 470.17,
+   "sec": 3,
+   "zh": "這裡也受損嚴重",
+   "en": "This unfortunately looks fairly scarred in here as well.",
+   "ocr": [
+    86
+   ]
+  },
+  {
+   "s": 470.5,
+   "e": 473.51,
+   "sec": 3,
+   "zh": "我們要做一件英勇的事",
+   "en": "So we say, a somewhat heroic maneuver where we go down,",
+   "ocr": [
+    87
+   ]
+  },
+  {
+   "s": 473.84,
+   "e": 484.09,
+   "sec": 3,
+   "zh": "剪下幾條連接肋骨的神經，也就是通常支配肋間肌、幫助呼吸的神經",
+   "en": "and we take some of the nerves that normally feed the ribs, normally feed the muscles in between the ribs and help you breathe.",
+   "ocr": [
+    88,
+    89
+   ]
+  },
+  {
+   "s": 484.19,
+   "e": 485.52,
+   "sec": 3,
+   "zh": "然後利用那幾條神經來使他的手臂能夠動",
+   "en": "And we're using those nerves now to eventually make his arm move.",
+   "ocr": [
+    90
+   ]
+  },
+  {
+   "s": 495.53,
+   "e": 503.1,
+   "sec": 3,
+   "zh": "傑森的神經無法從肋骨延伸到手臂，所以首先他們必須從他的腿上取得額外的「電線」",
+   "en": "Jason's nerves don't reach from his ribs to his arms. So first, they'll have to get extra wiring from his leg. So I'm harvesting the splicing wire right now from his leg that we're going to use. Trading what will become a scar and a numb patch on his foot for a bend at his elbow.",
+   "ocr": [
+    91
+   ]
+  },
+  {
+   "s": 508.0,
+   "e": 510.0,
+   "sec": 3,
+   "zh": "如果神經移植成功，他左臂連接腦部的唯一神經",
+   "en": "If the nerves take, his left arm's only connection",
+   "ocr": [
+    92
+   ]
+  },
+  {
+   "s": 510.0,
+   "e": 513.88,
+   "sec": 3,
+   "zh": "將通過他肋骨之間的呼吸肌肉。這意味著傑森每呼吸一次，他的手臂就會彎曲一次",
+   "en": "to his brain will be through the breathing muscles in his ribs. That means with every breath Jason takes, his arm will bend.",
+   "ocr": [
+    93,
+    94,
+    95
+   ]
+  },
+  {
+   "s": 522.89,
+   "e": 525.23,
+   "sec": 4,
+   "zh": "呼吸手臂就會動的情形大概只會持續半年",
+   "en": "Every breath, that will only last perhaps six months,",
+   "ocr": [
+    96
+   ]
+  },
+  {
+   "s": 525.56,
+   "e": 527.9,
+   "sec": 4,
+   "zh": "之後，腦部會重新學習，然後停止這麼做",
+   "en": "and then the brain will relearn and stop doing that.",
+   "ocr": [
+    97
+   ]
+  },
+  {
+   "s": 531.23,
+   "e": 534.9,
+   "sec": 4,
+   "zh": "傑森的手臂能恢復到什麼程度，還需要時間才知道",
+   "en": "It will take time before we know how much movement Jason will get back.",
+   "ocr": [
+    98
+   ]
+  },
+  {
+   "s": 536.24,
+   "e": 537.24,
+   "sec": 4,
+   "zh": "軸索——從神經細胞延伸出來、負責傳送電子訊號的纖維",
+   "en": "The fibers extending from the nerve cells that carry electrical signals",
+   "ocr": [
+    99
+   ]
+  },
+  {
+   "s": 537.57,
+   "e": 539.57,
+   "sec": 4,
+   "zh": "每月大約生長1吋",
+   "en": "grow about an inch a month.",
+   "ocr": [
+    100
+   ]
+  },
+  {
+   "s": 545.25,
+   "e": 546.58,
+   "sec": 4,
+   "zh": "傑森獲得約9吋的軸索",
+   "en": "Jason is receiving about nine inches worth.",
+   "ocr": [
+    101
+   ]
+  },
+  {
+   "s": 549.0,
+   "e": 549.48,
+   "sec": 4,
+   "zh": "所以假如一切順利，他的左臂將在1年之內恢復部分知覺和移動能力",
+   "en": "So if all goes well, he'll have some feeling and motion return within the year.",
+   "ocr": [
+    102,
+    103
+   ]
+  },
+  {
+   "s": 552.92,
+   "e": 553.92,
+   "sec": 4,
+   "zh": "他今天經歷了一場大手術",
+   "en": "So he went through a heck of an operation today.",
+   "ocr": [
+    104
+   ]
+  },
+  {
+   "s": 554.26,
+   "e": 555.59,
+   "sec": 4,
+   "zh": "手術絕對會帶給他許多疼痛",
+   "en": "I'm sure he's going to have a lot of pain from it,",
+   "ocr": [
+    105
+   ]
+  },
+  {
+   "s": 556.26,
+   "e": 565.5,
+   "sec": 4,
+   "zh": "他得付出許多代價。但對他而言，如果這能成功，我想一切都值得",
+   "en": "a lot of expense from it. But to him, if this works, I suspect it'll be worth it.",
+   "ocr": [
+    106,
+    107
+   ]
+  },
+  {
+   "s": 565.6,
+   "e": 569.94,
+   "sec": 4,
+   "zh": "神經與肌肉的連結系統令人驚奇",
+   "en": "Nerves to muscles, the system is a marvel to behold.",
+   "ocr": [
+    108
+   ]
+  },
+  {
+   "s": 572.27,
+   "e": 573.94,
+   "sec": 4,
+   "zh": "但無論是參加奧運會比賽",
+   "en": "But whether we're competing at the Olympic level or simply making dinner plans and picking up groceries,",
+   "ocr": [
+    109
+   ]
+  },
+  {
+   "s": 574.61,
+   "e": 576.94,
+   "sec": 4,
+   "zh": "或只是規劃晚餐菜單、購買食品雜貨",
+   "en": "",
+   "ocr": [
+    110
+   ]
+  },
+  {
+   "s": 578.28,
+   "e": 582.62,
+   "sec": 4,
+   "zh": "若是少了某樣基礎結構，整具人體會變得毫無用處",
+   "en": "the whole thing would be absolutely useless without an infrastructure.",
+   "ocr": [
+    111
+   ]
+  },
+  {
+   "s": 592.63,
+   "e": 593.29,
+   "sec": 4,
+   "zh": "跟隨任何肌肉到其基底，穿過一束強韌而柔軟的纖維——叫做肌腱——一直到它固定的地方，你就會發現世界上最非凡的材料之一。大約206個這樣的工程奇蹟散布在人體各處。它們強固到足以支撐體重20倍的重量，輕盈到足以短暫地對抗重力，柔韌到足以吸收難以想像的衝擊力，並且以一種方式連接在一起，提供",
+   "en": "Any muscle to its base, through a bundle of strong, flexible fibers called tendons, down to the very point where it's anchored, and you'll find one of the world's most remarkable materials. Some 206 of these engineering marvels are strewn throughout the body. Strong enough to support up to 20 times our body weight, light enough to defy gravity, however briefly, flexible enough to absorb unfathomable impacts, and connected in such a way as to provide",
+   "ocr": [
+    112
+   ]
+  },
+  {
+   "s": 658.36,
+   "e": 661.03,
+   "sec": 5,
+   "zh": "看似無窮的運動範圍。骨頭約佔體重的15%，正是它們賦予我們形體。沒有骨頭，我們看起來就會是這個樣子。但儘管我們的內在骨架提供了驚人的強度和支撐，它們卻常被描繪成更邪惡的形象",
+   "en": "a seemingly endless range of movement. Accounting for some 15% of our body mass, bones are what give us our shape. Without them, we would all look like this. But despite the amazing strength and support our inner frameworks provide, they're usually portrayed in a more sinister manner.",
+   "ocr": [
+    113
+   ]
+  },
+  {
+   "s": 663.36,
+   "e": 668.37,
+   "sec": 5,
+   "zh": "從巴黎的街道往下降60呎，到已有數百年歷史的地下墓穴",
+   "en": "Descend 60 feet under the streets of Paris to its catacombs hundreds of years old,",
+   "ocr": [
+    114
+   ]
+  },
+  {
+   "s": 668.7,
+   "e": 671.37,
+   "sec": 5,
+   "zh": "我們會看見骨頭的刻板形象",
+   "en": "and we get the stereotypical image of bone,",
+   "ocr": [
+    115
+   ]
+  },
+  {
+   "s": 671.71,
+   "e": 677.05,
+   "sec": 5,
+   "zh": "乾枯、無生命、白色",
+   "en": "dry, sterile, white.",
+   "ocr": [
+    116
+   ]
+  },
+  {
+   "s": 678.71,
+   "e": 679.38,
+   "sec": 5,
+   "zh": "充滿死亡氣息",
+   "en": "That's not exactly surprising.",
+   "ocr": [
+    117
+   ]
+  },
+  {
+   "s": 679.71,
+   "e": 681.72,
+   "sec": 5,
+   "zh": "這並不讓人意外",
+   "en": "",
+   "ocr": [
+    118
+   ]
+  },
+  {
+   "s": 682.05,
+   "e": 686.05,
+   "sec": 5,
+   "zh": "我們多數人只能看見這樣的人骨",
+   "en": "This is the only way most of us ever get to see bones.",
+   "ocr": [
+    119
+   ]
+  },
+  {
+   "s": 690.06,
+   "e": 692.73,
+   "sec": 5,
+   "zh": "也只會剩下一堆骨頭",
+   "en": "And these are the only bits of us that are going to be left.",
+   "ocr": [
+    120
+   ]
+  },
+  {
+   "s": 715.42,
+   "e": 716.75,
+   "sec": 5,
+   "zh": "這是全世界第一次看見活人體內的骨頭。1895年，威廉·倫琴的太太貝莎·倫琴的左手，被她的丈夫——X射線的發現者威廉·倫琴——拍攝了影像。從那以後，我們已經走了很長的路",
+   "en": "This was the world's first glimpse of bone inside a living human body. The left hand of Frau Bertha Roentgen, as imaged in 1895 by her husband, Wilhelm Roentgen, discoverer of the X-ray. We've come a long way since then.",
+   "ocr": [
+    121
+   ]
+  },
+  {
+   "s": 717.09,
+   "e": 720.76,
+   "sec": 5,
+   "zh": "原來骨頭一點也不乾枯",
+   "en": "and it turns out bones are anything but dry.",
+   "ocr": [
+    122
+   ]
+  },
+  {
+   "s": 724.76,
+   "e": 726.43,
+   "sec": 5,
+   "zh": "在許多骨頭的中心",
+   "en": "Deep in the center of many bones,",
+   "ocr": [
+    123
+   ]
+  },
+  {
+   "s": 726.76,
+   "e": 728.43,
+   "sec": 5,
+   "zh": "在這種叫做骨髓的組織裡",
+   "en": "in this tissue called the marrow,",
+   "ocr": [
+    124
+   ]
+  },
+  {
+   "s": 729.1,
+   "e": 732.1,
+   "sec": 5,
+   "zh": "每分鐘約有1億2千萬個可輸送氧氣的紅血球細胞",
+   "en": "some 120 million oxygen-carrying red blood cells",
+   "ocr": [
+    125
+   ]
+  },
+  {
+   "s": 732.77,
+   "e": 737.11,
+   "sec": 5,
+   "zh": "及7百萬個可對抗感染的白血球細胞誕生",
+   "en": "and 7 million infection-fighting white blood cells are born every minute",
+   "ocr": [
+    126
+   ]
+  },
+  {
+   "s": 740.78,
+   "e": 741.44,
+   "sec": 5,
+   "zh": "然後被輸送到身體各處",
+   "en": "and shipped off to the rest of the body.",
+   "ocr": [
+    127
+   ]
+  },
+  {
+   "s": 741.78,
+   "e": 744.78,
+   "sec": 5,
+   "zh": "在靠近表面的地方，不斷有特殊細胞在建造新的骨頭",
+   "en": "Toward the surface, specialised cells continually lay down new bone,",
+   "ocr": [
+    128
+   ]
+  },
+  {
+   "s": 745.45,
+   "e": 748.78,
+   "sec": 5,
+   "zh": "另外有些細胞則負責移除舊骨頭",
+   "en": "while others do the opposite and whisk away old layers.",
+   "ocr": [
+    129
+   ]
+  },
+  {
+   "s": 753.45,
+   "e": 756.12,
+   "sec": 5,
+   "zh": "骨頭用這方法在我們年少時生長發育",
+   "en": "This is how bone grows with us,",
+   "ocr": [
+    130
+   ]
+  },
+  {
+   "s": 756.46,
+   "e": 760.46,
+   "sec": 5,
+   "zh": "然後在我們成年以後長久保持強固",
+   "en": "grows with us throughout our youth and keeps itself strong long after we're grown.",
+   "ocr": [
+    131
+   ]
+  },
+  {
+   "s": 763.47,
+   "e": 765.13,
+   "sec": 5,
+   "zh": "如果抽走所有骨髓",
+   "en": "If we suck away all that marrow,",
+   "ocr": [
+    132
+   ]
+  },
+  {
+   "s": 765.47,
+   "e": 768.47,
+   "sec": 5,
+   "zh": "骨頭主要是由兩種物質混合而成",
+   "en": "we see bone is mainly a blend of two substances,",
+   "ocr": [
+    133
+   ]
+  },
+  {
+   "s": 768.8,
+   "e": 770.81,
+   "sec": 5,
+   "zh": "礦物質磷酸鈣和膠原蛋白",
+   "en": "the mineral calcium phosphate and the protein collagen.",
+   "ocr": [
+    134
+   ]
+  },
+  {
+   "s": 775.48,
+   "e": 777.15,
+   "sec": 5,
+   "zh": "這是天造地設的組合",
+   "en": "It's a match made in heaven.",
+   "ocr": [
+    135
+   ]
+  },
+  {
+   "s": 779.15,
+   "e": 780.15,
+   "sec": 5,
+   "zh": "少了具彈性的膠原蛋白",
+   "en": "",
+   "ocr": [
+    136
+   ]
+  },
+  {
+   "s": 781.15,
+   "e": 783.82,
+   "sec": 5,
+   "zh": "骨頭會像玻璃一樣易碎",
+   "en": "Without flexible collagen, bone would be as brittle as glass.",
+   "ocr": [
+    137
+   ]
+  },
+  {
+   "s": 785.49,
+   "e": 786.82,
+   "sec": 5,
+   "zh": "少了磷酸鈣",
+   "en": "Without calcium phosphate,",
+   "ocr": [
+    138
+   ]
+  },
+  {
+   "s": 787.16,
+   "e": 791.06,
+   "sec": 5,
+   "zh": "骨頭會像橡膠一樣沒有固定結構",
+   "en": "it would be as unstructured as rubber.",
+   "ocr": [
+    139
+   ]
+  },
+  {
+   "s": 791.16,
+   "e": 792.83,
+   "sec": 5,
+   "zh": "兩者結合之後，輕到足以靈活移動",
+   "en": "Together, they're light enough to maneuver,",
+   "ocr": [
+    140
+   ]
+  },
+  {
+   "s": 793.16,
+   "e": 794.83,
+   "sec": 5,
+   "zh": "強固到足以保護我們脆弱的內部器官",
+   "en": "strong enough to shelter our most delicate inner organs,",
+   "ocr": [
+    141
+   ]
+  },
+  {
+   "s": 797.83,
+   "e": 799.5,
+   "sec": 5,
+   "zh": "而且還具復原力，可使用一輩子",
+   "en": "and resilient enough to last a lifetime.",
+   "ocr": [
+    142
+   ]
+  },
+  {
+   "s": 807.0,
+   "e": 813.75,
+   "sec": 5,
+   "zh": "喬伊·哈格蒂等體操冠軍經常將骨頭的功能發揮至極限",
+   "en": "Champion gymnasts like Joey Haggerty routinely push the limits of bone.",
+   "ocr": [
+    143,
+    144,
+    145
+   ]
+  },
+  {
+   "s": 813.85,
+   "e": 819.75,
+   "sec": 5,
+   "zh": "他們訓練骨頭成長並適應極端動作",
+   "en": "They train them to grow and adapt to extremes.",
+   "ocr": [
+    146
+   ]
+  },
+  {
+   "s": 819.85,
+   "e": 820.19,
+   "sec": 5,
+   "zh": "運動生理學家比爾·桑德斯盡量確保他們的動作不會令骨頭斷裂",
+   "en": "Sports physiologist Bill Sands tries to ensure this isn't past the breaking point.",
+   "ocr": [
+    147
+   ]
+  },
+  {
+   "s": 824.0,
+   "e": 824.19,
+   "sec": 5,
+   "zh": "骨頭跟其他活組織一樣",
+   "en": "Bones are living tissue like all other living tissues. So the function, the things we ask the tissue to do as long as we provide those",
+   "ocr": [
+    148
+   ]
+  },
+  {
+   "s": 836.0,
+   "e": 838.0,
+   "sec": 6,
+   "zh": "刺激——只要小心翼翼地、循序漸進地——我們通常能讓組織承受驚人的負荷。正是骨頭的這種適應特性，使得武術高手能一拳擊穿混凝土。當然，第一天你不會這樣做",
+   "en": "stimuli carefully, slowly, progressively, we can usually get tissues to withstand astonishing things. It is this adaptive property of bone that allows a martial arts expert to punch straight through concrete. You don't do that the first day, of course,",
+   "ocr": [
+    149
+   ]
+  },
+  {
+   "s": 850.0,
+   "e": 857.89,
+   "sec": 6,
+   "zh": "你必須在好幾年的時間裡慢慢增強骨頭的耐受力。體操選手也是如此，他們的骨頭須吸收極大的衝擊力",
+   "en": "and you have to build them up more and more and more over probably multiple years. The same goes for gymnasts whose bones absorb a tremendous amount of shock.",
+   "ocr": [
+    150,
+    151,
+    152
+   ]
+  },
+  {
+   "s": 861.9,
+   "e": 863.57,
+   "sec": 6,
+   "zh": "桑德斯利用多種不同儀器測量骨頭受到的衝擊力",
+   "en": "Sands uses a variety of apparatus to measure this.",
+   "ocr": [
+    153
+   ]
+  },
+  {
+   "s": 865.9,
+   "e": 867.57,
+   "sec": 6,
+   "zh": "譬如這些插入物是用來測量喬伊的腳承受的力量",
+   "en": "Like these inserts that measure the forces on Joey's feet,",
+   "ocr": [
+    154
+   ]
+  },
+  {
+   "s": 868.24,
+   "e": 869.24,
+   "sec": 6,
+   "zh": "高速攝影機則是用來記錄衝擊力",
+   "en": "and high-speed cameras to record the impact.",
+   "ocr": [
+    155
+   ]
+  },
+  {
+   "s": 873.58,
+   "e": 882.25,
+   "sec": 6,
+   "zh": "準備好了嗎？3、2、1，開始。看這裡，他承受的力超過150磅",
+   "en": "Ready, three, two, one, go. Well, right here, he's over 150 pounds of force.",
+   "ocr": [
+    156,
+    157
+   ]
+  },
+  {
+   "s": 882.58,
+   "e": 884.25,
+   "sec": 6,
+   "zh": "相信我，這力量很大",
+   "en": "Trust me, that's a big force.",
+   "ocr": [
+    158
+   ]
+  },
+  {
+   "s": 884.59,
+   "e": 884.92,
+   "sec": 6,
+   "zh": "體操選手的身體所承受的壓力往往是最強的",
+   "en": "The forces generally seen in gymnastics are the biggest forces that I think that we've had recorded so far,",
+   "ocr": [
+    159
+   ]
+  },
+  {
+   "s": 891.26,
+   "e": 891.93,
+   "sec": 6,
+   "zh": "是體重的14至20倍",
+   "en": "in the 14 to 20-ish times body weight.",
+   "ocr": [
+    160
+   ]
+  },
+  {
+   "s": 895.6,
+   "e": 897.6,
+   "sec": 6,
+   "zh": "默默達成這些動作的不是我們的骨頭",
+   "en": "The unsung heroes of all this movement are not our bones,",
+   "ocr": [
+    161
+   ]
+  },
+  {
+   "s": 897.93,
+   "e": 899.27,
+   "sec": 6,
+   "zh": "而是將骨頭連接起來、名叫關節的巧妙裝置。從膝蓋到指關節",
+   "en": "but what brings them together — ingenious devices called joints. From our knees to our",
+   "ocr": [
+    162
+   ]
+  },
+  {
+   "s": 907.61,
+   "e": 908.94,
+   "sec": 6,
+   "zh": "人體有187處關節",
+   "en": "knuckles, some 187 separate joints allow our bones to slide back and forth, side to",
+   "ocr": [
+    163
+   ]
+  },
+  {
+   "s": 909.61,
+   "e": 912.28,
+   "sec": 6,
+   "zh": "使我們的骨頭能夠前後、左右和上下移動",
+   "en": "",
+   "ocr": [
+    164
+   ]
+  },
+  {
+   "s": 914.28,
+   "e": 918.29,
+   "sec": 6,
+   "zh": "還能順暢地轉圈，宛如一部潤滑良好的機器",
+   "en": "side, up, down, and round and round like a well-oiled machine. While bones have an",
+   "ocr": [
+    165
+   ]
+  },
+  {
+   "s": 923.63,
+   "e": 926.63,
+   "sec": 6,
+   "zh": "骨頭雖擁有近乎奇蹟的復原力",
+   "en": "almost miraculous tendency to heal,",
+   "ocr": [
+    166
+   ]
+  },
+  {
+   "s": 926.96,
+   "e": 930.3,
+   "sec": 6,
+   "zh": "關節卻可能損壞",
+   "en": "joints are prone to break down,",
+   "ocr": [
+    167
+   ]
+  },
+  {
+   "s": 931.97,
+   "e": 939.97,
+   "sec": 6,
+   "zh": "無論是打橄欖球、舉重還是騎自行車造成的。45歲的馬克·克萊默在過去15年間已經動了8次肩膀手術",
+   "en": "whether it's due to football, weightlifting, or biking. 45-year-old Mark Kramer has had eight shoulder operations over the last decade and a half.",
+   "ocr": [
+    168
+   ]
+  },
+  {
+   "s": 944.31,
+   "e": 953.66,
+   "sec": 6,
+   "zh": "今天，杜克大學醫學中心的卡爾·巴沙曼尼亞醫生和他的團隊將替他動第9次手術",
+   "en": "Today, Dr. Carl Basamania and his team at the Duke University Medical Center will give him his ninth.",
+   "ocr": [
+    169,
+    170
+   ]
+  },
+  {
+   "s": 953.99,
+   "e": 955.66,
+   "sec": 6,
+   "zh": "首先，我希望能擺脫疼痛",
+   "en": "Number one, I hope to be out of pain.",
+   "ocr": [
+    171
+   ]
+  },
+  {
+   "s": 955.99,
+   "e": 959.33,
+   "sec": 6,
+   "zh": "每天都必須忍受疼痛時",
+   "en": "When you live with pain every day,",
+   "ocr": [
+    172
+   ]
+  },
+  {
+   "s": 959.66,
+   "e": 961.0,
+   "sec": 6,
+   "zh": "日子會變得非常難熬",
+   "en": "it makes life challenging.",
+   "ocr": [
+    173
+   ]
+  },
+  {
+   "s": 963.67,
+   "e": 968.34,
+   "sec": 6,
+   "zh": "巴沙曼尼亞先用關節鏡攝影機評估馬克肩膀的傷勢",
+   "en": "Basamania first assesses the damage to Mark's shoulder with an arthroscopy camera.",
+   "ocr": [
+    174
+   ]
+  },
+  {
+   "s": 974.68,
+   "e": 978.01,
+   "sec": 6,
+   "zh": "他發現馬克肩膀關節中，原本應該固定住球窩關節的一條肌腱已經磨損",
+   "en": "He discovers that one of the tendons that's supposed to hold the ball and socket",
+   "ocr": [
+    175
+   ]
+  },
+  {
+   "s": 981.35,
+   "e": 983.69,
+   "sec": 6,
+   "zh": "導致馬克感到劇烈疼痛",
+   "en": "joint of Mark's shoulder in place is eroding, causing Mark intense pain.",
+   "ocr": [
+    176
+   ]
+  },
+  {
+   "s": 985.35,
+   "e": 986.36,
+   "sec": 6,
+   "zh": "我讓你看X光片，球的位置往前移了",
+   "en": "I can show you on the X-ray, the ball is actually sitting quite a ways forward now",
+   "ocr": [
+    177
+   ]
+  },
+  {
+   "s": 989.02,
+   "e": 991.69,
+   "sec": 6,
+   "zh": "因為沒有東西可固定住球",
+   "en": "because there's nothing to really hold it in place.",
+   "ocr": [
+    178
+   ]
+  },
+  {
+   "s": 992.03,
+   "e": 996.03,
+   "sec": 6,
+   "zh": "巴沙曼尼亞不僅想把馬克的肩膀推回原來的位置",
+   "en": "Basamania wants more than to simply pop Mark's shoulder back into place.",
+   "ocr": [
+    179
+   ]
+  },
+  {
+   "s": 996.37,
+   "e": 999.37,
+   "sec": 6,
+   "zh": "他還希望能固定好肩膀。為此，他將使用一種特殊工程化的生物材料——細胞外基質",
+   "en": "He wants to keep it there. To do that, he'll turn to this. A specially engineered biological material called extracellular matrix.",
+   "ocr": [
+    180
+   ]
+  },
+  {
+   "s": 1020.72,
+   "e": 1024.73,
+   "sec": 7,
+   "zh": "或簡稱ECM。它具有再生組織的力量。無論從身體的哪種組織中去除細胞，最後剩下的就是細胞外基質",
+   "en": "or ECM, that has the power to regenerate tissue. Strip away the cells from just about any tissue in the body, and ECM is what will be left.",
+   "ocr": [
+    181
+   ]
+  },
+  {
+   "s": 1027.4,
+   "e": 1031.73,
+   "sec": 7,
+   "zh": "大自然完美結合出這種物質。匹茲堡麥高恩再生醫學研究所的史蒂芬·巴達拉克",
+   "en": "Mother Nature has done a really good job of bringing this material together. Stephen Badylak of Pittsburgh's McGowan Institute for Regenerative Medicine",
+   "ocr": [
+    182
+   ]
+  },
+  {
+   "s": 1038.07,
+   "e": 1040.08,
+   "sec": 7,
+   "zh": "協助發現了細胞外基質的力量",
+   "en": "helped discover ECM's power,",
+   "ocr": [
+    183
+   ]
+  },
+  {
+   "s": 1040.41,
+   "e": 1046.42,
+   "sec": 7,
+   "zh": "細胞外基質和幹細胞一樣，能修復人體的許多組織",
+   "en": "which, like stem cells, has the potential to heal many tissues in the body.",
+   "ocr": [
+    184
+   ]
+  },
+  {
+   "s": 1050.75,
+   "e": 1052.42,
+   "sec": 7,
+   "zh": "這種材料真正的神奇之處——如果你想稱之為神奇的話",
+   "en": "The real magic of the material, if you want to call it magic,",
+   "ocr": [
+    185
+   ]
+  },
+  {
+   "s": 1056.09,
+   "e": 1061.33,
+   "sec": 7,
+   "zh": "就是裡頭充滿訊息傳導分子，可指示周遭的細胞和組織以特定方式修復",
+   "en": "is that this is loaded with signaling molecules that instruct the surrounding cells and tissues to heal in a specific way.",
+   "ocr": [
+    186
+   ]
+  },
+  {
+   "s": 1061.43,
+   "e": 1067.1,
+   "sec": 7,
+   "zh": "最棒的是，所有動物體內都有細胞外基質",
+   "en": "The best part is that extracellular matrix is found in all animals.",
+   "ocr": [
+    187
+   ]
+  },
+  {
+   "s": 1067.44,
+   "e": 1073.34,
+   "sec": 7,
+   "zh": "比方說，豬的細胞外基質和人類的十分相似",
+   "en": "Pig ECM, for example, is not that different from human ECM.",
+   "ocr": [
+    188
+   ]
+  },
+  {
+   "s": 1073.44,
+   "e": 1077.45,
+   "sec": 7,
+   "zh": "從這點來看，人類細胞外基質跟老鼠和恐龍的沒什麼不同",
+   "en": "Which is not that much different than a mouse and a dinosaur, as far as that goes.",
+   "ocr": [
+    189
+   ]
+  },
+  {
+   "s": 1077.78,
+   "e": 1081.02,
+   "sec": 7,
+   "zh": "因此我們若將某種動物的細胞外基質",
+   "en": "",
+   "ocr": [
+    190
+   ]
+  },
+  {
+   "s": 1081.12,
+   "e": 1081.78,
+   "sec": 7,
+   "zh": "注入另一種動物體內",
+   "en": "Therefore, when we take ECM from one species and put it in another,",
+   "ocr": [
+    191
+   ]
+  },
+  {
+   "s": 1082.78,
+   "e": 1086.12,
+   "sec": 7,
+   "zh": "後者往往會接受外來的細胞外基質",
+   "en": "it tends to be accepted as self.",
+   "ocr": [
+    192
+   ]
+  },
+  {
+   "s": 1086.46,
+   "e": 1088.79,
+   "sec": 7,
+   "zh": "我們甚至能萃取某種組織的細胞外基質",
+   "en": "",
+   "ocr": [
+    193
+   ]
+  },
+  {
+   "s": 1089.12,
+   "e": 1089.79,
+   "sec": 7,
+   "zh": "例如豬小腸的細胞外基質",
+   "en": "We can even extract the material from one tissue, like pig small intestine,",
+   "ocr": [
+    194
+   ]
+  },
+  {
+   "s": 1091.13,
+   "e": 1091.79,
+   "sec": 7,
+   "zh": "然後注入另一種組織",
+   "en": "and put it into another,",
+   "ocr": [
+    195
+   ]
+  },
+  {
+   "s": 1092.46,
+   "e": 1097.37,
+   "sec": 7,
+   "zh": "譬如馬克·克萊默的肩膀",
+   "en": "like Mark Kramer's shoulder.",
+   "ocr": [
+    196
+   ]
+  },
+  {
+   "s": 1097.47,
+   "e": 1097.8,
+   "sec": 7,
+   "zh": "我們必須移植腱，然後再移植更多腱",
+   "en": "We're going to have graft, tendon, and then more graft.",
+   "ocr": [
+    197
+   ]
+  },
+  {
+   "s": 1098.47,
+   "e": 1109.14,
+   "sec": 7,
+   "zh": "我稱之為「玉米餅修復法」，因為這長得有點像玉米餅",
+   "en": "This is what I refer to as a taco repair simply because it looks kind of like a taco.",
+   "ocr": [
+    198
+   ]
+  },
+  {
+   "s": 1113.82,
+   "e": 1114.82,
+   "sec": 7,
+   "zh": "巴沙曼尼亞只是將材料包裹在馬克受損的肌腱周圍，然後縫合固定。馬克自己的細胞會附著在移植物上，數週之後，他自己的身體就會重建組織、自行癒合",
+   "en": "Basamania simply wraps the material around Mark's damaged tendon and sutures it into place. Mark's own cells will then attach to the graft and within weeks his own body will reconstruct the tissue and heal itself.",
+   "ocr": [
+    199
+   ]
+  },
+  {
+   "s": 1125.49,
+   "e": 1130.5,
+   "sec": 7,
+   "zh": "現在已變成看起來很健康的腱",
+   "en": "For me, this is very satisfying to go from a flimsy material to now he has what looks like a very nice, healthy looking tendon.",
+   "ocr": [
+    200
+   ]
+  },
+  {
+   "s": 1131.17,
+   "e": 1134.84,
+   "sec": 7,
+   "zh": "不久後，他就能再次去健身",
+   "en": "He would be back in the gym before too long.",
+   "ocr": [
+    201
+   ]
+  },
+  {
+   "s": 1135.17,
+   "e": 1138.84,
+   "sec": 7,
+   "zh": "細胞外基質已用來促進食道、皮膚和膀胱的生長痊癒",
+   "en": "Extracellular matrix has already been used to grow and treat things like the esophagus, skin, bladder,",
+   "ocr": [
+    202
+   ]
+  },
+  {
+   "s": 1141.84,
+   "e": 1144.51,
+   "sec": 7,
+   "zh": "甚至還能治癒海豚受損的背鰭",
+   "en": "even to heal the damaged dorsal fin of a dolphin.",
+   "ocr": [
+    203
+   ]
+  },
+  {
+   "s": 1147.52,
+   "e": 1149.18,
+   "sec": 7,
+   "zh": "誘哄身體自行痊癒的概念",
+   "en": "This idea of coaxing the body to fix itself",
+   "ocr": [
+    204
+   ]
+  },
+  {
+   "s": 1149.52,
+   "e": 1153.76,
+   "sec": 7,
+   "zh": "或許能開創出全新的疾病治療法",
+   "en": "may offer a whole new way to treat disease.",
+   "ocr": [
+    205
+   ]
+  },
+  {
+   "s": 1154.52,
+   "e": 1157.76,
+   "sec": 7,
+   "zh": "蠑螈和蝾螈以及海星能夠重新長出整條腿",
+   "en": "Salamanders and newts and starfish can regrow entire legs.",
+   "ocr": [
+    206
+   ]
+  },
+  {
+   "s": 1157.86,
+   "e": 1158.53,
+   "sec": 7,
+   "zh": "我們為什麼不能？",
+   "en": "Why can't we do it?",
+   "ocr": [
+    207
+   ]
+  },
+  {
+   "s": 1158.86,
+   "e": 1160.53,
+   "sec": 7,
+   "zh": "我們的目的是要告訴身體",
+   "en": "",
+   "ocr": [
+    208
+   ]
+  },
+  {
+   "s": 1160.86,
+   "e": 1163.53,
+   "sec": 7,
+   "zh": "我們不只要你治癒這個組織",
+   "en": "Our goal is to tell the body, you know, we don't want you to just heal this tissue again.",
+   "ocr": [
+    209
+   ]
+  },
+  {
+   "s": 1164.53,
+   "e": 1165.87,
+   "sec": 7,
+   "zh": "我們還要你重建這個組織",
+   "en": "We want you to reconstruct this tissue.",
+   "ocr": [
+    210
+   ]
+  },
+  {
+   "s": 1169.54,
+   "e": 1173.54,
+   "sec": 7,
+   "zh": "將來我們或許能和受傷的海星一樣，輕鬆長出新的手臂或腿",
+   "en": "Perhaps one day, we will grow a new arm or leg as easily as a wounded starfish does.",
+   "ocr": [
+    211,
+    212
+   ]
+  },
+  {
+   "s": 1184.55,
+   "e": 1184.89,
+   "sec": 7,
+   "zh": "太陽開始西沉",
+   "en": "And as the sun sets on our day,",
+   "ocr": [
+    213
+   ]
+  },
+  {
+   "s": 1185.22,
+   "e": 1188.22,
+   "sec": 7,
+   "zh": "要讓兩具奇妙機器進行繁殖",
+   "en": "just getting two incredible machines to reproduce at all",
+   "ocr": [
+    214
+   ]
+  },
+  {
+   "s": 1188.56,
+   "e": 1190.89,
+   "sec": 7,
+   "zh": "是相當困難的事",
+   "en": "is challenge enough.",
+   "ocr": [
+    215
+   ]
+  },
+  {
+   "s": 1210.58,
+   "e": 1212.25,
+   "sec": 8,
+   "zh": "這是簡單的生物功能",
+   "en": "It's a simple biological function,",
+   "ocr": [
+    216
+   ]
+  },
+  {
+   "s": 1212.92,
+   "e": 1217.25,
+   "sec": 8,
+   "zh": "交換基因以增強物種的適應力",
+   "en": "the swapping of genetic material to improve the adaptability of a species.",
+   "ocr": [
+    217
+   ]
+  },
+  {
+   "s": 1219.59,
+   "e": 1222.26,
+   "sec": 8,
+   "zh": "但要促成兩個人在一起並不容易",
+   "en": "But getting together is anything but easy.",
+   "ocr": [
+    218
+   ]
+  },
+  {
+   "s": 1225.93,
+   "e": 1227.26,
+   "sec": 8,
+   "zh": "誘惑",
+   "en": "The seduction.",
+   "ocr": [
+    219
+   ]
+  },
+  {
+   "s": 1229.0,
+   "e": 1231.0,
+   "sec": 8,
+   "zh": "求偶",
+   "en": "The courtship.",
+   "ocr": []
+  },
+  {
+   "s": 1233.0,
+   "e": 1235.0,
+   "sec": 8,
+   "zh": "承諾",
+   "en": "The commitment.",
+   "ocr": [
+    220
+   ]
+  },
+  {
+   "s": 1237.27,
+   "e": 1240.28,
+   "sec": 8,
+   "zh": "一切全是源於數百萬年前一種複雜舞蹈的舞步",
+   "en": "It's all part of an intricate dance originated millions of years ago and choreographed",
+   "ocr": [
+    221
+   ]
+  },
+  {
+   "s": 1240.61,
+   "e": 1250.95,
+   "sec": 8,
+   "zh": "這支舞蹈已經編了無數個世代。為什麼要如此小題大做？",
+   "en": "over countless generations. So why all the fuss?",
+   "ocr": [
+    222,
+    223
+   ]
+  },
+  {
+   "s": 1247.0,
+   "e": 1255.96,
+   "sec": 8,
+   "zh": "人類為什麼不能像變形蟲一樣",
+   "en": "Why don't humans simply do as an amoeba does?",
+   "ocr": [
+    224
+   ]
+  },
+  {
+   "s": 1256.29,
+   "e": 1257.29,
+   "sec": 8,
+   "zh": "分裂成兩個就好",
+   "en": "Just split in two.",
+   "ocr": [
+    225
+   ]
+  },
+  {
+   "s": 1263.63,
+   "e": 1265.97,
+   "sec": 8,
+   "zh": "我們若只是要複製自己",
+   "en": "If all we wanted was to make exact copies of ourselves,",
+   "ocr": [
+    226
+   ]
+  },
+  {
+   "s": 1266.64,
+   "e": 1269.64,
+   "sec": 8,
+   "zh": "進行分裂就可以做到",
+   "en": "that is exactly what we would do.",
+   "ocr": [
+    227
+   ]
+  },
+  {
+   "s": 1272.31,
+   "e": 1275.31,
+   "sec": 8,
+   "zh": "但是人類和整個動物王國的動物",
+   "en": "But humans, along with practically the entire animal kingdom,",
+   "ocr": [
+    228
+   ]
+  },
+  {
+   "s": 1275.64,
+   "e": 1279.32,
+   "sec": 8,
+   "zh": "想從生命中獲得更多，而不僅是能生存就好",
+   "en": "want more out of life than to simply survive.",
+   "ocr": [
+    229
+   ]
+  },
+  {
+   "s": 1279.98,
+   "e": 1280.98,
+   "sec": 8,
+   "zh": "我們生來就是要蓬勃發展",
+   "en": "We're built to thrive.",
+   "ocr": [
+    230
+   ]
+  },
+  {
+   "s": 1281.32,
+   "e": 1285.99,
+   "sec": 8,
+   "zh": "利用有性生殖混合基因是最好的方法",
+   "en": "And mixing up genes through sexual reproduction is the best way to do it.",
+   "ocr": [
+    231
+   ]
+  },
+  {
+   "s": 1288.99,
+   "e": 1291.66,
+   "sec": 8,
+   "zh": "這場舞蹈可能是從勾人的畫面開始",
+   "en": "",
+   "ocr": [
+    232
+   ]
+  },
+  {
+   "s": 1291.99,
+   "e": 1293.0,
+   "sec": 8,
+   "zh": "或是味道",
+   "en": "The dance may begin with an attractive sight, a smell,",
+   "ocr": [
+    233
+   ]
+  },
+  {
+   "s": 1293.33,
+   "e": 1295.66,
+   "sec": 8,
+   "zh": "或是觸摸",
+   "en": "a touch.",
+   "ocr": [
+    234
+   ]
+  },
+  {
+   "s": 1296.33,
+   "e": 1298.0,
+   "sec": 8,
+   "zh": "不久後，心跳就開始加快",
+   "en": "",
+   "ocr": [
+    235
+   ]
+  },
+  {
+   "s": 1298.33,
+   "e": 1299.67,
+   "sec": 8,
+   "zh": "血壓上升",
+   "en": "Soon enough, the heart beats faster, blood pressure rises, breathing accelerates, skin gets flushed,",
+   "ocr": [
+    236
+   ]
+  },
+  {
+   "s": 1300.34,
+   "e": 1301.34,
+   "sec": 8,
+   "zh": "呼吸變得急促",
+   "en": "",
+   "ocr": [
+    237
+   ]
+  },
+  {
+   "s": 1301.67,
+   "e": 1303.01,
+   "sec": 8,
+   "zh": "皮膚開始泛紅",
+   "en": "",
+   "ocr": [
+    238
+   ]
+  },
+  {
+   "s": 1303.34,
+   "e": 1306.01,
+   "sec": 8,
+   "zh": "無論生育是不是今晚的計畫，嬰兒製造機件都會蓄勢待發",
+   "en": "and whether or not baby making is on the agenda tonight, the baby making machinery is rearing to go.",
+   "ocr": [
+    239
+   ]
+  },
+  {
+   "s": 1322.0,
+   "e": 1324.0,
+   "sec": 8,
+   "zh": "男性每秒鐘會製造超過1千個精子",
+   "en": "Every second of every day, a man produces more than 1,000 sperm.",
+   "ocr": [
+    240
+   ]
+  },
+  {
+   "s": 1326.0,
+   "e": 1328.0,
+   "sec": 8,
+   "zh": "也就是每分鐘6萬個精子，一晚下來就是1千4百萬個",
+   "en": "That's 60,000 sperm per minute, or 14 million during the course of an evening.",
+   "ocr": [
+    241
+   ]
+  },
+  {
+   "s": 1336.0,
+   "e": 1342.71,
+   "sec": 8,
+   "zh": "精子只有千分之二吋長，但3億個精子隨時準備要達成一生的任務——替卵子授精",
+   "en": "They may only be about 2,000ths of an inch long, but 300 million are always ready to fulfill their life's mission to fertilize",
+   "ocr": [
+    242,
+    243,
+    244,
+    245
+   ]
+  },
+  {
+   "s": 1343.05,
+   "e": 1346.38,
+   "sec": 8,
+   "zh": "也就是替卵子授精",
+   "en": "one of these.",
+   "ocr": [
+    246
+   ]
+  },
+  {
+   "s": 1346.72,
+   "e": 1347.38,
+   "sec": 8,
+   "zh": "和男性不同",
+   "en": "",
+   "ocr": [
+    247
+   ]
+  },
+  {
+   "s": 1348.05,
+   "e": 1350.05,
+   "sec": 8,
+   "zh": "女性是帶著固定數量的性細胞誕生，大約1百萬個",
+   "en": "Unlike a man, a woman is born with her allotment of sex cells, about one million of them.",
+   "ocr": [
+    248
+   ]
+  },
+  {
+   "s": 1356.0,
+   "e": 1358.73,
+   "sec": 8,
+   "zh": "但女人大概只會釋放4百顆卵子",
+   "en": "Only about 400 eggs will ever get released.",
+   "ocr": [
+    249,
+    250
+   ]
+  },
+  {
+   "s": 1359.06,
+   "e": 1362.73,
+   "sec": 8,
+   "zh": "數量不到男性每秒鐘製造的精子數的一半",
+   "en": "Less than half the sperm cells a man produces every second.",
+   "ocr": [
+    251
+   ]
+  },
+  {
+   "s": 1366.4,
+   "e": 1369.07,
+   "sec": 8,
+   "zh": "每個月卵子離開卵巢之後，會進入輸卵管待上一天",
+   "en": "Once the egg is pushed out of the ovary each month, it's swooped into the fallopian tube for about a day.",
+   "ocr": [
+    252
+   ]
+  },
+  {
+   "s": 1372.0,
+   "e": 1372.07,
+   "sec": 8,
+   "zh": "這時候是形成生命的機會之窗",
+   "en": "Life's window of opportunity.",
+   "ocr": [
+    253
+   ]
+  },
+  {
+   "s": 1377.0,
+   "e": 1379.0,
+   "sec": 9,
+   "zh": "如果沒有求婚者出現，卵子會分解",
+   "en": "If no suitor appears, the egg dissolves.",
+   "ocr": [
+    254
+   ]
+  },
+  {
+   "s": 1384.0,
+   "e": 1388.76,
+   "sec": 9,
+   "zh": "但有求婚者出現時，情況會比較有趣",
+   "en": "More interesting is what happens when one does.",
+   "ocr": [
+    255,
+    256
+   ]
+  },
+  {
+   "s": 1390.43,
+   "e": 1392.76,
+   "sec": 9,
+   "zh": "有數百萬個精子參加這場基因比賽",
+   "en": "Of the millions of sperm engaged in this genetic race,",
+   "ocr": [
+    257
+   ]
+  },
+  {
+   "s": 1393.43,
+   "e": 1397.1,
+   "sec": 9,
+   "zh": "只有少數能克服重重困難，看見終點線",
+   "en": "only a few will defy all the odds and glimpse the finish line.",
+   "ocr": [
+    258
+   ]
+  },
+  {
+   "s": 1399.77,
+   "e": 1401.77,
+   "sec": 9,
+   "zh": "人體的最小細胞遇到最大細胞時",
+   "en": "And as the body's smallest cells meet the largest,",
+   "ocr": [
+    259
+   ]
+  },
+  {
+   "s": 1402.44,
+   "e": 1404.77,
+   "sec": 9,
+   "zh": "只有一個能越過終點線",
+   "en": "only one will make it across.",
+   "ocr": [
+    260
+   ]
+  },
+  {
+   "s": 1407.11,
+   "e": 1409.11,
+   "sec": 9,
+   "zh": "數百年前",
+   "en": "",
+   "ocr": [
+    261
+   ]
+  },
+  {
+   "s": 1409.45,
+   "e": 1414.12,
+   "sec": 9,
+   "zh": "有些學者認為每個精子裡頭有個發育完整的小人",
+   "en": "There was a time just a few centuries ago when some scholars believed that every sperm cell had a fully formed miniature person inside",
+   "ocr": [
+    262
+   ]
+  },
+  {
+   "s": 1414.45,
+   "e": 1417.12,
+   "sec": 9,
+   "zh": "叫做「小人兒」",
+   "en": "called a homunculus.",
+   "ocr": [
+    263
+   ]
+  },
+  {
+   "s": 1421.12,
+   "e": 1425.13,
+   "sec": 9,
+   "zh": "我們現在確信事實不是這樣",
+   "en": "Now confidently know, this is not the case.",
+   "ocr": [
+    264
+   ]
+  },
+  {
+   "s": 1425.46,
+   "e": 1433.47,
+   "sec": 9,
+   "zh": "人體每個細胞的深處都裝有人類的完整藍圖——整組基因組",
+   "en": "Deep within each of the body's 100 billion cells is a complete blueprint for a human being, a genome.",
+   "ocr": [
+    265,
+    266
+   ]
+  },
+  {
+   "s": 1435.14,
+   "e": 1436.81,
+   "sec": 9,
+   "zh": "我們的DNA分子在這裡被緊緊包成一束束染色體",
+   "en": "Here, our DNA molecules are tightly packaged into bundles called chromosomes.",
+   "ocr": [
+    267
+   ]
+  },
+  {
+   "s": 1437.14,
+   "e": 1450.49,
+   "sec": 9,
+   "zh": "每個細胞有23對染色體。但精子和卵子細胞各自只擁有半張藍圖",
+   "en": "Each cell has 23 pairs of chromosomes. Sperm and egg cells, though, only have half a blueprint each.",
+   "ocr": [
+    268
+   ]
+  },
+  {
+   "s": 1450.82,
+   "e": 1453.82,
+   "sec": 9,
+   "zh": "它們必須相遇",
+   "en": "They need each other.",
+   "ocr": [
+    269
+   ]
+  },
+  {
+   "s": 1454.16,
+   "e": 1455.83,
+   "sec": 9,
+   "zh": "在重要的相遇時刻",
+   "en": "",
+   "ocr": [
+    270
+   ]
+  },
+  {
+   "s": 1456.16,
+   "e": 1457.16,
+   "sec": 9,
+   "zh": "精子和卵子的DNA混合",
+   "en": "And during that fateful meeting, their DNA fuses,",
+   "ocr": [
+    271
+   ]
+  },
+  {
+   "s": 1457.83,
+   "e": 1461.5,
+   "sec": 9,
+   "zh": "混合母親和父親的遺傳特徵",
+   "en": "mingling the mother and the father's genetic traits.",
+   "ocr": [
+    272
+   ]
+  },
+  {
+   "s": 1462.17,
+   "e": 1466.5,
+   "sec": 9,
+   "zh": "接下來幾天，受精卵會從輸卵管進入子宮，沿途不斷生長和分裂",
+   "en": "For several days, the fertilized egg journeys through the fallopian tube towards the uterus, growing and dividing along the way.",
+   "ocr": [
+    273
+   ]
+  },
+  {
+   "s": 1472.0,
+   "e": 1474.0,
+   "sec": 9,
+   "zh": "受精約20小時之後，會分裂成2個細胞",
+   "en": "About 20 hours after fertilization, it divides into two cells.",
+   "ocr": [
+    274
+   ]
+  },
+  {
+   "s": 1474.0,
+   "e": 1474.18,
+   "sec": 9,
+   "zh": "48小時後，分裂成4個細胞",
+   "en": "In 48 hours, 4.",
+   "ocr": [
+    275
+   ]
+  },
+  {
+   "s": 1481.0,
+   "e": 1483.0,
+   "sec": 9,
+   "zh": "再過12小時，則會分裂成8個細胞",
+   "en": "12 hours later, it's 8 cells.",
+   "ocr": [
+    276
+   ]
+  },
+  {
+   "s": 1481.18,
+   "e": 1485.86,
+   "sec": 9,
+   "zh": "受精72小時後，會分裂成16個細胞",
+   "en": "And by 72 hours, it's 16.",
+   "ocr": [
+    277,
+    278
+   ]
+  },
+  {
+   "s": 1486.19,
+   "e": 1489.53,
+   "sec": 9,
+   "zh": "每個新細胞的基因都與原先的細胞相同",
+   "en": "Each of the new cells is genetically identical to the original.",
+   "ocr": [
+    279
+   ]
+  },
+  {
+   "s": 1493.86,
+   "e": 1495.2,
+   "sec": 9,
+   "zh": "在這個階段，眼睛和頭髮顏色、性別",
+   "en": "",
+   "ocr": [
+    280
+   ]
+  },
+  {
+   "s": 1496.2,
+   "e": 1504.87,
+   "sec": 10,
+   "zh": "甚至某種程度的身高體重、才智、幽默感和性格，全都已經預先決定",
+   "en": "At this stage, everything from eye and hair color, gender, and even to some extent, height, weight, intelligence, sense of humor, and personality are all predetermined.",
+   "ocr": [
+    281
+   ]
+  },
+  {
+   "s": 1505.88,
+   "e": 1510.21,
+   "sec": 10,
+   "zh": "科學家可篩選一盤的胚胎，選擇嬰兒的性別",
+   "en": "Scientists can even",
+   "ocr": [
+    282
+   ]
+  },
+  {
+   "s": 1510.55,
+   "e": 1514.22,
+   "sec": 10,
+   "zh": "或找出有基因缺陷的胚胎然後移除",
+   "en": "sift through a dish of embryos to choose gender or identify genetic defects and remove them.",
+   "ocr": [
+    283
+   ]
+  },
+  {
+   "s": 1517.55,
+   "e": 1521.22,
+   "sec": 10,
+   "zh": "但一對男女若以傳統方式受孕就沒辦法這麼做",
+   "en": "But not if couples have a baby the old-fashioned way.",
+   "ocr": [
+    284
+   ]
+  },
+  {
+   "s": 1523.23,
+   "e": 1524.23,
+   "sec": 10,
+   "zh": "卵子受孕1週後",
+   "en": "By the end of the first week, the free-floating",
+   "ocr": [
+    285
+   ]
+  },
+  {
+   "s": 1524.56,
+   "e": 1527.56,
+   "sec": 10,
+   "zh": "自由浮動的球狀細胞此時叫做胚囊",
+   "en": "",
+   "ocr": [
+    286
+   ]
+  },
+  {
+   "s": 1527.9,
+   "e": 1529.23,
+   "sec": 10,
+   "zh": "已進入子宮",
+   "en": "ball of cells, now known as a blastocyst, has entered the uterus.",
+   "ocr": [
+    287
+   ]
+  },
+  {
+   "s": 1529.9,
+   "e": 1534.9,
+   "sec": 10,
+   "zh": "細胞繼續在子宮內分裂，直到找到地方著床",
+   "en": "Cells continue to divide here before they find a place to settle.",
+   "ocr": [
+    288
+   ]
+  },
+  {
+   "s": 1537.24,
+   "e": 1538.24,
+   "sec": 10,
+   "zh": "事情確定了",
+   "en": "It's official.",
+   "ocr": [
+    289
+   ]
+  },
+  {
+   "s": 1538.57,
+   "e": 1541.91,
+   "sec": 10,
+   "zh": "她懷孕了",
+   "en": "She is pregnant.",
+   "ocr": [
+    290
+   ]
+  },
+  {
+   "s": 1542.25,
+   "e": 1544.91,
+   "sec": 10,
+   "zh": "經過幾個星期，細胞開始特化",
+   "en": "As the weeks pass, cells start",
+   "ocr": [
+    291
+   ]
+  },
+  {
+   "s": 1545.25,
+   "e": 1549.59,
+   "sec": 10,
+   "zh": "身體各部位開始成形",
+   "en": "to specialize, and forms begin to take shape.",
+   "ocr": [
+    292
+   ]
+  },
+  {
+   "s": 1550.25,
+   "e": 1550.92,
+   "sec": 10,
+   "zh": "懷孕3週時",
+   "en": "At three weeks,",
+   "ocr": [
+    293
+   ]
+  },
+  {
+   "s": 1551.59,
+   "e": 1553.59,
+   "sec": 10,
+   "zh": "一道溝槽標示神經系統已開始發育",
+   "en": "a groove marks the beginning of a nervous system.",
+   "ocr": [
+    294
+   ]
+  },
+  {
+   "s": 1554.26,
+   "e": 1555.93,
+   "sec": 10,
+   "zh": "這條管子頂部預定會長成腦部",
+   "en": "",
+   "ocr": [
+    295
+   ]
+  },
+  {
+   "s": 1556.59,
+   "e": 1556.93,
+   "sec": 10,
+   "zh": "下半部則會長成脊髓",
+   "en": "The top of the tube destined to become a brain, and the lower portion, the spinal cord.",
+   "ocr": [
+    296
+   ]
+  },
+  {
+   "s": 1562.93,
+   "e": 1563.6,
+   "sec": 10,
+   "zh": "懷孕8週時",
+   "en": "By eight weeks,",
+   "ocr": [
+    297
+   ]
+  },
+  {
+   "s": 1564.27,
+   "e": 1567.27,
+   "sec": 10,
+   "zh": "這個核桃大小胚胎內所有器官和系統",
+   "en": "almost all of the organs and systems in this walnut-sized embryo are in place,",
+   "ocr": [
+    298
+   ]
+  },
+  {
+   "s": 1567.6,
+   "e": 1568.61,
+   "sec": 10,
+   "zh": "幾乎都已經就定位",
+   "en": "",
+   "ocr": [
+    299
+   ]
+  },
+  {
+   "s": 1568.94,
+   "e": 1574.28,
+   "sec": 10,
+   "zh": "因此到了第9週，胚胎就正式改稱「胎兒」",
+   "en": "earning it by week nine, the official title, of Fetus.",
+   "ocr": [
+    300
+   ]
+  },
+  {
+   "s": 1574.94,
+   "e": 1577.28,
+   "sec": 10,
+   "zh": "現在胎兒開始迅速生長。到了第12週，正當準父母第一次窺見水汪汪的子宮時",
+   "en": "And now growth really kicks in. By 12 weeks, just as expectant parents get their first glimpse into the watery womb,",
+   "ocr": [
+    301
+   ]
+  },
+  {
+   "s": 1585.62,
+   "e": 1586.96,
+   "sec": 11,
+   "zh": "胎兒可能在練習呼吸",
+   "en": "",
+   "ocr": [
+    302
+   ]
+  },
+  {
+   "s": 1587.29,
+   "e": 1590.96,
+   "sec": 11,
+   "zh": "它是吸入羊水，而非空氣",
+   "en": "the fetus may practice breathing, taking in amniotic fluid instead of air.",
+   "ocr": [
+    303
+   ]
+  },
+  {
+   "s": 1594.3,
+   "e": 1598.3,
+   "sec": 11,
+   "zh": "胎兒已經能揮拳踢腳",
+   "en": "Already it can punch and kick.",
+   "ocr": [
+    304
+   ]
+  },
+  {
+   "s": 1598.64,
+   "e": 1603.31,
+   "sec": 11,
+   "zh": "到了第14週，胎兒已能吞嚥和吸吮拇指",
+   "en": "At 14 weeks, it can swallow and suck its thumb.",
+   "ocr": [
+    305
+   ]
+  },
+  {
+   "s": 1603.97,
+   "e": 1606.98,
+   "sec": 11,
+   "zh": "到了第24週，胎兒可以聽到聲音",
+   "en": "By 24, it can hear.",
+   "ocr": [
+    306
+   ]
+  },
+  {
+   "s": 1607.31,
+   "e": 1610.31,
+   "sec": 11,
+   "zh": "到了第32週，胎兒對音樂和聲音有反應",
+   "en": "By 32, it responds to music, voices.",
+   "ocr": [
+    307
+   ]
+  },
+  {
+   "s": 1610.65,
+   "e": 1612.65,
+   "sec": 11,
+   "zh": "好，這個…這是她的眼睛",
+   "en": "Oh, okay, so that's, oh, there are her eyes.",
+   "ocr": [
+    308
+   ]
+  },
+  {
+   "s": 1613.32,
+   "e": 1614.65,
+   "sec": 11,
+   "zh": "眼睛、鼻子、嘴巴",
+   "en": "Those eyes, nose, mouth.",
+   "ocr": [
+    309
+   ]
+  },
+  {
+   "s": 1614.98,
+   "e": 1616.32,
+   "sec": 11,
+   "zh": "她張大嘴巴",
+   "en": "",
+   "ocr": [
+    310
+   ]
+  },
+  {
+   "s": 1616.65,
+   "e": 1616.99,
+   "sec": 11,
+   "zh": "大概到了第40週",
+   "en": "And at 40 weeks, give or take,",
+   "ocr": [
+    311
+   ]
+  },
+  {
+   "s": 1617.32,
+   "e": 1621.99,
+   "sec": 11,
+   "zh": "胎兒就準備要來到人世間",
+   "en": "it's ready. It's ready to enter the world.",
+   "ocr": [
+    312
+   ]
+  },
+  {
+   "s": 1624.99,
+   "e": 1626.66,
+   "sec": 11,
+   "zh": "很好。用力，用力，用力",
+   "en": "That's it. Great, great, hurry. Push, push, push, push.",
+   "ocr": [
+    313
+   ]
+  },
+  {
+   "s": 1641.68,
+   "e": 1648.69,
+   "sec": 11,
+   "zh": "天哪，太好了",
+   "en": "Oh, my God. Good job. Good job.",
+   "ocr": [
+    315
+   ]
+  },
+  {
+   "s": 1651.69,
+   "e": 1652.02,
+   "sec": 11,
+   "zh": "她好小",
+   "en": "She is. She's a tiny girl.",
+   "ocr": [
+    316
+   ]
+  },
+  {
+   "s": 1666.04,
+   "e": 1667.7,
+   "sec": 11,
+   "zh": "好漂亮的女娃娃",
+   "en": "She's a big girl.",
+   "ocr": [
+    317
+   ]
+  },
+  {
+   "s": 1669.37,
+   "e": 1670.71,
+   "sec": 11,
+   "zh": "她花了9個月的時間",
+   "en": "In the nine months it takes her to go from",
+   "ocr": [
+    318
+   ]
+  },
+  {
+   "s": 1671.37,
+   "e": 1674.04,
+   "sec": 11,
+   "zh": "從受精卵變成發育完整的人類嬰兒",
+   "en": "fertilized egg to fully formed human baby,",
+   "ocr": [
+    319
+   ]
+  },
+  {
+   "s": 1674.38,
+   "e": 1676.71,
+   "sec": 11,
+   "zh": "她在這段期間長大了5千倍",
+   "en": "she will have grown more than 5,000 times bigger.",
+   "ocr": [
+    320
+   ]
+  },
+  {
+   "s": 1685.06,
+   "e": 1685.39,
+   "sec": 11,
+   "zh": "全世界女性皆可證明，懷孕生子不是輕鬆的差事",
+   "en": "As women around the globe can attest, getting to this point is no easy task.",
+   "ocr": [
+    321
+   ]
+  },
+  {
+   "s": 1691.0,
+   "e": 1692.4,
+   "sec": 11,
+   "zh": "但每分鐘有260個嬰兒以這方式出生",
+   "en": "And yet some 260 humans are born this way every minute.",
+   "ocr": [
+    322,
+    323
+   ]
+  },
+  {
+   "s": 1695.07,
+   "e": 1696.4,
+   "sec": 11,
+   "zh": "每天則有37萬4千個嬰兒誕生",
+   "en": "That's 374,000",
+   "ocr": [
+    324
+   ]
+  },
+  {
+   "s": 1699.07,
+   "e": 1702.74,
+   "sec": 11,
+   "zh": "每年有1億3千6百萬個嬰兒誕生",
+   "en": "every day and more than 136 million every year.",
+   "ocr": [
+    325
+   ]
+  },
+  {
+   "s": 1709.41,
+   "e": 1714.42,
+   "sec": 12,
+   "zh": "人類為何會以這種痛苦又危險的方法來延續物種？",
+   "en": "Why evolve such a painful and risky way to keep a species going?",
+   "ocr": [
+    326
+   ]
+  },
+  {
+   "s": 1714.75,
+   "e": 1719.42,
+   "sec": 12,
+   "zh": "這是我們擁有巨大腦部所需付出的代價",
+   "en": "It's the price we pay for our giant brains.",
+   "ocr": [
+    327
+   ]
+  },
+  {
+   "s": 1719.76,
+   "e": 1722.43,
+   "sec": 12,
+   "zh": "她頭部內有數十億神經傳導細胞在工作",
+   "en": "Billions of neurons are buzzing around in that head of hers.",
+   "ocr": [
+    328
+   ]
+  },
+  {
+   "s": 1723.09,
+   "e": 1727.43,
+   "sec": 12,
+   "zh": "她的腦部就需要這麼多神經細胞",
+   "en": "Virtually all the nerve cells her brain will ever need.",
+   "ocr": [
+    329
+   ]
+  },
+  {
+   "s": 1728.1,
+   "e": 1728.77,
+   "sec": 12,
+   "zh": "在她的幼兒時期",
+   "en": "Throughout her childhood,",
+   "ocr": [
+    330
+   ]
+  },
+  {
+   "s": 1729.43,
+   "e": 1730.77,
+   "sec": 12,
+   "zh": "神經細胞會相互接觸",
+   "en": "they'll be reaching out to other neurons,",
+   "ocr": [
+    331
+   ]
+  },
+  {
+   "s": 1731.43,
+   "e": 1734.77,
+   "sec": 12,
+   "zh": "隨著每一次的新經驗，有更多聯繫",
+   "en": "making more connections with each new experience.",
+   "ocr": [
+    332
+   ]
+  },
+  {
+   "s": 1737.11,
+   "e": 1746.12,
+   "sec": 12,
+   "zh": "我們的身心會融合形成個人獨有特色",
+   "en": "With each connection, mind and body fuse to form the thing that is us,",
+   "ocr": [
+    333
+   ]
+  },
+  {
+   "s": 1746.45,
+   "e": 1750.79,
+   "sec": 12,
+   "zh": "掌控這項功能的是全世界最了不起的指揮中心",
+   "en": "and at the helm, the most remarkable command center in the world.",
+   "ocr": [
+    334
+   ]
+  },
+  {
+   "s": 1756.46,
+   "e": 1758.8,
+   "sec": 12,
+   "zh": "所有人體系統都很複雜",
+   "en": "Every system in the body is complex,",
+   "ocr": [
+    335
+   ]
+  },
+  {
+   "s": 1759.13,
+   "e": 1760.46,
+   "sec": 12,
+   "zh": "但只有一套系統統轄我們的一切行為",
+   "en": "but there is only one presiding over everything we do.",
+   "ocr": [
+    336
+   ]
+  },
+  {
+   "s": 1765.47,
+   "e": 1767.14,
+   "sec": 12,
+   "zh": "自從我們展開這天的行程",
+   "en": "Every second since our day began,",
+   "ocr": [
+    337
+   ]
+  },
+  {
+   "s": 1768.47,
+   "e": 1770.81,
+   "sec": 12,
+   "zh": "我們的腦部每秒鐘都在指導、守護和下指令",
+   "en": "our brains have been guiding, guarding, and giving orders,",
+   "ocr": [
+    338
+   ]
+  },
+  {
+   "s": 1771.14,
+   "e": 1774.81,
+   "sec": 12,
+   "zh": "顯現我們的特性",
+   "en": "defining nothing less than what we are.",
+   "ocr": [
+    339
+   ]
+  },
+  {
+   "s": 1779.15,
+   "e": 1782.82,
+   "sec": 12,
+   "zh": "腦部透過遍布人體各部位、由神經組成的資訊高速公路",
+   "en": "Through an information superhighway of nerves fanning throughout our bodies,",
+   "ocr": [
+    340
+   ]
+  },
+  {
+   "s": 1783.15,
+   "e": 1785.49,
+   "sec": 12,
+   "zh": "監視我們身體各個部位",
+   "en": "our brains keep tabs on every part of us,",
+   "ocr": [
+    341
+   ]
+  },
+  {
+   "s": 1785.82,
+   "e": 1790.49,
+   "sec": 12,
+   "zh": "例如眼睛和耳朵、皮膚和骨頭、心臟和肌肉",
+   "en": "eyes and ears, skin and bones, heart and muscles.",
+   "ocr": [
+    342
+   ]
+  },
+  {
+   "s": 1793.16,
+   "e": 1795.83,
+   "sec": 12,
+   "zh": "利用1千億個叫做神經傳導細胞的特殊細胞",
+   "en": "A hundred billion specialized cells called neurons,",
+   "ocr": [
+    343
+   ]
+  },
+  {
+   "s": 1796.5,
+   "e": 1796.83,
+   "sec": 12,
+   "zh": "以2百哩的時速發送數百萬個電子和化學訊息",
+   "en": "sending millions of electrical and chemical signals at up to 200 miles per hour,",
+   "ocr": [
+    344
+   ]
+  },
+  {
+   "s": 1797.17,
+   "e": 1807.18,
+   "sec": 12,
+   "zh": "使我們能夠思考、有感覺、慾望和記憶",
+   "en": "these three-pound blobs of fat and water let us think, feel,",
+   "ocr": [
+    345
+   ]
+  },
+  {
+   "s": 1807.51,
+   "e": 1809.51,
+   "sec": 12,
+   "zh": "以及反應",
+   "en": "want, remember, and react.",
+   "ocr": [
+    346
+   ]
+  },
+  {
+   "s": 1810.18,
+   "e": 1810.85,
+   "sec": 12,
+   "zh": "腦部是人類和其他動物最大的差別",
+   "en": "It really is what makes us human, because it encapsulates everything from our ability",
+   "ocr": [
+    347
+   ]
+  },
+  {
+   "s": 1815.19,
+   "e": 1816.19,
+   "sec": 12,
+   "zh": "因為腦部主掌人類所有能力，例如我們繪畫的能力",
+   "en": "to paint a beautiful picture,",
+   "ocr": [
+    348
+   ]
+  },
+  {
+   "s": 1816.52,
+   "e": 1821.19,
+   "sec": 12,
+   "zh": "搭蓋建築物的能力、對他人施以暴力的能力",
+   "en": "to construct a building, to render violence on somebody else.",
+   "ocr": [
+    349
+   ]
+  },
+  {
+   "s": 1821.53,
+   "e": 1823.09,
+   "sec": 12,
+   "zh": "（亞瑟·托加，加州大學洛杉磯分校神經影像實驗室）我如果替你移植心臟",
+   "en": "If I transplant your heart, for example,",
+   "ocr": [
+    350
+   ]
+  },
+  {
+   "s": 1823.53,
+   "e": 1830.87,
+   "sec": 12,
+   "zh": "你還是你。但如果我們做了損傷你腦部的事，你的性格、你的人格可能會改變",
+   "en": "you're still you. But if we do something that damages your brain, the very character, your very personality may change.",
+   "ocr": [
+    352
+   ]
+  },
+  {
+   "s": 1831.2,
+   "e": 1833.87,
+   "sec": 12,
+   "zh": "所以說，腦部就是你",
+   "en": "And so the brain is you.",
+   "ocr": [
+    353
+   ]
+  },
+  {
+   "s": 1834.2,
+   "e": 1841.55,
+   "sec": 12,
+   "zh": "這個看似平凡的器官遭到攻擊時，賦予你特徵的一切都可能面臨危險",
+   "en": "And when this unremarkable-looking organ is under assault, everything that defines you is at risk.",
+   "ocr": [
+    354,
+    355
+   ]
+  },
+  {
+   "s": 1846.55,
+   "e": 1847.22,
+   "sec": 12,
+   "zh": "他們現在要讓你睡覺，好嗎？",
+   "en": "They're going to be putting you to sleep now, okay?",
+   "ocr": [
+    356
+   ]
+  },
+  {
+   "s": 1847.88,
+   "e": 1850.89,
+   "sec": 12,
+   "zh": "你醒來後會看到我",
+   "en": "I'll see you when you wake up.",
+   "ocr": [
+    357
+   ]
+  },
+  {
+   "s": 1851.22,
+   "e": 1852.89,
+   "sec": 12,
+   "zh": "加州大學洛杉磯分校這間手術室內的所有人",
+   "en": "Everyone in this UCLA operating room",
+   "ocr": [
+    358
+   ]
+  },
+  {
+   "s": 1856.56,
+   "e": 1856.89,
+   "sec": 12,
+   "zh": "清楚知道腦部有多脆弱",
+   "en": "is acutely aware of the brain's vulnerability.",
+   "ocr": [
+    359
+   ]
+  },
+  {
+   "s": 1857.23,
+   "e": 1865.57,
+   "sec": 12,
+   "zh": "23歲的布蘭登·卡爾森腦部內靠近掌管語言的區域長了一顆巨大的癌腫瘤",
+   "en": "23-year-old Brandon Carson has a large cancerous tumor near a region of his brain critical for language.",
+   "ocr": [
+    360
+   ]
+  },
+  {
+   "s": 1866.57,
+   "e": 1869.91,
+   "sec": 12,
+   "zh": "他的腫瘤離布洛卡氏區很近",
+   "en": "His tumor is very close to Broca's area.",
+   "ocr": [
+    361
+   ]
+  },
+  {
+   "s": 1871.91,
+   "e": 1873.58,
+   "sec": 13,
+   "zh": "是我遇過距離最近的病患之一",
+   "en": "It's probably one of the closer ones I've seen.",
+   "ocr": [
+    362
+   ]
+  },
+  {
+   "s": 1875.58,
+   "e": 1877.48,
+   "sec": 13,
+   "zh": "廖醫生和她的醫療團隊面臨的挑戰",
+   "en": "The challenge to Dr. Linda Liau and her team of doctors",
+   "ocr": [
+    363
+   ]
+  },
+  {
+   "s": 1877.58,
+   "e": 1881.59,
+   "sec": 13,
+   "zh": "是要摘除腫瘤，同時不傷及布蘭登的語言能力",
+   "en": "is to remove the tumor while keeping Brandon's speech intact.",
+   "ocr": [
+    364
+   ]
+  },
+  {
+   "s": 1883.25,
+   "e": 1884.25,
+   "sec": 13,
+   "zh": "布蘭登，醒醒",
+   "en": "Brandon, wake up.",
+   "ocr": [
+    365
+   ]
+  },
+  {
+   "s": 1886.59,
+   "e": 1887.92,
+   "sec": 13,
+   "zh": "因此醫生打開他的頭顱、令他的腦部露出之後",
+   "en": "Which is why once they've opened his skull and revealed his brain,",
+   "ocr": [
+    366
+   ]
+  },
+  {
+   "s": 1888.59,
+   "e": 1892.26,
+   "sec": 13,
+   "zh": "會盡力讓布蘭登保持清醒",
+   "en": "the doctors do their best to keep Brandon awake.",
+   "ocr": [
+    368
+   ]
+  },
+  {
+   "s": 1895.27,
+   "e": 1896.27,
+   "sec": 13,
+   "zh": "布蘭登，張開眼睛",
+   "en": "Brandon, open your eyes.",
+   "ocr": [
+    369
+   ]
+  },
+  {
+   "s": 1900.27,
+   "e": 1908.95,
+   "sec": 13,
+   "zh": "腦部沒有疼痛受器，因此就算醫生將布蘭登叫醒，他也不會覺得痛",
+   "en": "The brain doesn't have pain receptors, so Brandon doesn't feel anything, even when they do wake him up.",
+   "ocr": [
+    370,
+    371,
+    372
+   ]
+  },
+  {
+   "s": 1910.28,
+   "e": 1910.61,
+   "sec": 13,
+   "zh": "不，別坐起來",
+   "en": "Don't sit up.",
+   "ocr": [
+    373
+   ]
+  },
+  {
+   "s": 1914.62,
+   "e": 1914.95,
+   "sec": 13,
+   "zh": "能不能趕快做好這件事？語言是我們在病患沉睡時無法測繪的功能",
+   "en": "Can we do this test real quick? Language is a function we can't map when a patient is asleep.",
+   "ocr": [
+    374
+   ]
+  },
+  {
+   "s": 1922.29,
+   "e": 1924.96,
+   "sec": 13,
+   "zh": "我們可以測量肌肉抽搐之類的反應，但我們無法百分之百確定他的語言區在哪裡",
+   "en": "We can measure muscle twitching and things like that, but we can't really, with 100% certainty,",
+   "ocr": [
+    375
+   ]
+  },
+  {
+   "s": 1928.3,
+   "e": 1930.63,
+   "sec": 13,
+   "zh": "所以我們必須叫醒他，然後刺激那些特定區域",
+   "en": "know exactly where his language areas are unless we wake them up and stimulate those particular areas.",
+   "ocr": [
+    376
+   ]
+  },
+  {
+   "s": 1930.97,
+   "e": 1932.3,
+   "sec": 13,
+   "zh": "這是什麼？",
+   "en": "What's this?",
+   "ocr": [
+    377
+   ]
+  },
+  {
+   "s": 1932.97,
+   "e": 1933.97,
+   "sec": 13,
+   "zh": "很好",
+   "en": "Good.",
+   "ocr": [
+    378
+   ]
+  },
+  {
+   "s": 1934.3,
+   "e": 1935.31,
+   "sec": 13,
+   "zh": "這個呢？",
+   "en": "This one?",
+   "ocr": [
+    379
+   ]
+  },
+  {
+   "s": 1935.64,
+   "e": 1938.31,
+   "sec": 13,
+   "zh": "有位心理學家利用簡單易懂的字卡",
+   "en": "Using easily identifiable flashcards,",
+   "ocr": [
+    380
+   ]
+  },
+  {
+   "s": 1938.64,
+   "e": 1941.98,
+   "sec": 13,
+   "zh": "測試布蘭登的語言能力",
+   "en": "a psychologist tests Brandon's language capacity.",
+   "ocr": [
+    381
+   ]
+  },
+  {
+   "s": 1942.31,
+   "e": 1947.65,
+   "sec": 13,
+   "zh": "廖醫師則同時以微弱電流刺激他語言中心的各個小區域",
+   "en": "Simultaneously, Liau disrupts tiny areas of his language center with a mild electric shock.",
+   "ocr": [
+    382
+   ]
+  },
+  {
+   "s": 1948.99,
+   "e": 1950.99,
+   "sec": 13,
+   "zh": "那個區域再試一次，開始",
+   "en": "Let's try that same area again. On.",
+   "ocr": [
+    383
+   ]
+  },
+  {
+   "s": 1951.32,
+   "e": 1955.23,
+   "sec": 13,
+   "zh": "布蘭登接受電擊時若無法認得這些簡單圖片",
+   "en": "If Brandon has trouble recognizing these simple images while the shock is being delivered,",
+   "ocr": [
+    384
+   ]
+  },
+  {
+   "s": 1955.33,
+   "e": 1957.33,
+   "sec": 13,
+   "zh": "醫療小組就會知道遭電擊的區域很重要",
+   "en": "the team then knows that this is a critical area",
+   "ocr": [
+    385
+   ]
+  },
+  {
+   "s": 1958.33,
+   "e": 1961.0,
+   "sec": 13,
+   "zh": "他們一定得避開那個地方",
+   "en": "and makes sure to work around it.",
+   "ocr": [
+    386
+   ]
+  },
+  {
+   "s": 1962.67,
+   "e": 1966.0,
+   "sec": 13,
+   "zh": "潔西卡，我覺得有個區域很安全",
+   "en": "Jessica, there's an area that I think is safe.",
+   "ocr": [
+    387
+   ]
+  },
+  {
+   "s": 1966.34,
+   "e": 1968.01,
+   "sec": 13,
+   "zh": "我要開始切除那個部位",
+   "en": "I'm going to start resecting there.",
+   "ocr": [
+    388
+   ]
+  },
+  {
+   "s": 1968.34,
+   "e": 1971.34,
+   "sec": 13,
+   "zh": "你繼續跟他說話",
+   "en": "You just keep talking to him.",
+   "ocr": [
+    389
+   ]
+  },
+  {
+   "s": 1973.01,
+   "e": 1975.68,
+   "sec": 13,
+   "zh": "醫生能在手術前和手術進行時替腦部造影",
+   "en": "By imaging the brain before and during surgery,",
+   "ocr": [
+    390
+   ]
+  },
+  {
+   "s": 1977.0,
+   "e": 1979.0,
+   "sec": 13,
+   "zh": "這在10年前是不可能的事，所以廖醫師有把握切除腫瘤",
+   "en": "something she couldn't do just 10 years ago, Liau can cut out the tumor with confidence.",
+   "ocr": [
+    391
+   ]
+  },
+  {
+   "s": 1986.0,
+   "e": 1987.02,
+   "sec": 13,
+   "zh": "由於有活生生、正在運轉的清醒腦部暴露出來",
+   "en": "And with a living, functioning, awake brain exposed,",
+   "ocr": [
+    392,
+    393
+   ]
+  },
+  {
+   "s": 1987.36,
+   "e": 1991.36,
+   "sec": 13,
+   "zh": "神經科學家因而有難得的機會能一窺頭腦內部",
+   "en": "neuroscientists get a rare opportunity to peer inside,",
+   "ocr": [
+    394
+   ]
+  },
+  {
+   "s": 1991.7,
+   "e": 1993.7,
+   "sec": 13,
+   "zh": "看見每一條血管",
+   "en": "down to individual blood vessels",
+   "ocr": [
+    395
+   ]
+  },
+  {
+   "s": 1994.37,
+   "e": 1997.03,
+   "sec": 13,
+   "zh": "瞥見這個神祕器官運作的情形",
+   "en": "and glimpse the mysterious organ in action.",
+   "ocr": [
+    396
+   ]
+  },
+  {
+   "s": 1998.7,
+   "e": 2001.04,
+   "sec": 13,
+   "zh": "（亞瑟·托加）繪製腦部結構功能圖有如聖杯",
+   "en": "Mapping the human brain is a holy grail.",
+   "ocr": [
+    397
+   ]
+  },
+  {
+   "s": 2001.37,
+   "e": 2002.04,
+   "sec": 13,
+   "zh": "人人都想做這件事",
+   "en": "We all want to do it.",
+   "ocr": [
+    398
+   ]
+  },
+  {
+   "s": 2002.71,
+   "e": 2003.71,
+   "sec": 13,
+   "zh": "我們都想繪製腦部結構分布圖",
+   "en": "",
+   "ocr": [
+    399
+   ]
+  },
+  {
+   "s": 2004.38,
+   "e": 2008.05,
+   "sec": 13,
+   "zh": "確定哪些結構負責哪些功能",
+   "en": "We want to create a map where we know what structures are where and what the function is in those structures.",
+   "ocr": [
+    400
+   ]
+  },
+  {
+   "s": 2008.71,
+   "e": 2012.05,
+   "sec": 13,
+   "zh": "地球地圖有經緯度等等作為標準，但人類的腦部卻是因人而異",
+   "en": "But unlike the map of the Earth where there's latitude and longitude and so forth, the human brain is individualized.",
+   "ocr": [
+    401
+   ]
+  },
+  {
+   "s": 2014.0,
+   "e": 2018.72,
+   "sec": 14,
+   "zh": "人人的腦部皆不同，所以每個人都是獨一無二",
+   "en": "Each is different from the other. It's what makes us unique.",
+   "ocr": [
+    402,
+    403
+   ]
+  },
+  {
+   "s": 2020.72,
+   "e": 2023.06,
+   "sec": 14,
+   "zh": "在加州大學洛杉磯分校的神經影像實驗室",
+   "en": "At UCLA's Laboratory of Neuroimaging,",
+   "ocr": [
+    404
+   ]
+  },
+  {
+   "s": 2025.73,
+   "e": 2030.73,
+   "sec": 14,
+   "zh": "亞瑟·托加博士利用所謂的「腦部圖譜」開始瞭解這些差異",
+   "en": "Dr. Arthur Toga is just beginning to understand these differences with what is called the Brain Atlas.",
+   "ocr": [
+    405,
+    406
+   ]
+  },
+  {
+   "s": 2031.4,
+   "e": 2035.07,
+   "sec": 14,
+   "zh": "這是成千上萬人的腦部掃描圖",
+   "en": "It's a collection of thousands and thousands of scans of human subjects.",
+   "ocr": [
+    407
+   ]
+  },
+  {
+   "s": 2035.41,
+   "e": 2039.74,
+   "sec": 14,
+   "zh": "這些受試者的年齡、所屬族群及性別皆不同",
+   "en": "Various ages, various groups, various genders.",
+   "ocr": [
+    408
+   ]
+  },
+  {
+   "s": 2040.08,
+   "e": 2042.08,
+   "sec": 14,
+   "zh": "有了腦部圖譜，我們可觀察腦部",
+   "en": "With it, we can watch a brain develop",
+   "ocr": [
+    409
+   ]
+  },
+  {
+   "s": 2042.41,
+   "e": 2044.08,
+   "sec": 14,
+   "zh": "從5歲到90歲的生長情形",
+   "en": "from five years old to 90",
+   "ocr": [
+    410
+   ]
+  },
+  {
+   "s": 2044.75,
+   "e": 2048.42,
+   "sec": 14,
+   "zh": "看著腦部在中年時期逐漸退化",
+   "en": "and see it start to degrade during middle age.",
+   "ocr": [
+    411
+   ]
+  },
+  {
+   "s": 2051.42,
+   "e": 2054.43,
+   "sec": 14,
+   "zh": "比較男性與女性的腦部",
+   "en": "Comparing a man and a woman's brain.",
+   "ocr": [
+    412
+   ]
+  },
+  {
+   "s": 2055.09,
+   "e": 2059.43,
+   "sec": 14,
+   "zh": "男性的腦容量較大，但女性擁有更大的表面積",
+   "en": "His may have more volume, but hers has added surface area.",
+   "ocr": [
+    413,
+    414
+   ]
+  },
+  {
+   "s": 2060.1,
+   "e": 2062.77,
+   "sec": 14,
+   "zh": "這是只會一種語言的人腦部活動的情形",
+   "en": "Here's the brain activity of someone who speaks one language",
+   "ocr": [
+    415
+   ]
+  },
+  {
+   "s": 2063.43,
+   "e": 2065.44,
+   "sec": 14,
+   "zh": "這是會說兩種語言的人的腦部",
+   "en": "and someone who speaks two.",
+   "ocr": [
+    416
+   ]
+  },
+  {
+   "s": 2065.77,
+   "e": 2070.44,
+   "sec": 14,
+   "zh": "這是右撇子和左撇子的腦",
+   "en": "A right-hander and a left-hander.",
+   "ocr": [
+    417
+   ]
+  },
+  {
+   "s": 2070.77,
+   "e": 2074.45,
+   "sec": 14,
+   "zh": "腦部圖譜從各個不同角度觀察我們負責掌管一切的器官",
+   "en": "The Brain Atlas looks at our master organ from a",
+   "ocr": [
+    418
+   ]
+  },
+  {
+   "s": 2074.78,
+   "e": 2077.45,
+   "sec": 14,
+   "zh": "並深入檢視各個神經傳導細胞",
+   "en": "variety of perspectives, right down to individual neurons",
+   "ocr": [
+    419
+   ]
+  },
+  {
+   "s": 2079.78,
+   "e": 2082.12,
+   "sec": 14,
+   "zh": "利用功能性磁振造影，或fMRI",
+   "en": "through functional magnetic resonance imaging, or fMRI,",
+   "ocr": [
+    420
+   ]
+  },
+  {
+   "s": 2082.79,
+   "e": 2088.13,
+   "sec": 14,
+   "zh": "我們可看見哪些區域掌管意識思想的形成",
+   "en": "we can see the exact spots where conscious thoughts originate as they form,",
+   "ocr": [
+    421
+   ]
+  },
+  {
+   "s": 2088.79,
+   "e": 2094.8,
+   "sec": 14,
+   "zh": "哪些令我們看懂地圖、聽音樂、體驗恐懼和歡樂",
+   "en": "navigating a map, listening to music, experiencing fear and laughter.",
+   "ocr": [
+    422
+   ]
+  },
+  {
+   "s": 2095.13,
+   "e": 2096.13,
+   "sec": 14,
+   "zh": "非常了不起",
+   "en": "",
+   "ocr": [
+    423
+   ]
+  },
+  {
+   "s": 2096.47,
+   "e": 2096.8,
+   "sec": 14,
+   "zh": "我們可以看見正常活人腦部運作的情形",
+   "en": "This is remarkable, and you can watch the human brain function in a normal living individual.",
+   "ocr": [
+    424
+   ]
+  },
+  {
+   "s": 2097.13,
+   "e": 2112.38,
+   "sec": 14,
+   "zh": "功能性磁振造影也使我們能看見腦部功能發生障礙",
+   "en": "fMRI also allows us to watch the brain as it malfunctions.",
+   "ocr": [
+    425
+   ]
+  },
+  {
+   "s": 2112.48,
+   "e": 2117.15,
+   "sec": 14,
+   "zh": "兩年前，一場嚴重車禍使22歲的金柏麗·里札拉加的頸部和肩膀因疼痛而殘廢",
+   "en": "Two years ago, a severe car crash left 22-year-old Kimberly Lizaraga crippled by pain in her neck and shoulders,",
+   "ocr": [
+    426,
+    427
+   ]
+  },
+  {
+   "s": 2117.49,
+   "e": 2119.82,
+   "sec": 14,
+   "zh": "她至今仍常感到疼痛",
+   "en": "and she feels it to this day.",
+   "ocr": [
+    428
+   ]
+  },
+  {
+   "s": 2122.16,
+   "e": 2126.16,
+   "sec": 14,
+   "zh": "只是購買食品雜貨或開車都令她痛苦不堪",
+   "en": "Just picking up groceries or driving a car can be excruciating.",
+   "ocr": [
+    429
+   ]
+  },
+  {
+   "s": 2126.5,
+   "e": 2129.5,
+   "sec": 14,
+   "zh": "我所受的痛苦難以形容",
+   "en": "The pain that I felt was so unexplainable.",
+   "ocr": [
+    430
+   ]
+  },
+  {
+   "s": 2129.83,
+   "e": 2131.84,
+   "sec": 14,
+   "zh": "我無法解釋我的痛苦",
+   "en": "I can't even explain the pain.",
+   "ocr": [
+    431
+   ]
+  },
+  {
+   "s": 2132.5,
+   "e": 2137.07,
+   "sec": 14,
+   "zh": "這件事嚴重影響我的工作和人生",
+   "en": "It affects my job, it affects my whole life tremendously.",
+   "ocr": [
+    432
+   ]
+  },
+  {
+   "s": 2137.17,
+   "e": 2139.51,
+   "sec": 14,
+   "zh": "金柏麗的腦部並未在車禍中受傷",
+   "en": "Kimberly suffered no brain trauma in the accident",
+   "ocr": [
+    433
+   ]
+  },
+  {
+   "s": 2139.84,
+   "e": 2142.85,
+   "sec": 14,
+   "zh": "她的傷勢也已經完全痊癒",
+   "en": "and her injuries are completely healed.",
+   "ocr": [
+    434
+   ]
+  },
+  {
+   "s": 2143.18,
+   "e": 2153.86,
+   "sec": 14,
+   "zh": "她的痛只存在於她的腦部。在史丹福大學的西恩·麥基博士和功能性磁振造影儀的協助下",
+   "en": "Her pain lives only in her brain. And with the help of Stanford's Dr. Sean Mackey and an fMRI,",
+   "ocr": [
+    435,
+    436
+   ]
+  },
+  {
+   "s": 2154.53,
+   "e": 2156.86,
+   "sec": 14,
+   "zh": "金柏麗慢慢學習如何控制痛苦",
+   "en": "Kimberly is learning to control it.",
+   "ocr": [
+    437
+   ]
+  },
+  {
+   "s": 2157.19,
+   "e": 2165.87,
+   "sec": 14,
+   "zh": "（西恩·麥基博士）疼痛不存在於單一區域。我們相信它最終是一種訊息流",
+   "en": "Pain doesn't live in one region. We believe it is ultimately a flow of information,",
+   "ocr": [
+    438
+   ]
+  },
+  {
+   "s": 2166.2,
+   "e": 2168.21,
+   "sec": 14,
+   "zh": "在腦部好幾個區域之間流動",
+   "en": "a flow of neural activity between a multitude of regions within the brain.",
+   "ocr": [
+    439
+   ]
+  },
+  {
+   "s": 2168.54,
+   "e": 2173.88,
+   "sec": 14,
+   "zh": "我們現在的做法是嘗試控制「水龍頭」的流量",
+   "en": "What we're working on now is actually trying to control the volume on the faucet, so to speak,",
+   "ocr": [
+    440
+   ]
+  },
+  {
+   "s": 2174.21,
+   "e": 2176.55,
+   "sec": 14,
+   "zh": "意思就是控制訊息的流動量",
+   "en": "of information flowing back and forth.",
+   "ocr": [
+    441
+   ]
+  },
+  {
+   "s": 2177.21,
+   "e": 2180.55,
+   "sec": 14,
+   "zh": "麥基不想完全停止訊息的流動",
+   "en": "Mackey doesn't want to stop that flow completely.",
+   "ocr": [
+    442
+   ]
+  },
+  {
+   "s": 2183.55,
+   "e": 2184.89,
+   "sec": 15,
+   "zh": "疼痛感有其重要性",
+   "en": "Pain does have its place.",
+   "ocr": [
+    443
+   ]
+  },
+  {
+   "s": 2190.23,
+   "e": 2190.46,
+   "sec": 15,
+   "zh": "痛苦的好處在於痛苦很可怕",
+   "en": "What's wonderful about pain is that it's so terrible.",
+   "ocr": [
+    444
+   ]
+  },
+  {
+   "s": 2190.56,
+   "e": 2195.23,
+   "sec": 15,
+   "zh": "我兒子只要摸很燙的爐子一次，就知道以後不能再這麼做",
+   "en": "My son only had to touch a hot stove once to learn not to do it.",
+   "ocr": [
+    445
+   ]
+  },
+  {
+   "s": 2195.57,
+   "e": 2197.9,
+   "sec": 15,
+   "zh": "長期感到疼痛才是問題",
+   "en": "The problem is when pain becomes chronic,",
+   "ocr": [
+    446
+   ]
+  },
+  {
+   "s": 2198.57,
+   "e": 2202.91,
+   "sec": 15,
+   "zh": "受傷組織早已痊癒，但病患仍持續感到疼痛",
+   "en": "when it lasts beyond the time that you'd expect for the tissue to have healed after an injury.",
+   "ocr": [
+    447
+   ]
+  },
+  {
+   "s": 2203.24,
+   "e": 2204.24,
+   "sec": 15,
+   "zh": "這種疼痛持續存在",
+   "en": "It's persistent.",
+   "ocr": [
+    448
+   ]
+  },
+  {
+   "s": 2204.58,
+   "e": 2207.81,
+   "sec": 15,
+   "zh": "這種痛會使我們喪失靈魂和自我",
+   "en": "It robs our soul. It robs of who we are.",
+   "ocr": [
+    449
+   ]
+  },
+  {
+   "s": 2207.91,
+   "e": 2210.25,
+   "sec": 15,
+   "zh": "我們要先拍攝你的腦部結構",
+   "en": "All right, Kimberly, we're going to take some anatomical images of your brain.",
+   "ocr": [
+    450
+   ]
+  },
+  {
+   "s": 2210.58,
+   "e": 2212.58,
+   "sec": 15,
+   "zh": "整個過程會持續兩分鐘",
+   "en": "This is going to take about two minutes.",
+   "ocr": [
+    451
+   ]
+  },
+  {
+   "s": 2212.92,
+   "e": 2216.92,
+   "sec": 15,
+   "zh": "金柏麗因而進入這部可能誘發幽閉恐懼症的機器",
+   "en": "Which explains why Kimberly submits to the confines of this claustrophobic machine.",
+   "ocr": [
+    452
+   ]
+  },
+  {
+   "s": 2217.26,
+   "e": 2222.26,
+   "sec": 15,
+   "zh": "她在裡面時，史丹福大學的醫療小組會即時拍下",
+   "en": "While she's in there, the Stanford team gives her a real-time picture",
+   "ocr": [
+    453
+   ]
+  },
+  {
+   "s": 2222.93,
+   "e": 2225.93,
+   "sec": 15,
+   "zh": "她腦部掌管疼痛區域的活動狀況",
+   "en": "of the activity in her brain's pain areas,",
+   "ocr": [
+    454
+   ]
+  },
+  {
+   "s": 2226.6,
+   "e": 2227.27,
+   "sec": 15,
+   "zh": "以折線圖或火焰作為代表",
+   "en": "represented by either a line graph or a flame.",
+   "ocr": [
+    455
+   ]
+  },
+  {
+   "s": 2233.27,
+   "e": 2234.27,
+   "sec": 15,
+   "zh": "金柏麗只要專注地想著要熄滅那些火光",
+   "en": "By simply thinking about putting those flames out,",
+   "ocr": [
+    456
+   ]
+  },
+  {
+   "s": 2234.61,
+   "e": 2237.94,
+   "sec": 15,
+   "zh": "就能首度使她的痛苦消失。我們的目標是降低活動量",
+   "en": "Kimberly is for the first time putting her pain out. The idea is to drive the activity down,",
+   "ocr": [
+    457
+   ]
+  },
+  {
+   "s": 2246.62,
+   "e": 2249.95,
+   "sec": 15,
+   "zh": "我們仍不瞭解腦部如何做到這點",
+   "en": "and in doing so, we also hope to see that the flame goes down. We still don't understand how the brain does this.",
+   "ocr": [
+    458
+   ]
+  },
+  {
+   "s": 2250.29,
+   "e": 2252.29,
+   "sec": 15,
+   "zh": "但有件事很清楚",
+   "en": "But one thing is clear.",
+   "ocr": [
+    459
+   ]
+  },
+  {
+   "s": 2252.96,
+   "e": 2255.29,
+   "sec": 15,
+   "zh": "我們可以改變腦部的活動",
+   "en": "We can physically change the activity in our brains,",
+   "ocr": [
+    460
+   ]
+  },
+  {
+   "s": 2255.63,
+   "e": 2258.63,
+   "sec": 15,
+   "zh": "而功能性磁振造影儀可讓我們觀看這項過程",
+   "en": "and the fMRI lets us watch.",
+   "ocr": [
+    461
+   ]
+  },
+  {
+   "s": 2264.3,
+   "e": 2269.64,
+   "sec": 15,
+   "zh": "我們證明了人可以專注於特定區域",
+   "en": "What we showed here is that you can actually focus on a particular region,",
+   "ocr": [
+    462
+   ]
+  },
+  {
+   "s": 2269.97,
+   "e": 2271.31,
+   "sec": 15,
+   "zh": "然後學習控制那個區域",
+   "en": "a particular area, and learn to control that.",
+   "ocr": [
+    463
+   ]
+  },
+  {
+   "s": 2271.98,
+   "e": 2274.31,
+   "sec": 15,
+   "zh": "這是首度有人進行這種療法",
+   "en": "And that's the first time this has been done.",
+   "ocr": [
+    464
+   ]
+  },
+  {
+   "s": 2286.66,
+   "e": 2286.99,
+   "sec": 15,
+   "zh": "這種新發現的腦部控制力還能應用於治療憂鬱症、恐懼症和成癮症等精神疾病",
+   "en": "This newfound power over our brains has applications well beyond pain, to mental illnesses like depression, phobias and addiction.",
+   "ocr": [
+    465
+   ]
+  },
+  {
+   "s": 2287.33,
+   "e": 2291.0,
+   "sec": 15,
+   "zh": "我們的腦部具高度可塑性、適應力和可變性",
+   "en": "Our brains are highly malleable, plastic, changeable.",
+   "ocr": [
+    466
+   ]
+  },
+  {
+   "s": 2291.66,
+   "e": 2296.33,
+   "sec": 15,
+   "zh": "我們真的能控制和改變我們的腦部",
+   "en": "We really can control and change our brain.",
+   "ocr": [
+    467
+   ]
+  },
+  {
+   "s": 2296.67,
+   "e": 2299.0,
+   "sec": 15,
+   "zh": "這項療法有無限發展空間",
+   "en": "And so the opportunities are truly limitless",
+   "ocr": [
+    468
+   ]
+  },
+  {
+   "s": 2299.67,
+   "e": 2303.67,
+   "sec": 15,
+   "zh": "因為我們現在能夠連接腦部任何區域",
+   "en": "because there's no area of the brain that we can't now tap into",
+   "ocr": [
+    469
+   ]
+  },
+  {
+   "s": 2305.01,
+   "e": 2307.68,
+   "sec": 15,
+   "zh": "然後讓病患學習如何控制該區域",
+   "en": "and have somebody learn how to control it.",
+   "ocr": [
+    470
+   ]
+  },
+  {
+   "s": 2310.68,
+   "e": 2316.35,
+   "sec": 15,
+   "zh": "神經科學家眼中的新療法，已有人遵循好幾千年",
+   "en": "What's news to neuroscientists has been practiced by others for thousands of years.",
+   "ocr": [
+    471,
+    472
+   ]
+  },
+  {
+   "s": 2317.69,
+   "e": 2323.03,
+   "sec": 15,
+   "zh": "早已有人純粹只靠冥想學會如何控制腦部",
+   "en": "Using nothing but simple meditation, some of us have already learned how to control the brain.",
+   "ocr": [
+    473
+   ]
+  },
+  {
+   "s": 2333.7,
+   "e": 2334.71,
+   "sec": 15,
+   "zh": "我們的腦部令我們能夠做出驚人的事，但有些人比其他人更善於駕馭它的力量",
+   "en": "Our brains enable us to do extraordinary things, but some are much better than others at harnessing its power.",
+   "ocr": [
+    474
+   ]
+  },
+  {
+   "s": 2345.05,
+   "e": 2347.39,
+   "sec": 16,
+   "zh": "佛教僧侶可利用腦力烘乾背上的濕布",
+   "en": "Buddhist monks have used their brains to dry wet sheets",
+   "ocr": [
+    475
+   ]
+  },
+  {
+   "s": 2348.05,
+   "e": 2349.05,
+   "sec": 16,
+   "zh": "減緩心跳速度",
+   "en": "dry wet sheets on their backs, slow their heart rates,",
+   "ocr": [
+    476
+   ]
+  },
+  {
+   "s": 2349.39,
+   "e": 2351.06,
+   "sec": 16,
+   "zh": "或忍受極大的痛楚",
+   "en": "or be incredibly resistant to pain.",
+   "ocr": [
+    477
+   ]
+  },
+  {
+   "s": 2356.73,
+   "e": 2357.4,
+   "sec": 16,
+   "zh": "對佛教真言宗教徒阪本宗衛來說",
+   "en": "For Souei Sakamoto, a Shingon Buddhist,",
+   "ocr": [
+    478
+   ]
+  },
+  {
+   "s": 2363.07,
+   "e": 2364.74,
+   "sec": 16,
+   "zh": "方法就是天天到日本富山冰冷瀑布底下冥想半小時",
+   "en": "it's meditating half an hour a day under a frigid waterfall in Toyama, Japan,",
+   "ocr": [
+    479
+   ]
+  },
+  {
+   "s": 2365.07,
+   "e": 2370.64,
+   "sec": 16,
+   "zh": "這項儀式已有數百年歷史",
+   "en": "a ritual that dates back hundreds of years.",
+   "ocr": [
+    480
+   ]
+  },
+  {
+   "s": 2372.0,
+   "e": 2374.0,
+   "sec": 16,
+   "zh": "（阪本宗衛，真言宗）我們日本有句老話說",
+   "en": "We have an old saying in Japan.",
+   "ocr": [
+    481
+   ]
+  },
+  {
+   "s": 2373.0,
+   "e": 2373.75,
+   "sec": 16,
+   "zh": "心中清除一切世俗雜念，你會發現連火都是涼的",
+   "en": "Clear your mind of all mundane thoughts, and you'll find that even fire is cool.",
+   "ocr": [
+    483
+   ]
+  },
+  {
+   "s": 2381.42,
+   "e": 2383.76,
+   "sec": 17,
+   "zh": "學會控制腦力",
+   "en": "When you learn to control your own",
+   "ocr": [
+    484
+   ]
+  },
+  {
+   "s": 2385.42,
+   "e": 2385.66,
+   "sec": 17,
+   "zh": "或許能利用腦部影響身體做出不尋常的事",
+   "en": "brain, it may be possible to use the brain to influence the body in very unusual ways.",
+   "ocr": [
+    485
+   ]
+  },
+  {
+   "s": 2393.0,
+   "e": 2397.77,
+   "sec": 17,
+   "zh": "為了瞭解腦力，威斯康辛大學麥迪遜分校的理查·大衛森",
+   "en": "To understand the brain's power, Richard Davidson of the University of Wisconsin, Madison,",
+   "ocr": [
+    486,
+    487,
+    488
+   ]
+  },
+  {
+   "s": 2398.1,
+   "e": 2399.77,
+   "sec": 17,
+   "zh": "研究冥想對佛教僧侶的影響",
+   "en": "studies the effects of meditation on Buddhist monks,",
+   "ocr": [
+    489
+   ]
+  },
+  {
+   "s": 2401.11,
+   "e": 2406.44,
+   "sec": 17,
+   "zh": "他尤其要測量他們的古老修行如何改變他們的腦部",
+   "en": "specifically measuring how their ancient practices physically change their brains.",
+   "ocr": [
+    490
+   ]
+  },
+  {
+   "s": 2407.11,
+   "e": 2411.12,
+   "sec": 17,
+   "zh": "我們可視這些人為奧運會冥想選手",
+   "en": "These are individuals who we can think of as the Olympic athletes of meditation.",
+   "ocr": [
+    491
+   ]
+  },
+  {
+   "s": 2414.79,
+   "e": 2416.12,
+   "sec": 17,
+   "zh": "他們花了多年時間培養特定腦部能力",
+   "en": "They have spent years cultivating certain qualities of mind",
+   "ocr": [
+    492
+   ]
+  },
+  {
+   "s": 2416.79,
+   "e": 2417.46,
+   "sec": 17,
+   "zh": "從許多方面來看，他們堪稱是大師",
+   "en": "and they are virtuosos in many respects.",
+   "ocr": [
+    493
+   ]
+  },
+  {
+   "s": 2422.13,
+   "e": 2424.8,
+   "sec": 17,
+   "zh": "這是避免水滴到你的衣服",
+   "en": "This is just to keep any water that might drip down from getting on your clothing.",
+   "ocr": [
+    495
+   ]
+  },
+  {
+   "s": 2425.8,
+   "e": 2428.47,
+   "sec": 17,
+   "zh": "可能會有些水滴到你身上",
+   "en": "A little bit of water might drip on your",
+   "ocr": [
+    496
+   ]
+  },
+  {
+   "s": 2428.8,
+   "e": 2431.14,
+   "sec": 17,
+   "zh": "在大衛森的實驗室內，東方與西方相遇。功能性磁振造影儀、正子掃描儀",
+   "en": "East meets West in Davidson's lab as fMRIs, PET scans,",
+   "ocr": [
+    497
+   ]
+  },
+  {
+   "s": 2431.47,
+   "e": 2436.47,
+   "sec": 17,
+   "zh": "和腦波儀",
+   "en": "and electroencephalograms, or EEGs,",
+   "ocr": [
+    498
+   ]
+  },
+  {
+   "s": 2436.81,
+   "e": 2438.81,
+   "sec": 17,
+   "zh": "加上這個特殊奇妙的裝置",
+   "en": "which involve this unusual contraption,",
+   "ocr": [
+    499
+   ]
+  },
+  {
+   "s": 2439.14,
+   "e": 2443.48,
+   "sec": 17,
+   "zh": "全是要用來測量冥想中的僧侶",
+   "en": "are all aimed at monks deep in meditation.",
+   "ocr": [
+    500
+   ]
+  },
+  {
+   "s": 2443.82,
+   "e": 2446.48,
+   "sec": 17,
+   "zh": "今天的受試者是84歲的倫珠·梭帕格西",
+   "en": "Today it's 84-year-old Geshe Lhundup Sopa,",
+   "ocr": [
+    501
+   ]
+  },
+  {
+   "s": 2447.15,
+   "e": 2451.16,
+   "sec": 17,
+   "zh": "他自1932年起就是受戒的西藏僧侶",
+   "en": "who's been an ordained Tibetan monk since 1932.",
+   "ocr": [
+    502
+   ]
+  },
+  {
+   "s": 2453.83,
+   "e": 2454.49,
+   "sec": 17,
+   "zh": "格西，你的帽子很有趣",
+   "en": "You have an interesting new hat, Geshe-la.",
+   "ocr": [
+    503
+   ]
+  },
+  {
+   "s": 2455.49,
+   "e": 2458.83,
+   "sec": 17,
+   "zh": "你的打扮很有未來感",
+   "en": "You look very futuristic.",
+   "ocr": [
+    504
+   ]
+  },
+  {
+   "s": 2459.16,
+   "e": 2463.5,
+   "sec": 17,
+   "zh": "將這128個佈滿電線的海綿放置在梭帕格西頭上後",
+   "en": "By attaching these 128 wire-laden sponges to Geshe Sopa's head,",
+   "ocr": [
+    505
+   ]
+  },
+  {
+   "s": 2463.84,
+   "e": 2468.51,
+   "sec": 17,
+   "zh": "威斯康辛團隊可以記錄不斷穿過他頭皮的微弱電流",
+   "en": "the Wisconsin team can record the tiny electrical currents that continuously emanate through his scalp.",
+   "ocr": [
+    506
+   ]
+  },
+  {
+   "s": 2471.51,
+   "e": 2475.85,
+   "sec": 17,
+   "zh": "這代表他腦部數百萬個神經傳導細胞在任何給定時刻的放電情況",
+   "en": "A measure of the millions of neurons firing away in his brain at any given moment.",
+   "ocr": [
+    507
+   ]
+  },
+  {
+   "s": 2478.52,
+   "e": 2479.52,
+   "sec": 17,
+   "zh": "他首先進行慈悲觀想",
+   "en": "He'll begin with a traditional compassion meditation.",
+   "ocr": [
+    508
+   ]
+  },
+  {
+   "s": 2479.85,
+   "e": 2480.85,
+   "sec": 17,
+   "zh": "格西，你先什麼都不要想",
+   "en": "So we'll begin in the neutral state, Geshe-la,",
+   "ocr": [
+    509
+   ]
+  },
+  {
+   "s": 2481.52,
+   "e": 2485.19,
+   "sec": 17,
+   "zh": "我會告訴你何時開始進行慈悲觀想",
+   "en": "and I'll let you know when to begin the compassion meditation.",
+   "ocr": [
+    510
+   ]
+  },
+  {
+   "s": 2487.86,
+   "e": 2491.2,
+   "sec": 17,
+   "zh": "有經驗的冥想者可在20秒內進入深層冥想狀態",
+   "en": "Experienced meditators can enter a deep meditative state in less than 20 seconds,",
+   "ocr": [
+    512
+   ]
+  },
+  {
+   "s": 2491.86,
+   "e": 2495.2,
+   "sec": 17,
+   "zh": "我們可以看見這項過程。慈悲，慈悲",
+   "en": "and with the EEG, we can watch as it happens. Compassion, compassion.",
+   "ocr": [
+    513
+   ]
+  },
+  {
+   "s": 2497.87,
+   "e": 2499.87,
+   "sec": 17,
+   "zh": "就在轉換的當下",
+   "en": "",
+   "ocr": [
+    514
+   ]
+  },
+  {
+   "s": 2500.21,
+   "e": 2504.21,
+   "sec": 17,
+   "zh": "修行者一開始進入冥想狀態時",
+   "en": "Just at the start of the transition, when a practitioner begins to meditate,",
+   "ocr": [
+    515
+   ]
+  },
+  {
+   "s": 2504.54,
+   "e": 2506.54,
+   "sec": 17,
+   "zh": "他的腦部訊號就出現明顯改變",
+   "en": "there is a very discernible change in these brain signals.",
+   "ocr": [
+    516
+   ]
+  },
+  {
+   "s": 2520.89,
+   "e": 2522.23,
+   "sec": 18,
+   "zh": "結合功能性磁振造影數據，大衛森已經定位了腦部數個區域的這些變化，其中包括前額葉皮質區",
+   "en": "And together with fMRI data, Davidson has located these changes in several areas of the brain, including the prefrontal cortex.",
+   "ocr": [
+    517
+   ]
+  },
+  {
+   "s": 2522.89,
+   "e": 2527.9,
+   "sec": 18,
+   "zh": "這是左前額葉皮質區",
+   "en": "So this is an area here that is in the left prefrontal cortex",
+   "ocr": [
+    518
+   ]
+  },
+  {
+   "s": 2528.57,
+   "e": 2530.8,
+   "sec": 18,
+   "zh": "我們發現修行者的這個區域比較活躍",
+   "en": "that we find more activated in the",
+   "ocr": [
+    519
+   ]
+  },
+  {
+   "s": 2536.0,
+   "e": 2539.91,
+   "sec": 18,
+   "zh": "左前額葉皮質區的活動與熱情和快樂有關，右邊則與消極和壓力有關",
+   "en": "Left prefrontal cortex is associated with enthusiasm and happiness, right with negativity and stress.",
+   "ocr": [
+    520,
+    521
+   ]
+  },
+  {
+   "s": 2546.92,
+   "e": 2549.59,
+   "sec": 18,
+   "zh": "這些僧侶可利用冥想將神經傳導細胞的活動",
+   "en": "By meditating, these monks are able to shift their neurons' activity",
+   "ocr": [
+    522
+   ]
+  },
+  {
+   "s": 2549.92,
+   "e": 2551.26,
+   "sec": 18,
+   "zh": "從右邊移到左邊。這些變化是前所未見的",
+   "en": "from right to left. These changes are changes that have not been seen before,",
+   "ocr": [
+    523
+   ]
+  },
+  {
+   "s": 2565.6,
+   "e": 2566.61,
+   "sec": 19,
+   "zh": "腦部的這項能力開啟了全新視野的可能性，而我們才剛剛開始觸及表面",
+   "en": "and so this opens up whole vistas of new possibilities that we are only just beginning to scratch the surface with.",
+   "ocr": [
+    524
+   ]
+  },
+  {
+   "s": 2567.27,
+   "e": 2569.27,
+   "sec": 19,
+   "zh": "大衛森和其他人已經發現",
+   "en": "Already, Davidson and others have found",
+   "ocr": [
+    525
+   ]
+  },
+  {
+   "s": 2573.95,
+   "e": 2576.95,
+   "sec": 19,
+   "zh": "冥想對腦部活動的影響可以降低壓力荷爾蒙水平並提升免疫力",
+   "en": "that meditation's effects on brain activity can lower levels of stress hormones and boost immune function.",
+   "ocr": [
+    526
+   ]
+  },
+  {
+   "s": 2579.95,
+   "e": 2581.95,
+   "sec": 19,
+   "zh": "他認為只要一次冥想兩分鐘、一天冥想三次",
+   "en": "And for as little as two minutes, three times a day, he believes even",
+   "ocr": [
+    527
+   ]
+  },
+  {
+   "s": 2582.62,
+   "e": 2588.29,
+   "sec": 19,
+   "zh": "連尚未悟道的人也能獲得這些好處",
+   "en": "those on a much lower plane of enlightenment can reap these benefits too.",
+   "ocr": [
+    528
+   ]
+  },
+  {
+   "s": 2590.96,
+   "e": 2598.3,
+   "sec": 19,
+   "zh": "無論是我們控制腦部或是腦部控制我們",
+   "en": "Whether we control them or they control us,",
+   "ocr": [
+    529
+   ]
+  },
+  {
+   "s": 2598.64,
+   "e": 2602.31,
+   "sec": 19,
+   "zh": "我們的腦部使我們和其他物種不同",
+   "en": "our brains, more than anything else, set us apart from all other species",
+   "ocr": [
+    530
+   ]
+  },
+  {
+   "s": 2602.64,
+   "e": 2606.31,
+   "sec": 19,
+   "zh": "也使每個人都不一樣",
+   "en": "and one another.",
+   "ocr": [
+    531
+   ]
+  },
+  {
+   "s": 2606.65,
+   "e": 2611.32,
+   "sec": 19,
+   "zh": "但思想、感覺和自我十分脆弱",
+   "en": "But thought, feeling and selfhood are fragile.",
+   "ocr": [
+    532
+   ]
+  },
+  {
+   "s": 2612.98,
+   "e": 2614.99,
+   "sec": 19,
+   "zh": "腦部雖只佔人體體重的2%",
+   "en": "Though it's only about 2% of our body weight,",
+   "ocr": [
+    533
+   ]
+  },
+  {
+   "s": 2615.65,
+   "e": 2619.32,
+   "sec": 19,
+   "zh": "但卻消耗我們兩成的氧氣",
+   "en": "the brain exhausts 20% of our oxygen.",
+   "ocr": [
+    534
+   ]
+  },
+  {
+   "s": 2619.66,
+   "e": 2621.99,
+   "sec": 19,
+   "zh": "腦部只要缺氧10秒鐘",
+   "en": "If the brain is without oxygen for just 10 seconds,",
+   "ocr": [
+    535
+   ]
+  },
+  {
+   "s": 2622.66,
+   "e": 2624.0,
+   "sec": 19,
+   "zh": "我們就會失去意識",
+   "en": "we lose consciousness.",
+   "ocr": [
+    536
+   ]
+  },
+  {
+   "s": 2624.33,
+   "e": 2628.0,
+   "sec": 19,
+   "zh": "若缺氧4分鐘，腦部損傷可能是永久性的",
+   "en": "Four minutes, and the damage can be permanent.",
+   "ocr": [
+    537
+   ]
+  },
+  {
+   "s": 2630.0,
+   "e": 2631.67,
+   "sec": 19,
+   "zh": "相異於身體的其他細胞",
+   "en": "And unlike other cells in the body,",
+   "ocr": [
+    538
+   ]
+  },
+  {
+   "s": 2632.0,
+   "e": 2633.34,
+   "sec": 19,
+   "zh": "神經傳導細胞嚴重受損後",
+   "en": "where neurons get badly damaged,",
+   "ocr": [
+    539
+   ]
+  },
+  {
+   "s": 2634.01,
+   "e": 2635.34,
+   "sec": 19,
+   "zh": "是無法以其他細胞取代的",
+   "en": "they cannot be replaced.",
+   "ocr": [
+    540
+   ]
+  },
+  {
+   "s": 2640.35,
+   "e": 2642.01,
+   "sec": 19,
+   "zh": "第一區，左前額葉腫瘤",
+   "en": "For the section number one, left frontal tumor.",
+   "ocr": [
+    541
+   ]
+  },
+  {
+   "s": 2642.68,
+   "e": 2643.35,
+   "sec": 19,
+   "zh": "診斷結果是…",
+   "en": "The diagnosis is...",
+   "ocr": [
+    542
+   ]
+  },
+  {
+   "s": 2644.35,
+   "e": 2645.35,
+   "sec": 19,
+   "zh": "在加州大學洛杉磯分校",
+   "en": "At UCLA, Dr.",
+   "ocr": [
+    543
+   ]
+  },
+  {
+   "s": 2645.68,
+   "e": 2647.02,
+   "sec": 19,
+   "zh": "廖醫生繼續替23歲的布蘭登·卡爾森動手術",
+   "en": "Linda Liau continues to work on 23-year-old Brandon Carson.",
+   "ocr": [
+    544
+   ]
+  },
+  {
+   "s": 2650.36,
+   "e": 2650.69,
+   "sec": 19,
+   "zh": "在勾勒出他腦部的語言區之後",
+   "en": "After mapping the speech areas of his brain,",
+   "ocr": [
+    545
+   ]
+  },
+  {
+   "s": 2651.02,
+   "e": 2656.03,
+   "sec": 19,
+   "zh": "她準備要摘除癌腫瘤",
+   "en": "she's ready to remove a cancerous tumor.",
+   "ocr": [
+    546
+   ]
+  },
+  {
+   "s": 2656.36,
+   "e": 2659.03,
+   "sec": 19,
+   "zh": "那就是那團黑色的東西",
+   "en": "That darkened mass, yes.",
+   "ocr": [
+    547
+   ]
+  },
+  {
+   "s": 2659.36,
+   "e": 2662.6,
+   "sec": 19,
+   "zh": "我要切開腫瘤周遭的地方",
+   "en": "What I'm trying to do is to dissect around it.",
+   "ocr": [
+    548
+   ]
+  },
+  {
+   "s": 2662.7,
+   "e": 2664.7,
+   "sec": 19,
+   "zh": "電燒刀切入布蘭登的腦部時",
+   "en": "As an electronic scalpel cuts into his brain,",
+   "ocr": [
+    549
+   ]
+  },
+  {
+   "s": 2665.37,
+   "e": 2668.04,
+   "sec": 19,
+   "zh": "他仍能看著字卡回答",
+   "en": "Brandon is still responding to those flashcards.",
+   "ocr": [
+    550
+   ]
+  },
+  {
+   "s": 2672.04,
+   "e": 2674.05,
+   "sec": 19,
+   "zh": "癌組織必須切除乾淨，一點都不能留",
+   "en": "Not a scrap of cancerous tissue can stay.",
+   "ocr": [
+    551
+   ]
+  },
+  {
+   "s": 2677.05,
+   "e": 2678.38,
+   "sec": 19,
+   "zh": "可切掉的腦部只有一點點",
+   "en": "And just the tiniest sliver of brain can be removed.",
+   "ocr": [
+    552
+   ]
+  },
+  {
+   "s": 2679.38,
+   "e": 2682.05,
+   "sec": 19,
+   "zh": "下半部的腫瘤很靠近血管",
+   "en": "There's some deeper parts of tumor that are near blood vessels.",
+   "ocr": [
+    553
+   ]
+  },
+  {
+   "s": 2682.72,
+   "e": 2685.72,
+   "sec": 19,
+   "zh": "（廖醫生，加州大學洛杉磯分校醫學中心）我們不希望切除任何必要血管",
+   "en": "And obviously, we don't want to take out any necessary blood vessels.",
+   "ocr": [
+    554
+   ]
+  },
+  {
+   "s": 2686.06,
+   "e": 2690.4,
+   "sec": 19,
+   "zh": "我們只能利用顯微鏡來看",
+   "en": "And the only way we can see that is through the microscope.",
+   "ocr": [
+    555
+   ]
+  },
+  {
+   "s": 2690.73,
+   "e": 2694.4,
+   "sec": 19,
+   "zh": "之前腫瘤是在這個洞裡頭",
+   "en": "This is the hole where the tumor used to be.",
+   "ocr": [
+    556
+   ]
+  },
+  {
+   "s": 2694.73,
+   "e": 2698.4,
+   "sec": 19,
+   "zh": "多虧了這些能讓我們即時看見腦部的儀器",
+   "en": "Thanks to these new real-time glimpses into the brain,",
+   "ocr": [
+    557
+   ]
+  },
+  {
+   "s": 2698.74,
+   "e": 2704.74,
+   "sec": 19,
+   "zh": "布蘭登不久後就會醒來，腫瘤已經摘除，語言能力未受損",
+   "en": "Brandon will soon wake up from his surgery, tumor-free, and speech intact.",
+   "ocr": [
+    558,
+    559
+   ]
+  },
+  {
+   "s": 2706.41,
+   "e": 2710.75,
+   "sec": 19,
+   "zh": "我們又稍微多瞭解一些腦部的功能",
+   "en": "We inch one step closer to understanding how it all works,",
+   "ocr": [
+    560
+   ]
+  },
+  {
+   "s": 2711.08,
+   "e": 2714.42,
+   "sec": 19,
+   "zh": "但還有很多事有待我們去發掘",
+   "en": "and how far we still have to go.",
+   "ocr": [
+    561
+   ]
+  },
+  {
+   "s": 2715.09,
+   "e": 2718.32,
+   "sec": 19,
+   "zh": "（亞瑟·托加）當你瞭解哪個區域負責視力",
+   "en": "I think that as you learn where vision is,",
+   "ocr": [
+    562
+   ]
+  },
+  {
+   "s": 2718.42,
+   "e": 2719.42,
+   "sec": 19,
+   "zh": "哪裡負責控制手部",
+   "en": "and where I control my hand from,",
+   "ocr": [
+    563
+   ]
+  },
+  {
+   "s": 2719.76,
+   "e": 2720.09,
+   "sec": 20,
+   "zh": "哪裡負責控制語言",
+   "en": "where my speech is located,",
+   "ocr": [
+    564
+   ]
+  },
+  {
+   "s": 2720.43,
+   "e": 2725.0,
+   "sec": 20,
+   "zh": "（亞瑟·托加）",
+   "en": "",
+   "ocr": [
+    565
+   ]
+  },
+  {
+   "s": 2725.1,
+   "e": 2725.76,
+   "sec": 20,
+   "zh": "我開始覺得我瞭解了這個電路系統",
+   "en": "you begin to feel like I'm understanding this circuitry,",
+   "ocr": [
+    566
+   ]
+  },
+  {
+   "s": 2727.43,
+   "e": 2728.1,
+   "sec": 20,
+   "zh": "我瞭解腦部是如何運作。但是繼續深入探究之後",
+   "en": "and I think I understand how the brain works. And then you",
+   "ocr": [
+    567
+   ]
+  },
+  {
+   "s": 2728.43,
+   "e": 2730.77,
+   "sec": 20,
+   "zh": "你又會發現自己其實不太瞭解腦部",
+   "en": "get into it a little more deeply and you realize you don't know very much at all.",
+   "ocr": [
+    568
+   ]
+  },
+  {
+   "s": 2731.1,
+   "e": 2734.77,
+   "sec": 20,
+   "zh": "奇妙的人類腦部有待我們去開發探索",
+   "en": "But the wonder of the human brain is sort of one of these great frontiers.",
+   "ocr": [
+    569
+   ]
+  },
+  {
+   "s": 2735.44,
+   "e": 2736.11,
+   "sec": 20,
+   "zh": "這是事實",
+   "en": "That's the truth.",
+   "ocr": [
+    570
+   ]
+  },
+  {
+   "s": 2736.78,
+   "e": 2739.78,
+   "sec": 20,
+   "zh": "懂的越多，你會發現自己越無知",
+   "en": "The more you learn, the dumber you realize you are.",
+   "ocr": [
+    571
+   ]
+  },
+  {
+   "s": 2742.78,
+   "e": 2746.45,
+   "sec": 20,
+   "zh": "奇妙人體機器的所有部位也是如此",
+   "en": "The same applies to all parts of the incredible machine.",
+   "ocr": [
+    572
+   ]
+  },
+  {
+   "s": 2749.45,
+   "e": 2752.12,
+   "sec": 20,
+   "zh": "無論是控制中心或血液輸送站",
+   "en": "Whether it's our control center or pumping station,",
+   "ocr": [
+    573
+   ]
+  },
+  {
+   "s": 2754.13,
+   "e": 2756.8,
+   "sec": 20,
+   "zh": "我們的防禦系統或排泄系統",
+   "en": "our security or exhaust system,",
+   "ocr": [
+    574
+   ]
+  },
+  {
+   "s": 2757.8,
+   "e": 2760.47,
+   "sec": 20,
+   "zh": "我們的發電廠或複製機器",
+   "en": "our power plants or copying machines,",
+   "ocr": [
+    575
+   ]
+  },
+  {
+   "s": 2760.8,
+   "e": 2766.47,
+   "sec": 20,
+   "zh": "人體這種奇妙複雜的機器已存在超過10萬年",
+   "en": "the human body has been a marvel of complexity for more than a hundred thousand years.",
+   "ocr": [
+    576
+   ]
+  },
+  {
+   "s": 2767.14,
+   "e": 2769.14,
+   "sec": 20,
+   "zh": "從表皮到核心",
+   "en": "From its surface to its core,",
+   "ocr": [
+    577
+   ]
+  },
+  {
+   "s": 2769.47,
+   "e": 2770.81,
+   "sec": 20,
+   "zh": "體內無數的細胞",
+   "en": "amongst its billions of cells,",
+   "ocr": [
+    578
+   ]
+  },
+  {
+   "s": 2771.14,
+   "e": 2774.48,
+   "sec": 20,
+   "zh": "整個道路和電路系統",
+   "en": "and throughout its roadways and circuitry,",
+   "ocr": [
+    579
+   ]
+  },
+  {
+   "s": 2775.15,
+   "e": 2783.49,
+   "sec": 20,
+   "zh": "這一切最後結合成一部驚人的機器",
+   "en": "at the end of the day, somehow all of these systems converge into one...",
+   "ocr": [
+    580
+   ]
+  }
+ ]
+}

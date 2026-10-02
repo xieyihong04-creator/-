@@ -33,55 +33,55 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
  padding:4px 12px;font-size:13px;color:var(--mut)}
 @media(max-width:600px){body{font-size:15.5px}.z{font-size:16.5px}h1{font-size:23px}}
 </style></head><body><div class="wrap">
-<h1>高二上選修生物一 · 奇妙的人體機器（上）</h1><div class="meta">原片 47 分鐘｜National Geographic《The Human Machine》｜英文原聲＋繁體燒錄字幕</div>
-<div class="note"><b>產出方式</b>：中文取自影片燒錄字幕，由 PP-OCRv5 辨識（mobile 初讀、server 校訂）並依畫面去重；英文為原聲逐字稿，由 Whisper distil-large-v3 辨識。兩者按時間軸對齊，再依場景斷點分段。中文行全部經過逐行人工校訂；行首時間後面的「≈」表示該行原片字幕被裁切、只能依英文旁白推定，建議比對影片。<div class="pills"><span class="pill">中文字幕 566 句</span><span class="pill">中文字數 7127</span><span class="pill">對照單元 566</span><span class="pill">英文句 493（掛在 431 行）</span><span class="pill">英文收錄 5145/5145 詞</span><span class="pill">人工校訂 245 行</span><span class="pill">≈ 待比對 13 行</span><span class="pill">段落 23</span></div></div>
+<h1>高二上選修生物一 · 奇妙的人體機器（上）</h1><div class="meta">47 分鐘｜National Geographic《The Human Machine》｜英文原聲＋繁體燒錄字幕</div>
+<div class="note"><b>校訂狀態</b>：全量專業校訂，中文、英文與分段皆以站長親自校訂的版本為準（`out/*.auth.json`）。已修復 OCR 殘句、畫面雜訊與錯譯，並修正專有名詞。<div class="pills"><span class="pill">中文字幕 557 行</span><span class="pill">中文字數 7177</span><span class="pill">英文行 382 行</span><span class="pill">英文詞數 4856</span><span class="pill">段落 23</span></div></div>
 <input id="q" placeholder="搜尋字幕…" style="width:100%;padding:11px 14px;border:1px solid var(--line);border-radius:10px;font-size:15px;background:var(--card);margin:4px 0 0">
 <div class="meta" style="margin:8px 0 0">顯示 <span id="cnt">全部</span> · <button id="tg" style="border:1px solid var(--line);background:var(--card);border-radius:8px;padding:3px 10px;font-size:13px;cursor:pointer">轉簡體</button></div>
 <div class="toc"><b style="font-size:14px">目錄</b>
 <a href="#s1">1. 人體概論 · 第1段 <span class="t">00:10–02:38 · 32 句</span></a>
 <a href="#s2">2. 皮膚與觸覺 · 第1段 <span class="t">02:52–04:12 · 16 句</span></a>
-<a href="#s3">3. 皮膚與觸覺 · 第2段 <span class="t">04:23–07:32 · 42 句</span></a>
-<a href="#s4">4. 皮膚與觸覺 · 第3段 <span class="t">07:48–10:05 · 33 句</span></a>
+<a href="#s3">3. 皮膚與觸覺 · 第2段 <span class="t">04:23–07:32 · 41 句</span></a>
+<a href="#s4">4. 皮膚與觸覺 · 第3段 <span class="t">07:48–10:05 · 32 句</span></a>
 <a href="#s5">5. 視覺與眼睛 · 第1段 <span class="t">10:15–13:03 · 38 句</span></a>
 <a href="#s6">6. 視覺與眼睛 · 第2段 <span class="t">13:15–13:52 · 9 句</span></a>
 <a href="#s7">7. 視覺與眼睛 · 第3段 <span class="t">14:01–15:10 · 14 句</span></a>
 <a href="#s8">8. 人體概論 · 第2段 <span class="t">15:26–18:12 · 36 句</span></a>
 <a href="#s9">9. 聽覺與耳朵 · 第1段 <span class="t">18:34–20:43 · 25 句</span></a>
-<a href="#s10">10. 聽覺與耳朵 · 第2段 <span class="t">20:55–22:03 · 20 句</span></a>
+<a href="#s10">10. 聽覺與耳朵 · 第2段 <span class="t">20:55–22:03 · 18 句</span></a>
 <a href="#s11">11. 循環與血液 · 第1段 <span class="t">22:12–24:15 · 26 句</span></a>
 <a href="#s12">12. 肌肉與運動 · 第1段 <span class="t">24:21–25:15 · 14 句</span></a>
 <a href="#s13">13. 聽覺與耳朵 · 第3段 <span class="t">25:17–26:28 · 17 句</span></a>
-<a href="#s14">14. 呼吸與睡眠 <span class="t">26:36–28:57 · 33 句</span></a>
+<a href="#s14">14. 呼吸與睡眠 <span class="t">26:36–28:57 · 32 句</span></a>
 <a href="#s15">15. 味覺與嗅覺 <span class="t">29:03–30:59 · 26 句</span></a>
 <a href="#s16">16. 循環與血液 · 第2段 <span class="t">31:10–31:44 · 7 句</span></a>
 <a href="#s17">17. 人體概論 · 第3段 <span class="t">32:06–34:17 · 19 句</span></a>
 <a href="#s18">18. 循環與血液 · 第3段 <span class="t">34:26–36:52 · 33 句</span></a>
-<a href="#s19">19. 肌肉與運動 · 第2段 <span class="t">36:59–38:56 · 29 句</span></a>
-<a href="#s20">20. 人體概論 · 第4段 <span class="t">38:56–41:02 · 27 句</span></a>
+<a href="#s19">19. 肌肉與運動 · 第2段 <span class="t">36:59–38:56 · 28 句</span></a>
+<a href="#s20">20. 人體概論 · 第4段 <span class="t">38:56–41:02 · 26 句</span></a>
 <a href="#s21">21. 消化與代謝 · 第1段 <span class="t">41:11–43:21 · 22 句</span></a>
-<a href="#s22">22. 消化與代謝 · 第2段 <span class="t">43:30–46:48 · 41 句</span></a>
-<a href="#s23">23. 人體概論 · 第5段 <span class="t">46:57–47:14 · 7 句</span></a>
+<a href="#s22">22. 消化與代謝 · 第2段 <span class="t">43:30–46:48 · 40 句</span></a>
+<a href="#s23">23. 人體概論 · 第5段 <span class="t">46:57–47:14 · 6 句</span></a>
 </div>
 <h2 id="glos">高頻術語</h2><div class="glos">
-<span>細胞 <b>44</b></span>
-<span>皮膚 <b>29</b></span>
+<span>細胞 <b>45</b></span>
+<span>皮膚 <b>30</b></span>
 <span>食物 <b>21</b></span>
-<span>血液 <b>19</b></span>
-<span>人體 <b>19</b></span>
-<span>心臟 <b>18</b></span>
-<span>腦部 <b>15</b></span>
-<span>血管 <b>12</b></span>
+<span>人體 <b>21</b></span>
+<span>血液 <b>18</b></span>
+<span>心臟 <b>16</b></span>
+<span>腦部 <b>13</b></span>
+<span>血管 <b>13</b></span>
+<span>聲音 <b>11</b></span>
 <span>肌肉 <b>11</b></span>
-<span>器官 <b>11</b></span>
-<span>眼睛 <b>10</b></span>
-<span>聲音 <b>10</b></span>
 <span>呼吸 <b>10</b></span>
-<span>機器 <b>9</b></span>
+<span>機器 <b>10</b></span>
+<span>器官 <b>10</b></span>
+<span>眼睛 <b>8</b></span>
 <span>氧氣 <b>8</b></span>
 <span>消化 <b>8</b></span>
-<span>影像 <b>7</b></span>
 <span>毛髮 <b>7</b></span>
 <span>神經 <b>7</b></span>
+<span>影像 <b>6</b></span>
 <span>耳朵 <b>5</b></span>
 <span>氣味 <b>5</b></span>
 <span>視網膜 <b>4</b></span>
@@ -89,19 +89,19 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <span>瞳孔 <b>4</b></span>
 <span>舌頭 <b>4</b></span>
 <span>鼻子 <b>4</b></span>
-<span>訊號 <b>4</b></span>
 <span>蛋白質 <b>4</b></span>
+<span>氣管 <b>4</b></span>
 </div>
 <h2 id="s1">1. 人體概論 · 第1段</h2>
 <div class="meta">00:10–02:38</div>
 <div class="sub">
 <div class="ts">00:10–00:12</div>
 <div class="z"><span class="tr">我們最熟悉的人體</span><span class="sp" hidden>我们最熟悉的人体</span></div>
+<div class="e">is nothing more familiar, more mysterious, more breathtaking in its action, marvelous in its mechanics,</div>
 </div>
 <div class="sub">
 <div class="ts">00:13–00:15</div>
-<div class="z"><span class="tr">卻也最最神祕</span><span class="sp" hidden>却也最最神秘</span></div>
-<div class="e">is nothing more familiar, more mysterious, more breathtaking in its action, marvelous in its mechanics,</div>
+<div class="z"><span class="tr">卻也最為神秘</span><span class="sp" hidden>却也最为神秘</span></div>
 </div>
 <div class="sub">
 <div class="ts">00:17–00:22</div>
@@ -113,7 +113,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">00:25–00:28</div>
-<div class="z"><span class="tr">各種官能異常敏銳</span><span class="sp" hidden>各种官能异常敏锐</span></div>
+<div class="z"><span class="tr">各種感官異常敏銳</span><span class="sp" hidden>各种感官异常敏锐</span></div>
 <div class="e">exquisite in its range of senses, and staggering in its ability to understand.</div>
 </div>
 <div class="sub">
@@ -127,11 +127,11 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">00:37–00:40</div>
-<div class="z"><span class="tr">深入瞭解 人體每一天所展現的奇蹟</span><span class="sp" hidden>深入了解 人体每一天所展现的奇迹</span></div>
+<div class="z"><span class="tr">深入瞭解人體每一天所展現的奇蹟</span><span class="sp" hidden>深入了解人体每一天所展现的奇迹</span></div>
 </div>
 <div class="sub">
 <div class="ts">00:41–00:43</div>
-<div class="z"><span class="tr">繼續做夢吧..</span><span class="sp" hidden>继续做梦吧..</span></div>
+<div class="z"><span class="tr">繼續做夢吧...</span><span class="sp" hidden>继续做梦吧...</span></div>
 </div>
 <div class="sub">
 <div class="ts">00:44–00:46</div>
@@ -158,98 +158,100 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="sub">
 <div class="ts">00:59–01:00</div>
 <div class="z"><span class="tr">10萬次的心跳</span><span class="sp" hidden>10万次的心跳</span></div>
+</div>
+<div class="sub">
+<div class="ts">01:03–01:03</div>
+<div class="z"><span class="tr">你好。</span><span class="sp" hidden>你好。</span></div>
 <div class="e">Hello.</div>
 </div>
 <div class="sub">
-<div class="ts">01:03–01:03　≈</div>
-<div class="z"><span class="tr">哈囉</span><span class="sp" hidden>哈啰</span></div>
-</div>
-<div class="sub">
 <div class="ts">01:04–01:04</div>
-<div class="z"><span class="tr">今天是奇妙的人體機器一生中 一個尋常又特殊的日子</span><span class="sp" hidden>今天是奇妙的人体机器一生中 一个寻常又特殊的日子</span></div>
+<div class="z"><span class="tr">今天是奇妙的人體機器一生中，一個尋常又特殊的日子</span><span class="sp" hidden>今天是奇妙的人体机器一生中，一个寻常又特殊的日子</span></div>
 <div class="e">Today is an ordinary, extraordinary day in the life of the incredible human machine.</div>
 </div>
 <div class="sub">
 <div class="ts">01:17–01:23</div>
-<div class="z"><span class="tr">MACHINE “奇妙的人體機器（上）”</span><span class="sp" hidden>MACHINE “奇妙的人体机器（上）”</span></div>
-<div class="e">The dust is really all we are.</div>
+<div class="z"><span class="tr">【奇妙的人體機器（上）】</span><span class="sp" hidden>【奇妙的人体机器（上）】</span></div>
 </div>
 <div class="sub">
 <div class="ts">01:23–01:28</div>
-<div class="z"><span class="tr">我們其實是星塵</span><span class="sp" hidden>我们其实是星尘</span></div>
+<div class="z"><span class="tr">其實我們不過是星塵</span><span class="sp" hidden>其实我们不过是星尘</span></div>
+<div class="e">Stardust is really all we are.</div>
 </div>
 <div class="sub">
 <div class="ts">01:29–01:32</div>
-<div class="z"><span class="tr">組成成分是 氧、碳、氫和幾種元素</span><span class="sp" hidden>组成成分是 氧、碳、氢和几种元素</span></div>
+<div class="z"><span class="tr">組成成分是氧、碳、氫和幾種元素</span><span class="sp" hidden>组成成分是氧、碳、氢和几种元素</span></div>
 <div class="e">Oxygen, carbon, hydrogen, and a handful of elements that would cost very little at any chemical supply shop.</div>
 </div>
 <div class="sub">
 <div class="ts">01:33–01:38</div>
-<div class="z"><span class="tr">這些花個幾塊到任何化工行 都能買到</span><span class="sp" hidden>这些花个几块到任何化工行 都能买到</span></div>
-<div class="e">But get these chemicals together.</div>
+<div class="z"><span class="tr">這些花個幾塊到任何化工行都能買到</span><span class="sp" hidden>这些花个几块到任何化工行都能买到</span></div>
 </div>
 <div class="sub">
 <div class="ts">01:38–01:40</div>
 <div class="z"><span class="tr">但將這些化學物混合在一起</span><span class="sp" hidden>但将这些化学物混合在一起</span></div>
-<div class="e">these chemicals together, marinate in a hospitable place for about 3.</div>
+<div class="e">But get these chemicals together,</div>
 </div>
 <div class="sub">
 <div class="ts">01:40–01:44</div>
-<div class="z"><span class="tr">浸泡在適宜的地方38億年</span><span class="sp" hidden>浸泡在适宜的地方38亿年</span></div>
+<div class="z"><span class="tr">在宜居的環境中孕育了38億年</span><span class="sp" hidden>在宜居的环境中孕育了38亿年</span></div>
+<div class="e">marinate in a hospitable place for about 3.8 billion years,</div>
 </div>
 <div class="sub">
 <div class="ts">01:44–01:48</div>
-<div class="z"><span class="tr">普通的分子混合體 就變得十分珍貴</span><span class="sp" hidden>普通的分子混合体 就变得十分珍贵</span></div>
-<div class="e">8 billion years, and the mundane mix of molecules becomes precious.</div>
+<div class="z"><span class="tr">普通的分子混合體就變得十分珍貴</span><span class="sp" hidden>普通的分子混合体就变得十分珍贵</span></div>
+<div class="e">and the mundane mix of molecules becomes precious.</div>
 </div>
 <div class="sub">
 <div class="ts">01:53–01:55</div>
 <div class="z"><span class="tr">地球上住著60多億人</span><span class="sp" hidden>地球上住著60多亿人</span></div>
-<div class="e">There are more than 6 billion human bodies living on Earth, and each of us is the amalgamation of some 100 trillion microscopic cells.</div>
+<div class="e">There are more than 6 billion human bodies living on Earth,</div>
 </div>
 <div class="sub">
 <div class="ts">01:55–02:01</div>
-<div class="z"><span class="tr">每個人都是由 無數微小細胞構成</span><span class="sp" hidden>每个人都是由 无数微小细胞构成</span></div>
+<div class="z"><span class="tr">每個人都是由無數微小細胞構成</span><span class="sp" hidden>每个人都是由无数微小细胞构成</span></div>
+<div class="e">and each of us is the amalgamation of some 100 trillion microscopic cells.</div>
 </div>
 <div class="sub">
 <div class="ts">02:01–02:06</div>
-<div class="z"><span class="tr">雖然每個人的藍圖 相似度達99.9%</span><span class="sp" hidden>虽然每个人的蓝图 相似度达99.9%</span></div>
-<div class="e">While the blueprint for each individual are 99.</div>
+<div class="z"><span class="tr">雖然每個人的生命藍圖有99.9%是相同的</span><span class="sp" hidden>虽然每个人的生命蓝图有99.9%是相同的</span></div>
+<div class="e">While the blueprint for each individual are 99.9% identical,</div>
 </div>
 <div class="sub">
 <div class="ts">02:06–02:09</div>
 <div class="z"><span class="tr">但沒有哪兩個人是完全相同的</span><span class="sp" hidden>但没有哪两个人是完全相同的</span></div>
-<div class="e">9% identical, no two of us are exactly the same.</div>
+<div class="e">no two of us are exactly the same.</div>
 </div>
 <div class="sub">
 <div class="ts">02:13–02:14</div>
-<div class="z"><span class="tr">新的一天開始</span><span class="sp" hidden>新的一天开始</span></div>
+<div class="z"><span class="tr">隨著新的一天破曉</span><span class="sp" hidden>随著新的一天破晓</span></div>
 <div class="e">New Day dawns, each human machine begins the succession of</div>
 </div>
 <div class="sub">
 <div class="ts">02:14–02:19</div>
-<div class="z"><span class="tr">連續製造奇蹟直到午夜</span><span class="sp" hidden>连续制造奇迹直到午夜</span></div>
+<div class="z"><span class="tr">每部人體機器便開始接連創造奇蹟直到午夜</span><span class="sp" hidden>每部人体机器便开始接连创造奇迹直到午夜</span></div>
 <div class="e">miracles that will take it from morning to midnight.</div>
 </div>
 <div class="sub">
 <div class="ts">02:35–02:37</div>
-<div class="z"><span class="tr">全都必須同心協力 發揮一己之力</span><span class="sp" hidden>全都必须同心协力 发挥一己之力</span></div>
-<div class="e">Muscles, bones, hearts, brains, all must marshal their forces and unite, just to wake us up.</div>
+<div class="z"><span class="tr">全都必須同心協力，發揮一己之力</span><span class="sp" hidden>全都必须同心协力，发挥一己之力</span></div>
+<div class="e">Muscles, bones, hearts, brains, all must marshal their forces and unite,</div>
 </div>
 <div class="sub">
 <div class="ts">02:38–02:38</div>
 <div class="z"><span class="tr">才能喚醒我們</span><span class="sp" hidden>才能唤醒我们</span></div>
+<div class="e">just to wake us up.</div>
 </div>
 <h2 id="s2">2. 皮膚與觸覺 · 第1段</h2>
 <div class="meta">02:52–04:12</div>
 <div class="sub">
 <div class="ts">02:52–02:54</div>
-<div class="z"><span class="tr">人的表面</span><span class="sp" hidden>人的表面</span></div>
-<div class="e">service of it all, a velvety overcoat of cells and protein keeps us in, and the rest of the world out.</div>
+<div class="z"><span class="tr">在人體的最表層</span><span class="sp" hidden>在人体的最表层</span></div>
+<div class="e">At the surface of it all, a velvety overcoat of cells and protein keeps us in, and the rest of the world out.</div>
 </div>
 <div class="sub">
 <div class="ts">02:54–02:57</div>
-<div class="z"><span class="tr">有一層由細胞和蛋白質組成的 光滑外衣包住身體</span><span class="sp" hidden>有一层由细胞和蛋白质组成的 光滑外衣包住身体</span></div>
+<div class="z"><span class="tr">有一層由細胞和蛋白質組成的光滑外衣包住身體</span><span class="sp" hidden>有一层由细胞和蛋白质组成的光滑外衣包住身体</span></div>
 </div>
 <div class="sub">
 <div class="ts">02:58–03:01</div>
@@ -261,8 +263,8 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">03:07–03:11</div>
-<div class="z"><span class="tr">也是我們體驗 痛苦與愉悅的管道</span><span class="sp" hidden>也是我们体验 痛苦与愉悦的管道</span></div>
-<div class="e">Our radiator, our entreat of pain and pleasure, it is the body&#x27;s largest organ, our skin.</div>
+<div class="z"><span class="tr">也是我們感知痛苦與愉悅的媒介</span><span class="sp" hidden>也是我们感知痛苦与愉悦的媒介</span></div>
+<div class="e">Our radiator, our conduit of pain and pleasure, it is the body&#x27;s largest organ, our skin.</div>
 </div>
 <div class="sub">
 <div class="ts">03:12–03:17</div>
@@ -270,7 +272,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">03:19–03:22</div>
-<div class="z"><span class="tr">皮膚看起來，摸起來 都光滑如絲</span><span class="sp" hidden>皮肤看起来，摸起来 都光滑如丝</span></div>
+<div class="z"><span class="tr">皮膚看起來、摸起來都光滑如絲</span><span class="sp" hidden>皮肤看起来、摸起来都光滑如丝</span></div>
 <div class="e">Our skin, smooth and silky to the eyes and touch. A closer look presents a very different landscape.</div>
 </div>
 <div class="sub">
@@ -280,7 +282,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">03:29–03:30</div>
-<div class="z"><span class="tr">我們的最外層皮膚 不過是死細胞</span><span class="sp" hidden>我们的最外层皮肤 不过是死细胞</span></div>
+<div class="z"><span class="tr">我們的最外層皮膚不過是死細胞</span><span class="sp" hidden>我们的最外层皮肤不过是死细胞</span></div>
 </div>
 <div class="sub">
 <div class="ts">03:33–03:34</div>
@@ -293,26 +295,26 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">03:41–03:45</div>
-<div class="z"><span class="tr">就會發現每平方吋的人體上 就住著數十萬細菌</span><span class="sp" hidden>就会发现每平方吋的人体上 就住著数十万细菌</span></div>
+<div class="z"><span class="tr">就會發現每平方吋的人體上就住著數十萬細菌</span><span class="sp" hidden>就会发现每平方吋的人体上就住著数十万细菌</span></div>
 <div class="e">Look closer still, and we find hundreds of thousands of bacteria inhabit every square inch of us.</div>
 </div>
 <div class="sub">
 <div class="ts">03:55–04:00</div>
-<div class="z"><span class="tr">我們身體每一秒鐘 都有死皮掉落</span><span class="sp" hidden>我们身体每一秒钟 都有死皮掉落</span></div>
-<div class="e">With every tick of the clock, our dead skin gets sloughed off. off.</div>
+<div class="z"><span class="tr">隨著時間流逝，我們身上的死皮不斷脫落</span><span class="sp" hidden>随著时间流逝，我们身上的死皮不断脱落</span></div>
+<div class="e">With every tick of the clock, our dead skin gets sloughed off.</div>
 </div>
 <div class="sub">
 <div class="ts">04:02–04:05</div>
-<div class="z"><span class="tr">我們每小時至少會掉落 60萬片皮膚屑</span><span class="sp" hidden>我们每小时至少会掉落 60万片皮肤屑</span></div>
+<div class="z"><span class="tr">我們每小時至少會脫落60萬片皮屑</span><span class="sp" hidden>我们每小时至少会脱落60万片皮屑</span></div>
 <div class="e">We shed at least 600,000 particles of skin an hour, about a pound and a half&#x27;s worth each year,</div>
 </div>
 <div class="sub">
 <div class="ts">04:06–04:08</div>
-<div class="z"><span class="tr">每年則會掉落 1磅半左右的皮膚屑</span><span class="sp" hidden>每年则会掉落 1磅半左右的皮肤屑</span></div>
+<div class="z"><span class="tr">每年則會掉落1磅半左右的皮膚屑</span><span class="sp" hidden>每年则会掉落1磅半左右的皮肤屑</span></div>
 </div>
 <div class="sub">
 <div class="ts">04:08–04:12</div>
-<div class="z"><span class="tr">我們住家內的塵埃 有8成是皮膚屑</span><span class="sp" hidden>我们住家内的尘埃 有8成是皮肤屑</span></div>
+<div class="z"><span class="tr">我們住家內的塵埃有8成是皮膚屑</span><span class="sp" hidden>我们住家内的尘埃有8成是皮肤屑</span></div>
 <div class="e">which accounts for as much as 80% of the dust in our houses.</div>
 </div>
 <h2 id="s3">3. 皮膚與觸覺 · 第2段</h2>
@@ -324,12 +326,12 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">04:27–04:30</div>
-<div class="z"><span class="tr">若能剝下皮膚 然後把皮膚攤平</span><span class="sp" hidden>若能剥下皮肤 然后把皮肤摊平</span></div>
+<div class="z"><span class="tr">若能剝下皮膚然後把皮膚攤平</span><span class="sp" hidden>若能剥下皮肤然后把皮肤摊平</span></div>
 <div class="e">If we could peel it off and lay it out flat, the average person&#x27;s skin would cover some 18 square feet.</div>
 </div>
 <div class="sub">
 <div class="ts">04:30–04:34</div>
-<div class="z"><span class="tr">每個人的皮膚平均可覆蓋 18平方呎的面積</span><span class="sp" hidden>每个人的皮肤平均可覆盖 18平方呎的面积</span></div>
+<div class="z"><span class="tr">每個人的皮膚平均可覆蓋18平方呎的面積</span><span class="sp" hidden>每个人的皮肤平均可覆盖18平方呎的面积</span></div>
 </div>
 <div class="sub">
 <div class="ts">04:36–04:37</div>
@@ -339,11 +341,11 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="sub">
 <div class="ts">04:38–04:41</div>
 <div class="z"><span class="tr">重量卻約有6磅</span><span class="sp" hidden>重量却约有6磅</span></div>
-<div class="e">And we&#x27;re constantly making more.</div>
 </div>
 <div class="sub">
 <div class="ts">04:41–04:44</div>
 <div class="z"><span class="tr">而且我們不斷在製造更多皮膚</span><span class="sp" hidden>而且我们不断在制造更多皮肤</span></div>
+<div class="e">And we&#x27;re constantly making more.</div>
 </div>
 <div class="sub">
 <div class="ts">04:45–04:46</div>
@@ -366,36 +368,36 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">04:58–05:04</div>
-<div class="z"><span class="tr">你會發現不斷有細胞分裂 取代上方的死細胞</span><span class="sp" hidden>你会发现不断有细胞分裂 取代上方的死细胞</span></div>
+<div class="z"><span class="tr">你會發現不斷有細胞分裂取代上方的死細胞</span><span class="sp" hidden>你会发现不断有细胞分裂取代上方的死细胞</span></div>
 </div>
 <div class="sub">
 <div class="ts">05:06–05:10</div>
-<div class="z"><span class="tr">長達數公里的血管 將血液輸送到皮膚的結締組織</span><span class="sp" hidden>长达数公里的血管 将血液输送到皮肤的结缔组织</span></div>
+<div class="z"><span class="tr">長達數公里的血管將血液輸送到皮膚的結締組織</span><span class="sp" hidden>长达数公里的血管将血液输送到皮肤的结缔组织</span></div>
 <div class="e">Kilometers of blood vessels pulse to skin&#x27;s connective tissues.</div>
 </div>
 <div class="sub">
 <div class="ts">05:12–05:16</div>
-<div class="z"><span class="tr">還有寶貴的神經末梢</span><span class="sp" hidden>还有宝贵的神经末梢</span></div>
+<div class="z"><span class="tr">更別忘了那些珍貴的神經末梢</span><span class="sp" hidden>更别忘了那些珍贵的神经末梢</span></div>
 <div class="e">Not forgetting all those precious nerve endings.</div>
 </div>
 <div class="sub">
 <div class="ts">05:22–05:26</div>
-<div class="z"><span class="tr">長達45哩的神經 從我們的頭部延伸到腳</span><span class="sp" hidden>长达45哩的神经 从我们的头部延伸到脚</span></div>
+<div class="z"><span class="tr">長達45哩的神經從我們的頭部延伸到腳</span><span class="sp" hidden>长达45哩的神经从我们的头部延伸到脚</span></div>
 <div class="e">45 miles worth of nerve stretch from our heads down to our toes,</div>
 </div>
 <div class="sub">
 <div class="ts">05:26–05:30</div>
 <div class="z"><span class="tr">其中有許多伸入我們的皮膚</span><span class="sp" hidden>其中有许多伸入我们的皮肤</span></div>
-<div class="e">and many reach to our skin. Some people.</div>
+<div class="e">and many reach to our skin.</div>
 </div>
 <div class="sub">
 <div class="ts">05:31–05:35</div>
 <div class="z"><span class="tr">有些部位的神經比較多</span><span class="sp" hidden>有些部位的神经比较多</span></div>
-<div class="e">parts more than others.</div>
+<div class="e">Some people have more nerve endings in some parts more than others.</div>
 </div>
 <div class="sub">
 <div class="ts">05:36–05:38</div>
-<div class="z"><span class="tr">敏感度若是與器官大小有關</span><span class="sp" hidden>敏感度若是与器官大小有关</span></div>
+<div class="z"><span class="tr">如果敏感度取決於器官大小</span><span class="sp" hidden>如果敏感度取决于器官大小</span></div>
 <div class="e">If sensitivity were size dependent, we would look something like this.</div>
 </div>
 <div class="sub">
@@ -404,7 +406,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">05:44–05:47</div>
-<div class="z"><span class="tr">我們超級敏感的手腳 舌頭和嘴唇上</span><span class="sp" hidden>我们超级敏感的手脚 舌头和嘴唇上</span></div>
+<div class="z"><span class="tr">我們超級敏感的手腳、舌頭和嘴唇上</span><span class="sp" hidden>我们超级敏感的手脚、舌头和嘴唇上</span></div>
 </div>
 <div class="sub">
 <div class="ts">05:47–05:49</div>
@@ -431,18 +433,18 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">06:05–06:09</div>
-<div class="z"><span class="tr">皮膚也是我們的 加熱與冷卻系統</span><span class="sp" hidden>皮肤也是我们的 加热与冷却系统</span></div>
-<div class="e">Skin is also our heating and cooling system. And by helping,</div>
+<div class="z"><span class="tr">皮膚也是我們的加熱與冷卻系統</span><span class="sp" hidden>皮肤也是我们的加热与冷却系统</span></div>
+<div class="e">Skin is also our heating and cooling system.</div>
 </div>
 <div class="sub">
 <div class="ts">06:09–06:13</div>
-<div class="z"><span class="tr">皮膚幫助我們 體溫維持在華氏98.6度</span><span class="sp" hidden>皮肤帮助我们 体温维持在华氏98.6度</span></div>
-<div class="e">Maintain that comfy 98.</div>
+<div class="z"><span class="tr">皮膚幫助我們體溫維持在華氏98.6度</span><span class="sp" hidden>皮肤帮助我们体温维持在华氏98.6度</span></div>
+<div class="e">And by helping maintain that comfy 98.6 degrees Fahrenheit,</div>
 </div>
 <div class="sub">
 <div class="ts">06:13–06:16</div>
 <div class="z"><span class="tr">所以我們才能活命</span><span class="sp" hidden>所以我们才能活命</span></div>
-<div class="e">6 degrees Fahrenheit, it keeps us alive.</div>
+<div class="e">it keeps us alive.</div>
 </div>
 <div class="sub">
 <div class="ts">06:18–06:19</div>
@@ -474,21 +476,17 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">06:47–06:48</div>
-<div class="z"><span class="tr">若非皮膚的巧妙安全機制 這種情況可能致死</span><span class="sp" hidden>若非皮肤的巧妙安全机制 这种情况可能致死</span></div>
+<div class="z"><span class="tr">若非皮膚的巧妙安全機制，這種情況可能致死</span><span class="sp" hidden>若非皮肤的巧妙安全机制，这种情况可能致死</span></div>
 <div class="e">A potentially deadly state if it weren&#x27;t for skin&#x27;s slick safety net.</div>
 </div>
 <div class="sub">
-<div class="ts">06:55–06:57</div>
-<div class="z"><span class="tr">我們皮膚上的兩百多萬個孔</span><span class="sp" hidden>我们皮肤上的两百多万个孔</span></div>
+<div class="ts">06:55–06:58</div>
+<div class="z"><span class="tr">流汗。我們皮膚上有兩百多萬個毛孔</span><span class="sp" hidden>流汗。我们皮肤上有两百多万个毛孔</span></div>
 <div class="e">Sweat. More than 2 million holes across our skin can produce up to half a gallon of the liquid in an hour.</div>
 </div>
 <div class="sub">
-<div class="ts">06:57–06:58</div>
-<div class="z"><span class="tr">產生半加侖的液體</span><span class="sp" hidden>产生半加仑的液体</span></div>
-</div>
-<div class="sub">
-<div class="ts">06:58–07:01</div>
-<div class="z"><span class="tr">可在1小時內 產生半加侖的液體</span><span class="sp" hidden>可在1小时内 产生半加仑的液体</span></div>
+<div class="ts">06:57–07:01</div>
+<div class="z"><span class="tr">可在1小時內產生半加侖的液體</span><span class="sp" hidden>可在1小时内产生半加仑的液体</span></div>
 </div>
 <div class="sub">
 <div class="ts">07:06–07:07</div>
@@ -497,35 +495,35 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">07:13–07:14</div>
-<div class="z"><span class="tr">利用可拍攝熱影像 而非感光的特殊攝影機</span><span class="sp" hidden>利用可拍摄热影像 而非感光的特殊摄影机</span></div>
+<div class="z"><span class="tr">利用拍攝熱影像而非可見光的特殊攝影機</span><span class="sp" hidden>利用拍摄热影像而非可见光的特殊摄影机</span></div>
 <div class="e">A special camera that images heat, not light. We can see this air conditioning system at work.</div>
 </div>
 <div class="sub">
 <div class="ts">07:22–07:28</div>
-<div class="z"><span class="tr">身體越熱的部位 顏色就越紅</span><span class="sp" hidden>身体越热的部位 颜色就越红</span></div>
+<div class="z"><span class="tr">身體越熱的部位，顏色就越紅</span><span class="sp" hidden>身体越热的部位，颜色就越红</span></div>
 <div class="e">The hotter the body, the deeper the red.</div>
 </div>
 <div class="sub">
 <div class="ts">07:28–07:31</div>
-<div class="z"><span class="tr">果不其然 我們最熱的部位</span><span class="sp" hidden>果不其然 我们最热的部位</span></div>
+<div class="z"><span class="tr">果不其然，我們最熱的部位</span><span class="sp" hidden>果不其然，我们最热的部位</span></div>
 <div class="e">No surprise, some of the warmest parts of our bodies, our foreheads, palms and armpits,</div>
 </div>
 <div class="sub">
 <div class="ts">07:31–07:32</div>
-<div class="z"><span class="tr">例如額頭、手掌和腋窩</span><span class="sp" hidden>例如额头、手掌和腋窝</span></div>
-<div class="e">correlate with the greatest concentration of sweat glass. of sweat glands.</div>
+<div class="z"><span class="tr">例如額頭、手掌和腋窩，這些地方的汗腺最密集</span><span class="sp" hidden>例如额头、手掌和腋窝，这些地方的汗腺最密集</span></div>
+<div class="e">correlate with the greatest concentration of sweat glands.</div>
 </div>
 <h2 id="s4">4. 皮膚與觸覺 · 第3段</h2>
 <div class="meta">07:48–10:05</div>
 <div class="sub">
 <div class="ts">07:48–07:49</div>
-<div class="z"><span class="tr">但在進行早晨的例行公事時 我們較可能遭遇相反情形</span><span class="sp" hidden>但在进行早晨的例行公事时 我们较可能遭遇相反情形</span></div>
+<div class="z"><span class="tr">但在進行早晨的例行公事時，我們較可能遭遇相反情形</span><span class="sp" hidden>但在进行早晨的例行公事时，我们较可能遭遇相反情形</span></div>
 <div class="e">We&#x27;re more likely to encounter the opposite extreme in our morning routine.</div>
 </div>
 <div class="sub">
 <div class="ts">07:54–07:55</div>
-<div class="z"><span class="tr">暴露在寒冷之中</span><span class="sp" hidden>暴露在寒冷之中</span></div>
-<div class="e">Supposed to a chill, tiny muscles jerk our hairs to attention, bulging the skin around them.</div>
+<div class="z"><span class="tr">當暴露在寒冷中時</span><span class="sp" hidden>当暴露在寒冷中时</span></div>
+<div class="e">Exposed to a chill, tiny muscles jerk our hairs to attention, bulging the skin around them.</div>
 </div>
 <div class="sub">
 <div class="ts">07:55–07:58</div>
@@ -542,21 +540,23 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">08:10–08:12</div>
-<div class="z"><span class="tr">科學家戲稱人類是裸猿</span><span class="sp" hidden>科学家戏称人类是裸猿</span></div>
+<div class="z"><span class="tr">科學家戲稱人類為「裸猿」</span><span class="sp" hidden>科学家戏称人类为「裸猿」</span></div>
+<div class="e">Scientists have dubbed us the naked ape,</div>
 </div>
 <div class="sub">
 <div class="ts">08:13–08:17</div>
-<div class="z"><span class="tr">但就近一看 我們會發現自己不是光溜溜的</span><span class="sp" hidden>但就近一看 我们会发现自己不是光溜溜的</span></div>
-<div class="e">Scientists have dubbed us the naked ape, but look closely, and we find were anything but naked.</div>
+<div class="z"><span class="tr">但就近一看，我們會發現自己不是光溜溜的</span><span class="sp" hidden>但就近一看，我们会发现自己不是光溜溜的</span></div>
+<div class="e">but look closely, and we find we&#x27;re anything but naked.</div>
 </div>
 <div class="sub">
 <div class="ts">08:20–08:24</div>
-<div class="z"><span class="tr">我們有些皮膚細胞會形成 可長出毛髮的管</span><span class="sp" hidden>我们有些皮肤细胞会形成 可长出毛发的管</span></div>
-<div class="e">Some of our skin cells form tubes that produce hair, and we have as many of these follicles punctuating our skin as do our hairy relatives.</div>
+<div class="z"><span class="tr">我們有些皮膚細胞會形成可長出毛髮的管</span><span class="sp" hidden>我们有些皮肤细胞会形成可长出毛发的管</span></div>
+<div class="e">Some of our skin cells form tubes that produce hair,</div>
 </div>
 <div class="sub">
 <div class="ts">08:24–08:29</div>
-<div class="z"><span class="tr">我們和毛茸茸的親緣動物一樣 皮膚上有許多毛囊</span><span class="sp" hidden>我们和毛茸茸的亲缘动物一样 皮肤上有许多毛囊</span></div>
+<div class="z"><span class="tr">我們和毛茸茸的親緣動物一樣，皮膚上有許多毛囊</span><span class="sp" hidden>我们和毛茸茸的亲缘动物一样，皮肤上有许多毛囊</span></div>
+<div class="e">and we have as many of these follicles punctuating our skin as do our hairy relatives.</div>
 </div>
 <div class="sub">
 <div class="ts">08:30–08:32</div>
@@ -585,7 +585,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">08:47–08:50</div>
-<div class="z"><span class="tr">所以我們剪頭髮時 不會感到疼痛</span><span class="sp" hidden>所以我们剪头发时 不会感到疼痛</span></div>
+<div class="z"><span class="tr">所以我們剪頭髮時不會感到疼痛</span><span class="sp" hidden>所以我们剪头发时不会感到疼痛</span></div>
 </div>
 <div class="sub">
 <div class="ts">08:54–08:54</div>
@@ -598,7 +598,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">09:01–09:02</div>
-<div class="z"><span class="tr">在我們的四周 有其他奇妙的人體機器</span><span class="sp" hidden>在我们的四周 有其他奇妙的人体机器</span></div>
+<div class="z"><span class="tr">在我們的四周，有其他奇妙的人體機器</span><span class="sp" hidden>在我们的四周，有其他奇妙的人体机器</span></div>
 <div class="e">Around us, other incredible human machines greet the day</div>
 </div>
 <div class="sub">
@@ -607,45 +607,41 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">09:05–09:09</div>
-<div class="z"><span class="tr">大家的體型身材 膚色特徵皆不相同</span><span class="sp" hidden>大家的体型身材 肤色特征皆不相同</span></div>
-<div class="e">in all different sizes and shapes, colors and textures. But on some level, we all inhabit the same skin.</div>
+<div class="z"><span class="tr">每個人的體型、身材、膚色和膚質各不相同</span><span class="sp" hidden>每个人的体型、身材、肤色和肤质各不相同</span></div>
+<div class="e">in all different sizes and shapes, colors and textures.</div>
 </div>
 <div class="sub">
 <div class="ts">09:11–09:17</div>
-<div class="z"><span class="tr">但從某個角度來看 人人擁有相同的皮膚</span><span class="sp" hidden>但从某个角度来看 人人拥有相同的皮肤</span></div>
-<div class="e">the same skin.</div>
+<div class="z"><span class="tr">但從某個角度來看，人人擁有相同的皮膚</span><span class="sp" hidden>但从某个角度来看，人人拥有相同的皮肤</span></div>
+<div class="e">But on some level, we all inhabit the same skin.</div>
 </div>
 <div class="sub">
 <div class="ts">09:17–09:21</div>
-<div class="z"><span class="tr">每個人的表皮底下 有著相同數量的黑素細胞</span><span class="sp" hidden>每个人的表皮底下 有著相同数量的黑素细胞</span></div>
+<div class="z"><span class="tr">每個人的表皮底下有著相同數量的黑素細胞</span><span class="sp" hidden>每个人的表皮底下有著相同数量的黑素细胞</span></div>
 <div class="e">Below the surface, each of us has about the same number of melanocytes,</div>
 </div>
 <div class="sub">
 <div class="ts">09:22–09:25</div>
-<div class="z"><span class="tr">這些細胞會將黑色素 注入我們的毛髮和皮膚</span><span class="sp" hidden>这些细胞会将黑色素 注入我们的毛发和皮肤</span></div>
-<div class="e">the cells that pump the dark pigment melanin, into our hair and skin, and give them color.</div>
+<div class="z"><span class="tr">這些細胞會將黑色素注入我們的毛髮和皮膚</span><span class="sp" hidden>这些细胞会将黑色素注入我们的毛发和皮肤</span></div>
+<div class="e">the cells that pump the dark pigment melanin, into our hair and skin,</div>
 </div>
 <div class="sub">
 <div class="ts">09:26–09:28</div>
 <div class="z"><span class="tr">為毛髮和皮膚上色</span><span class="sp" hidden>为毛发和皮肤上色</span></div>
 </div>
 <div class="sub">
-<div class="ts">09:29–09:31</div>
-<div class="z"><span class="tr">這些細胞產生的黑色素量</span><span class="sp" hidden>这些细胞产生的黑色素量</span></div>
+<div class="ts">09:29–09:37</div>
+<div class="z"><span class="tr">決定我們是黑皮膚還是白皮膚、黑髮還是金髮的，僅僅是這些細胞產生的黑色素量</span><span class="sp" hidden>决定我们是黑皮肤还是白皮肤、黑发还是金发的，仅仅是这些细胞产生的黑色素量</span></div>
 <div class="e">It&#x27;s just the amount of melanin these cells produce that determines whether we are black or white, brunette or blonde.</div>
 </div>
 <div class="sub">
-<div class="ts">09:35–09:37</div>
-<div class="z"><span class="tr">我們的頭髮是黑是金</span><span class="sp" hidden>我们的头发是黑是金</span></div>
+<div class="ts">09:40–09:42</div>
+<div class="z"><span class="tr">一般來說，黑色素量越多顏色會越深</span><span class="sp" hidden>一般来说，黑色素量越多颜色会越深</span></div>
 <div class="e">Generally speaking, the more melanin, the darker.</div>
 </div>
 <div class="sub">
-<div class="ts">09:40–09:42</div>
-<div class="z"><span class="tr">一般來說，黑色素量越多 顏色會越深</span><span class="sp" hidden>一般来说，黑色素量越多 颜色会越深</span></div>
-</div>
-<div class="sub">
 <div class="ts">09:43–09:48</div>
-<div class="z"><span class="tr">相同的化學物 也替另一種感覺器官上色</span><span class="sp" hidden>相同的化学物 也替另一种感觉器官上色</span></div>
+<div class="z"><span class="tr">相同的化學物也替另一種感覺器官上色</span><span class="sp" hidden>相同的化学物也替另一种感觉器官上色</span></div>
 <div class="e">That same chemical adds color to a very different sensory organ.</div>
 </div>
 <div class="sub">
@@ -659,7 +655,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">09:53–09:57</div>
-<div class="z"><span class="tr">是奇妙人體機器所擁有的 最重要感官器官</span><span class="sp" hidden>是奇妙人体机器所拥有的 最重要感官器官</span></div>
+<div class="z"><span class="tr">是奇妙人體機器所擁有的最重要感官器官</span><span class="sp" hidden>是奇妙人体机器所拥有的最重要感官器官</span></div>
 <div class="e">They are the most vital sensory organ that the incredible machine has.</div>
 </div>
 <div class="sub">
@@ -669,13 +665,13 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">10:01–10:05</div>
-<div class="z"><span class="tr">不可思議的視力 引導我們展開一天的生活</span><span class="sp" hidden>不可思议的视力 引导我们展开一天的生活</span></div>
+<div class="z"><span class="tr">不可思議的視力引導我們展開一天的生活</span><span class="sp" hidden>不可思议的视力引导我们展开一天的生活</span></div>
 </div>
 <h2 id="s5">5. 視覺與眼睛 · 第1段</h2>
 <div class="meta">10:15–13:03</div>
 <div class="sub">
 <div class="ts">10:15–10:18</div>
-<div class="z"><span class="tr">我們的眼睛可在數微秒之間 看清、跟蹤和聚焦</span><span class="sp" hidden>我们的眼睛可在数微秒之间 看清、跟踪和聚焦</span></div>
+<div class="z"><span class="tr">我們的眼睛可在數微秒之間看清、跟蹤和聚焦</span><span class="sp" hidden>我们的眼睛可在数微秒之间看清、跟踪和聚焦</span></div>
 <div class="e">In microseconds, our eyes sight, follow, focus, and process images fractions of an inch long,</div>
 </div>
 <div class="sub">
@@ -689,12 +685,13 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">10:25–10:37</div>
-<div class="z"><span class="tr">是最能讓我們盡情評價欣賞 周遭世界的官能</span><span class="sp" hidden>是最能让我们尽情评价欣赏 周遭世界的官能</span></div>
-<div class="e">more than any other sense. They may be the windows to our souls, but on a less poetic level,</div>
+<div class="z"><span class="tr">是最能讓我們盡情評價欣賞周遭世界的官能</span><span class="sp" hidden>是最能让我们尽情评价欣赏周遭世界的官能</span></div>
+<div class="e">more than any other sense.</div>
 </div>
 <div class="sub">
 <div class="ts">10:39–10:41</div>
 <div class="z"><span class="tr">眼睛或許是靈魂之窗</span><span class="sp" hidden>眼睛或许是灵魂之窗</span></div>
+<div class="e">They may be the windows to our souls, but on a less poetic level,</div>
 </div>
 <div class="sub">
 <div class="ts">10:41–10:43</div>
@@ -702,12 +699,12 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">10:43–10:46</div>
-<div class="z"><span class="tr">眼睛只是飢餓的光線採集器官</span><span class="sp" hidden>眼睛只是饥饿的光线采集器官</span></div>
+<div class="z"><span class="tr">眼睛只是貪婪的光線收集器</span><span class="sp" hidden>眼睛只是贪婪的光线收集器</span></div>
 <div class="e">eyes are just hungry harvesters of light, trapping and translating it into electrical impulses</div>
 </div>
 <div class="sub">
 <div class="ts">10:47–10:52</div>
-<div class="z"><span class="tr">捕捉光線，再將之轉變成 腦部能理解的電脈衝</span><span class="sp" hidden>捕捉光线，再将之转变成 脑部能理解的电脉冲</span></div>
+<div class="z"><span class="tr">捕捉光線，再將之轉變成腦部能理解的電脈衝</span><span class="sp" hidden>捕捉光线，再将之转变成脑部能理解的电脉冲</span></div>
 <div class="e">the brain can understand.</div>
 </div>
 <div class="sub">
@@ -717,27 +714,27 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">11:01–11:01</div>
-<div class="z"><span class="tr">眼睛每分鐘會眨10次 清潔滋潤這層透明薄膜</span><span class="sp" hidden>眼睛每分钟会眨10次 清洁滋润这层透明薄膜</span></div>
+<div class="z"><span class="tr">眼睛每分鐘會眨10次清潔滋潤這層透明薄膜</span><span class="sp" hidden>眼睛每分钟会眨10次清洁滋润这层透明薄膜</span></div>
 <div class="e">This transparent layer, cleansed and lubricated about ten times a minute with every blink,</div>
 </div>
 <div class="sub">
 <div class="ts">11:06–11:10</div>
-<div class="z"><span class="tr">角膜允許光線射入眼睛 並引導光前進</span><span class="sp" hidden>角膜允许光线射入眼睛 并引导光前进</span></div>
+<div class="z"><span class="tr">角膜允許光線射入眼睛並引導光前進</span><span class="sp" hidden>角膜允许光线射入眼睛并引导光前进</span></div>
 <div class="e">admits and directs incoming light rays.</div>
 </div>
 <div class="sub">
 <div class="ts">11:12–11:15</div>
 <div class="z"><span class="tr">光線從角膜穿過黑色瞳孔</span><span class="sp" hidden>光线从角膜穿过黑色瞳孔</span></div>
-<div class="e">There they pass through the dark opening of the pupil, then a transparent layer.</div>
+<div class="e">There they pass through the dark opening of the pupil,</div>
 </div>
 <div class="sub">
 <div class="ts">11:15–11:15</div>
 <div class="z"><span class="tr">透明水晶體</span><span class="sp" hidden>透明水晶体</span></div>
-<div class="e">Then a transparent protein lens.</div>
+<div class="e">then a transparent protein lens.</div>
 </div>
 <div class="sub">
 <div class="ts">11:16–11:18</div>
-<div class="z"><span class="tr">然後經過含蛋白質的 透明水晶體</span><span class="sp" hidden>然后经过含蛋白质的 透明水晶体</span></div>
+<div class="z"><span class="tr">然後經過含蛋白質的透明水晶體</span><span class="sp" hidden>然后经过含蛋白质的透明水晶体</span></div>
 </div>
 <div class="sub">
 <div class="ts">11:25–11:25</div>
@@ -746,12 +743,12 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">11:25–11:28</div>
-<div class="z"><span class="tr">在光線太強烈時 會擠壓瞳孔使之縮小</span><span class="sp" hidden>在光线太强烈时 会挤压瞳孔使之缩小</span></div>
+<div class="z"><span class="tr">在光線太強烈時會擠壓瞳孔使之縮小</span><span class="sp" hidden>在光线太强烈时会挤压瞳孔使之缩小</span></div>
 <div class="e">squeeze the pupil closed against too much light.</div>
 </div>
 <div class="sub">
 <div class="ts">11:29–11:32</div>
-<div class="z"><span class="tr">光線不足時 虹膜肌肉會放鬆</span><span class="sp" hidden>光线不足时 虹膜肌肉会放松</span></div>
+<div class="z"><span class="tr">光線不足時虹膜肌肉會放鬆</span><span class="sp" hidden>光线不足时虹膜肌肉会放松</span></div>
 <div class="e">Not enough, the iris relaxes,</div>
 </div>
 <div class="sub">
@@ -771,27 +768,27 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">11:46–11:57</div>
-<div class="z"><span class="tr">接著光線穿過果凍狀的眼球體 然後打到眼球後壁上</span><span class="sp" hidden>接著光线穿过果冻状的眼球体 然后打到眼球后壁上</span></div>
+<div class="z"><span class="tr">接著光線穿過果凍狀的眼球體然後打到眼球後壁上</span><span class="sp" hidden>接著光线穿过果冻状的眼球体然后打到眼球后壁上</span></div>
 <div class="e">and onto its rear wall. Just about a hundredth of an inch, thick.</div>
 </div>
 <div class="sub">
 <div class="ts">11:57–11:58</div>
-<div class="z"><span class="tr">視網膜上 有1億2千多萬個光感受器</span><span class="sp" hidden>视网膜上 有1亿2千多万个光感受器</span></div>
+<div class="z"><span class="tr">視網膜上有1億2千多萬個光感受器</span><span class="sp" hidden>视网膜上有1亿2千多万个光感受器</span></div>
 <div class="e">This is the retina, where more than 120 million photoreceptors convert light into electrical</div>
 </div>
 <div class="sub">
-<div class="ts">11:59–12:01　≈</div>
-<div class="z"><span class="tr">將光線變成電脈衝</span><span class="sp" hidden>将光线变成电脉冲</span></div>
-</div>
-<div class="sub">
-<div class="ts">12:02–12:05</div>
-<div class="z"><span class="tr">經處理之後 再將電脈衝傳送到腦部</span><span class="sp" hidden>经处理之后 再将电脉冲传送到脑部</span></div>
+<div class="ts">11:59–12:01</div>
+<div class="z"><span class="tr">轉化為電脈衝</span><span class="sp" hidden>转化为电脉冲</span></div>
 <div class="e">impulses before processing and shipping them off to the brain.</div>
 </div>
 <div class="sub">
+<div class="ts">12:02–12:05</div>
+<div class="z"><span class="tr">經處理之後再將電脈衝傳送到腦部</span><span class="sp" hidden>经处理之后再将电脉冲传送到脑部</span></div>
+</div>
+<div class="sub">
 <div class="ts">12:10–12:10</div>
-<div class="z"><span class="tr">進行一項驚人壯舉</span><span class="sp" hidden>进行一项惊人壮举</span></div>
-<div class="e">Mind-boggling feet that soaks up about a third of our brain power, our brains continually</div>
+<div class="z"><span class="tr">這項驚人的壯舉消耗了我們大約三分之一的腦力</span><span class="sp" hidden>这项惊人的壮举消耗了我们大约三分之一的脑力</span></div>
+<div class="e">Mind-boggling feat that soaks up about a third of our brain power, our brains continually</div>
 </div>
 <div class="sub">
 <div class="ts">12:14–12:20</div>
@@ -801,21 +798,21 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="sub">
 <div class="ts">12:20–12:23</div>
 <div class="z"><span class="tr">腦部和預期會出現的東西結合</span><span class="sp" hidden>脑部和预期会出现的东西结合</span></div>
-<div class="e">Combined that with what they already expect to be there, and vision is born.</div>
+<div class="e">Combined that with what they already expect to be there,</div>
 </div>
 <div class="sub">
 <div class="ts">12:23–12:27</div>
 <div class="z"><span class="tr">從而產生影像</span><span class="sp" hidden>从而产生影像</span></div>
-<div class="e">At least that&#x27;s how it&#x27;s supposed to work.</div>
+<div class="e">and vision is born.</div>
 </div>
 <div class="sub">
 <div class="ts">12:27–12:32</div>
-<div class="z"><span class="tr">無論如何 影像理當是如此產生</span><span class="sp" hidden>无论如何 影像理当是如此产生</span></div>
-<div class="e">Where it does that?</div>
+<div class="z"><span class="tr">至少，視覺產生的原理理當如此</span><span class="sp" hidden>至少，视觉产生的原理理当如此</span></div>
+<div class="e">At least that&#x27;s how it&#x27;s supposed to work.</div>
 </div>
 <div class="sub">
 <div class="ts">12:32–12:36</div>
-<div class="z"><span class="tr">不是的時候 世界可能會是這個模樣</span><span class="sp" hidden>不是的时候 世界可能会是这个模样</span></div>
+<div class="z"><span class="tr">但如果失靈了，眼前的世界就會變成這副模樣</span><span class="sp" hidden>但如果失灵了，眼前的世界就会变成这副模样</span></div>
 <div class="e">If it doesn&#x27;t, the world can look more like this.</div>
 </div>
 <div class="sub">
@@ -825,22 +822,22 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">12:40–12:44</div>
-<div class="z"><span class="tr">患有遺傳性疾病 色素性視網膜炎</span><span class="sp" hidden>患有遗传性疾病 色素性视网膜炎</span></div>
+<div class="z"><span class="tr">患有遺傳性疾病色素性視網膜炎</span><span class="sp" hidden>患有遗传性疾病色素性视网膜炎</span></div>
 <div class="e">62-year-old Linda Morford has a genetic disease called retinitis pigmentosa,</div>
 </div>
 <div class="sub">
 <div class="ts">12:44–12:49</div>
-<div class="z"><span class="tr">以致這40年來 她眼睛的光感受器逐漸退化</span><span class="sp" hidden>以致这40年来 她眼睛的光感受器逐渐退化</span></div>
+<div class="z"><span class="tr">以致這40年來她眼睛的光感受器逐漸退化</span><span class="sp" hidden>以致这40年来她眼睛的光感受器逐渐退化</span></div>
 <div class="e">which has been gradually degrading her eyes photoreceptors for the past 40 years. Okay, that&#x27;s good.</div>
 </div>
 <div class="sub">
 <div class="ts">12:52–12:55</div>
-<div class="z"><span class="tr">過去10年，她的光感受器 沒有將光轉變成影像</span><span class="sp" hidden>过去10年，她的光感受器 没有将光转变成影像</span></div>
+<div class="z"><span class="tr">過去10年，她的光感受器沒有將光轉變成影像</span><span class="sp" hidden>过去10年，她的光感受器没有将光转变成影像</span></div>
 <div class="e">Thank you. They haven&#x27;t turned light into sight for the last ten.</div>
 </div>
 <div class="sub">
 <div class="ts">12:55–13:00</div>
-<div class="z"><span class="tr">失去視力今我感到十分挫折</span><span class="sp" hidden>失去视力今我感到十分挫折</span></div>
+<div class="z"><span class="tr">失去視力令我感到十分挫折</span><span class="sp" hidden>失去视力令我感到十分挫折</span></div>
 <div class="e">It&#x27;s frustrating to lose your sight because you run into things, you run into people,</div>
 </div>
 <div class="sub">
@@ -848,14 +845,14 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="z"><span class="tr">因為我會撞到東西撞到人</span><span class="sp" hidden>因为我会撞到东西撞到人</span></div>
 </div>
 <div class="sub">
-<div class="ts">13:00–13:02　≈</div>
-<div class="z"><span class="tr">喪失視力令人沮喪</span><span class="sp" hidden>丧失视力令人沮丧</span></div>
+<div class="ts">13:00–13:02</div>
+<div class="z"><span class="tr">這甚至會讓人感到抑鬱</span><span class="sp" hidden>这甚至会让人感到抑郁</span></div>
 <div class="e">and it can be depressing.</div>
 </div>
 <div class="sub">
 <div class="ts">13:02–13:03</div>
 <div class="z"><span class="tr">把眼睛張大</span><span class="sp" hidden>把眼睛张大</span></div>
-<div class="e">Just open up real long. Very good. Now, thanks to Dr. Mark Humayon of the University of Southern California, she may see again.</div>
+<div class="e">Just open up real long. Very good. Now, thanks to Dr. Mark Humayun of the University of Southern California, she may see again.</div>
 </div>
 <h2 id="s6">6. 視覺與眼睛 · 第2段</h2>
 <div class="meta">13:15–13:52</div>
@@ -866,18 +863,17 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">13:18–13:22</div>
-<div class="z"><span class="tr">胡馬源在琳達眼睛後方 植入一個巧妙的小裝置</span><span class="sp" hidden>胡马源在琳达眼睛后方 植入一个巧妙的小装置</span></div>
-<div class="e">Humayin is implanted an ingenious little device at the back of Linda&#x27;s eye.</div>
+<div class="z"><span class="tr">胡馬尤恩醫生在琳達的眼球後方植入了一個精巧的小裝置</span><span class="sp" hidden>胡马尤恩医生在琳达的眼球后方植入了一个精巧的小装置</span></div>
+<div class="e">Humayun has implanted an ingenious little device at the back of Linda&#x27;s eye.</div>
 </div>
 <div class="sub">
 <div class="ts">13:22–13:26</div>
-<div class="z"><span class="tr">這16個電極應當能發揮 簡單的視網膜功能</span><span class="sp" hidden>这16个电极应当能发挥 简单的视网膜功能</span></div>
+<div class="z"><span class="tr">這16個電極應當能發揮簡單的視網膜功能</span><span class="sp" hidden>这16个电极应当能发挥简单的视网膜功能</span></div>
 <div class="e">Just 16 electrodes that should act as a simple retina, turning light into impulses that can be sent to the brain.</div>
 </div>
 <div class="sub">
 <div class="ts">13:26–13:30</div>
-<div class="z"><span class="tr">將光線轉換成 可傳送到腦部的電脈衝</span><span class="sp" hidden>将光线转换成 可传送到脑部的电脉冲</span></div>
-<div class="e">That&#x27;s great.</div>
+<div class="z"><span class="tr">將光線轉換成可傳送到腦部的電脈衝</span><span class="sp" hidden>将光线转换成可传送到脑部的电脉冲</span></div>
 </div>
 <div class="sub">
 <div class="ts">13:35–13:36</div>
@@ -886,7 +882,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">13:37–13:41</div>
-<div class="z"><span class="tr">腦部接收到訊息時 她會看見光點</span><span class="sp" hidden>脑部接收到讯息时 她会看见光点</span></div>
+<div class="z"><span class="tr">腦部接收到訊息時她會看見光點</span><span class="sp" hidden>脑部接收到讯息时她会看见光点</span></div>
 <div class="e">So when this information is received by the brain, you see a spot of light.</div>
 </div>
 <div class="sub">
@@ -896,12 +892,12 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">13:45–13:49</div>
-<div class="z"><span class="tr">琳達首先必須配戴 可捕捉光線的特製太陽眼鏡</span><span class="sp" hidden>琳达首先必须配戴 可捕捉光线的特制太阳眼镜</span></div>
+<div class="z"><span class="tr">琳達首先必須配戴可捕捉光線的特製太陽眼鏡</span><span class="sp" hidden>琳达首先必须配戴可捕捉光线的特制太阳眼镜</span></div>
 </div>
 <div class="sub">
 <div class="ts">13:49–13:52</div>
-<div class="z"><span class="tr">將光轉變成電子訊號 啟動她眼睛內的植入物</span><span class="sp" hidden>将光转变成电子讯号 启动她眼睛内的植入物</span></div>
-<div class="e">converted into electrical signals, and fire up the implants in her eyes. Those are gone too.</div>
+<div class="z"><span class="tr">轉化為電子訊號，從而啟動她眼內的植入物</span><span class="sp" hidden>转化为电子讯号，从而启动她眼内的植入物</span></div>
+<div class="e">converted into electrical signals, and fire up the implants in her eyes.</div>
 </div>
 <h2 id="s7">7. 視覺與眼睛 · 第3段</h2>
 <div class="meta">14:01–15:10</div>
@@ -913,7 +909,6 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="sub">
 <div class="ts">14:01–14:04</div>
 <div class="z"><span class="tr">植入物開始運作</span><span class="sp" hidden>植入物开始运作</span></div>
-<div class="e">It was crucial. It was crucial.</div>
 </div>
 <div class="sub">
 <div class="ts">14:06–14:12</div>
@@ -931,18 +926,18 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="e">I could tell the difference between...</div>
 </div>
 <div class="sub">
-<div class="ts">14:20–14:21　≈</div>
-<div class="z"><span class="tr">健康的視網膜會傳導訊號</span><span class="sp" hidden>健康的视网膜会传导讯号</span></div>
-</div>
-<div class="sub">
-<div class="ts">14:24–14:26</div>
-<div class="z"><span class="tr">傳送的上百萬道訊號相比</span><span class="sp" hidden>传送的上百万道讯号相比</span></div>
+<div class="ts">14:20–14:21</div>
+<div class="z"><span class="tr">健康的視網膜會傳輸...</span><span class="sp" hidden>健康的视网膜会传输...</span></div>
 <div class="e">A working retina transmits.</div>
 </div>
 <div class="sub">
+<div class="ts">14:24–14:26</div>
+<div class="z"><span class="tr">數百萬個訊號</span><span class="sp" hidden>数百万个讯号</span></div>
+</div>
+<div class="sub">
 <div class="ts">14:33–14:34</div>
-<div class="z"><span class="tr">琳達的腦部會進行補償</span><span class="sp" hidden>琳达的脑部会进行补偿</span></div>
-<div class="e">Somebody chopping down the tree. But with each passing day, her brain compensates</div>
+<div class="z"><span class="tr">隨著時間推移，她的大腦會進行補償</span><span class="sp" hidden>随著时间推移，她的大脑会进行补偿</span></div>
+<div class="e">But with each passing day, her brain compensates</div>
 </div>
 <div class="sub">
 <div class="ts">14:34–14:34</div>
@@ -951,12 +946,12 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">14:50–14:50</div>
-<div class="z"><span class="tr">或任何病患恢復原有的視力</span><span class="sp" hidden>或任何病患恢复原有的视力</span></div>
-<div class="e">We thought that 16 electrodes would never, ever give Linda or any of the patients the level of vision they have been able to attain. The brain fills in the missing gaps.</div>
+<div class="z"><span class="tr">我們從未想過16個電極能讓琳達或任何患者恢復到他們現在所達到的視力水平</span><span class="sp" hidden>我们从未想过16个电极能让琳达或任何患者恢复到他们现在所达到的视力水平</span></div>
+<div class="e">We thought that 16 electrodes would never, ever give Linda or any of the patients the level of vision they have been able to attain.</div>
 </div>
 <div class="sub">
 <div class="ts">14:55–15:03</div>
-<div class="z"><span class="tr">腦部會設法將簡單的閃光 變成有意義的影像</span><span class="sp" hidden>脑部会设法将简单的闪光 变成有意义的影像</span></div>
+<div class="z"><span class="tr">腦部會設法將簡單的閃光變成有意義的影像</span><span class="sp" hidden>脑部会设法将简单的闪光变成有意义的影像</span></div>
 <div class="e">From simple flashes of light, our brains can somehow conjure meaningful images.</div>
 </div>
 <div class="sub">
@@ -970,15 +965,15 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">15:10–15:10</div>
-<div class="z"><span class="tr">“奶奶我在哪裡？”</span><span class="sp" hidden>“奶奶我在哪里？”</span></div>
-<div class="e">And they like to run in front of me. Where am I, Grandma? Where am I? I? I&#x27;m more connected to them, a little...</div>
+<div class="z"><span class="tr">「奶奶我在哪裡？」</span><span class="sp" hidden>「奶奶我在哪里？」</span></div>
+<div class="e">And they like to run in front of me. Where am I, Grandma? Where am I? I&#x27;m more connected to them, a little...</div>
 </div>
 <h2 id="s8">8. 人體概論 · 第2段</h2>
 <div class="meta">15:26–18:12</div>
 <div class="sub">
 <div class="ts">15:26–15:31</div>
 <div class="z"><span class="tr">我比較能夠參與他們的生活</span><span class="sp" hidden>我比较能够参与他们的生活</span></div>
-<div class="e">a little more part of their lives, you know. Even for those of us lucky enough to see 2020,</div>
+<div class="e">a little more part of their lives, you know. Even for those of us lucky enough to see 20/20,</div>
 </div>
 <div class="sub">
 <div class="ts">15:31–15:33</div>
@@ -986,13 +981,13 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">15:34–15:37</div>
-<div class="z"><span class="tr">我們的視覺也不是 在奇妙人體機器內獨自運作</span><span class="sp" hidden>我们的视觉也不是 在奇妙人体机器内独自运作</span></div>
+<div class="z"><span class="tr">我們的視覺也不是在奇妙人體機器內獨自運作</span><span class="sp" hidden>我们的视觉也不是在奇妙人体机器内独自运作</span></div>
 <div class="e">the sense of sight does not work alone in the incredible human machine.</div>
 </div>
 <div class="sub">
 <div class="ts">15:44–15:47</div>
-<div class="z"><span class="tr">我們頭部的兩側 裝有人體的麥克風</span><span class="sp" hidden>我们头部的两侧 装有人体的麦克风</span></div>
-<div class="e">On either side,</div>
+<div class="z"><span class="tr">我們頭部兩側長著人體的「麥克風」</span><span class="sp" hidden>我们头部两侧长著人体的「麦克风」</span></div>
+<div class="e">On either side of our head are the body&#x27;s microphones.</div>
 </div>
 <div class="sub">
 <div class="ts">15:48–15:49</div>
@@ -1006,22 +1001,21 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="sub">
 <div class="ts">15:52–15:53</div>
 <div class="z"><span class="tr">改進跳水姿勢</span><span class="sp" hidden>改进跳水姿势</span></div>
-<div class="e">even taking a baby step,</div>
 </div>
 <div class="sub">
 <div class="ts">15:53–15:55</div>
 <div class="z"><span class="tr">甚至學步兒走路</span><span class="sp" hidden>甚至学步儿走路</span></div>
-<div class="e">all would be impossible without the intricate gadgetry</div>
+<div class="e">even taking a baby step,</div>
 </div>
 <div class="sub">
 <div class="ts">15:55–16:00</div>
-<div class="z"><span class="tr">全是靠耳內的複雜精巧裝置 才有可能達成</span><span class="sp" hidden>全是靠耳内的复杂精巧装置 才有可能达成</span></div>
-<div class="e">deep inside our ears.</div>
+<div class="z"><span class="tr">全是靠耳內的複雜精巧裝置才有可能達成</span><span class="sp" hidden>全是靠耳内的复杂精巧装置才有可能达成</span></div>
+<div class="e">all would be impossible without the intricate gadgetry deep inside our ears.</div>
 </div>
 <div class="sub">
 <div class="ts">16:06–16:10</div>
-<div class="z"><span class="tr">這兒有3根類似木匠水準儀 充滿液體的管子</span><span class="sp" hidden>这儿有3根类似木匠水准仪 充满液体的管子</span></div>
-<div class="e">Three fluid-filled tubes were</div>
+<div class="z"><span class="tr">這兒有3根類似木匠水準儀充滿液體的管子</span><span class="sp" hidden>这儿有3根类似木匠水准仪充满液体的管子</span></div>
+<div class="e">Three fluid-filled tubes work</div>
 </div>
 <div class="sub">
 <div class="ts">16:10–16:12</div>
@@ -1049,7 +1043,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">16:29–16:33</div>
-<div class="z"><span class="tr">我們可用人工方式 刺激這個強大的小小機械裝置</span><span class="sp" hidden>我们可用人工方式 刺激这个强大的小小机械装置</span></div>
+<div class="z"><span class="tr">我們可用人工方式刺激這個強大的小小機械裝置</span><span class="sp" hidden>我们可用人工方式刺激这个强大的小小机械装置</span></div>
 <div class="e">It&#x27;s a powerful little mechanism that we can stimulate artificially.</div>
 </div>
 <div class="sub">
@@ -1059,7 +1053,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">16:42–16:43</div>
-<div class="z"><span class="tr">利用特製帶電頭戴耳機</span><span class="sp" hidden>利用特制带电头戴耳机</span></div>
+<div class="z"><span class="tr">透過特製的電流頭戴裝置</span><span class="sp" hidden>透过特制的电流头戴装置</span></div>
 <div class="e">With a special electrified headset, scientists in Japan have taken hold of our balance</div>
 </div>
 <div class="sub">
@@ -1069,7 +1063,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">16:49–16:53</div>
-<div class="z"><span class="tr">他們藉由傳送電流到內耳神經 創造出遙控人類</span><span class="sp" hidden>他们借由传送电流到内耳神经 创造出遥控人类</span></div>
+<div class="z"><span class="tr">他們藉由傳送電流到內耳神經創造出遙控人類</span><span class="sp" hidden>他们借由传送电流到内耳神经创造出遥控人类</span></div>
 <div class="e">By sending current down to those nerves in our inner ears, they&#x27;ve created remote-controlled human beings.</div>
 </div>
 <div class="sub">
@@ -1088,27 +1082,28 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">17:18–17:22</div>
-<div class="z"><span class="tr">只能令人失去平衡 然後強迫他們往左邊或右邊走</span><span class="sp" hidden>只能令人失去平衡 然后强迫他们往左边或右边走</span></div>
-<div class="e">walk left, right, even trace the shape of a giant pretzel.</div>
+<div class="z"><span class="tr">只能令人失去平衡然後強迫他們往左邊或右邊走</span><span class="sp" hidden>只能令人失去平衡然后强迫他们往左边或右边走</span></div>
+<div class="e">walk left, right,</div>
 </div>
 <div class="sub">
 <div class="ts">17:23–17:26</div>
-<div class="z"><span class="tr">甚至還能逼他們 按大8字形前進</span><span class="sp" hidden>甚至还能逼他们 按大8字形前进</span></div>
-<div class="e">My body was out of control.</div>
+<div class="z"><span class="tr">甚至還能逼他們按大8字形前進</span><span class="sp" hidden>甚至还能逼他们按大8字形前进</span></div>
+<div class="e">even trace the shape of a giant pretzel.</div>
 </div>
 <div class="sub">
 <div class="ts">17:30–17:32</div>
 <div class="z"><span class="tr">我的身體失控</span><span class="sp" hidden>我的身体失控</span></div>
-<div class="e">It was swaying to the left and to the right.</div>
+<div class="e">My body was out of control.</div>
 </div>
 <div class="sub">
 <div class="ts">17:33–17:35</div>
 <div class="z"><span class="tr">我的身體左搖右擺的</span><span class="sp" hidden>我的身体左摇右摆的</span></div>
-<div class="e">We can even remote control ourselves.</div>
+<div class="e">It was swaying to the left and to the right.</div>
 </div>
 <div class="sub">
 <div class="ts">17:36–17:39</div>
 <div class="z"><span class="tr">我們甚至能遙控自己</span><span class="sp" hidden>我们甚至能遥控自己</span></div>
+<div class="e">We can even remote control ourselves.</div>
 </div>
 <div class="sub">
 <div class="ts">17:44–17:44</div>
@@ -1117,18 +1112,17 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">17:44–17:54</div>
-<div class="z"><span class="tr">TaroMaeda NTTCommunicationScienceLaboratories 而是要幫助他們</span><span class="sp" hidden>TaroMaeda NTTCommunicationScienceLaboratories 而是要帮助他们</span></div>
+<div class="z"><span class="tr">（前田太郎，NTT通信科學實驗室）而是為了幫助他們</span><span class="sp" hidden>（前田太郎，NTT通信科学实验室）而是为了帮助他们</span></div>
 <div class="e">Or manipulate their actions. Rather, we want to help them, help guide them.</div>
 </div>
 <div class="sub">
 <div class="ts">17:54–17:57</div>
 <div class="z"><span class="tr">幫忙引導他們</span><span class="sp" hidden>帮忙引导他们</span></div>
-<div class="e">Especially people with balance problems or dizziness.</div>
 </div>
 <div class="sub">
 <div class="ts">17:57–18:00</div>
-<div class="z"><span class="tr">尤其是那些平衡感有問題 或患有眩暈的人</span><span class="sp" hidden>尤其是那些平衡感有问题 或患有眩晕的人</span></div>
-<div class="e">us.</div>
+<div class="z"><span class="tr">尤其是那些平衡感有問題或患有眩暈的人</span><span class="sp" hidden>尤其是那些平衡感有问题或患有眩晕的人</span></div>
+<div class="e">Especially people with balance problems or dizziness.</div>
 </div>
 <div class="sub">
 <div class="ts">18:02–18:02</div>
@@ -1136,7 +1130,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">18:03–18:06</div>
-<div class="z"><span class="tr">將來這裝置甚至可能幫助 全球定位系統等導航裝置</span><span class="sp" hidden>将来这装置甚至可能帮助 全球定位系统等导航装置</span></div>
+<div class="z"><span class="tr">將來這裝置甚至可能幫助全球定位系統等導航裝置</span><span class="sp" hidden>将来这装置甚至可能帮助全球定位系统等导航装置</span></div>
 </div>
 <div class="sub">
 <div class="ts">18:07–18:09</div>
@@ -1151,8 +1145,8 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="meta">18:34–20:43</div>
 <div class="sub">
 <div class="ts">18:34–18:36</div>
-<div class="z"><span class="tr">我們的耳朵還提供 一種強大的感知力</span><span class="sp" hidden>我们的耳朵还提供 一种强大的感知力</span></div>
-<div class="e">India&#x27;s Anna Arbor-Deghurya will every six years provide another powerful sensation to enrich our day.</div>
+<div class="z"><span class="tr">我們的耳朵還提供另一種強大的感知能力</span><span class="sp" hidden>我们的耳朵还提供另一种强大的感知能力</span></div>
+<div class="e">And our ears provide another powerful sensation to enrich our day.</div>
 </div>
 <div class="sub">
 <div class="ts">18:36–18:39</div>
@@ -1161,16 +1155,16 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="sub">
 <div class="ts">18:44–18:46</div>
 <div class="z"><span class="tr">就會在空氣中形成波</span><span class="sp" hidden>就会在空气中形成波</span></div>
-<div class="e">Every time we, or anything else for that matter, make a move or vibrate, we create a we create ripples in the air.</div>
+<div class="e">Every time we, or anything else for that matter, make a move or vibrate, we create ripples in the air.</div>
 </div>
 <div class="sub">
 <div class="ts">18:46–18:48</div>
-<div class="z"><span class="tr">這些不同的波 是以不同頻率前進</span><span class="sp" hidden>这些不同的波 是以不同频率前进</span></div>
+<div class="z"><span class="tr">這些不同的波是以不同頻率前進</span><span class="sp" hidden>这些不同的波是以不同频率前进</span></div>
 <div class="e">Distinct waves all traveling at different frequencies,</div>
 </div>
 <div class="sub">
 <div class="ts">18:51–18:53</div>
-<div class="z"><span class="tr">並以750哩的時速 進入我們的耳朵</span><span class="sp" hidden>并以750哩的时速 进入我们的耳朵</span></div>
+<div class="z"><span class="tr">並以750哩的時速進入我們的耳朵</span><span class="sp" hidden>并以750哩的时速进入我们的耳朵</span></div>
 <div class="e">which waft into our ears at some 750 miles per hour, and produce sound.</div>
 </div>
 <div class="sub">
@@ -1180,16 +1174,16 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">19:03–19:07</div>
-<div class="z"><span class="tr">我們的耳朵會將聲波導入 我們的頭顱深處</span><span class="sp" hidden>我们的耳朵会将声波导入 我们的头颅深处</span></div>
+<div class="z"><span class="tr">我們的耳朵會將聲波導入我們的頭顱深處</span><span class="sp" hidden>我们的耳朵会将声波导入我们的头颅深处</span></div>
 </div>
 <div class="sub">
 <div class="ts">19:09–19:12</div>
-<div class="z"><span class="tr">我們的耳膜 會隨著聲波的頻率振動</span><span class="sp" hidden>我们的耳膜 会随著声波的频率振动</span></div>
+<div class="z"><span class="tr">我們的耳膜會隨著聲波的頻率振動</span><span class="sp" hidden>我们的耳膜会随著声波的频率振动</span></div>
 <div class="e">Our ear drums vibrate in tune to the frequencies,</div>
 </div>
 <div class="sub">
 <div class="ts">19:12–19:16</div>
-<div class="z"><span class="tr">推動3根 和米粒同樣大的小骨頭</span><span class="sp" hidden>推动3根 和米粒同样大的小骨头</span></div>
+<div class="z"><span class="tr">推動3根和米粒同樣大的小骨頭</span><span class="sp" hidden>推动3根和米粒同样大的小骨头</span></div>
 <div class="e">moving three tiny bones, each about as long as a grain of rice.</div>
 </div>
 <div class="sub">
@@ -1199,8 +1193,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">19:22–19:25</div>
-<div class="z"><span class="tr">我們可以看見 耳朵如何聽到聲音</span><span class="sp" hidden>我们可以看见 耳朵如何听到声音</span></div>
-<div class="e">Here.</div>
+<div class="z"><span class="tr">我們可以看見耳朵如何聽到聲音</span><span class="sp" hidden>我们可以看见耳朵如何听到声音</span></div>
 </div>
 <div class="sub">
 <div class="ts">19:25–19:27</div>
@@ -1213,16 +1206,16 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">19:43–19:44</div>
-<div class="z"><span class="tr">骨頭的動作會轉變成壓力脈衝 促使液體振動</span><span class="sp" hidden>骨头的动作会转变成压力脉冲 促使液体振动</span></div>
+<div class="z"><span class="tr">骨頭的動作會轉變成壓力脈衝促使液體振動</span><span class="sp" hidden>骨头的动作会转变成压力脉冲促使液体振动</span></div>
 </div>
 <div class="sub">
 <div class="ts">19:44–19:53</div>
-<div class="z"><span class="tr">神經細胞會將這一切 傳送到腦部</span><span class="sp" hidden>神经细胞会将这一切 传送到脑部</span></div>
+<div class="z"><span class="tr">神經細胞會將這一切傳送到腦部</span><span class="sp" hidden>神经细胞会将这一切传送到脑部</span></div>
 <div class="e">which vibrates fluid, which disturbs tiny hairs, which excite nerve cells, which translate all of this to the brain.</div>
 </div>
 <div class="sub">
 <div class="ts">19:58–20:02</div>
-<div class="z"><span class="tr">我們的耳朵或許覺得 有一種聲音最悅耳</span><span class="sp" hidden>我们的耳朵或许觉得 有一种声音最悦耳</span></div>
+<div class="z"><span class="tr">我們的耳朵或許覺得有一種聲音最悅耳</span><span class="sp" hidden>我们的耳朵或许觉得有一种声音最悦耳</span></div>
 <div class="e">One sound, perhaps more than any other, is music to our ears.</div>
 </div>
 <div class="sub">
@@ -1238,21 +1231,20 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="sub">
 <div class="ts">20:13–20:15</div>
 <div class="z"><span class="tr">但也十分脆弱</span><span class="sp" hidden>但也十分脆弱</span></div>
-<div class="e">As lead singer for Aerosmith, Stephen Tyler&#x27;s work depends on his vocal cords.</div>
 </div>
 <div class="sub">
 <div class="ts">20:15–20:21</div>
-<div class="z"><span class="tr">史密斯飛船主唱史蒂芬泰勒 是靠聲帶工作</span><span class="sp" hidden>史密斯飞船主唱史蒂芬泰勒 是靠声带工作</span></div>
-<div class="e">on his vocal chords.</div>
+<div class="z"><span class="tr">史密斯飛船主唱史蒂芬泰勒是靠聲帶工作</span><span class="sp" hidden>史密斯飞船主唱史蒂芬泰勒是靠声带工作</span></div>
+<div class="e">As lead singer for Aerosmith, Stephen Tyler&#x27;s work depends on his vocal cords.</div>
 </div>
 <div class="sub">
 <div class="ts">20:30–20:34</div>
-<div class="z"><span class="tr">很少人想到我們說話 唱歌、大笑或大叫時</span><span class="sp" hidden>很少人想到我们说话 唱歌、大笑或大叫时</span></div>
-<div class="e">You need to go like an open book to weave between his eyes. Few of us think about the trauma we generate in our voice boxes when we talk, sing, laugh, or scream.</div>
+<div class="z"><span class="tr">很少人會想到，當我們說話、唱歌、大笑或尖叫時</span><span class="sp" hidden>很少人会想到，当我们说话、唱歌、大笑或尖叫时</span></div>
+<div class="e">Few of us think about the trauma we generate in our voice boxes when we talk, sing, laugh, or scream.</div>
 </div>
 <div class="sub">
 <div class="ts">20:34–20:37</div>
-<div class="z"><span class="tr">會對我們的喉頭造成創傷</span><span class="sp" hidden>会对我们的喉头造成创伤</span></div>
+<div class="z"><span class="tr">會對我們的喉嚨造成多大的創傷</span><span class="sp" hidden>会对我们的喉咙造成多大的创伤</span></div>
 </div>
 <div class="sub">
 <div class="ts">20:37–20:40</div>
@@ -1277,13 +1269,13 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">20:57–20:59</div>
-<div class="z"><span class="tr">史蒂芬札特爾和 他麻薩諸塞州醫院的研究小組</span><span class="sp" hidden>史蒂芬札特尔和 他麻萨诸塞州医院的研究小组</span></div>
-<div class="e">Steven Zytels and his team from Massachusetts General Hospital,</div>
+<div class="z"><span class="tr">史蒂芬札特爾和他麻薩諸塞州醫院的研究小組</span><span class="sp" hidden>史蒂芬札特尔和他麻萨诸塞州医院的研究小组</span></div>
+<div class="e">Steven Zeitels and his team from Massachusetts General Hospital,</div>
 </div>
 <div class="sub">
 <div class="ts">21:03–21:04</div>
 <div class="z"><span class="tr">將獲得難得的待遇</span><span class="sp" hidden>将获得难得的待遇</span></div>
-<div class="e">will get a rare treat. Take this one off? Yeah.</div>
+<div class="e">will get a rare treat.</div>
 </div>
 <div class="sub">
 <div class="ts">21:04–21:07</div>
@@ -1292,13 +1284,13 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">21:08–21:12</div>
-<div class="z"><span class="tr">他們將看見這對知名聲帶 如何能忍受如此極端狀況</span><span class="sp" hidden>他们将看见这对知名声带 如何能忍受如此极端状况</span></div>
+<div class="z"><span class="tr">他們將看見這對知名聲帶如何能忍受如此極端狀況</span><span class="sp" hidden>他们将看见这对知名声带如何能忍受如此极端状况</span></div>
 <div class="e">they&#x27;ll see how this famous pair of vocal cords holds up to such extremes.</div>
 </div>
 <div class="sub">
 <div class="ts">21:13–21:15</div>
-<div class="z"><span class="tr">札特爾醫生 我要替我的孩子問</span><span class="sp" hidden>札特尔医生 我要替我的孩子问</span></div>
-<div class="e">Doctors, Zaitel, one time for my kids, what are you, what is this monitoring?</div>
+<div class="z"><span class="tr">札特爾醫生，我要替我的孩子問</span><span class="sp" hidden>札特尔医生，我要替我的孩子问</span></div>
+<div class="e">Doctors, Zeitels, one time for my kids, what are you, what is this monitoring?</div>
 </div>
 <div class="sub">
 <div class="ts">21:15–21:18</div>
@@ -1306,7 +1298,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">21:18–21:19</div>
-<div class="z"><span class="tr">我們要觀察 你頸部皮膚的振動狀況</span><span class="sp" hidden>我们要观察 你颈部皮肤的振动状况</span></div>
+<div class="z"><span class="tr">我們要觀察你頸部皮膚的振動狀況</span><span class="sp" hidden>我们要观察你颈部皮肤的振动状况</span></div>
 <div class="e">What we&#x27;re going to be doing is looking at the vibrations on the skin of your neck,</div>
 </div>
 <div class="sub">
@@ -1316,7 +1308,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">21:29–21:30</div>
-<div class="z"><span class="tr">醫生，謝謝你 謝謝</span><span class="sp" hidden>医生，谢谢你 谢谢</span></div>
+<div class="z"><span class="tr">醫生，謝謝你，謝謝</span><span class="sp" hidden>医生，谢谢你，谢谢</span></div>
 <div class="e">Thank you, Doctor. Thank you.</div>
 </div>
 <div class="sub">
@@ -1327,27 +1319,15 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="sub">
 <div class="ts">21:33–21:34</div>
 <div class="z"><span class="tr">接受無人經歷過的體驗</span><span class="sp" hidden>接受无人经历过的体验</span></div>
-<div class="e">There we go.</div>
-</div>
-<div class="sub">
-<div class="ts">21:34–21:35</div>
-<div class="z"><span class="tr">醫生很清楚</span><span class="sp" hidden>医生很清楚</span></div>
-<div class="e">The Dr. Zytel. In that one?</div>
-</div>
-<div class="sub">
-<div class="ts">21:36–21:37</div>
-<div class="z"><span class="tr">那張椅子不曾…</span><span class="sp" hidden>那张椅子不曾…</span></div>
-<div class="e">No, but it is.</div>
 </div>
 <div class="sub">
 <div class="ts">21:37–21:41</div>
-<div class="z"><span class="tr">今晚舉行演唱會時 札特爾會在後台利用內視鏡</span><span class="sp" hidden>今晚举行演唱会时 札特尔会在后台利用内视镜</span></div>
-<div class="e">Backstage, throughout tonight&#x27;s concert, Zytel&#x27;s will use an Endoscope to examine Tyler&#x27;s voice box up close.</div>
+<div class="z"><span class="tr">今晚舉行演唱會時，札特爾會在後台利用內視鏡</span><span class="sp" hidden>今晚举行演唱会时，札特尔会在后台利用内视镜</span></div>
+<div class="e">Backstage, throughout tonight&#x27;s concert, Zeitels will use an Endoscope to examine Tyler&#x27;s voice box up close.</div>
 </div>
 <div class="sub">
 <div class="ts">21:42–21:44</div>
 <div class="z"><span class="tr">詳細檢查泰勒的喉頭</span><span class="sp" hidden>详细检查泰勒的喉头</span></div>
-<div class="e">See, can I have that course?</div>
 </div>
 <div class="sub">
 <div class="ts">21:44–21:50</div>
@@ -1357,11 +1337,10 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="sub">
 <div class="ts">21:51–21:52</div>
 <div class="z"><span class="tr">張開嘴</span><span class="sp" hidden>张开嘴</span></div>
-<div class="e">Can you turn that for me? Great, see.</div>
 </div>
 <div class="sub">
 <div class="ts">22:01–22:02</div>
-<div class="z"><span class="tr">我們很難得能看見 實力派歌手的喉頭內部</span><span class="sp" hidden>我们很难得能看见 实力派歌手的喉头内部</span></div>
+<div class="z"><span class="tr">我們很難得能看見實力派歌手的喉頭內部</span><span class="sp" hidden>我们很难得能看见实力派歌手的喉头内部</span></div>
 <div class="e">It&#x27;s a rare insight into what goes on in a high, a high performance singer.</div>
 </div>
 <div class="sub">
@@ -1383,17 +1362,17 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">22:28–22:35</div>
-<div class="z"><span class="tr">泰勒的聲帶 平均每秒會碰撞170次</span><span class="sp" hidden>泰勒的声带 平均每秒会碰撞170次</span></div>
+<div class="z"><span class="tr">泰勒的聲帶平均每秒會碰撞170次</span><span class="sp" hidden>泰勒的声带平均每秒会碰撞170次</span></div>
 <div class="e">Tyler&#x27;s vocal cords are slamming together an average of 170 times a second.</div>
 </div>
 <div class="sub">
 <div class="ts">22:36–22:39</div>
-<div class="z"><span class="tr">他的聲帶在一場演唱會當中 會碰撞50多萬次</span><span class="sp" hidden>他的声带在一场演唱会当中 会碰撞50多万次</span></div>
+<div class="z"><span class="tr">他的聲帶在一場演唱會當中會碰撞50多萬次</span><span class="sp" hidden>他的声带在一场演唱会当中会碰撞50多万次</span></div>
 <div class="e">That&#x27;s more than half a million times during the course of a concert</div>
 </div>
 <div class="sub">
 <div class="ts">22:39–22:44</div>
-<div class="z"><span class="tr">在他長達30年的演唱生涯中 則碰撞近10億次</span><span class="sp" hidden>在他长达30年的演唱生涯中 则碰撞近10亿次</span></div>
+<div class="z"><span class="tr">在他長達30年的演唱生涯中則碰撞近10億次</span><span class="sp" hidden>在他长达30年的演唱生涯中则碰撞近10亿次</span></div>
 <div class="e">and nearly a billion times during the course of his 30-year professional career.</div>
 </div>
 <div class="sub">
@@ -1403,7 +1382,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">22:48–22:52</div>
-<div class="z"><span class="tr">Harvard&amp;MassachusettsGeneralHospital 還有剪應力</span><span class="sp" hidden>Harvard&amp;MassachusettsGeneralHospital 还有剪应力</span></div>
+<div class="z"><span class="tr">（哈佛大學與麻州總醫院）以及剪切力</span><span class="sp" hidden>（哈佛大学与麻州总医院）以及剪切力</span></div>
 <div class="e">part of the human body that likely sees these kinds of collision forces and shearing stresses,</div>
 </div>
 <div class="sub">
@@ -1418,7 +1397,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">23:00–23:04</div>
-<div class="z"><span class="tr">史密斯飛船因泰勒的聲帶受損 取消了大半的巡迴演唱會</span><span class="sp" hidden>史密斯飞船因泰勒的声带受损 取消了大半的巡回演唱会</span></div>
+<div class="z"><span class="tr">史密斯飛船樂團因泰勒聲帶受損，取消了大半的巡迴演唱會</span><span class="sp" hidden>史密斯飞船乐团因泰勒声带受损，取消了大半的巡回演唱会</span></div>
 </div>
 <div class="sub">
 <div class="ts">23:05–23:07</div>
@@ -1428,7 +1407,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="sub">
 <div class="ts">23:12–23:15</div>
 <div class="z"><span class="tr">他不得不請札特爾替他動刀</span><span class="sp" hidden>他不得不请札特尔替他动刀</span></div>
-<div class="e">forcing him to undergo Zytel&#x27;s knife, or laser in this case.</div>
+<div class="e">forcing him to undergo Zeitels&#x27; knife, or laser in this case.</div>
 </div>
 <div class="sub">
 <div class="ts">23:15–23:17</div>
@@ -1442,11 +1421,10 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="sub">
 <div class="ts">23:21–23:24</div>
 <div class="z"><span class="tr">這種症狀在表演者身上很常見</span><span class="sp" hidden>这种症状在表演者身上很常见</span></div>
-<div class="e">Common in performers.</div>
 </div>
 <div class="sub">
 <div class="ts">23:24–23:26</div>
-<div class="z"><span class="tr">其實擁有好口才的人 常出現這種傷害</span><span class="sp" hidden>其实拥有好口才的人 常出现这种伤害</span></div>
+<div class="z"><span class="tr">其實擁有好口才的人常出現這種傷害</span><span class="sp" hidden>其实拥有好口才的人常出现这种伤害</span></div>
 <div class="e">common in fact to many with a gift of gab,</div>
 </div>
 <div class="sub">
@@ -1457,7 +1435,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="sub">
 <div class="ts">23:33–23:34</div>
 <div class="z"><span class="tr">這雷射手術</span><span class="sp" hidden>这雷射手术</span></div>
-<div class="e">The laser surgery, which Zaytells and his team pioneered,</div>
+<div class="e">The laser surgery, which Zeitels and his team pioneered,</div>
 </div>
 <div class="sub">
 <div class="ts">23:38–23:40</div>
@@ -1481,7 +1459,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">23:54–23:59</div>
-<div class="z"><span class="tr">所以我才能上台演唱 希望能唱得好</span><span class="sp" hidden>所以我才能上台演唱 希望能唱得好</span></div>
+<div class="z"><span class="tr">所以我才能上台演唱，希望能唱得好</span><span class="sp" hidden>所以我才能上台演唱，希望能唱得好</span></div>
 <div class="e">so I go out there and just sing and hope for the best.</div>
 </div>
 <div class="sub">
@@ -1503,41 +1481,41 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="meta">24:21–25:15</div>
 <div class="sub">
 <div class="ts">24:21–24:25</div>
-<div class="z"><span class="tr">這是他內部的情形 每回我望著鏡子</span><span class="sp" hidden>这是他内部的情形 每回我望著镜子</span></div>
+<div class="z"><span class="tr">這是他體內的情況。(泰勒說)「每次我照鏡子...」</span><span class="sp" hidden>这是他体内的情况。(泰勒说)「每次我照镜子...」</span></div>
 <div class="e">Every time that I look in the mirror, always...</div>
 </div>
 <div class="sub">
 <div class="ts">24:26–24:32</div>
 <div class="z"><span class="tr">我臉上的皺紋就越來越清晰</span><span class="sp" hidden>我脸上的皱纹就越来越清晰</span></div>
-<div class="e">Every time we exhale,</div>
 </div>
 <div class="sub">
 <div class="ts">24:32–24:33</div>
 <div class="z"><span class="tr">我們每次呼氣</span><span class="sp" hidden>我们每次呼气</span></div>
+<div class="e">Every time we exhale,</div>
 </div>
 <div class="sub">
 <div class="ts">24:35–24:39</div>
-<div class="z"><span class="tr">會迫使空氣通過 兩片聲帶膜之間</span><span class="sp" hidden>会迫使空气通过 两片声带膜之间</span></div>
+<div class="z"><span class="tr">會迫使空氣通過兩片聲帶膜之間</span><span class="sp" hidden>会迫使空气通过两片声带膜之间</span></div>
 <div class="e">we force air through our two membranous vocal cords. When we bring them together,</div>
 </div>
 <div class="sub">
 <div class="ts">24:39–24:41</div>
-<div class="z"><span class="tr">使兩片聲帶膜碰撞 聲帶膜就會振動</span><span class="sp" hidden>使两片声带膜碰撞 声带膜就会振动</span></div>
+<div class="z"><span class="tr">使兩片聲帶膜碰撞，聲帶膜就會振動</span><span class="sp" hidden>使两片声带膜碰撞，声带膜就会振动</span></div>
 <div class="e">they vibrate.</div>
 </div>
 <div class="sub">
 <div class="ts">24:42–24:53</div>
 <div class="z"><span class="tr">繼續做夢吧…</span><span class="sp" hidden>继续做梦吧…</span></div>
-<div class="e">These vibrations These vibrations produce sound, much like a guitar string after it&#x27;s been plucked.</div>
+<div class="e">These vibrations produce sound, much like a guitar string after it&#x27;s been plucked.</div>
 </div>
 <div class="sub">
 <div class="ts">24:53–24:57</div>
-<div class="z"><span class="tr">肌肉會打開和閉合聲帶 改變音高</span><span class="sp" hidden>肌肉会打开和闭合声带 改变音高</span></div>
+<div class="z"><span class="tr">肌肉會打開和閉合聲帶改變音高</span><span class="sp" hidden>肌肉会打开和闭合声带改变音高</span></div>
 <div class="e">Muscles open and close the chords and change the sound&#x27;s pitch.</div>
 </div>
 <div class="sub">
 <div class="ts">24:57–25:00</div>
-<div class="z"><span class="tr">直到夢想成真</span><span class="sp" hidden>直到梦想成真</span></div>
+<div class="z"><span class="tr">繼續做夢吧...（歌詞：Dream On）</span><span class="sp" hidden>继续做梦吧...（歌词：Dream On）</span></div>
 </div>
 <div class="sub">
 <div class="ts">25:00–25:01</div>
@@ -1546,12 +1524,11 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">25:02–25:04</div>
-<div class="z"><span class="tr">聲帶比較放鬆 振動速度也較慢</span><span class="sp" hidden>声带比较放松 振动速度也较慢</span></div>
+<div class="z"><span class="tr">聲帶比較放鬆，振動速度也較慢</span><span class="sp" hidden>声带比较放松，振动速度也较慢</span></div>
 </div>
 <div class="sub">
 <div class="ts">25:05–25:08</div>
 <div class="z"><span class="tr">繼續做夢吧</span><span class="sp" hidden>继续做梦吧</span></div>
-<div class="e">But for those full setters,</div>
 </div>
 <div class="sub">
 <div class="ts">25:09–25:09</div>
@@ -1571,41 +1548,39 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="sub">
 <div class="ts">25:17–25:22</div>
 <div class="z"><span class="tr">振動得比平常更加頻繁</span><span class="sp" hidden>振动得比平常更加频繁</span></div>
-<div class="e">A surprisingly simple feat for Tyler&#x27;s pliable chords.</div>
 </div>
 <div class="sub">
 <div class="ts">25:24–25:28</div>
-<div class="z"><span class="tr">這對泰勒的柔順聲帶 顯然是輕而易舉的事</span><span class="sp" hidden>这对泰勒的柔顺声带 显然是轻而易举的事</span></div>
-<div class="e">I mean to go from,</div>
+<div class="z"><span class="tr">這對泰勒的柔順聲帶顯然是輕而易舉的事</span><span class="sp" hidden>这对泰勒的柔顺声带显然是轻而易举的事</span></div>
+<div class="e">A surprisingly simple feat for Tyler&#x27;s pliable chords.</div>
 </div>
 <div class="sub">
 <div class="ts">25:30–25:34</div>
-<div class="z"><span class="tr">從“我合早起來心情就很美”</span><span class="sp" hidden>从“我合早起来心情就很美”</span></div>
-<div class="e">I walk out this morning, not on the wrong side.</div>
+<div class="z"><span class="tr">從「我合早起來心情就很美」</span><span class="sp" hidden>从「我合早起来心情就很美」</span></div>
+<div class="e">I walk out this morning, not on the wrong side</div>
 </div>
 <div class="sub">
 <div class="ts">25:35–25:38</div>
-<div class="z"><span class="tr">“我開始想你說過的那些話”</span><span class="sp" hidden>“我开始想你说过的那些话”</span></div>
+<div class="z"><span class="tr">「我開始想你說過的那些話」</span><span class="sp" hidden>「我开始想你说过的那些话」</span></div>
 <div class="e">of the bed and all them things you say and all them things I said.</div>
 </div>
 <div class="sub">
 <div class="ts">25:38–25:40</div>
 <div class="z"><span class="tr">這段我是這樣唱</span><span class="sp" hidden>这段我是这样唱</span></div>
-<div class="e">But, and it&#x27;s in that voice.</div>
 </div>
 <div class="sub">
-<div class="ts">25:41–25:41　≈</div>
-<div class="z"><span class="tr">再來是..</span><span class="sp" hidden>再来是..</span></div>
+<div class="ts">25:41–25:41</div>
+<div class="z"><span class="tr">然後，你知道的，當然...</span><span class="sp" hidden>然后，你知道的，当然...</span></div>
 <div class="e">And then, you know, of course,</div>
 </div>
 <div class="sub">
 <div class="ts">25:42–25:43</div>
-<div class="z"><span class="tr">“我不想錯過任何事” 我是這樣唱</span><span class="sp" hidden>“我不想错过任何事” 我是这样唱</span></div>
+<div class="z"><span class="tr">「我不想錯過任何事」我是這樣唱</span><span class="sp" hidden>「我不想错过任何事」我是这样唱</span></div>
 <div class="e">and I don&#x27;t want to miss a thing is in that voice, and then dream on is</div>
 </div>
 <div class="sub">
 <div class="ts">25:44–25:51</div>
-<div class="z"><span class="tr">有人問過我 你怎麼有辦法天天唱這首歌？</span><span class="sp" hidden>有人问过我 你怎么有办法天天唱这首歌？</span></div>
+<div class="z"><span class="tr">有人問過我，你怎麼有辦法天天唱這首歌？</span><span class="sp" hidden>有人问过我，你怎么有办法天天唱这首歌？</span></div>
 <div class="e">Traynard on. And they&#x27;ve asked me before, how do you sing that song every night?</div>
 </div>
 <div class="sub">
@@ -1616,11 +1591,10 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="sub">
 <div class="ts">25:55–25:55</div>
 <div class="z"><span class="tr">開始</span><span class="sp" hidden>开始</span></div>
-<div class="e">Go.</div>
 </div>
 <div class="sub">
 <div class="ts">25:59–26:01</div>
-<div class="z"><span class="tr">將聲帶的振動 轉成歌曲的部位</span><span class="sp" hidden>将声带的振动 转成歌曲的部位</span></div>
+<div class="z"><span class="tr">將聲帶的振動轉成歌曲的部位</span><span class="sp" hidden>将声带的振动转成歌曲的部位</span></div>
 <div class="e">As for what translates these vocal vibrations into song, that happens much further up, in the throat, the mouth, the tongue,</div>
 </div>
 <div class="sub">
@@ -1630,12 +1604,12 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">26:11–26:14</div>
-<div class="z"><span class="tr">是這些部位 使每個人的聲音獨具特色</span><span class="sp" hidden>是这些部位 使每个人的声音独具特色</span></div>
+<div class="z"><span class="tr">是這些部位使每個人的聲音獨具特色</span><span class="sp" hidden>是这些部位使每个人的声音独具特色</span></div>
 <div class="e">These are what put the stamp on human sound,</div>
 </div>
 <div class="sub">
 <div class="ts">26:14–26:18</div>
-<div class="z"><span class="tr">區別史蒂芬泰勒等人 和其他人的聲音</span><span class="sp" hidden>区别史蒂芬泰勒等人 和其他人的声音</span></div>
+<div class="z"><span class="tr">區別史蒂芬泰勒等人和其他人的聲音</span><span class="sp" hidden>区别史蒂芬泰勒等人和其他人的声音</span></div>
 <div class="e">distinguishing the likes of Stephen Tyler from just about anyone else.</div>
 </div>
 <div class="sub">
@@ -1645,7 +1619,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">26:26–26:27</div>
-<div class="z"><span class="tr">初步資料顯示 泰勒的聲帶相撞50多萬次</span><span class="sp" hidden>初步资料显示 泰勒的声带相撞50多万次</span></div>
+<div class="z"><span class="tr">初步資料顯示泰勒的聲帶相撞50多萬次</span><span class="sp" hidden>初步资料显示泰勒的声带相撞50多万次</span></div>
 </div>
 <div class="sub">
 <div class="ts">26:28–26:28</div>
@@ -1655,27 +1629,23 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <h2 id="s14">14. 呼吸與睡眠</h2>
 <div class="meta">26:36–28:57</div>
 <div class="sub">
-<div class="ts">26:36–26:39</div>
-<div class="z"><span class="tr">但沒有任何跡象顯示 他的聲帶很快就會磨損</span><span class="sp" hidden>但没有任何迹象显示 他的声带很快就会磨损</span></div>
+<div class="ts">26:36–26:43</div>
+<div class="z"><span class="tr">但沒有任何跡象顯示他的聲帶很快就會磨損</span><span class="sp" hidden>但没有任何迹象显示他的声带很快就会磨损</span></div>
 <div class="e">And there&#x27;s no indication they&#x27;ll be wearing out any time soon.</div>
 </div>
 <div class="sub">
-<div class="ts">26:41–26:43</div>
-<div class="z"><span class="tr">謝謝</span><span class="sp" hidden>谢谢</span></div>
-</div>
-<div class="sub">
 <div class="ts">26:44–26:52</div>
-<div class="z"><span class="tr">但卻是一種 更重要身體運作的副產品</span><span class="sp" hidden>但却是一种 更重要身体运作的副产品</span></div>
+<div class="z"><span class="tr">但卻是一種更重要身體運作的副產品</span><span class="sp" hidden>但却是一种更重要身体运作的副产品</span></div>
 <div class="e">Dramatic as it may be, singing is a sound. Singing is a side effect of a much more crucial process.</div>
 </div>
 <div class="sub">
 <div class="ts">26:53–26:58</div>
-<div class="z"><span class="tr">空氣通過我們嘴巴的真正原因 是為了要呼吸</span><span class="sp" hidden>空气通过我们嘴巴的真正原因 是为了要呼吸</span></div>
+<div class="z"><span class="tr">空氣通過我們嘴巴的真正原因是為了要呼吸</span><span class="sp" hidden>空气通过我们嘴巴的真正原因是为了要呼吸</span></div>
 <div class="e">The real reason why air passes through our mouths is breathing.</div>
 </div>
 <div class="sub">
 <div class="ts">27:01–27:05</div>
-<div class="z"><span class="tr">如果不呼吸 我們沒幾分鐘就會死掉</span><span class="sp" hidden>如果不呼吸 我们没几分钟就会死掉</span></div>
+<div class="z"><span class="tr">如果不呼吸我們沒幾分鐘就會死掉</span><span class="sp" hidden>如果不呼吸我们没几分钟就会死掉</span></div>
 <div class="e">We wouldn&#x27;t survive much more than a couple of minutes if we didn&#x27;t.</div>
 </div>
 <div class="sub">
@@ -1685,7 +1655,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">27:10–27:13</div>
-<div class="z"><span class="tr">我們的鼻子或嘴巴會吸入 1品脫的空氣</span><span class="sp" hidden>我们的鼻子或嘴巴会吸入 1品脱的空气</span></div>
+<div class="z"><span class="tr">我們的鼻子或嘴巴會吸入1品脫的空氣</span><span class="sp" hidden>我们的鼻子或嘴巴会吸入1品脱的空气</span></div>
 </div>
 <div class="sub">
 <div class="ts">27:13–27:17</div>
@@ -1699,8 +1669,8 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">27:20–27:24</div>
-<div class="z"><span class="tr">深入喉，通過喉頭 然後來到氣管</span><span class="sp" hidden>深入喉，通过喉头 然后来到气管</span></div>
-<div class="e">down the throat, past the voice box, and into the windpipe or tracheer.</div>
+<div class="z"><span class="tr">深入喉，通過喉頭然後來到氣管</span><span class="sp" hidden>深入喉，通过喉头然后来到气管</span></div>
+<div class="e">down the throat, past the voice box, and into the windpipe or trachea.</div>
 </div>
 <div class="sub">
 <div class="ts">27:27–27:27</div>
@@ -1723,16 +1693,16 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">27:37–27:38</div>
-<div class="z"><span class="tr">肺部的支氣管不斷分岔成 數千條更小的分枝</span><span class="sp" hidden>肺部的支气管不断分岔成 数千条更小的分枝</span></div>
+<div class="z"><span class="tr">肺部的支氣管不斷分岔成數千條更小的分枝</span><span class="sp" hidden>肺部的支气管不断分岔成数千条更小的分枝</span></div>
 </div>
 <div class="sub">
 <div class="ts">27:41–27:44</div>
-<div class="z"><span class="tr">漸次過濾空氣中的 化學物、塵埃和煙</span><span class="sp" hidden>渐次过滤空气中的 化学物、尘埃和烟</span></div>
+<div class="z"><span class="tr">漸次過濾空氣中的化學物、塵埃和煙</span><span class="sp" hidden>渐次过滤空气中的化学物、尘埃和烟</span></div>
 <div class="e">progressively filtering chemicals, dust and smoke in the air,</div>
 </div>
 <div class="sub">
 <div class="ts">27:48–27:51</div>
-<div class="z"><span class="tr">最後空氣會來到 這個叫做肺泡的囊狀球體</span><span class="sp" hidden>最后空气会来到 这个叫做肺泡的囊状球体</span></div>
+<div class="z"><span class="tr">最後空氣會來到這個叫做肺泡的囊狀球體</span><span class="sp" hidden>最后空气会来到这个叫做肺泡的囊状球体</span></div>
 <div class="e">until finally they come to an end, in this pouch-like ball, called an alveolus.</div>
 </div>
 <div class="sub">
@@ -1742,8 +1712,8 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">27:59–28:02</div>
-<div class="z"><span class="tr">肺泡的表面積加起來 大約相當於1/3座網球場</span><span class="sp" hidden>肺泡的表面积加起来 大约相当于1/3座网球场</span></div>
-<div class="e">with a combined surface area roughly a third the size of a tennis court. a tennis court.</div>
+<div class="z"><span class="tr">肺泡的表面積加起來大約相當於1/3座網球場</span><span class="sp" hidden>肺泡的表面积加起来大约相当于1/3座网球场</span></div>
+<div class="e">with a combined surface area roughly a third the size of a tennis court.</div>
 </div>
 <div class="sub">
 <div class="ts">28:04–28:05</div>
@@ -1760,12 +1730,12 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">28:12–28:16</div>
-<div class="z"><span class="tr">跟著氧分子會進入流動的血液 迅速被帶往身體各處</span><span class="sp" hidden>跟著氧分子会进入流动的血液 迅速被带往身体各处</span></div>
+<div class="z"><span class="tr">跟著氧分子會進入流動的血液迅速被帶往身體各處</span><span class="sp" hidden>跟著氧分子会进入流动的血液迅速被带往身体各处</span></div>
 <div class="e">They&#x27;ll then cross into a surging bloodstream, be whisked throughout the body, and provide precious resources to every one of our trillions of cells,</div>
 </div>
 <div class="sub">
 <div class="ts">28:16–28:20</div>
-<div class="z"><span class="tr">為我們身上的每一個細胞 提供寶貴資源</span><span class="sp" hidden>为我们身上的每一个细胞 提供宝贵资源</span></div>
+<div class="z"><span class="tr">為我們身上的每一個細胞提供寶貴資源</span><span class="sp" hidden>为我们身上的每一个细胞提供宝贵资源</span></div>
 </div>
 <div class="sub">
 <div class="ts">28:21–28:24</div>
@@ -1774,27 +1744,27 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">28:26–28:32</div>
-<div class="z"><span class="tr">藍色部分顯示健康的肺 如何將氧氣通通排入血液</span><span class="sp" hidden>蓝色部分显示健康的肺 如何将氧气通通排入血液</span></div>
+<div class="z"><span class="tr">藍色部分顯示健康的肺如何將氧氣通通排入血液</span><span class="sp" hidden>蓝色部分显示健康的肺如何将氧气通通排入血液</span></div>
 <div class="e">The blue here shows how a healthy lung empties oxygen into the bloodstream.</div>
 </div>
 <div class="sub">
 <div class="ts">28:32–28:37</div>
-<div class="z"><span class="tr">這名抽菸者的肺 無法將氧氣全排出去</span><span class="sp" hidden>这名抽烟者的肺 无法将氧气全排出去</span></div>
+<div class="z"><span class="tr">這名抽菸者的肺無法將氧氣全排出去</span><span class="sp" hidden>这名抽烟者的肺无法将氧气全排出去</span></div>
 <div class="e">In this smoker&#x27;s lung, oxygen can&#x27;t empty nearly as well.</div>
 </div>
 <div class="sub">
 <div class="ts">28:40–28:41</div>
-<div class="z"><span class="tr">再來是吐氣</span><span class="sp" hidden>再来是吐气</span></div>
-<div class="e">Then there&#x27;s the egg. Exhalation. Carbon dioxide.</div>
+<div class="z"><span class="tr">接下來是呼氣</span><span class="sp" hidden>接下来是呼气</span></div>
+<div class="e">Then there&#x27;s the exhalation. Carbon dioxide.</div>
 </div>
 <div class="sub">
 <div class="ts">28:42–28:43</div>
 <div class="z"><span class="tr">二氧化碳</span><span class="sp" hidden>二氧化碳</span></div>
-<div class="e">The waste product of breathing makes the opposite journey back out.</div>
 </div>
 <div class="sub">
 <div class="ts">28:46–28:49</div>
 <div class="z"><span class="tr">則是循著相反路徑離開人體</span><span class="sp" hidden>则是循著相反路径离开人体</span></div>
+<div class="e">The waste product of breathing makes the opposite journey back out.</div>
 </div>
 <div class="sub">
 <div class="ts">28:52–28:53</div>
@@ -1802,7 +1772,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">28:53–28:56</div>
-<div class="z"><span class="tr">我們的呼吸器官 贈送我們另一份禮物</span><span class="sp" hidden>我们的呼吸器官 赠送我们另一份礼物</span></div>
+<div class="z"><span class="tr">我們的呼吸器官贈送我們另一份禮物</span><span class="sp" hidden>我们的呼吸器官赠送我们另一份礼物</span></div>
 <div class="e">Another inhalation and our breathing apparatus offers yet another gift with delightful or disgusting results.</div>
 </div>
 <div class="sub">
@@ -1818,7 +1788,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">29:05–29:08</div>
-<div class="z"><span class="tr">我們的鼻子可辨別 多達一萬種不同氣味</span><span class="sp" hidden>我们的鼻子可辨别 多达一万种不同气味</span></div>
+<div class="z"><span class="tr">我們的鼻子可辨別多達一萬種不同氣味</span><span class="sp" hidden>我们的鼻子可辨别多达一万种不同气味</span></div>
 </div>
 <div class="sub">
 <div class="ts">29:10–29:11</div>
@@ -1828,16 +1798,15 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="sub">
 <div class="ts">29:12–29:15</div>
 <div class="z"><span class="tr">有些則不然</span><span class="sp" hidden>有些则不然</span></div>
-<div class="e">They can calm, caution, or make our mouths water.</div>
 </div>
 <div class="sub">
 <div class="ts">29:15–29:16</div>
 <div class="z"><span class="tr">氣味可使人平靜或謹慎</span><span class="sp" hidden>气味可使人平静或谨慎</span></div>
+<div class="e">They can calm, caution, or make our mouths water.</div>
 </div>
 <div class="sub">
 <div class="ts">29:17–29:18</div>
 <div class="z"><span class="tr">或使我們流口水</span><span class="sp" hidden>或使我们流口水</span></div>
-<div class="e">mouth&#x27;s water.</div>
 </div>
 <div class="sub">
 <div class="ts">29:21–29:21</div>
@@ -1846,7 +1815,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">29:23–29:25</div>
-<div class="z"><span class="tr">譬如在海灘待一天 或剛出爐的麵包</span><span class="sp" hidden>譬如在海滩待一天 或刚出炉的面包</span></div>
+<div class="z"><span class="tr">譬如在海灘待一天或剛出爐的麵包</span><span class="sp" hidden>譬如在海滩待一天或刚出炉的面包</span></div>
 </div>
 <div class="sub">
 <div class="ts">29:25–29:28</div>
@@ -1854,23 +1823,23 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">29:28–29:34</div>
-<div class="z"><span class="tr">例如乙酸異丁酯、香草酸 及3百多種化學物等等</span><span class="sp" hidden>例如乙酸异丁酯、香草酸 及3百多种化学物等等</span></div>
-<div class="e">Isobutyl acetate, vanillaic acid, and more than 300 different chemicals, for example,</div>
+<div class="z"><span class="tr">例如乙酸異丁酯、香草酸及3百多種化學物等等</span><span class="sp" hidden>例如乙酸异丁酯、香草酸及3百多种化学物等等</span></div>
+<div class="e">Isobutyl acetate, vanillic acid, and more than 300 different chemicals, for example,</div>
 </div>
 <div class="sub">
 <div class="ts">29:34–29:40</div>
-<div class="z"><span class="tr">結合起來賦予巧克力 明顯獨特的香味</span><span class="sp" hidden>结合起来赋予巧克力 明显独特的香味</span></div>
+<div class="z"><span class="tr">結合起來賦予巧克力明顯獨特的香味</span><span class="sp" hidden>结合起来赋予巧克力明显独特的香味</span></div>
 <div class="e">come together to give chocolate its unmistakable bouquet.</div>
 </div>
 <div class="sub">
 <div class="ts">29:40–29:42</div>
-<div class="z"><span class="tr">玫瑰的另一個名字 可能叫做苯乙醇</span><span class="sp" hidden>玫瑰的另一个名字 可能叫做苯乙醇</span></div>
+<div class="z"><span class="tr">玫瑰的另一個名字可能叫做苯乙醇</span><span class="sp" hidden>玫瑰的另一个名字可能叫做苯乙醇</span></div>
 <div class="e">A rose by any other name might be phenylethyl alcohol.</div>
 </div>
 <div class="sub">
 <div class="ts">29:44–29:54</div>
-<div class="z"><span class="tr">三甲胺是魚體內滋生細菌 而產生的</span><span class="sp" hidden>三甲胺是鱼体内滋生细菌 而产生的</span></div>
-<div class="e">And once fish has passed its prime, it owes its stench to try methylamine, a byproduct of the bacteria growing inside it. growing inside it.</div>
+<div class="z"><span class="tr">魚類一旦不新鮮，其散發的惡臭就歸咎於三甲胺，這是魚體內細菌滋生所產生的副產物</span><span class="sp" hidden>鱼类一旦不新鲜，其散发的恶臭就归咎于三甲胺，这是鱼体内细菌滋生所产生的副产物</span></div>
+<div class="e">And once fish has passed its prime, it owes its stench to trimethylamine, a byproduct of the bacteria growing inside it.</div>
 </div>
 <div class="sub">
 <div class="ts">29:56–29:58</div>
@@ -1883,12 +1852,12 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">30:00–30:05</div>
-<div class="z"><span class="tr">有塊含1千萬個細胞的小區域 等著要嗅味道</span><span class="sp" hidden>有块含1千万个细胞的小区域 等著要嗅味道</span></div>
+<div class="z"><span class="tr">有塊含1千萬個細胞的小區域等著要嗅味道</span><span class="sp" hidden>有块含1千万个细胞的小区域等著要嗅味道</span></div>
 <div class="e">waiting to sniff it out.</div>
 </div>
 <div class="sub">
 <div class="ts">30:07–30:12</div>
-<div class="z"><span class="tr">這些細胞的表面 帶有一千種不同受器</span><span class="sp" hidden>这些细胞的表面 带有一千种不同受器</span></div>
+<div class="z"><span class="tr">這些細胞的表面帶有一千種不同受器</span><span class="sp" hidden>这些细胞的表面带有一千种不同受器</span></div>
 <div class="e">These cells carry about a thousand different kinds of receptors on their surfaces.</div>
 </div>
 <div class="sub">
@@ -1907,16 +1876,16 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">30:27–30:31</div>
-<div class="z"><span class="tr">總之，我們巧妙的呼吸系統 肩負多項任務</span><span class="sp" hidden>总之，我们巧妙的呼吸系统 肩负多项任务</span></div>
+<div class="z"><span class="tr">總之，我們巧妙的呼吸系統肩負多項任務</span><span class="sp" hidden>总之，我们巧妙的呼吸系统肩负多项任务</span></div>
 <div class="e">All in all, our respiratory systems are ingenious multitaskers, sorting the</div>
 </div>
 <div class="sub">
 <div class="ts">30:31–30:33</div>
-<div class="z"><span class="tr">會在每次吸氣時 區分數千種氣味</span><span class="sp" hidden>会在每次吸气时 区分数千种气味</span></div>
+<div class="z"><span class="tr">會在每次吸氣時區分數千種氣味</span><span class="sp" hidden>会在每次吸气时区分数千种气味</span></div>
 </div>
 <div class="sub">
 <div class="ts">30:34–30:38</div>
-<div class="z"><span class="tr">還能在吐氣時 發出數千種聲音</span><span class="sp" hidden>还能在吐气时 发出数千种声音</span></div>
+<div class="z"><span class="tr">還能在吐氣時發出數千種聲音</span><span class="sp" hidden>还能在吐气时发出数千种声音</span></div>
 <div class="e">thousands of smells at each intake capable of making thousands of sounds on the way out.</div>
 </div>
 <div class="sub">
@@ -1951,23 +1920,21 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">31:21–31:23</div>
-<div class="z"><span class="tr">心臟的非凡之處來自心臟細胞</span><span class="sp" hidden>心脏的非凡之处来自心脏细胞</span></div>
-<div class="e">It&#x27;s genius life.</div>
+<div class="z"><span class="tr">心臟的非凡之處在於其心肌細胞</span><span class="sp" hidden>心脏的非凡之处在于其心肌细胞</span></div>
+<div class="e">It&#x27;s genius lies in its cardiac cells, millions of them all beating in tune, but heart cells don&#x27;t necessarily have to be born in the heart.</div>
 </div>
 <div class="sub">
 <div class="ts">31:24–31:27</div>
-<div class="z"><span class="tr">有數百萬個心臟細胞 和諧一致地跳動</span><span class="sp" hidden>有数百万个心脏细胞 和谐一致地跳动</span></div>
-<div class="e">in its cardiac cells, millions of them all beating in tune, but heart cells don&#x27;t necessarily have to be born in the heart.</div>
+<div class="z"><span class="tr">有數百萬個心臟細胞和諧一致地跳動</span><span class="sp" hidden>有数百万个心脏细胞和谐一致地跳动</span></div>
 </div>
 <div class="sub">
 <div class="ts">31:29–31:33</div>
-<div class="z"><span class="tr">但心臟細胞 不一定出生於心臟內</span><span class="sp" hidden>但心脏细胞 不一定出生于心脏内</span></div>
-<div class="e">These are stem cells, coaxed into beating by Dr.</div>
+<div class="z"><span class="tr">但心臟細胞不一定出生於心臟內</span><span class="sp" hidden>但心脏细胞不一定出生于心脏内</span></div>
 </div>
 <div class="sub">
 <div class="ts">31:41–31:44</div>
-<div class="z"><span class="tr">及他在匹茲堡醫學中心的同僚 誘哄而跳動</span><span class="sp" hidden>及他在匹兹堡医学中心的同僚 诱哄而跳动</span></div>
-<div class="e">Amit Patel and his colleagues from the University of Pittsburgh Medical Center. Those cells had nothing to do with becoming heart muscle, but within less than a week, we were able to train them to become heart muscle.</div>
+<div class="z"><span class="tr">阿米特·帕特爾醫生及其在匹茲堡大學醫學中心的同事，誘導這些幹細胞分化並跳動</span><span class="sp" hidden>阿米特·帕特尔医生及其在匹兹堡大学医学中心的同事，诱导这些干细胞分化并跳动</span></div>
+<div class="e">These are stem cells, coaxed into beating by Dr. Amit Patel and his colleagues from the University of Pittsburgh Medical Center. Those cells had nothing to do with becoming heart muscle, but within less than a week, we were able to train them to become heart muscle.</div>
 </div>
 <h2 id="s17">17. 人體概論 · 第3段</h2>
 <div class="meta">32:06–34:17</div>
@@ -1978,11 +1945,11 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">32:09–32:10</div>
-<div class="z"><span class="tr">如腦細胞、肌肉細胞 骨骼細胞和脂肪細胞</span><span class="sp" hidden>如脑细胞、肌肉细胞 骨骼细胞和脂肪细胞</span></div>
+<div class="z"><span class="tr">如腦細胞、肌肉細胞、骨骼細胞和脂肪細胞</span><span class="sp" hidden>如脑细胞、肌肉细胞、骨骼细胞和脂肪细胞</span></div>
 </div>
 <div class="sub">
 <div class="ts">32:14–32:18</div>
-<div class="z"><span class="tr">你能想到的 220多種不同人體細胞</span><span class="sp" hidden>你能想到的 220多种不同人体细胞</span></div>
+<div class="z"><span class="tr">你能想到的220多種不同人體細胞</span><span class="sp" hidden>你能想到的220多种不同人体细胞</span></div>
 <div class="e">fat almost anything you could possibly think of in the body over 220 different cell types all come from stem cells</div>
 </div>
 <div class="sub">
@@ -1995,23 +1962,22 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">32:27–32:30</div>
-<div class="z"><span class="tr">他體內的幹細胞 能成心臟細胞</span><span class="sp" hidden>他体内的干细胞 能成心脏细胞</span></div>
+<div class="z"><span class="tr">他體內的幹細胞能成心臟細胞</span><span class="sp" hidden>他体内的干细胞能成心脏细胞</span></div>
 <div class="e">49 year old Michael Carlett desperately hopes that stem cells can turn into heart cells in his own body a few years ago his heart</div>
 </div>
 <div class="sub">
-<div class="ts">32:35–32:36　≈</div>
-<div class="z"><span class="tr">心臟開始衰弱</span><span class="sp" hidden>心脏开始衰弱</span></div>
+<div class="ts">32:35–32:36</div>
+<div class="z"><span class="tr">他的心臟開始災難性地衰竭</span><span class="sp" hidden>他的心脏开始灾难性地衰竭</span></div>
 <div class="e">his heart started to give out catastrophically.</div>
 </div>
 <div class="sub">
 <div class="ts">32:36–32:40</div>
 <div class="z"><span class="tr">而且是嚴重衰弱</span><span class="sp" hidden>而且是严重衰弱</span></div>
-<div class="e">Mr. Carland&#x27;s heart is very sick.</div>
 </div>
 <div class="sub">
 <div class="ts">32:40–32:42</div>
 <div class="z"><span class="tr">卡拉特先生的心臟病得很重</span><span class="sp" hidden>卡拉特先生的心脏病得很重</span></div>
-<div class="e">He had a very large heart attack. When you look at the heart, it&#x27;s a pump. And normally 60% of what goes into the heart should come out with every heartbeat.</div>
+<div class="e">Mr. Carland&#x27;s heart is very sick. He had a very large heart attack. When you look at the heart, it&#x27;s a pump. And normally 60% of what goes into the heart should come out with every heartbeat.</div>
 </div>
 <div class="sub">
 <div class="ts">33:02–33:02</div>
@@ -2020,8 +1986,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">33:02–33:04</div>
-<div class="z"><span class="tr">我體重有275磅 身高是6呎4</span><span class="sp" hidden>我体重有275磅 身高是6呎4</span></div>
-<div class="e">175 pounds I&#x27;m 6&#x27;4.</div>
+<div class="z"><span class="tr">我體重有275磅，身高是6呎4</span><span class="sp" hidden>我体重有275磅，身高是6呎4</span></div>
 </div>
 <div class="sub">
 <div class="ts">33:05–33:06</div>
@@ -2034,14 +1999,13 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="e">in which Patel performs a risky bypass on his heart&#x27;s damaged area, extracts stem cells from his hip bone, and injects them back into Michael&#x27;s heart. It&#x27;s not clear what these cells will do there.</div>
 </div>
 <div class="sub">
-<div class="ts">33:44–33:44　≈</div>
-<div class="z"><span class="tr">或增加肌肉纖維數</span><span class="sp" hidden>或增加肌肉纤维数</span></div>
-<div class="e">Help grow new blood vessels, increase the number of muscle findings, increase the number of muscle find,</div>
+<div class="ts">33:44–33:44</div>
+<div class="z"><span class="tr">幫助長出新血管，增加肌肉纖維的數量...</span><span class="sp" hidden>帮助长出新血管，增加肌肉纤维的数量...</span></div>
+<div class="e">Help grow new blood vessels, increase the number of muscle fibers...</div>
 </div>
 <div class="sub">
 <div class="ts">33:44–33:48</div>
-<div class="z"><span class="tr">他們希望幹細胞能誘哄 麥克的心臟自行癒合</span><span class="sp" hidden>他们希望干细胞能诱哄 麦克的心脏自行愈合</span></div>
-<div class="e">The hope is that they&#x27;ll help coax Michael&#x27;s heart into healing itself.</div>
+<div class="z"><span class="tr">他們希望幹細胞能誘哄麥克的心臟自行癒合</span><span class="sp" hidden>他们希望干细胞能诱哄麦克的心脏自行愈合</span></div>
 </div>
 <div class="sub">
 <div class="ts">33:49–33:50</div>
@@ -2049,8 +2013,8 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="e">We don&#x27;t know what they do, but they seem to know what&#x27;s required.</div>
 </div>
 <div class="sub">
-<div class="ts">33:51–33:52　≈</div>
-<div class="z"><span class="tr">心臟需要什麼</span><span class="sp" hidden>心脏需要什么</span></div>
+<div class="ts">33:51–33:52</div>
+<div class="z"><span class="tr">雖然還處於早期階段，但在麥可的案例中，它們似乎已經開始發揮作用了</span><span class="sp" hidden>虽然还处于早期阶段，但在麦可的案例中，它们似乎已经开始发挥作用了</span></div>
 <div class="e">And though it&#x27;s early, in Michael&#x27;s case, they already seem to be working.</div>
 </div>
 <div class="sub">
@@ -2059,7 +2023,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="e">Just three months after his surgery, Michael&#x27;s heart pumps 25% more blood than it did before. The difference between barely climbing a flight of stairs and playing basketball.</div>
 </div>
 <div class="sub">
-<div class="ts">34:17–34:17　≈</div>
+<div class="ts">34:17–34:17</div>
 <div class="z"><span class="tr">讓他能打籃球</span><span class="sp" hidden>让他能打篮球</span></div>
 <div class="e">It&#x27;s working, so I&#x27;m not going to ask why, how, what. But, in essence, he saved my life.</div>
 </div>
@@ -2067,7 +2031,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="meta">34:26–36:52</div>
 <div class="sub">
 <div class="ts">34:26–34:27</div>
-<div class="z"><span class="tr">我若沒有去找他 我可能早就已經死了</span><span class="sp" hidden>我若没有去找他 我可能早就已经死了</span></div>
+<div class="z"><span class="tr">我若沒有去找他，我可能早就已經死了</span><span class="sp" hidden>我若没有去找他，我可能早就已经死了</span></div>
 <div class="e">If I didn&#x27;t go to him, I probably would have just not been around today.</div>
 </div>
 <div class="sub">
@@ -2078,12 +2042,11 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="sub">
 <div class="ts">34:31–34:33</div>
 <div class="z"><span class="tr">當然不僅要有健康的心臟</span><span class="sp" hidden>当然不仅要有健康的心脏</span></div>
-<div class="e">to give life-giving liquids around the body.</div>
 </div>
 <div class="sub">
 <div class="ts">34:34–34:36</div>
 <div class="z"><span class="tr">還要有暢通的血管</span><span class="sp" hidden>还要有畅通的血管</span></div>
-<div class="e">It takes good plumbing.</div>
+<div class="e">to give life-giving liquids around the body. It takes good plumbing.</div>
 </div>
 <div class="sub">
 <div class="ts">34:39–34:40</div>
@@ -2092,7 +2055,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">34:41–34:44</div>
-<div class="z"><span class="tr">會將重要的氧氣帶入 越來越小的動脈</span><span class="sp" hidden>会将重要的氧气带入 越来越小的动脉</span></div>
+<div class="z"><span class="tr">會將重要的氧氣帶入越來越小的動脈</span><span class="sp" hidden>会将重要的氧气带入越来越小的动脉</span></div>
 <div class="e">through smaller and smaller arteries,</div>
 </div>
 <div class="sub">
@@ -2107,25 +2070,25 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">34:54–34:57</div>
-<div class="z"><span class="tr">直徑為好幾千分之一吋的 紅血球細胞</span><span class="sp" hidden>直径为好几千分之一吋的 红血球细胞</span></div>
+<div class="z"><span class="tr">直徑為好幾千分之一吋的紅血球細胞</span><span class="sp" hidden>直径为好几千分之一吋的红血球细胞</span></div>
 </div>
 <div class="sub">
 <div class="ts">34:57–35:00</div>
-<div class="z"><span class="tr">必須排成一列 用力通過毛細血管</span><span class="sp" hidden>必须排成一列 用力通过毛细血管</span></div>
-<div class="e">must squeeze through single. single file.</div>
+<div class="z"><span class="tr">必須排成一列用力通過毛細血管</span><span class="sp" hidden>必须排成一列用力通过毛细血管</span></div>
+<div class="e">must squeeze through single file.</div>
 </div>
 <div class="sub">
 <div class="ts">35:05–35:08</div>
-<div class="z"><span class="tr">人體全身上下 共有上百億條毛細血管</span><span class="sp" hidden>人体全身上下 共有上百亿条毛细血管</span></div>
-<div class="e">Pillaries fanned throughout the body so that our organs and tissues are never far from a fresh supply of oxygen.</div>
+<div class="z"><span class="tr">人體全身上下共有上百億條毛細血管</span><span class="sp" hidden>人体全身上下共有上百亿条毛细血管</span></div>
+<div class="e">Capillaries fanned throughout the body so that our organs and tissues are never far from a fresh supply of oxygen.</div>
 </div>
 <div class="sub">
 <div class="ts">35:08–35:12</div>
-<div class="z"><span class="tr">因此我們的器官和組織 從不缺乏新鮮的氧氣</span><span class="sp" hidden>因此我们的器官和组织 从不缺乏新鲜的氧气</span></div>
+<div class="z"><span class="tr">因此我們的器官和組織從不缺乏新鮮的氧氣</span><span class="sp" hidden>因此我们的器官和组织从不缺乏新鲜的氧气</span></div>
 </div>
 <div class="sub">
 <div class="ts">35:16–35:19</div>
-<div class="z"><span class="tr">二氧化碳和其他毒素 必須排出身體</span><span class="sp" hidden>二氧化碳和其他毒素 必须排出身体</span></div>
+<div class="z"><span class="tr">二氧化碳和其他毒素必須排出體外</span><span class="sp" hidden>二氧化碳和其他毒素必须排出体外</span></div>
 <div class="e">And other toxins need to get out and veins are crucial drain pipes, carrying the blood back to the heart, then to the lungs for cleaning.</div>
 </div>
 <div class="sub">
@@ -2142,31 +2105,30 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">35:26–35:31</div>
-<div class="z"><span class="tr">血液流經6萬多哩的血管</span><span class="sp" hidden>血液流经6万多哩的血管</span></div>
-<div class="e">Blood travels through more than...</div>
+<div class="z"><span class="tr">血液流經長達6萬多英里的血管</span><span class="sp" hidden>血液流经长达6万多英里的血管</span></div>
+<div class="e">Blood travels through more than 60,000 miles of vessels.</div>
 </div>
 <div class="sub">
 <div class="ts">35:31–35:34</div>
 <div class="z"><span class="tr">這長度是地球圓周的兩倍多</span><span class="sp" hidden>这长度是地球圆周的两倍多</span></div>
-<div class="e">It circulates all around the body in less than a minute, every minute of our lives.</div>
 </div>
 <div class="sub">
 <div class="ts">35:37–35:40</div>
-<div class="z"><span class="tr">血液不到1分鐘 便可循環身體一周</span><span class="sp" hidden>血液不到1分钟 便可循环身体一周</span></div>
+<div class="z"><span class="tr">血液不到1分鐘便可循環身體一周</span><span class="sp" hidden>血液不到1分钟便可循环身体一周</span></div>
+<div class="e">It circulates all around the body in less than a minute, every minute of our lives.</div>
 </div>
 <div class="sub">
 <div class="ts">35:41–35:44</div>
 <div class="z"><span class="tr">血液每分鐘都在循環</span><span class="sp" hidden>血液每分钟都在循环</span></div>
-<div class="e">And sometimes blood moves even faster. The more oxygen our cells are cells.</div>
 </div>
 <div class="sub">
 <div class="ts">36:01–36:02</div>
 <div class="z"><span class="tr">我們跑步時血液會流向肌肉</span><span class="sp" hidden>我们跑步时血液会流向肌肉</span></div>
-<div class="e">burn, the harder our heart and blood vessels have to work to deliver more. When we eat, it rushes to our stomachs. When we run, to our muscles.</div>
+<div class="e">The more oxygen our cells burn, the harder our heart and blood vessels have to work to deliver more. When we eat, it rushes to our stomachs. When we run, to our muscles.</div>
 </div>
 <div class="sub">
 <div class="ts">36:10–36:11</div>
-<div class="z"><span class="tr">都必須要有更多氧氣 輸送到腦部</span><span class="sp" hidden>都必须要有更多氧气 输送到脑部</span></div>
+<div class="z"><span class="tr">都必須要有更多氧氣輸送到腦部</span><span class="sp" hidden>都必须要有更多氧气输送到脑部</span></div>
 <div class="e">Even when we read, more oxygen must get to our brains. As efficient as this blood delivery system is, though, it has its limits.</div>
 </div>
 <div class="sub">
@@ -2175,7 +2137,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">36:20–36:22</div>
-<div class="z"><span class="tr">美國海軍飛行員體驗過 血液系統的限制</span><span class="sp" hidden>美国海军飞行员体验过 血液系统的限制</span></div>
+<div class="z"><span class="tr">美國海軍飛行員體驗過血液系統的限制</span><span class="sp" hidden>美国海军飞行员体验过血液系统的限制</span></div>
 <div class="e">Limits experienced by pilots in the US Navy.</div>
 </div>
 <div class="sub">
@@ -2196,7 +2158,6 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="sub">
 <div class="ts">36:38–36:39</div>
 <div class="z"><span class="tr">我的體重有180磅</span><span class="sp" hidden>我的体重有180磅</span></div>
-<div class="e">I weigh about 180 pounds, so it&#x27;s nine times that.</div>
 </div>
 <div class="sub">
 <div class="ts">36:40–36:40</div>
@@ -2213,12 +2174,12 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">36:49–36:50</div>
-<div class="z"><span class="tr">單飛飛行員泰德司提爾曼 承受的1千6百磅壓力</span><span class="sp" hidden>单飞飞行员泰德司提尔曼 承受的1千6百磅压力</span></div>
+<div class="z"><span class="tr">單飛飛行員泰德司提爾曼承受的1千6百磅壓力</span><span class="sp" hidden>单飞飞行员泰德司提尔曼承受的1千6百磅压力</span></div>
 <div class="e">Some 1,600 pounds of pressure on solo pilot Ted Steelman</div>
 </div>
 <div class="sub">
 <div class="ts">36:51–36:52</div>
-<div class="z"><span class="tr">足以將攜帶珍貴氧氣的血液 逼出他的腦部</span><span class="sp" hidden>足以将携带珍贵氧气的血液 逼出他的脑部</span></div>
+<div class="z"><span class="tr">足以將攜帶珍貴氧氣的血液逼出他的腦部</span><span class="sp" hidden>足以将携带珍贵氧气的血液逼出他的脑部</span></div>
 <div class="e">is enough to push the precious oxygen-carrying blood right out of his brain.</div>
 </div>
 <h2 id="s19">19. 肌肉與運動 · 第2段</h2>
@@ -2231,12 +2192,11 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="sub">
 <div class="ts">37:03–37:07</div>
 <div class="z"><span class="tr">然後人會昏過去</span><span class="sp" hidden>然后人会昏过去</span></div>
-<div class="e">To count it.</div>
 </div>
 <div class="sub">
 <div class="ts">37:07–37:14</div>
 <div class="z"><span class="tr">戰鬥機飛行員通常會穿抗G衣</span><span class="sp" hidden>战斗机飞行员通常会穿抗G衣</span></div>
-<div class="e">To act this, fighter pilots typically wear gravity or G-suits, which automatically inflate to squeeze blood where it&#x27;s needed.</div>
+<div class="e">To counteract this, fighter pilots typically wear gravity or G-suits, which automatically inflate to squeeze blood where it&#x27;s needed.</div>
 </div>
 <div class="sub">
 <div class="ts">37:14–37:14</div>
@@ -2250,7 +2210,6 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="sub">
 <div class="ts">37:19–37:20</div>
 <div class="z"><span class="tr">所以藍天使不能冒險</span><span class="sp" hidden>所以蓝天使不能冒险</span></div>
-<div class="e">The slightest jolt from a G-suit on the stick could be disastrous.</div>
 </div>
 <div class="sub">
 <div class="ts">37:27–37:29</div>
@@ -2260,35 +2219,30 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="sub">
 <div class="ts">37:29–37:37</div>
 <div class="z"><span class="tr">在飛機以4百哩的時速飛行</span><span class="sp" hidden>在飞机以4百哩的时速飞行</span></div>
-<div class="e">when you do on 400 miles an hour, a mere 18 inches from the guy next to you, it actually has huge ramifications. So, no one of the number.</div>
+<div class="e">when you do on 400 miles an hour, a mere 18 inches from the guy next to you, it actually has huge ramifications.</div>
 </div>
 <div class="sub">
 <div class="ts">37:37–37:40</div>
 <div class="z"><span class="tr">所以我們不希望駕駛桿移動</span><span class="sp" hidden>所以我们不希望驾驶杆移动</span></div>
-<div class="e">movement of the stick unless intended is what you&#x27;re looking for.</div>
+<div class="e">So, no unintentional movement of the stick unless intended is what you&#x27;re looking for.</div>
 </div>
 <div class="sub">
 <div class="ts">37:42–37:43</div>
-<div class="z"><span class="tr">也就是說 這些飛行員必須用他們的肌肉</span><span class="sp" hidden>也就是说 这些飞行员必须用他们的肌肉</span></div>
-<div class="e">Which means that these pilots must use their muscle to force blood up to their brains.</div>
+<div class="z"><span class="tr">也就是說這些飛行員必須用他們的肌肉</span><span class="sp" hidden>也就是说这些飞行员必须用他们的肌肉</span></div>
 </div>
 <div class="sub">
 <div class="ts">37:45–37:51</div>
-<div class="z"><span class="tr">將血液逼入腦部</span><span class="sp" hidden>将血液逼入脑部</span></div>
-<div class="e">What I do to this is what we call a hic maneuver. It&#x27;s a combination of a breathing technique</div>
-</div>
-<div class="sub">
-<div class="ts">37:51–37:51</div>
-<div class="z"><span class="tr">這是一種呼吸技巧</span><span class="sp" hidden>这是一种呼吸技巧</span></div>
+<div class="z"><span class="tr">這套動作被稱為「打嗝法」（Hick maneuver），它結合了呼吸技巧...</span><span class="sp" hidden>这套动作被称为「打嗝法」（Hick maneuver），它结合了呼吸技巧...</span></div>
+<div class="e">Which means that these pilots must use their muscle to force blood up to their brains. What I do to this is what we call a hic maneuver. It&#x27;s a combination of a breathing technique</div>
 </div>
 <div class="sub">
 <div class="ts">37:51–37:55</div>
-<div class="z"><span class="tr">利用「打嗝」收縮胸腔</span><span class="sp" hidden>利用「打嗝」收缩胸腔</span></div>
+<div class="z"><span class="tr">透過發出「嘿、嘿」的聲音來收縮胸腔</span><span class="sp" hidden>透过发出「嘿、嘿」的声音来收缩胸腔</span></div>
 <div class="e">and that you contract your chest with a hic-ch-ch-to-ch-ch-to-to-keep-keep the overall pressure within the chest cavity high</div>
 </div>
 <div class="sub">
 <div class="ts">37:55–38:00</div>
-<div class="z"><span class="tr">用所有力量持續壓著胸腔 3至4秒</span><span class="sp" hidden>用所有力量持续压著胸腔 3至4秒</span></div>
+<div class="z"><span class="tr">用所有力量持續壓著胸腔3至4秒</span><span class="sp" hidden>用所有力量持续压著胸腔3至4秒</span></div>
 </div>
 <div class="sub">
 <div class="ts">38:00–38:04</div>
@@ -2298,31 +2252,29 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="sub">
 <div class="ts">38:07–38:09</div>
 <div class="z"><span class="tr">純粹呼吸和收縮肌肉</span><span class="sp" hidden>纯粹呼吸和收缩肌肉</span></div>
-<div class="e">By simply breathing and contracting muscles,</div>
 </div>
 <div class="sub">
 <div class="ts">38:09–38:14</div>
 <div class="z"><span class="tr">就能訓練身體承受極大的壓力</span><span class="sp" hidden>就能训练身体承受极大的压力</span></div>
-<div class="e">the body can be trained to withstand extreme forces.</div>
+<div class="e">By simply breathing and contracting muscles, the body can be trained to withstand extreme forces.</div>
 </div>
 <div class="sub">
 <div class="ts">38:16–38:18</div>
 <div class="z"><span class="tr">為此飛行員須面對這部機器</span><span class="sp" hidden>为此飞行员须面对这部机器</span></div>
-<div class="e">To do it, pilots must face this.</div>
 </div>
 <div class="sub">
 <div class="ts">38:18–38:19</div>
 <div class="z"><span class="tr">離心機</span><span class="sp" hidden>离心机</span></div>
-<div class="e">The centrifuge.</div>
+<div class="e">To do it, pilots must face this. The centrifuge.</div>
 </div>
 <div class="sub">
 <div class="ts">38:20–38:22</div>
 <div class="z"><span class="tr">離心機有如超快的游樂園設施</span><span class="sp" hidden>离心机有如超快的游乐园设施</span></div>
-<div class="e">Like an extreme amusement park ride that spins blood from brains to toes</div>
 </div>
 <div class="sub">
 <div class="ts">38:22–38:24</div>
 <div class="z"><span class="tr">可攪動從腦部到腳趾的血液</span><span class="sp" hidden>可搅动从脑部到脚趾的血液</span></div>
+<div class="e">Like an extreme amusement park ride that spins blood from brains to toes</div>
 </div>
 <div class="sub">
 <div class="ts">38:25–38:28</div>
@@ -2331,32 +2283,30 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">38:29–38:29</div>
-<div class="z"><span class="tr">他們訓練身體 有如馬拉松選手訓練身體</span><span class="sp" hidden>他们训练身体 有如马拉松选手训练身体</span></div>
-<div class="e">They train their bodies, just like a marathoner will train their body</div>
+<div class="z"><span class="tr">他們訓練身體有如馬拉松選手訓練身體</span><span class="sp" hidden>他们训练身体有如马拉松选手训练身体</span></div>
 </div>
 <div class="sub">
 <div class="ts">38:29–38:35</div>
-<div class="z"><span class="tr">以每5分鐘1哩的速度 跑26哩</span><span class="sp" hidden>以每5分钟1哩的速度 跑26哩</span></div>
-<div class="e">to go out and run 26 miles at, you know, five-minute miles.</div>
+<div class="z"><span class="tr">以每5分鐘1哩的速度跑26哩</span><span class="sp" hidden>以每5分钟1哩的速度跑26哩</span></div>
+<div class="e">They train their bodies, just like a marathoner will train their body to go out and run 26 miles at, you know, five-minute miles.</div>
 </div>
 <div class="sub">
 <div class="ts">38:36–38:39</div>
 <div class="z"><span class="tr">這些人是訓練身體對抗重力</span><span class="sp" hidden>这些人是训练身体对抗重力</span></div>
-<div class="e">These guys train their bodies to respond to the cheese.</div>
+<div class="e">These guys train their bodies to respond to the Gs.</div>
 </div>
 <div class="sub">
 <div class="ts">38:40–38:42</div>
 <div class="z"><span class="tr">非常好繼續保持下去</span><span class="sp" hidden>非常好继续保持下去</span></div>
-<div class="e">Legs and glutes, keep them in.</div>
 </div>
 <div class="sub">
 <div class="ts">38:42–38:45</div>
-<div class="z"><span class="tr">但即便像司提爾曼 這種受過嚴格訓練的專家</span><span class="sp" hidden>但即便像司提尔曼 这种受过严格训练的专家</span></div>
-<div class="e">But even highly trained specialists like Steelman can only defy physics for so long.</div>
+<div class="z"><span class="tr">但即便像司提爾曼這種受過嚴格訓練的專家</span><span class="sp" hidden>但即便像司提尔曼这种受过严格训练的专家</span></div>
 </div>
 <div class="sub">
 <div class="ts">38:45–38:48</div>
 <div class="z"><span class="tr">也無法對抗物理現象很久</span><span class="sp" hidden>也无法对抗物理现象很久</span></div>
+<div class="e">But even highly trained specialists like Steelman can only defy physics for so long.</div>
 </div>
 <div class="sub">
 <div class="ts">38:54–38:56</div>
@@ -2367,17 +2317,16 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="meta">38:56–41:02</div>
 <div class="sub">
 <div class="ts">38:56–38:58</div>
-<div class="z"><span class="tr">我預期會發生G力釋放 所以我怎麼辦？</span><span class="sp" hidden>我预期会发生G力释放 所以我怎么办？</span></div>
+<div class="z"><span class="tr">我預期會發生G力釋放，所以我怎麼辦？</span><span class="sp" hidden>我预期会发生G力释放，所以我怎么办？</span></div>
 <div class="e">I expected a G-release, so what did I do?</div>
 </div>
 <div class="sub">
 <div class="ts">38:59–39:01</div>
 <div class="z"><span class="tr">我一放鬆身體</span><span class="sp" hidden>我一放松身体</span></div>
-<div class="e">I relax my body.</div>
 </div>
 <div class="sub">
 <div class="ts">39:02–39:07</div>
-<div class="z"><span class="tr">每一次我都會昏倒 因為我承受的G力實在太大</span><span class="sp" hidden>每一次我都会昏倒 因为我承受的G力实在太大</span></div>
+<div class="z"><span class="tr">每一次我都會昏倒，因為我承受的G力實在太大</span><span class="sp" hidden>每一次我都会昏倒，因为我承受的G力实在太大</span></div>
 <div class="e">The moment you relax, the absolute moment you relax, every single time you&#x27;re going to pass out under G like that.</div>
 </div>
 <div class="sub">
@@ -2386,7 +2335,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">39:13–39:14</div>
-<div class="z"><span class="tr">他知道警訊何時出現 然後會採取避險動作</span><span class="sp" hidden>他知道警讯何时出现 然后会采取避险动作</span></div>
+<div class="z"><span class="tr">他知道警訊何時出現然後會採取避險動作</span><span class="sp" hidden>他知道警讯何时出现然后会采取避险动作</span></div>
 <div class="e">Now, when Steelman takes to the skies, he knows the warning signs and takes evasive action.</div>
 </div>
 <div class="sub">
@@ -2396,28 +2345,22 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">39:24–39:26</div>
-<div class="z"><span class="tr">我會聽到後座的人 努力做打嗝動作</span><span class="sp" hidden>我会听到后座的人 努力做打嗝动作</span></div>
+<div class="z"><span class="tr">我會聽到後座的人努力做打嗝動作</span><span class="sp" hidden>我会听到后座的人努力做打嗝动作</span></div>
 <div class="e">You&#x27;ll hear them back there working, and they&#x27;re executing the Hick maneuver,</div>
 </div>
 <div class="sub">
 <div class="ts">39:28–39:29</div>
-<div class="z"><span class="tr">他們非常努力打嗝 然後突然間他們會沒聲音</span><span class="sp" hidden>他们非常努力打嗝 然后突然间他们会没声音</span></div>
-<div class="e">and they&#x27;re working really hard, and then suddenly it just kind of gets quiet,</div>
+<div class="z"><span class="tr">他們非常努力打嗝然後突然間他們會沒聲音</span><span class="sp" hidden>他们非常努力打嗝然后突然间他们会没声音</span></div>
 </div>
 <div class="sub">
-<div class="ts">39:29–39:34　≈</div>
-<div class="z"><span class="tr">從後照鏡看見他們就這樣</span><span class="sp" hidden>从后照镜看见他们就这样</span></div>
+<div class="ts">39:29–39:34</div>
+<div class="z"><span class="tr">你從後視鏡看他們，他們就這樣...頭垂到了胸口，看著有點可悲</span><span class="sp" hidden>你从后视镜看他们，他们就这样...头垂到了胸口，看著有点可悲</span></div>
 <div class="e">and you look back in the mirror and they just kind of do this, you know, their heads down to their chest, and it&#x27;s kind of sad.</div>
 </div>
 <div class="sub">
-<div class="ts">39:37–39:39</div>
-<div class="z"><span class="tr">幸好這些影響只是暫時性的</span><span class="sp" hidden>幸好这些影响只是暂时性的</span></div>
-<div class="e">Unfortunately, the effects are only tem... Whoa, Chal-Tor-Tor-0-0-7. Whoa!</div>
-</div>
-<div class="sub">
-<div class="ts">39:42–39:44</div>
-<div class="z"><span class="tr">成功了嗎？</span><span class="sp" hidden>成功了吗？</span></div>
-<div class="e">Did we do it?</div>
+<div class="ts">39:37–39:44</div>
+<div class="z"><span class="tr">不幸的是，這些影響只是暫時的...</span><span class="sp" hidden>不幸的是，这些影响只是暂时的...</span></div>
+<div class="e">Unfortunately, the effects are only temporary...</div>
 </div>
 <div class="sub">
 <div class="ts">39:44–39:45</div>
@@ -2427,7 +2370,6 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="sub">
 <div class="ts">39:53–39:56</div>
 <div class="z"><span class="tr">但血液中不僅含有氧氣</span><span class="sp" hidden>但血液中不仅含有氧气</span></div>
-<div class="e">But there&#x27;s more to this liquid than oxygen.</div>
 </div>
 <div class="sub">
 <div class="ts">40:00–40:01</div>
@@ -2436,21 +2378,21 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">40:02–40:05</div>
-<div class="z"><span class="tr">有多達40萬個 可抗感染的白血球細胞</span><span class="sp" hidden>有多达40万个 可抗感染的白血球细胞</span></div>
+<div class="z"><span class="tr">有多達40萬個可抗感染的白血球細胞</span><span class="sp" hidden>有多达40万个可抗感染的白血球细胞</span></div>
 </div>
 <div class="sub">
 <div class="ts">40:05–40:06</div>
-<div class="z"><span class="tr">不斷巡邏尋找 病毒和細菌等外來因子</span><span class="sp" hidden>不断巡逻寻找 病毒和细菌等外来因子</span></div>
+<div class="z"><span class="tr">不斷巡邏尋找病毒和細菌等外來因子</span><span class="sp" hidden>不断巡逻寻找病毒和细菌等外来因子</span></div>
 <div class="e">are constantly patrolling in seeking out foreign agents like viruses and bacteria</div>
 </div>
 <div class="sub">
 <div class="ts">40:10–40:12</div>
 <div class="z"><span class="tr">還有癌細胞等內在威脅</span><span class="sp" hidden>还有癌细胞等内在威胁</span></div>
-<div class="e">and internal threats like cancer and attacking them.</div>
 </div>
 <div class="sub">
 <div class="ts">40:12–40:14</div>
 <div class="z"><span class="tr">然後加以攻擊</span><span class="sp" hidden>然后加以攻击</span></div>
+<div class="e">and internal threats like cancer and attacking them.</div>
 </div>
 <div class="sub">
 <div class="ts">40:20–40:21</div>
@@ -2458,13 +2400,13 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="e">Unfortunately, they don&#x27;t always win. And when that happens, aggressors like these rogue men,</div>
 </div>
 <div class="sub">
-<div class="ts">40:28–40:28　≈</div>
-<div class="z"><span class="tr">像這些失控的黑素瘤細胞</span><span class="sp" hidden>像这些失控的黑素瘤细胞</span></div>
+<div class="ts">40:28–40:28</div>
+<div class="z"><span class="tr">像這些失控的惡性黑色素瘤細胞就會瘋狂生長</span><span class="sp" hidden>像这些失控的恶性黑色素瘤细胞就会疯狂生长</span></div>
 <div class="e">like these rogue melanoma cells can grow out of control.</div>
 </div>
 <div class="sub">
 <div class="ts">40:35–40:36</div>
-<div class="z"><span class="tr">無論我們的細胞是幫助我們 或傷害我們</span><span class="sp" hidden>无论我们的细胞是帮助我们 或伤害我们</span></div>
+<div class="z"><span class="tr">無論我們的細胞是幫助我們或傷害我們</span><span class="sp" hidden>无论我们的细胞是帮助我们或伤害我们</span></div>
 </div>
 <div class="sub">
 <div class="ts">40:36–40:38</div>
@@ -2474,39 +2416,37 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="sub">
 <div class="ts">40:38–40:44</div>
 <div class="z"><span class="tr">我們不斷替細胞工作</span><span class="sp" hidden>我们不断替细胞工作</span></div>
-<div class="e">for them.</div>
 </div>
 <div class="sub">
 <div class="ts">40:44–40:48</div>
-<div class="z"><span class="tr">從我們醒來到現在 我們的心臟已經跳動2萬多次</span><span class="sp" hidden>从我们醒来到现在 我们的心脏已经跳动2万多次</span></div>
+<div class="z"><span class="tr">從我們醒來到現在我們的心臟已經跳動2萬多次</span><span class="sp" hidden>从我们醒来到现在我们的心脏已经跳动2万多次</span></div>
 <div class="e">Since we woke up, our heart has beaten more than 20,000 times, bringing vital</div>
 </div>
 <div class="sub">
 <div class="ts">40:49–40:53</div>
-<div class="z"><span class="tr">將重要的氧氣帶入 上百億個微小細胞</span><span class="sp" hidden>将重要的氧气带入 上百亿个微小细胞</span></div>
+<div class="z"><span class="tr">將重要的氧氣帶入上百億個微小細胞</span><span class="sp" hidden>将重要的氧气带入上百亿个微小细胞</span></div>
 <div class="e">oxygen to a hundred billion microscopic masters.</div>
 </div>
 <div class="sub">
 <div class="ts">40:56–40:58</div>
 <div class="z"><span class="tr">但這部機器不僅需要空氣</span><span class="sp" hidden>但这部机器不仅需要空气</span></div>
-<div class="e">But it takes more than air to feed the machine.</div>
 </div>
 <div class="sub">
 <div class="ts">41:01–41:02</div>
 <div class="z"><span class="tr">還需要燃料</span><span class="sp" hidden>还需要燃料</span></div>
-<div class="e">It makes fuel.</div>
+<div class="e">But it takes more than air to feed the machine. It makes fuel.</div>
 </div>
 <h2 id="s21">21. 消化與代謝 · 第1段</h2>
 <div class="meta">41:11–43:21</div>
 <div class="sub">
 <div class="ts">41:11–41:12</div>
-<div class="z"><span class="tr">每次我們吞下一口食物</span><span class="sp" hidden>每次我们吞下一口食物</span></div>
-<div class="e">Every time we swallow a morsel of food, we sell a morsel of food, we set up.</div>
+<div class="z"><span class="tr">每次我們吞下一口食物，就讓它踏上一段旅程</span><span class="sp" hidden>每次我们吞下一口食物，就让它踏上一段旅程</span></div>
+<div class="e">Every time we swallow a morsel of food, we set it on a journey</div>
 </div>
 <div class="sub">
 <div class="ts">41:16–41:17</div>
-<div class="z"><span class="tr">會將食物推向好幾個器官 挖出食物所含的有用東西</span><span class="sp" hidden>会将食物推向好几个器官 挖出食物所含的有用东西</span></div>
-<div class="e">Set it on a journey designed to suck everything useful out of it.</div>
+<div class="z"><span class="tr">會將食物推向好幾個器官挖出食物所含的有用東西</span><span class="sp" hidden>会将食物推向好几个器官挖出食物所含的有用东西</span></div>
+<div class="e">designed to suck everything useful out of it.</div>
 </div>
 <div class="sub">
 <div class="ts">41:23–41:24</div>
@@ -2514,7 +2454,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">41:24–41:28</div>
-<div class="z"><span class="tr">食物經過約30個小時 20多呎的旅程就會消化</span><span class="sp" hidden>食物经过约30个小时 20多呎的旅程就会消化</span></div>
+<div class="z"><span class="tr">食物經過約30個小時20多呎的旅程就會消化</span><span class="sp" hidden>食物经过约30个小时20多呎的旅程就会消化</span></div>
 <div class="e">Sit down to lunch and in the 30 or so hours and 20 plus feet it takes to digest it, we convert plants or animals into energy</div>
 </div>
 <div class="sub">
@@ -2523,32 +2463,32 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">41:32–41:35</div>
-<div class="z"><span class="tr">把其中的化學基礎物質吸入 我們的血肉</span><span class="sp" hidden>把其中的化学基础物质吸入 我们的血肉</span></div>
+<div class="z"><span class="tr">把其中的化學基礎物質吸入我們的血肉</span><span class="sp" hidden>把其中的化学基础物质吸入我们的血肉</span></div>
 <div class="e">and absorb their chemical building blocks into our own flesh and blood.</div>
 </div>
 <div class="sub">
 <div class="ts">41:41–41:45</div>
-<div class="z"><span class="tr">碳水化合物、蛋白質、脂肪 維他命、礦物質</span><span class="sp" hidden>碳水化合物、蛋白质、脂肪 维他命、矿物质</span></div>
-<div class="e">Arbohydrates, proteins, fats, vitamins and minerals.</div>
+<div class="z"><span class="tr">碳水化合物、蛋白質、脂肪、維生素和礦物質</span><span class="sp" hidden>碳水化合物、蛋白质、脂肪、维生素和矿物质</span></div>
+<div class="e">Carbohydrates, proteins, fats, vitamins and minerals.</div>
 </div>
 <div class="sub">
 <div class="ts">41:48–41:48</div>
-<div class="z"><span class="tr">我們所有養分來自 我們吃下的食物</span><span class="sp" hidden>我们所有养分来自 我们吃下的食物</span></div>
+<div class="z"><span class="tr">我們所有養分來自我們吃下的食物</span><span class="sp" hidden>我们所有养分来自我们吃下的食物</span></div>
 <div class="e">All of our nutrients come from what we eat.</div>
 </div>
 <div class="sub">
 <div class="ts">41:56–41:57</div>
-<div class="z"><span class="tr">其實食物還沒進入我們口中 消化動作就已經開始</span><span class="sp" hidden>其实食物还没进入我们口中 消化动作就已经开始</span></div>
+<div class="z"><span class="tr">其實食物還沒進入我們口中消化動作就已經開始</span><span class="sp" hidden>其实食物还没进入我们口中消化动作就已经开始</span></div>
 <div class="e">Digestion actually starts before food crosses our lips.</div>
 </div>
 <div class="sub">
 <div class="ts">42:03–42:04</div>
-<div class="z"><span class="tr">光是想到食物 我們就會流口水</span><span class="sp" hidden>光是想到食物 我们就会流口水</span></div>
-<div class="e">Just the idea of food can get to eat. food can get our mouths to water. We salivate roughly a pint every day.</div>
+<div class="z"><span class="tr">光是想到食物我們就會流口水</span><span class="sp" hidden>光是想到食物我们就会流口水</span></div>
+<div class="e">Just the idea of food can get our mouths to water. We salivate roughly a pint every day.</div>
 </div>
 <div class="sub">
 <div class="ts">42:05–42:11</div>
-<div class="z"><span class="tr">我們每天大約會分泌 1品脫的唾液</span><span class="sp" hidden>我们每天大约会分泌 1品脱的唾液</span></div>
+<div class="z"><span class="tr">我們每天大約會分泌1品脫的唾液</span><span class="sp" hidden>我们每天大约会分泌1品脱的唾液</span></div>
 </div>
 <div class="sub">
 <div class="ts">42:11–42:12</div>
@@ -2557,8 +2497,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">42:13–42:17</div>
-<div class="z"><span class="tr">酵素和我們的牙齒會分解 我們吃下的食物</span><span class="sp" hidden>酵素和我们的牙齿会分解 我们吃下的食物</span></div>
-<div class="e">we eat.</div>
+<div class="z"><span class="tr">酵素和我們的牙齒會分解我們吃下的食物</span><span class="sp" hidden>酵素和我们的牙齿会分解我们吃下的食物</span></div>
 </div>
 <div class="sub">
 <div class="ts">42:22–42:25</div>
@@ -2578,16 +2517,15 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="sub">
 <div class="ts">42:44–42:45</div>
 <div class="z"><span class="tr">如果有一些寶貴的受器燙傷</span><span class="sp" hidden>如果有一些宝贵的受器烫伤</span></div>
-<div class="e">And if some of those precious receptors are scorched off, it will only take a week to 10 days to grow back a brand new set.</div>
 </div>
 <div class="sub">
 <div class="ts">42:56–43:00</div>
-<div class="z"><span class="tr">強壯的舌頭一旦將食物 送入我們的食道</span><span class="sp" hidden>强壮的舌头一旦将食物 送入我们的食道</span></div>
+<div class="z"><span class="tr">強壯的舌頭一旦將食物送入我們的食道</span><span class="sp" hidden>强壮的舌头一旦将食物送入我们的食道</span></div>
+<div class="e">And if some of those precious receptors are scorched off, it will only take a week to 10 days to grow back a brand new set. Once the muscular tongue maneuvers food into our esophagus, we&#x27;re on autopilot.</div>
 </div>
 <div class="sub">
 <div class="ts">43:00–43:03</div>
 <div class="z"><span class="tr">食物就會自行進入消化器官</span><span class="sp" hidden>食物就会自行进入消化器官</span></div>
-<div class="e">Once the muscular tongue maneuvers food into our esophagus, we&#x27;re on autopilot.</div>
 </div>
 <div class="sub">
 <div class="ts">43:10–43:11</div>
@@ -2595,7 +2533,7 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">43:11–43:14</div>
-<div class="z"><span class="tr">有片稱為會厭的皮膚 會遮蓋住氣管</span><span class="sp" hidden>有片称为会厌的皮肤 会遮盖住气管</span></div>
+<div class="z"><span class="tr">有片稱為會厭的皮膚會遮蓋住氣管</span><span class="sp" hidden>有片称为会厌的皮肤会遮盖住气管</span></div>
 </div>
 <div class="sub">
 <div class="ts">43:17–43:21</div>
@@ -2607,72 +2545,62 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="sub">
 <div class="ts">43:30–43:32</div>
 <div class="z"><span class="tr">食物就會回到起點</span><span class="sp" hidden>食物就会回到起点</span></div>
-<div class="e">Then it&#x27;s back to the beginning.</div>
 </div>
 <div class="sub">
 <div class="ts">43:36–43:39</div>
-<div class="z"><span class="tr">食物從口中進入食道 通常只需5秒鐘</span><span class="sp" hidden>食物从口中进入食道 通常只需5秒钟</span></div>
-<div class="e">A typical journey down the esophagus takes about five seconds.</div>
+<div class="z"><span class="tr">食物從口中進入食道通常只需5秒鐘</span><span class="sp" hidden>食物从口中进入食道通常只需5秒钟</span></div>
+<div class="e">Then it&#x27;s back to the beginning. A typical journey down the esophagus takes about five seconds.</div>
 </div>
 <div class="sub">
 <div class="ts">43:39–43:39</div>
-<div class="z"><span class="tr">食物在食道內 像牙膏一樣被往下擠壓</span><span class="sp" hidden>食物在食道内 像牙膏一样被往下挤压</span></div>
+<div class="z"><span class="tr">食物在食道內像牙膏一樣被往下擠壓</span><span class="sp" hidden>食物在食道内像牙膏一样被往下挤压</span></div>
 <div class="e">From here it&#x27;s squeezed, like toothpaste.</div>
 </div>
 <div class="sub">
 <div class="ts">43:46–43:49</div>
-<div class="z"><span class="tr">食物一旦進入胃 就像現在的情形</span><span class="sp" hidden>食物一旦进入胃 就像现在的情形</span></div>
-<div class="e">Once it passes in the esophagus. to the stomach, as it&#x27;s doing here.</div>
+<div class="z"><span class="tr">食物一旦進入胃就像現在的情形</span><span class="sp" hidden>食物一旦进入胃就像现在的情形</span></div>
 </div>
 <div class="sub">
 <div class="ts">43:52–43:53</div>
-<div class="z"><span class="tr">食物就會放慢前進速度 開始消化</span><span class="sp" hidden>食物就会放慢前进速度 开始消化</span></div>
-<div class="e">It&#x27;s time to slow down a bit and digest.</div>
+<div class="z"><span class="tr">食物就會放慢前進速度開始消化</span><span class="sp" hidden>食物就会放慢前进速度开始消化</span></div>
+<div class="e">Once it passes in the esophagus. to the stomach, as it&#x27;s doing here. It&#x27;s time to slow down a bit and digest.</div>
 </div>
 <div class="sub">
 <div class="ts">43:56–43:56</div>
-<div class="z"><span class="tr">這個具伸縮性的J形囊袋 大小通常不會超過一個拳頭</span><span class="sp" hidden>这个具伸缩性的J形囊袋 大小通常不会超过一个拳头</span></div>
+<div class="z"><span class="tr">這個具伸縮性的J形囊袋大小通常不會超過一個拳頭</span><span class="sp" hidden>这个具伸缩性的J形囊袋大小通常不会超过一个拳头</span></div>
 <div class="e">Normally this stretchy, J-shaped bag isn&#x27;t much bigger than a fist.</div>
 </div>
 <div class="sub">
 <div class="ts">44:00–44:01</div>
 <div class="z"><span class="tr">但吃下一頓大餐之後</span><span class="sp" hidden>但吃下一顿大餐之后</span></div>
-<div class="e">But after a big meal,</div>
 </div>
 <div class="sub">
 <div class="ts">44:02–44:06</div>
 <div class="z"><span class="tr">胃可膨脹20倍</span><span class="sp" hidden>胃可膨胀20倍</span></div>
-<div class="e">it can expand to more than 20 times that size.</div>
+<div class="e">But after a big meal, it can expand to more than 20 times that size.</div>
 </div>
 <div class="sub">
 <div class="ts">44:06–44:11</div>
-<div class="z"><span class="tr">接下來數小時 胃壁會噴出強酸胃液</span><span class="sp" hidden>接下来数小时 胃壁会喷出强酸胃液</span></div>
-<div class="e">For the next several hours, highly acidic</div>
+<div class="z"><span class="tr">接下來數小時胃壁會噴出強酸胃液</span><span class="sp" hidden>接下来数小时胃壁会喷出强酸胃液</span></div>
 </div>
 <div class="sub">
 <div class="ts">44:12–44:14</div>
 <div class="z"><span class="tr">分解食物中的蛋白質</span><span class="sp" hidden>分解食物中的蛋白质</span></div>
-<div class="e">gastric juices spew from the stomach&#x27;s walls, breaking down proteins in our food, while muscle</div>
+<div class="e">For the next several hours, highly acidic gastric juices spew from the stomach&#x27;s walls, breaking down proteins in our food, while muscle</div>
 </div>
 <div class="sub">
 <div class="ts">44:16–44:24</div>
 <div class="z"><span class="tr">將食物揉捏翻攪成糊狀物</span><span class="sp" hidden>将食物揉捏翻搅成糊状物</span></div>
-<div class="e">contractions knead and churn it into a pulp. The acid here is so strong the stomach must continuously secrete a layer of protective</div>
 </div>
 <div class="sub">
 <div class="ts">44:29–44:37</div>
 <div class="z"><span class="tr">以免胃將自己消化掉</span><span class="sp" hidden>以免胃将自己消化掉</span></div>
-<div class="e">mucus so that it doesn&#x27;t digest itself. It absorbs very few nutrients though.</div>
+<div class="e">contractions knead and churn it into a pulp. The acid here is so strong the stomach must continuously secrete a layer of protective mucus so that it doesn&#x27;t digest itself. It absorbs very few nutrients though.</div>
 </div>
 <div class="sub">
-<div class="ts">44:43–44:43</div>
-<div class="z"><span class="tr">所以在特殊藥丸攝影機的 幫助下</span><span class="sp" hidden>所以在特殊药丸摄影机的 帮助下</span></div>
-<div class="e">We pass into the 20-foot disassembly line of the small intestine, with the help of a specialized</div>
-</div>
-<div class="sub">
-<div class="ts">44:44–44:47</div>
-<div class="z"><span class="tr">我們進入20呎長的彎曲小腸</span><span class="sp" hidden>我们进入20呎长的弯曲小肠</span></div>
-<div class="e">camera pill.</div>
+<div class="ts">44:43–44:47</div>
+<div class="z"><span class="tr">借助特殊的「膠囊攝影機」，我們進入長達20英尺的小腸「拆解流水線」</span><span class="sp" hidden>借助特殊的「胶囊摄影机」，我们进入长达20英尺的小肠「拆解流水线」</span></div>
+<div class="e">We pass into the 20-foot disassembly line of the small intestine, with the help of a specialized camera pill.</div>
 </div>
 <div class="sub">
 <div class="ts">44:49–44:50</div>
@@ -2680,85 +2608,79 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 </div>
 <div class="sub">
 <div class="ts">44:50–44:54</div>
-<div class="z"><span class="tr">食物的基礎物質受到推擠戳刺 及消化液的噴灑</span><span class="sp" hidden>食物的基础物质受到推挤戳刺 及消化液的喷洒</span></div>
-<div class="e">For about five hours, foods building blocks are pushed, prodded, sprayed with digestive juices</div>
+<div class="z"><span class="tr">食物的基礎物質受到推擠戳刺及消化液的噴灑</span><span class="sp" hidden>食物的基础物质受到推挤戳刺及消化液的喷洒</span></div>
 </div>
 <div class="sub">
 <div class="ts">44:55–44:56</div>
 <div class="z"><span class="tr">在這裡活像遭扭絞的破布</span><span class="sp" hidden>在这里活像遭扭绞的破布</span></div>
+<div class="e">For about five hours, foods building blocks are pushed, prodded, sprayed with digestive juices and rung like a rag here</div>
 </div>
 <div class="sub">
 <div class="ts">44:57–45:00</div>
-<div class="z"><span class="tr">直到裡頭所含的重要養分 被壓穿過腸壁</span><span class="sp" hidden>直到里头所含的重要养分 被压穿过肠壁</span></div>
-<div class="e">and rung like a rag here until its vital elements are forced through the intestinal wall and into</div>
+<div class="z"><span class="tr">直到裡頭所含的重要養分被壓穿過腸壁</span><span class="sp" hidden>直到里头所含的重要养分被压穿过肠壁</span></div>
 </div>
 <div class="sub">
 <div class="ts">45:00–45:03</div>
 <div class="z"><span class="tr">然後進入血液</span><span class="sp" hidden>然后进入血液</span></div>
-<div class="e">the bloodstream.</div>
+<div class="e">until its vital elements are forced through the intestinal wall and into the bloodstream.</div>
 </div>
 <div class="sub">
 <div class="ts">45:05–45:09</div>
-<div class="z"><span class="tr">食物的養分多半會從小腸 直接流入肝</span><span class="sp" hidden>食物的养分多半会从小肠 直接流入肝</span></div>
-<div class="e">Most of our meals nutrients will flow directly to the liver, the</div>
+<div class="z"><span class="tr">食物的養分多半會從小腸直接流入肝</span><span class="sp" hidden>食物的养分多半会从小肠直接流入肝</span></div>
 </div>
 <div class="sub">
 <div class="ts">45:09–45:12</div>
 <div class="z"><span class="tr">人體最大的內部器官</span><span class="sp" hidden>人体最大的内部器官</span></div>
-<div class="e">body&#x27;s largest internal organ.</div>
+<div class="e">Most of our meals nutrients will flow directly to the liver, the body&#x27;s largest internal organ.</div>
 </div>
 <div class="sub">
 <div class="ts">45:15–45:16</div>
-<div class="z"><span class="tr">肝會分解養分 然後加以重新包裝</span><span class="sp" hidden>肝会分解养分 然后加以重新包装</span></div>
-<div class="e">The liver breaks down, repackages and delivers nutrients to our</div>
+<div class="z"><span class="tr">肝會分解養分然後加以重新包裝</span><span class="sp" hidden>肝会分解养分然后加以重新包装</span></div>
 </div>
 <div class="sub">
 <div class="ts">45:16–45:20</div>
-<div class="z"><span class="tr">再把養分輸送到細胞 作為細胞生長和活動的能量</span><span class="sp" hidden>再把养分输送到细胞 作为细胞生长和活动的能量</span></div>
-<div class="e">cells for growth and power.</div>
+<div class="z"><span class="tr">再把養分輸送到細胞作為細胞生長和活動的能量</span><span class="sp" hidden>再把养分输送到细胞作为细胞生长和活动的能量</span></div>
+<div class="e">The liver breaks down, repackages and delivers nutrients to our cells for growth and power.</div>
 </div>
 <div class="sub">
 <div class="ts">45:23–45:24</div>
-<div class="z"><span class="tr">我們的身體最後會嘗試平衡 攝取到的能量</span><span class="sp" hidden>我们的身体最后会尝试平衡 摄取到的能量</span></div>
-<div class="e">Our bodies ultimately try to balance energy intake. But sometimes more goes in than out. The result? Fat. This is how fat looks on the</div>
+<div class="z"><span class="tr">我們的身體最後會嘗試平衡攝取到的能量</span><span class="sp" hidden>我们的身体最后会尝试平衡摄取到的能量</span></div>
 </div>
 <div class="sub">
 <div class="ts">45:37–45:41</div>
 <div class="z"><span class="tr">這是脂肪在體內的模樣</span><span class="sp" hidden>这是脂肪在体内的模样</span></div>
-<div class="e">inside and on the outside.</div>
+<div class="e">Our bodies ultimately try to balance energy intake. But sometimes more goes in than out. The result? Fat. This is how fat looks on the inside and on the outside.</div>
 </div>
 <div class="sub">
 <div class="ts">45:45–45:45</div>
 <div class="z"><span class="tr">就能使人發胖</span><span class="sp" hidden>就能使人发胖</span></div>
-<div class="e">It doesn&#x27;t take a lot of excess</div>
 </div>
 <div class="sub">
 <div class="ts">45:49–45:51</div>
 <div class="z"><span class="tr">只要每天多吃15卡路里</span><span class="sp" hidden>只要每天多吃15卡路里</span></div>
-<div class="e">calories to make you gain weight. Just 15 more a day than you need, about the amount</div>
 </div>
 <div class="sub">
 <div class="ts">45:51–45:53</div>
-<div class="z"><span class="tr">相當於4顆開心果的熱量</span><span class="sp" hidden>相当于4颗开心果的热量</span></div>
+<div class="z"><span class="tr">大約相當於4顆開心果的熱量</span><span class="sp" hidden>大约相当于4颗开心果的热量</span></div>
+<div class="e">It doesn&#x27;t take a lot of excess calories to make you gain weight. Just 15 more a day than you need, about the amount in four pistachio nuts,</div>
 </div>
 <div class="sub">
 <div class="ts">45:54–45:57</div>
-<div class="z"><span class="tr">一年下來 就會增加1磅半的脂肪</span><span class="sp" hidden>一年下来 就会增加1磅半的脂肪</span></div>
-<div class="e">in four pistachio nuts, will add a pound and a half of fat over a year.</div>
+<div class="z"><span class="tr">一年下來就會增加1磅半的脂肪</span><span class="sp" hidden>一年下来就会增加1磅半的脂肪</span></div>
+<div class="e">will add a pound and a half of fat over a year.</div>
 </div>
 <div class="sub">
 <div class="ts">46:00–46:03</div>
-<div class="z"><span class="tr">小腸一旦吸收了 所有值得消化的東西</span><span class="sp" hidden>小肠一旦吸收了 所有值得消化的东西</span></div>
-<div class="e">Once the small intestine has taken in everything worth ingesting, the rest is pushed along to the large intestine.</div>
+<div class="z"><span class="tr">小腸一旦吸收了所有值得消化的東西</span><span class="sp" hidden>小肠一旦吸收了所有值得消化的东西</span></div>
 </div>
 <div class="sub">
 <div class="ts">46:04–46:07</div>
 <div class="z"><span class="tr">剩下來的會被推入大腸</span><span class="sp" hidden>剩下来的会被推入大肠</span></div>
+<div class="e">Once the small intestine has taken in everything worth ingesting, the rest is pushed along to the large intestine.</div>
 </div>
 <div class="sub">
 <div class="ts">46:11–46:12</div>
 <div class="z"><span class="tr">在接下來的20個小時左右</span><span class="sp" hidden>在接下来的20个小时左右</span></div>
-<div class="e">Another 20 hours or so, the last of the water is absorbed, and billions of bacteria work</div>
 </div>
 <div class="sub">
 <div class="ts">46:12–46:14</div>
@@ -2767,11 +2689,11 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="sub">
 <div class="ts">46:15–46:19</div>
 <div class="z"><span class="tr">數十億細菌會分解剩餘的東西</span><span class="sp" hidden>数十亿细菌会分解剩余的东西</span></div>
-<div class="e">to break down the remaining contents.</div>
+<div class="e">Another 20 hours or so, the last of the water is absorbed, and billions of bacteria work to break down the remaining contents.</div>
 </div>
 <div class="sub">
 <div class="ts">46:21–46:23</div>
-<div class="z"><span class="tr">最後所有我們無法消化的東西 會被排出..</span><span class="sp" hidden>最后所有我们无法消化的东西 会被排出..</span></div>
+<div class="z"><span class="tr">最後所有我們無法消化的東西會被排出..</span><span class="sp" hidden>最后所有我们无法消化的东西会被排出..</span></div>
 <div class="e">Anything we can&#x27;t digest gets flushed out of our bodies.</div>
 </div>
 <div class="sub">
@@ -2781,57 +2703,50 @@ h2{font-size:21px;margin:38px 0 4px;padding-top:14px;border-top:1px solid var(--
 <div class="sub">
 <div class="ts">46:34–46:38</div>
 <div class="z"><span class="tr">食物的複雜旅程有個重要目的</span><span class="sp" hidden>食物的复杂旅程有个重要目的</span></div>
-<div class="e">The food&#x27;s complicated journey has a larger purpose.</div>
 </div>
 <div class="sub">
 <div class="ts">46:38–46:41</div>
-<div class="z"><span class="tr">一旦萃取出 奇妙機器所需的燃料</span><span class="sp" hidden>一旦萃取出 奇妙机器所需的燃料</span></div>
-<div class="e">Once we&#x27;ve extracted what we need to feed the incredible machine and got our cellular engines humming,</div>
+<div class="z"><span class="tr">一旦萃取出奇妙機器所需的燃料</span><span class="sp" hidden>一旦萃取出奇妙机器所需的燃料</span></div>
 </div>
 <div class="sub">
 <div class="ts">46:42–46:46</div>
 <div class="z"><span class="tr">促使我們的細胞引擎運轉</span><span class="sp" hidden>促使我们的细胞引擎运转</span></div>
-<div class="e">it&#x27;s nothing short of astounding what we can do with them,</div>
+<div class="e">The food&#x27;s complicated journey has a larger purpose. Once we&#x27;ve extracted what we need to feed the incredible machine and got our cellular engines humming,</div>
 </div>
 <div class="sub">
 <div class="ts">46:46–46:47</div>
-<div class="z"><span class="tr">我們運用熱量的方法 著實讓人驚奇</span><span class="sp" hidden>我们运用热量的方法 著实让人惊奇</span></div>
+<div class="z"><span class="tr">我們運用熱量的方法著實讓人驚奇</span><span class="sp" hidden>我们运用热量的方法著实让人惊奇</span></div>
 </div>
 <div class="sub">
 <div class="ts">46:48–46:48</div>
-<div class="z"><span class="tr">這全多虧了叫做肌肉的 奇妙機械裝置</span><span class="sp" hidden>这全多亏了叫做肌肉的 奇妙机械装置</span></div>
-<div class="e">thanks to amazing contraptions called muscle.</div>
+<div class="z"><span class="tr">這全多虧了叫做肌肉的奇妙機械裝置</span><span class="sp" hidden>这全多亏了叫做肌肉的奇妙机械装置</span></div>
+<div class="e">it&#x27;s nothing short of astounding what we can do with them, thanks to amazing contraptions called muscle.</div>
 </div>
 <h2 id="s23">23. 人體概論 · 第5段</h2>
 <div class="meta">46:57–47:14</div>
 <div class="sub">
 <div class="ts">46:57–46:57</div>
-<div class="z"><span class="tr">ARTHURF.BINKOWSKI</span><span class="sp" hidden>ARTHURF.BINKOWSKI</span></div>
+<div class="z"><span class="tr">ARTHUR F. BINKOWSKI</span><span class="sp" hidden>ARTHUR F. BINKOWSKI</span></div>
 </div>
 <div class="sub">
 <div class="ts">46:58–46:58</div>
-<div class="z"><span class="tr">ANDRESWILLIAIAS</span><span class="sp" hidden>ANDRESWILLIAIAS</span></div>
+<div class="z"><span class="tr">ANDRES WILLIAIAS</span><span class="sp" hidden>ANDRES WILLIAIAS</span></div>
 </div>
 <div class="sub">
 <div class="ts">46:58–46:59</div>
-<div class="z"><span class="tr">MUSIEMIAPRILSBYSACROSMITH</span><span class="sp" hidden>MUSIEMIAPRILSBYSACROSMITH</span></div>
-</div>
-<div class="sub">
-<div class="ts">46:59–46:59　≈</div>
-<div class="z"><span class="tr">MUSICELRICSEYAERPOSMITH</span><span class="sp" hidden>MUSICELRICSEYAERPOSMITH</span></div>
+<div class="z"><span class="tr">MUSIC BY AEROSMITH</span><span class="sp" hidden>MUSIC BY AEROSMITH</span></div>
 </div>
 <div class="sub">
 <div class="ts">46:59–47:06</div>
-<div class="z"><span class="tr">DR.ARTHURW.TOGAANDTHELABORATORYOF</span><span class="sp" hidden>DR.ARTHURW.TOGAANDTHELABORATORYOF</span></div>
-<div class="e">Next, the other booker.</div>
+<div class="z"><span class="tr">DR. ARTHUR W. TOGA AND THE LABORATORY OF</span><span class="sp" hidden>DR. ARTHUR W. TOGA AND THE LABORATORY OF</span></div>
 </div>
 <div class="sub">
-<div class="ts">47:09–47:10　≈</div>
-<div class="z"><span class="tr">MARYANNECUIPEPE</span><span class="sp" hidden>MARYANNECUIPEPE</span></div>
+<div class="ts">47:09–47:10</div>
+<div class="z"><span class="tr">MARY ANNE CUIPEPE</span><span class="sp" hidden>MARY ANNE CUIPEPE</span></div>
 </div>
 <div class="sub">
 <div class="ts">47:10–47:14</div>
-<div class="z"><span class="tr">JOHNB.FORD</span><span class="sp" hidden>JOHNB.FORD</span></div>
+<div class="z"><span class="tr">JOHN B. FORD</span><span class="sp" hidden>JOHN B. FORD</span></div>
 </div>
 </div><script>
 const q=document.getElementById('q'),rows=[...document.querySelectorAll('.sub')],
