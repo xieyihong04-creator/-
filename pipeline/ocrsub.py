@@ -76,15 +76,3 @@ def find_rows(y, x0=20, x1=620, y0=300, y1=478, thr=170, min_px=10, min_h=11):
         if out and r[0] - out[-1][1] < 4: out[-1] = (out[-1][0], r[1])
         else: out.append(r)
     return [(a, b) for a, b in out if 12 <= b - a <= 60]
-
-def line_boxes(y, ra, rb, x0=20, x1=620, thr=170):
-    """Split a row band into left/right text segments (for 2-column or wide subs)."""
-    m=(y[ra:rb, x0:x1]>thr).sum(0)
-    cols=np.where(m>0)[0]
-    if len(cols)==0: return []
-    segs=[]; s=cols[0]; p=cols[0]
-    for c in cols[1:]:
-        if c-p>25: segs.append((s,p)); s=c
-        p=c
-    segs.append((s,p))
-    return [(x0+a-2, x0+b+3) for a,b in segs if b-a>10]
